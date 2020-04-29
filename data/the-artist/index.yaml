@@ -13,7 +13,7 @@
 
 - type: text
   title: Tracing Paper
-  text: text-tracing-paper-2.md
+  text: text-tracing-paper-part-2.md
 
 - type: image
   url: warrior/images/graphite-paper.jpg
@@ -45,7 +45,7 @@
 - type: image
   url: warrior/images/projector-phone.jpg
   title: Digital Projector
-  text: image-digital-projector-2.md
+  text: image-digital-projector-part-2.md
 
 - type: image
   url: warrior/images/mona1.jpg
