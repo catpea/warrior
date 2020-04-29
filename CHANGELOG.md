@@ -1,4 +1,5 @@
-# List Of Major Changes
+# CHANGELOG
+List Of Major Changes
 
 - April 24th 2020, 10:00:51 pm
 Created a new chapter [The Mine Explorer] I moved a couple of videos from [The Explorer] into it.

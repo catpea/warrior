@@ -1,7 +1,7 @@
 # warrior
 A Book About Growing Up
 
-[Browse Book](./database/)
+<!-- [Browse Book](./database/) -->
 
 ## Usage
 
