@@ -1,0 +1,43 @@
+- type: image
+  url: warrior/images/galahad.jpg
+  title: Sir Galahad
+  text: image-sir-galahad.md
+
+- type: poem
+  title: Sir Galahad
+  author: Alfred Lord Tennyson
+  text: poem-sir-galahad-2.md
+
+- type: text
+  title: Men of Pure Heart
+  text: text-men-of-pure-heart.md
+
+- type: poem
+  title: Knight's Oath
+  text: poem-knights-oath.md
+
+- type: image
+  url: warrior/images/valkyries.jpg
+  title: Authenticity
+  text: image-authenticity.md
+
+- type: quote
+  author: Walter Scott
+  text: quote-walter-scott.md
+
+- type: image
+  url: warrior/images/god-speed.jpg
+  title: Pursuits of Excellence
+  text: image-pursuits-of-excellence.md
+
+- type: youtube
+  video: RBsY88Lir-A
+  title: King Arthur's Origins
+
+- type: youtube
+  video: mZeqgjC6gtE
+  title: Swordplay and the Lost Art of Knighthood
+
+- type: text
+  title: Above the Common Levels
+  text: text-above-the-common-levels.md

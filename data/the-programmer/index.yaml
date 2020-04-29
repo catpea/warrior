@@ -1,0 +1,76 @@
+- type: quote
+  author: Albert Einstein
+  url: 'https://en.wikipedia.org/wiki/Albert_Einstein'
+  text: quote-albert-einstein.md
+
+- type: youtube
+  video: PUv66718DII
+  title: Bret Victor - Inventing on Principle
+
+- type: youtube
+  video: '-jRREn6ifEQ'
+  title: 'The poetry of programming (teaching children about computers): Linda Liukas'
+
+- type: youtube
+  video: ghqSw40pC5s
+  title: Changing the world with code by Emma Yang
+
+- type: youtube
+  video: Bwiln7v0fdc
+  title: 'Karlie Kloss: Coding is a superpower'
+
+- type: youtube
+  video: m2Ux2PnJe6E
+  title: 'Making a Game: Bill Gates explains If statements.'
+
+- type: youtube
+  video: vYXQTrYPenQ
+  title: Bill Gates remembers his early programming career
+
+- type: youtube
+  video: 6V6Gir1Dyfs
+  title: 1991 Interview with Bill Gates
+
+- type: youtube
+  video: g4a7_HH9Wbg
+  title: What do programmers actually do?
+
+- type: youtube
+  video: kXpWLv2o7hs
+  title: How I Learned to Code - and Got a Job at Airbnb!
+
+- type: youtube
+  video: LCls16Tv8UE
+  title: Learn to Code in 6 months
+
+- type: youtube
+  video: PkZNo7MFNFg
+  title: Learn JavaScript - Full Course for Beginners
+
+- type: youtube
+  video: RLtyhwFtXQA
+  title: Learn Node.js - Full Tutorial for Beginners
+
+- type: youtube
+  video: 0o2whtCJw8I
+  title: Amy Palamountain on Backbone and Marionette
+
+- type: text
+  title: JavaScript
+  text: text-java-script.md
+
+- type: youtube
+  video: vhGiGqZ78Rs
+  title: Svelte Tutorial
+
+- type: text
+  title: Svelte
+  text: text-svelte.md
+
+- type: youtube
+  video: 7vhvnaWUZjE
+  title: Arduino vs. Raspberry Pi - Which is best?
+
+- type: youtube
+  video: nL34zDTPkcs
+  title: You can learn Arduino in 15 minutes.

@@ -1,0 +1,47 @@
+- type: quote
+  author: Edmund Burke
+  text: quote-edmund-burke.md
+
+- type: image
+  url: warrior/images/gentleman.jpg
+  title: The Lady and The Gentleman
+
+- type: text
+  title: Inside Out
+  text: text-inside-out.md
+
+- type: image
+  url: warrior/images/doubt.jpg
+  title: Doubt
+
+- type: text
+  title: Authenticity
+  text: text-authenticity.md
+
+- type: youtube
+  video: oRG2jlQWCsY
+  title: Your Move Chief
+
+- type: text
+  title: Forbearance and Largesse
+  text: text-forbearance-and-largesse.md
+
+- type: youtube
+  video: VLAM6YxV_gA
+  title: Why Chivalry Still has a Chance by Anthony Rudolf
+
+- type: text
+  title: Definition
+  text: text-definition.md
+
+- type: image
+  url: warrior/images/wanderer.jpg
+  title: A Wanderer Ennobled By His Deeds
+
+- type: text
+  title: Choices
+  text: text-choices.md
+
+- type: text
+  title: Speed Thou Slowly
+  text: text-speed-thou-slowly.md

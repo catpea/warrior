@@ -1,0 +1,3 @@
+[Tomoe][1] (c. 1157 - 1247) was especially beautiful, with white skin, long hair, and charming features. She was also a remarkably strong archer, and as a swordswoman she was a warrior worth a thousand, ready to confront a demon or a god, mounted or on foot. She handled unbroken horses with superb skill; she rode unscathed down perilous descents. Whenever a battle was imminent, Yoshinaka sent her out as his first captain, equipped with strong armor, an oversized sword, and a mighty bow; and she performed more deeds of valor than any of his other warriors.
+
+[1]: https://en.wikipedia.org/wiki/Tomoe_Gozen

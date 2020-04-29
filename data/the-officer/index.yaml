@@ -1,0 +1,28 @@
+- type: image
+  url: warrior/images/honor-code.jpg
+  title: Cadet Honor Code
+
+- type: poem
+  title: We The Warriors
+  text: poem-we-the-warriors.md
+
+- type: text
+  title: Modern Day
+  text: text-modern-day.md
+
+- type: youtube
+  video: 85dhw7nulb4
+  title: West Point Pillow Fight Turns Violent
+
+- type: text
+  title: Modern Day
+  text: text-modern-day-2.md
+
+- type: youtube
+  video: EEFMVIfl2UY
+  title: 'IF, Rudyard Kipling''s poem, recited by Sir Michael Caine'
+
+- type: poem
+  title: IF
+  author: Rudyard Kipling
+  text: poem-if.md

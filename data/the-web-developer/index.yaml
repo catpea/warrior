@@ -1,0 +1,35 @@
+- type: youtube
+  video: ASbijZRU2Uo
+  title: How I Became a Web Developer in 3 Months
+
+- type: youtube
+  video: 6NzNs8FAudQ
+  title: 'Passion, Programming, and Pragmatism by Marcella Jewell'
+
+- type: text
+  title: Great Battle
+  text: text-great-battle.md
+
+- type: text
+  title: What to Avoid
+  text: text-what-to-avoid.md
+
+- type: text
+  title: What to Avoid
+  text: text-what-to-avoid-2.md
+
+- type: text
+  title: The Challenge
+  text: text-the-challenge.md
+
+- type: youtube
+  video: uj0kReMs-gc
+  title: A Software Developer's Secret to Life by Julia Menchavez
+
+- type: text
+  title: Services Platform
+  text: text-services-platform.md
+
+- type: text
+  title: Become a CEO
+  text: text-become-a-ceo.md

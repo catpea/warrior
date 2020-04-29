@@ -1,0 +1,113 @@
+- type: youtube
+  video: W76o_iG7Y7g
+  title: Kids hack their Dad's computer on her Raspberry Pi
+
+- type: text
+  title: Raspberry Pi
+  text: text-raspberry-pi.md
+
+- type: youtube
+  video: sajBySPeYH0
+  title: Raspberry Pi 4
+
+- type: youtube
+  video: 88WOo4DIElY
+  title: What's inside the Raspberry Pi 4 Desktop Kit?
+
+- type: image
+  url: warrior/images/portable-monitor.jpg
+  title: Portable Monitor
+
+- type: text
+  title: Monitors
+  text: text-monitors.md
+
+- type: image
+  url: warrior/images/screen-projector.jpg
+  title: Screen Projector
+  text: image-screen-projector.md
+
+- type: text
+  title: Heist
+  text: text-heist.md
+
+- type: text
+  title: Warning
+  text: text-warning.md
+
+- type: text
+  title: The Kill -9
+  text: text-the-kill-9.md
+
+- type: image
+  url: warrior/images/aybabtu.png
+  title: All Your Base Are Belong To Us
+  text: image-all-your-base-are-belong-to-us.md
+
+- type: text
+  title: Jargon File
+  text: text-jargon-file.md
+
+- type: image
+  url: warrior/images/glider.png
+  title: The Glider
+
+- type: text
+  title: Hacker Logo
+  text: text-hacker-logo.md
+
+- type: image
+  url: warrior/images/gliders2.gif
+  title: A look at a glider
+
+- type: text
+  title: Gliders
+  text: text-gliders.md
+
+- type: image
+  url: warrior/images/gliders.gif
+  title: Game of Life and the Gliders
+
+- type: text
+  title: Cellular Automaton
+  text: text-cellular-automaton.md
+
+- type: text
+  title: Stephen Wolfram
+  text: text-stephen-wolfram.md
+
+- type: youtube
+  video: 60P7717-XOQ
+  title: Computing a theory of everything
+
+- type: youtube
+  video: EF3oi9Ra7IU
+  title: Pentesting Android Applications
+
+- type: youtube
+  video: 3Kq1MIfTWCE
+  title: Network Penetration Testing for Beginners
+
+- type: text
+  title: White Hat Hackers
+  text: text-white-hat-hackers.md
+
+- type: youtube
+  video: ozIKwGt38LQ
+  title: Smarter Every Day on Vulnerabilities in Smart Devices
+
+- type: text
+  title: Lock Picking Lawyer
+  text: text-lock-picking-lawyer.md
+
+- type: youtube
+  video: lod_LUp3ggc
+  title: My Wife vs. Ben & Jerry’s Ice Cream Lock
+
+- type: youtube
+  video: Fah-LJJaPWg
+  title: Fortress Combination Padlock Decoded FAST and Bypassed
+
+- type: youtube
+  video: jeghGhVdt9s
+  title: Gallium vs. Titalium - Abus Padlock Meets a Gruesome End

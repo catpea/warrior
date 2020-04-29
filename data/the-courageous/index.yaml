@@ -1,0 +1,107 @@
+- type: image
+  url: warrior/images/courage-calls.jpg
+  title: Dame Millicent Garrett Fawcett
+  text: image-dame-millicent-garrett-fawcett.md
+
+- type: text
+  title: 'The road between the past and the future is long, but it continues unbroken.'
+  text: text-the-road-between-the-past-and-the-future-is-long-but-it-continues-unbroken.md
+
+- type: text
+  title: Because The Battle Is Not For You
+  text: text-because-the-battle-is-not-for-you.md
+
+- type: youtube
+  video: TMrtLsQbaok
+  title: How dare you? You have stolen my dreams and my childhood.
+
+- type: text
+  title: Bad News
+  text: text-bad-news.md
+
+- type: quote
+  author: Henry David Thoreau
+  url: 'https://en.wikipedia.org/wiki/Henry_David_Thoreau'
+  text: quote-henry-david-thoreau.md
+
+- type: text
+  title: The Good News
+  text: text-the-good-news.md
+
+- type: youtube
+  video: TLs4MGTTXRU
+  title: Faith of the Heart
+
+- type: text
+  title: 'Article One: Inherent Dignity, Nobility.'
+  text: text-article-one-inherent-dignity-nobility.md
+
+- type: image
+  url: warrior/images/mountain.jpg
+  title: Self Education starts With Life Changing Books
+  text: image-self-education-starts-with-life-changing-books.md
+
+- type: image
+  url: warrior/images/short-history.jpg
+  title: A Short History of Nearly Everything
+  text: image-a-short-history-of-nearly-everything.md
+
+- type: image
+  url: warrior/images/demon.jpg
+  title: 'The Demon-Haunted World: Science as a Candle in the Dark'
+  text: image-the-demon-haunted-world-science-as-a-candle-in-the-dark.md
+
+- type: image
+  url: warrior/images/black-hole.jpg
+  title: 'Death by Black Hole: And Other Cosmic Quandaries'
+  text: image-death-by-black-hole-and-other-cosmic-quandaries.md
+
+- type: image
+  url: warrior/images/whatif.jpg
+  title: 'What If?: Serious Scientific Answers to Absurd Hypothetical Questions'
+  text: image-what-if-serious-scientific-answers-to-absurd-hypothetical-questions.md
+
+- type: image
+  url: warrior/images/superheroes.jpg
+  title: The Physics of Superheroes
+  text: image-the-physics-of-superheroes.md
+
+- type: text
+  title: Mind Mapping
+  text: text-mind-mapping.md
+
+- type: youtube
+  video: 5nTuScU70As
+  title: Want to learn better? Start mind mapping
+
+- type: youtube
+  video: u5Y4pIsXTV0
+  title: How to Mind Map
+
+- type: youtube
+  video: 9Pzz6rDMd8c
+  title: Mind Map vs Concept Map
+
+- type: youtube
+  video: 22YeW55POBs
+  title: Concept Mapping with Cmap
+
+- type: youtube
+  video: o2Js_9-ek7o
+  title: Concept Maps 1
+
+- type: youtube
+  video: TXU9UKajpVM
+  title: Concept Maps 2
+
+- type: text
+  title: Behavior-Driven Development (BDD)
+  text: text-behavior-driven-development-bdd.md
+
+- type: youtube
+  video: VS6EEUVZGLE
+  title: What is Behavior Driven Development?
+
+- type: text
+  title: Learning Online and Tool Examples
+  text: text-learning-online-and-tool-examples.md

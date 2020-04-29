@@ -1,0 +1,1 @@
+Danish explorer Peter Freuchen and his wife, Dagmar Cohn (1947)

@@ -1,0 +1,95 @@
+- type: text
+  title: User Interface
+  text: text-user-interface.md
+
+- type: youtube
+  video: tc4ROCJYbm0
+  title: The UNIX Operating System
+
+- type: youtube
+  video: jowCUo_UGts
+  title: Unix vs Linux
+
+- type: youtube
+  video: o8NPllzkFhE
+  title: 'The mind behind Linux: Linus Torvalds'
+
+- type: text
+  title: UI is not OS
+  text: text-ui-is-not-os.md
+
+- type: image
+  url: warrior/images/commodore.gif
+  title: Commodore 64
+  text: image-commodore-64.md
+
+- type: youtube
+  video: h3bDa5z_B1M
+  title: Commodore 64 - Introduction to Programming - Level 1
+
+- type: image
+  url: warrior/images/geos.gif
+  title: Commodore 64 GEOS
+  text: image-commodore-64-geos.md
+
+- type: image
+  url: warrior/images/msdos.jpg
+  title: MS-DOS
+  text: image-ms-dos.md
+
+- type: image
+  url: warrior/images/win1.png
+  title: Windows
+  text: image-windows.md
+
+- type: youtube
+  video: ncCSmDAmcQY
+  title: Visual The History of GUI
+
+- type: youtube
+  video: U1Oy4X5Ni8Y
+  title: The history of the graphic user interface
+
+- type: image
+  url: warrior/images/aui.jpg
+  title: Android's Linux
+  text: image-androids-linux.md
+
+- type: image
+  url: warrior/images/librem5.jpg
+  title: 'Librem 5: Kings Cross Terminal'
+  text: image-librem-5-kings-cross-terminal.md
+
+- type: youtube
+  video: s0nKGFOWgFA
+  title: 'Librem5: Kings Cross'
+
+- type: text
+  title: Finding Your Command Line
+  text: text-finding-your-command-line.md
+
+- type: youtube
+  video: uE9WgNr3OjM
+  title: How to Open Windows Command Prompt in Windows 10
+
+- type: youtube
+  video: 5XgBd6rjuDQ
+  title: How to run/use the Command Line on Mac
+
+- type: image
+  url: warrior/images/pi.jpg
+  title: Get the $55 Raspberry PI 4
+  text: image-get-the-55-raspberry-pi-4.md
+
+- type: youtube
+  video: UW3UxK4Tiqg
+  title: Raspberry Pi - Getting Started with Terminal
+
+- type: youtube
+  video: JoVQTPbD6UY
+  title: Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)
+
+- type: image
+  url: warrior/images/tr.jpg
+  title: Ken Thompson and Dennis Ritchie
+  text: image-ken-thompson-and-dennis-ritchie.md

@@ -1,0 +1,3 @@
+[Groundhog Day][1] is a popular tradition celebrated in Canada and the United States on February 2nd. It derives from the Pennsylvania Dutch superstition that if a groundhog emerging from its burrow on this day sees its shadow due to clear weather, it will retreat to its den and winter will persist for six more weeks, and if it does not see its shadow because of cloudiness, spring will arrive early.
+
+[1]: https://en.wikipedia.org/wiki/Groundhog_Day

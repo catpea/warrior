@@ -1,0 +1,48 @@
+- type: image
+  url: warrior/images/bears.jpg
+  title: The Bear Hunt
+  text: image-the-bear-hunt.md
+
+- type: text
+  title: Natural Born Athletes
+  text: text-natural-born-athletes.md
+
+- type: youtube
+  video: 826HMLoiE_o
+  title: 'Human Mammal, Human Hunter, Attenborough, Life of Mammals'
+
+- type: text
+  title: Protect Life
+  text: text-protect-life.md
+
+- type: youtube
+  video: 9FCsyK4aRXQ
+  title: 'Modern Warrior: Damien Mander'
+
+- type: text
+  title: Quo Vadis?
+  text: text-quo-vadis.md
+
+- type: text
+  title: One Family
+  text: text-one-family.md
+
+- type: youtube
+  video: PUwmA3Q0_OE
+  title: Human Population Across Time
+
+- type: text
+  title: Choose Life
+  text: text-choose-life.md
+
+- type: youtube
+  video: kWrPo02e4fo
+  title: The Sixth Extinction
+
+- type: youtube
+  video: 9XzAgMe0WrI
+  title: 'Elizabeth Kolbert: How the 6th extinction threatens humans'
+
+- type: text
+  title: Elizabeth Kolbert
+  text: text-elizabeth-kolbert.md

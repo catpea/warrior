@@ -1,0 +1,30 @@
+- type: quote
+  author: Sun Tzu
+  url: 'https://en.wikipedia.org/wiki/Sun_Tzu'
+  text: quote-sun-tzu.md
+
+- type: youtube
+  video: GEPhLqwKo6g
+  title: Think Different
+
+- type: youtube
+  video: LlC2OdnhIiQ
+  title: Viktor Frankl
+
+- type: quote
+  author: Viktor E. Frankl
+  url: 'https://en.wikipedia.org/wiki/Viktor_Frankl'
+  text: quote-viktor-e-frankl.md
+
+- type: text
+  title: Choose Life
+  text: text-choose-life.md
+
+- type: youtube
+  video: FyNR_LgiWEc
+  title: Kosmos
+
+- type: poem
+  title: Kosmos
+  author: Walt Whitman
+  text: poem-kosmos.md

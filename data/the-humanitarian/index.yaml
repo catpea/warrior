@@ -1,0 +1,105 @@
+- type: youtube
+  video: kxR8XZOeV-s
+  title: Peace Corps
+
+- type: text
+  title: Live Deliberately
+  text: text-live-deliberately.md
+
+- type: youtube
+  video: ONiWmzrmfuY
+  title: Murray Gell-Mann On Emergence
+
+- type: text
+  title: Growing Up
+  text: text-growing-up.md
+
+- type: youtube
+  video: hTlrSYbCbHE
+  title: Universal Declaration of Human Rights
+
+- type: youtube
+  video: 5RR4VXNX3jA
+  title: Universal Declaration of Human Rights
+
+- type: text
+  title: New Voices
+  text: text-new-voices.md
+
+- type: youtube
+  video: z2tmRpm4iK8
+  title: Mad world - the voice of china
+
+- type: text
+  title: Never Silenced
+  text: text-never-silenced.md
+
+- type: youtube
+  video: SQ6H-Mz6hgw
+  title: Michelle Alexander
+
+- type: quote
+  author: Michelle Alexander
+  text: quote-michelle-alexander.md
+
+- type: text
+  title: Michelle Alexander
+  text: text-michelle-alexander-2.md
+
+- type: youtube
+  video: c2tOp7OxyQ8
+  title: 'Bryan Stevenson: We need to talk about an injustice.'
+
+- type: quote
+  author: Bryan Stevenson
+  text: quote-bryan-stevenson.md
+
+- type: text
+  title: Bryan Stevenson
+  text: text-bryan-stevenson-2.md
+
+- type: youtube
+  video: 7O7BMa9XGXE
+  title: 'How America''s public schools keep kids in poverty: Kandice Sumner'
+
+- type: text
+  title: Kandice Sumner's Prevention
+  text: text-kandice-sumners-prevention.md
+
+- type: text
+  title: Heroes Lost
+  text: text-heroes-lost.md
+
+- type: youtube
+  video: d-7o9xYp7eE
+  title: Don't Talk to the Police
+
+- type: text
+  title: The Walkouts
+  text: text-the-walkouts.md
+
+- type: text
+  title: Poverty of Mind
+  text: text-poverty-of-mind.md
+
+- type: youtube
+  video: lnuoHywbaR8
+  title: How I spent 32 years in prison by George Martorano
+
+- type: text
+  title: The Challenge
+  text: text-the-challenge.md
+
+- type: image
+  url: warrior/images/the-runaway.jpg
+  title: The Hero and The Runaway
+  text: image-the-hero-and-the-runaway.md
+
+- type: text
+  title: Heroism
+  text: text-heroism.md
+
+- type: image
+  url: warrior/images/school.png
+  title: World Crisis
+  text: image-world-crisis.md

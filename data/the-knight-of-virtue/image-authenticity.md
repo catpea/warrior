@@ -1,0 +1,1 @@
+A code of conduct that aimed to revolve around Authenticity, was born.

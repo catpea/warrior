@@ -1,0 +1,143 @@
+- type: youtube
+  video: TysXX7ZCV7g
+  title: 'Great Philosopher Jean Paul Sartre, plays the piano.'
+
+- type: image
+  url: warrior/images/ableton.png
+  title: Important Music Tutorial
+  text: image-important-music-tutorial.md
+
+- type: image
+  url: warrior/images/stereo-master.jpg
+  title: The Masters of the Stereo
+  text: image-the-masters-of-the-stereo.md
+
+- type: youtube
+  video: i9MXYZh1jcs
+  title: 'Amiga Samplers : Budget dance music in 1990'
+
+- type: youtube
+  video: v89CjsSOJ_c
+  title: 'Amen, Break: The Most Sampled Loop in Music History'
+
+- type: youtube
+  video: H3TF-hI7zKc
+  title: How sampling transformed music by Mark Ronson
+
+- type: text
+  title: Art of Sampling
+  text: text-art-of-sampling.md
+
+- type: youtube
+  video: mVxLhy1v-xU
+  title: LoFi Synth-Hop
+
+- type: youtube
+  video: DdVOwNyomw4
+  title: RZA - Flying Birds / Sample Rich Track
+
+- type: youtube
+  video: g4tbuu9GTaw
+  title: RZA'a Samurai Showdown (Lofi Hiphop)
+
+- type: youtube
+  video: ztPvUrQb9Vw
+  title: Beatboxers
+
+- type: youtube
+  video: d8s8e8JdGCc
+  title: The Science of Dubstep by James Humberstone
+
+- type: youtube
+  video: q5yxIzs5Wug
+  title: How to translate the feeling into sound by Claudio
+
+- type: text
+  title: Become a Rockstar!
+  text: text-become-a-rockstar.md
+
+- type: text
+  title: LMMS
+  text: text-lmms.md
+
+- type: youtube
+  video: 5j8c2qlih0M
+  title: LMMS 1.2
+
+- type: youtube
+  video: 4dYxV3tqTUc
+  title: 'LMMS Tutorial 1: Piano Roll, Beat/Bass Line Editor'
+
+- type: youtube
+  video: Ow4fHTmd1mo
+  title: 'LMMS Tutorial 2: Sidebar'
+
+- type: youtube
+  video: 7lI8VgbocQg
+  title: 'LMMS Tutorial 3: TripleOscillator Basics'
+
+- type: youtube
+  video: rJDc8p18fsE
+  title: How to Sing Any Song - Modified Lyrics - Felicia Ricci
+
+- type: youtube
+  video: ZATunybJm_4
+  title: How To Sing Any Song - Voice Lessons - Ken Tamplin Vocal Academy
+
+- type: youtube
+  video: ytyLQ2Hl-H0
+  title: How To Sing With Your Own Voice - Roger Burnley Voice Studio - Singing Vocal Lesson
+
+- type: text
+  title: Anne Reburn
+  text: text-anne-reburn.md
+
+- type: youtube
+  video: zFnSCJ8h9c4
+  title: How Am I Feeling Today?
+
+- type: youtube
+  video: SdM5DQxfGM0
+  title: I'm A Believer
+
+- type: text
+  title: Studio Acapellas
+  text: text-studio-acapellas.md
+
+- type: youtube
+  video: f5TSlm79zc0
+  title: 'P!nk - Fuckin'' Perfect (Official Acapella) [EXPLICIT]'
+
+- type: youtube
+  video: oRoauAOgWuw
+  title: Mad World Gary Jules Real Official Acapella
+
+- type: text
+  title: Izzie Naylor
+  text: text-izzie-naylor.md
+
+- type: youtube
+  video: Z8ZShEgGt-4
+  title: 'Smile, Ukulele Cover by Izzie Naylor'
+
+- type: youtube
+  video: D1Nq086QB1Q
+  title: Gary Jules - Mad World (live)
+
+- type: text
+  title: Community Links
+  text: text-community-links.md
+
+- type: business
+  url: warrior/images/bandcamp.png
+  title: Bandcamp Music Sales
+  text: business-bandcamp-music-sales.md
+
+- type: business
+  url: warrior/images/splice.png
+  title: Splice Sample Sales
+  text: business-splice-sample-sales.md
+
+- type: text
+  title: How to Share
+  text: text-how-to-share.md

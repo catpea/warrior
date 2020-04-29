@@ -1,0 +1,88 @@
+- type: image
+  url: warrior/images/zeno-of-citium.jpg
+  title: Zeno of Citium
+  text: image-zeno-of-citium.md
+
+- type: image
+  url: warrior/images/marcus-aurelius.jpg
+  title: Marcus Aurelius
+  text: image-marcus-aurelius.md
+
+- type: image
+  url: warrior/images/tomoe-gozen.jpg
+  title: Tomoe Gozen
+  text: image-tomoe-gozen.md
+
+- type: text
+  title: Great Strength
+  text: text-great-strength.md
+
+- type: youtube
+  video: yDZZTmr_4d4
+  title: What Being a Warrior Really Means
+
+- type: quote
+  author: Nitobe Inazō
+  url: 'https://en.wikipedia.org/wiki/Nitobe_Inaz%C5%8D'
+  text: quote-nitobe-inazo.md
+
+- type: poem
+  title: Eight virtues of Bushido
+  text: poem-eight-virtues-of-bushido.md
+
+- type: text
+  title: Prevention
+  text: text-prevention.md
+
+- type: youtube
+  video: L7EmLf4Xlq0
+  title: 'Stanislav Petrov, who averted possible nuclear war'
+
+- type: youtube
+  video: xTFUqnY3E3Q
+  title: Stanislav Petrov Movie
+
+- type: youtube
+  video: 8TNdihbV5go
+  title: The Man Who Saved The World
+
+- type: text
+  title: 'Prevention, not War'
+  text: text-prevention-not-war.md
+
+- type: youtube
+  video: Xcjb1f1qbBA
+  title: Mad World Mountain Dew
+
+- type: image
+  url: warrior/images/lady.png
+  title: Hope
+  text: image-hope.md
+
+- type: text
+  title: Poverty
+  text: text-poverty.md
+
+- type: youtube
+  video: CpaFX6Ei0nU
+  title: My path out of poverty by Lashon Amado
+
+- type: text
+  title: Hope
+  text: text-hope-2.md
+
+- type: youtube
+  video: zk--XN4ozr8
+  title: Homie Industries
+
+- type: youtube
+  video: 0fkKnfk4k40
+  title: Kennedy Peace Speech
+
+- type: text
+  title: Prevention
+  text: text-prevention-2.md
+
+- type: text
+  title: We Need You
+  text: text-we-need-you.md

@@ -1,0 +1,1 @@
+Blender is a Free and Open Source Program with a large developer community.

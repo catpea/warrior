@@ -1,0 +1,1 @@
+They sell paper and digital posters, notebooks and calendars.

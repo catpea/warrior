@@ -1,0 +1,36 @@
+- type: text
+  title: Philosophy
+  text: text-philosophy.md
+
+- type: youtube
+  video: sa1iS1MqUy4
+  title: For the bullied and beautiful
+
+- type: poem
+  title: John Galt's Speech Excerpt
+  text: poem-john-galts-speech-excerpt.md
+
+- type: text
+  title: Ayn Rand
+  text: text-ayn-rand.md
+
+- type: youtube
+  video: 1ooKsv_SX4Y
+  title: Ayn Rand First Interview 1959 (Full)
+
+- type: poem
+  title: Desiderata
+  author: Max Ehrmann
+  text: poem-desiderata.md
+
+- type: text
+  title: Education and Creativity
+  text: text-education-and-creativity.md
+
+- type: youtube
+  video: iG9CE55wbtY
+  title: Do schools kill creativity?
+
+- type: text
+  title: 'He is not asking, he is teaching.'
+  text: text-he-is-not-asking-he-is-teaching.md
