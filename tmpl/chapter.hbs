@@ -11,6 +11,17 @@
   <body>
     <article>
 
+
+
+        <p style="text-align: right;">
+          <!-- {{#if previous}}<a href="{{previous.name}}.html">&laquo; {{previous.title}}</a> &middot;{{/if}}
+         -->
+          <a href="index.html">Table of Contents</a><br>
+          {{#if next}}<a href="{{next.name}}.html">{{next.title}}&nbsp;&raquo;</a>{{/if}}
+        </p>
+
+
+
       <section>
       <h1 id="tufte-css">{{title}}</h1>
       </section>
@@ -38,8 +49,10 @@
 
           {{#is this.type 'youtube'}}
             <h2>{{title}}</h2>
-            <figure class="iframe-wrapper">
-              <iframe width="853" height="480" src="https://www.youtube.com/embed/{{video}}" frameborder="0" allowfullscreen></iframe>
+            <figure>
+              <a href="https://www.youtube.com/watch?v={{video}}" title="{{title}}">
+                <img src="images/youtube-{{video}}.jpg" alt="{{title}}" style="width: 100%; height: auto;">
+              </a>
             </figure>
           {{/is}}
 
@@ -56,10 +69,10 @@
           {{/is}}
 
           {{#is this.type 'image'}}
+          <h2>{{title}}</h2>
             <figure>
-              <img src="images/{{url}}" alt="{{title}}">
+              <img src="images/{{url}}" alt="{{title}}" style="width: 100%; height: auto;">
             </figure>
-            <h2>{{title}}</h2>
             {{{text}}}
           {{/is}}
 
@@ -77,7 +90,7 @@
           {{#is this.type 'business'}}
             <h2>Business Practice: {{title}}</h2>
             <figure>
-              <img src="images/{{url}}" alt="{{title}}">
+              <img src="images/{{url}}" alt="{{title}}" style="width: 100%; height: auto;">
             </figure>
             {{{text}}}
           {{/is}}
@@ -87,12 +100,12 @@
 
       <section>
         <p>
-          {{#if previous}}<a href="{{previous.name}}.html">&laquo; {{previous.title}}</a> &middot;{{/if}}
+          {{#if previous}}<a href="{{previous.name}}.html">&laquo;&nbsp;{{previous.title}}</a>&nbsp;&middot;{{/if}}
           <a href="index.html">Table of Contents</a>
         </p>
 
-        <p>
-          {{#if next}}<a href="{{next.name}}.html" class="lg">{{next.title}} &raquo;</a>{{/if}}
+        <p style="padding: 3rem 0;">
+          {{#if next}}<a href="{{next.name}}.html" class="lg">{{next.title}}&nbsp;&raquo;</a>{{/if}}
         </p>
 
     </section>

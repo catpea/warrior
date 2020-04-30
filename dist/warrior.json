@@ -1,5 +1,20 @@
 [
   {
+    "title": "Foreword",
+    "name": "foreword",
+    "data": [
+      {
+        "type": "text",
+        "title": "A Warrior is She that thrives and triumphs where’er She be",
+        "text": "<p><br><br></p>\n<p>A Warrior is She that thrives and triumphs where’er She be.</p>\n<p>You cannot be broken, you must use your misfortune to light your way.</p>\n<p><br><br></p>\n<p>You can learn anything you want, there are no smarter.</p>\n<p>They are just actors, with a handful of fragile lessons, crafted to impress.</p>\n<p><br><br></p>\n<p>There is nothing that can break you, there are no stronger.</p>\n<p>Look to the source of the pain, it comes from Innocence.</p>\n<p><br><br></p>\n<p>Nothing rooted in Innocence is ugly, all lessons that come from being tricked,</p>\n<p>add up to make you more beautiful, enable your insight and foresight, and fuel your authenticity.</p>\n<p><br><br></p>\n<p>When the regrets come at night, that&#39;s just you brain asking you,</p>\n<p>to think harder, to comprehend your beauty in full,</p>\n<p><br><br></p>\n<p>No one can trick you, not for long enough. So, don&#39;t be scared.</p>\n<p>Memoirs, Audio-books, Lectures will show you how many better people there are.</p>\n<p><br><br></p>\n<p>We all have to Enlarge our Worlds daily.</p>\n<p>Audiobooks, and Lectures, will show you that all you have met thus far were just the same type of person.</p>\n<p><br><br></p>\n<p>Do not be afraid to rise.</p>\n<p>The people, or person you have long though about, exist.</p>\n<p>But before they can see you, you have to rise, and shine, and be seen.</p>\n<p><br><br></p>\n<p>Don&#39;t be scared.</p>\n<p><br><br></p>\n<p>Those who will use your Love, Innocence, Endurance and Generosity against you,</p>\n<p>have long been lost, they are blinded, and fractured, and damaged, and broken.</p>\n<p><br><br></p>\n<p>They hold no power over you.</p>\n<p><br><br></p>\n<p>If their attacks continue they will grind themselves to dust,</p>\n<p>and all the experiences that will be left in their wake, will make you stronger and better.</p>\n<p><br><br></p>\n<p>Battles make you stronger, smarter, more beautiful.</p>\n<p>You are a Warrior, that&#39;s the oldest name for it.</p>\n<p><br><br></p>\n<p>A Warrior is She that uses the harm that came her way as energy,</p>\n<p>who understands none can stay a child and all must grow, and enlarge their worlds.</p>\n<p><br><br></p>\n<p>A Warrior can never be damaged, or hurt -- a Warrior Learns.</p>\n<p>A Warrior resists tears in the rain, just like she can resist weakness.</p>\n<p><br><br></p>\n<p>We live in a fragile world, full of fragile people, with fragile egos,</p>\n<p>they speak fragile advice, with fragile words; from their fragile hills.</p>\n<p><br><br></p>\n<p>A Warrior does not wait to be taught.</p>\n<p>A Warrior learns fastest on her own.</p>\n<p><br><br></p>\n<p>Learn in the sequence that fits you best,</p>\n<p>learn at the pace that helps you most.</p>\n<p><br><br></p>\n<p>Push the dark imaginings back,</p>\n<p>and rise.</p>\n<p><br><br></p>\n<p>Move your hand.</p>\n<p><br><br></p>\n<p>And push up.</p>\n<p><br><br></p>\n<p>And stand up.</p>\n<p><br><br></p>\n<p>Get ready to walk,</p>\n<p>and then run, day, after day, slightly longer.</p>\n<p><br><br></p>\n<p>And then lift your weights, the way you learned to run,</p>\n<p>and then lift for longer,\n  and never rest.</p>\n<p><br><br></p>\n<p>And then, with your sweetest audio-book.</p>\n<p><br><br></p>\n<p>Step.</p>\n<p><br><br></p>\n<p>Step Up.</p>\n<p><br><br></p>\n<p>Rise Up.</p>\n<p><br><br></p>\n<p>To No End.</p>\n<p><br><br></p>\n<p>This is The Life Of A Warrior.</p>\n<p><br><br></p>\n<p>Nothing Can Crush You,</p>\n<p>Nothing Can Hold You.</p>\n<p><br><br></p>\n<p>Don&#39;t You See?</p>\n<p><br><br></p>\n<p>Everything Makes You Stronger,</p>\n<p>Everything Makes You Fight Longer.</p>\n<p><br><br></p>\n<p>You,</p>\n<p>Are A Warrior.</p>"
+      }
+    ],
+    "next": {
+      "name": "introduction",
+      "title": "Introduction"
+    }
+  },
+  {
     "title": "Introduction",
     "name": "introduction",
     "data": [
@@ -42,6 +57,10 @@
         "text": "<p>Who includes diversity and is Nature,</p>\n<p>Who is the amplitude of the earth, and the coarseness and sexuality of</p>\n<p>the earth, and the great charity of the earth and the equilibrium also,</p>\n<p>Who has not look’d forth from the windows the eyes for nothing, or whose\n  brain held audience with messengers for nothing,</p>\n<p>Who contains believers and disbelievers, who is the most majestic lover,</p>\n<p>Who holds duly his or her triune proportion of realism, spiritualism, and\n  of the æsthetic or intellectual,</p>\n<p>Who having consider’d the body finds all its organs and parts good,</p>\n<p>Who, out of the theory of the earth and of his or her body understands by\n  subtle analogies all other theories,</p>\n<p>The theory of a city, a poem, and of the large politics of these States;</p>\n<p>Who believes not only in our globe with its sun and moon, but in other\n  globes with their suns and moons,</p>\n<p>Who, constructing the house of himself or herself, not for a day but for\n  all time, sees races, eras, dates, generations,</p>\n<p>The past, the future, dwelling there, like space, inseparable together.</p>"
       }
     ],
+    "previous": {
+      "name": "foreword",
+      "title": "Foreword"
+    },
     "next": {
       "name": "the-hunter",
       "title": "The Hunter"

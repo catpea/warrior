@@ -1,5 +1,8 @@
 ## Changelog
 
+### April 30th 2020, 8:26:00 pm
+Added the [Foreword] poem.
+
 ### April 30th 2020, 12:47:00 pm
 Rebuilt the Build System and Switched to [Edward Tufte CSS].
 
@@ -487,3 +490,4 @@ Restructuring youtube links in [The Programmer] section.
 [The Visionary]: the-visionary.html
 [The Web Developer]: the-web-developer.html
 [The Wizard]: the-wizard.html
+[Foreword]: foreword.html

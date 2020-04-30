@@ -1,0 +1,12 @@
+- type: quote
+  author: Sun Tzu
+  url: 'https://en.wikipedia.org/wiki/Sun_Tzu'
+  text: quote-sun-tzu.md
+
+- type: youtube
+  video: GEPhLqwKo6g
+  title: Think Different
+
+- type: text
+  title: Choose Life
+  text: text-choose-life.md

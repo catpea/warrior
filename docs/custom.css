@@ -5,3 +5,7 @@ section {
 .lg {
   font-size: 3rem;
 }
+
+.pre {
+ white-space: pre !important;
+}
