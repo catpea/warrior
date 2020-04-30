@@ -22,6 +22,7 @@ const options = {
   changelog: 'changelog.html',
 }
 
+// Parse Data
 const response = [];
 const toc = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, options.index))));
 for(let name of toc){
@@ -35,8 +36,11 @@ for(let name of toc){
   response.push({title, name, data:sections});
 }
 fs.ensureDirSync( path.resolve(path.join(options.destination)) );
+
+// Create Data Files
 fs.writeFileSync( path.resolve(path.join(options.destination, options.json)), JSON.stringify(response, null, '  '));
 fs.writeFileSync( path.resolve(path.join(options.destination, options.yaml)), yaml.dump(response, null, '  '));
 
+// Create Changelog
 const changelog = pretty(marked(fs.readFileSync(path.resolve(options.log)).toString()).replace(/\n/g,' '), {ocd:true});
 fs.writeFileSync( path.resolve(path.join(options.destination, options.changelog)), changelog);
