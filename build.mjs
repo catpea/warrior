@@ -9,11 +9,17 @@ import kebabCase from 'lodash/kebabCase.js';
 import startCase from 'lodash/startCase.js';
 
 const options = {
-  directory: 'data',
+
+    directory: 'data',
   index: 'index.yaml',
+
   destination: 'dist',
+
   json: 'warrior.json',
   yaml: 'warrior.yaml',
+
+  log: './CHANGELOG.md',
+  changelog: 'changelog.html',
 }
 
 const response = [];
@@ -31,3 +37,6 @@ for(let name of toc){
 fs.ensureDirSync( path.resolve(path.join(options.destination)) );
 fs.writeFileSync( path.resolve(path.join(options.destination, options.json)), JSON.stringify(response, null, '  '));
 fs.writeFileSync( path.resolve(path.join(options.destination, options.yaml)), yaml.dump(response, null, '  '));
+
+const changelog = pretty(marked(fs.readFileSync(path.resolve(options.log)).toString()).replace(/\n/g,' '), {ocd:true});
+fs.writeFileSync( path.resolve(path.join(options.destination, options.changelog)), changelog);
