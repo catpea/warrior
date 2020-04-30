@@ -41,7 +41,11 @@
         "author": "Walt Whitman",
         "text": "<p>Who includes diversity and is Nature,</p>\n<p>Who is the amplitude of the earth, and the coarseness and sexuality of</p>\n<p>the earth, and the great charity of the earth and the equilibrium also,</p>\n<p>Who has not look’d forth from the windows the eyes for nothing, or whose\n  brain held audience with messengers for nothing,</p>\n<p>Who contains believers and disbelievers, who is the most majestic lover,</p>\n<p>Who holds duly his or her triune proportion of realism, spiritualism, and\n  of the æsthetic or intellectual,</p>\n<p>Who having consider’d the body finds all its organs and parts good,</p>\n<p>Who, out of the theory of the earth and of his or her body understands by\n  subtle analogies all other theories,</p>\n<p>The theory of a city, a poem, and of the large politics of these States;</p>\n<p>Who believes not only in our globe with its sun and moon, but in other\n  globes with their suns and moons,</p>\n<p>Who, constructing the house of himself or herself, not for a day but for\n  all time, sees races, eras, dates, generations,</p>\n<p>The past, the future, dwelling there, like space, inseparable together.</p>"
       }
-    ]
+    ],
+    "next": {
+      "name": "the-hunter",
+      "title": "The Hunter"
+    }
   },
   {
     "title": "The Hunter",
@@ -108,7 +112,15 @@
         "title": "Elizabeth Kolbert",
         "text": "<p>Elizabeth Kolbert wrote two life changing books <a href=\"https://www.audible.com/pd/Field-Notes-from-a-Catastrophe-Audiobook/B002V8MJPS\">Field Notes from a\n    Catastrophe: Man, Nature, and Climate Change</a> and <a href=\"https://www.audible.com/pd/The-Sixth-Extinction-Audiobook/B00FZ4JEAS\">The Sixth Extinction,\n    An Unnatural History</a></p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "introduction",
+      "title": "Introduction"
+    },
+    "next": {
+      "name": "the-adventurer",
+      "title": "The Adventurer"
+    }
   },
   {
     "title": "The Adventurer",
@@ -164,7 +176,15 @@
         "title": "Inextinguishable Wisdom",
         "text": "<p>Our search for wisdom, as well as our climb onto the shoulders of giants,\n  is just the first part of our story. When we learn to push ourselves to\n  travel the hardest slopes, our shoulders will become strong enough to\n  support the countless adventurers that are sure to follow. Long after we\n  depart, our hard earned wisdom will retain the momentum of our hardest\n  slopes, to serve as an inextinguishable candle in the dark.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-hunter",
+      "title": "The Hunter"
+    },
+    "next": {
+      "name": "the-soldier",
+      "title": "The Soldier"
+    }
   },
   {
     "title": "The Soldier",
@@ -207,7 +227,7 @@
       {
         "type": "poem",
         "title": "Eight virtues of Bushido",
-        "text": "<h5 id=\"righteousness\">Righteousness</h5>\n<p>Be acutely honest throughout your dealings with all people. Believe in\n  justice, not from other people, but from yourself. To the true warrior, all\n  points of view are deeply considered regarding honesty, justice and\n  integrity. Warriors make a full commitment to their decisions.</p>\n<h5 id=\"heroic-courage\">Heroic Courage</h5>\n<p>Hiding like a turtle in a shell is not living at all. A true warrior must\n  have heroic courage. It is absolutely risky. It is living life completely,\n  fully and wonderfully. Heroic courage is not blind. It is intelligent and\n  strong.</p>\n<h5 id=\"benevolence-compassion\">Benevolence, Compassion</h5>\n<p>Through intense training and hard work the true warrior becomes quick and\n  strong. They are not as most people. They develop a power that must be used\n  for good. They have compassion. They help their fellow men at every\n  opportunity. If an opportunity does not arise, they go out of their way to\n  find one.</p>\n<h5 id=\"respect\">Respect</h5>\n<p>True warriors have no reason to be cruel. They do not need to prove their\n  strength. Warriors are not only respected for their strength in battle, but\n  also by their dealings with others. The true strength of a warrior becomes\n  apparent during difficult times.</p>\n<h5 id=\"integrity\">Integrity</h5>\n<p>When warriors say that they will perform an action, it is as good as done.\n  Nothing will stop them from completing what they say they will do. They do\n  not have to ‘give their word’. They do not have to ‘promise’. Speaking and\n  doing are the same action.</p>\n<h5 id=\"honour\">Honour</h5>\n<p>Warriors have only one judge of honor and character, and this is\n  themselves. Decisions they make and how these decisions are carried out are\n  a reflection of whom they truly are. You cannot hide from yourself.</p>\n<h5 id=\"duty-and-loyalty\">Duty and Loyalty</h5>\n<p>Warriors are responsible for everything that they have done and everything\n  that they have said, and all of the consequences that follow. They are\n  immensely loyal to all of those in their care. To everyone that they are\n  responsible for, they remain fiercely true.</p>\n<h5 id=\"self-control\">Self-Control</h5>\n<p>Warriors feel more than others. This calmness of behavior and composure of\n  mind is rooted in the choice of endurance without a groan, wisdom over\n  ignorance, understanding over confrontation, love over anger, and\n  unbreakability in the face of suffering and loneliness.</p>"
+        "text": "<h3 id=\"righteousness\">Righteousness</h3>\n<p>Be acutely honest throughout your dealings with all people. Believe in\n  justice, not from other people, but from yourself. To the true warrior, all\n  points of view are deeply considered regarding honesty, justice and\n  integrity. Warriors make a full commitment to their decisions.</p>\n<h3 id=\"heroic-courage\">Heroic Courage</h3>\n<p>Hiding like a turtle in a shell is not living at all. A true warrior must\n  have heroic courage. It is absolutely risky. It is living life completely,\n  fully and wonderfully. Heroic courage is not blind. It is intelligent and\n  strong.</p>\n<h3 id=\"benevolence-compassion\">Benevolence, Compassion</h3>\n<p>Through intense training and hard work the true warrior becomes quick and\n  strong. They are not as most people. They develop a power that must be used\n  for good. They have compassion. They help their fellow men at every\n  opportunity. If an opportunity does not arise, they go out of their way to\n  find one.</p>\n<h3 id=\"respect\">Respect</h3>\n<p>True warriors have no reason to be cruel. They do not need to prove their\n  strength. Warriors are not only respected for their strength in battle, but\n  also by their dealings with others. The true strength of a warrior becomes\n  apparent during difficult times.</p>\n<h3 id=\"integrity\">Integrity</h3>\n<p>When warriors say that they will perform an action, it is as good as done.\n  Nothing will stop them from completing what they say they will do. They do\n  not have to ‘give their word’. They do not have to ‘promise’. Speaking and\n  doing are the same action.</p>\n<h3 id=\"honour\">Honour</h3>\n<p>Warriors have only one judge of honor and character, and this is\n  themselves. Decisions they make and how these decisions are carried out are\n  a reflection of whom they truly are. You cannot hide from yourself.</p>\n<h3 id=\"duty-and-loyalty\">Duty and Loyalty</h3>\n<p>Warriors are responsible for everything that they have done and everything\n  that they have said, and all of the consequences that follow. They are\n  immensely loyal to all of those in their care. To everyone that they are\n  responsible for, they remain fiercely true.</p>\n<h3 id=\"self-control\">Self-Control</h3>\n<p>Warriors feel more than others. This calmness of behavior and composure of\n  mind is rooted in the choice of endurance without a groan, wisdom over\n  ignorance, understanding over confrontation, love over anger, and\n  unbreakability in the face of suffering and loneliness.</p>"
       },
       {
         "type": "text",
@@ -280,7 +300,15 @@
         "title": "We Need You",
         "text": "<p><strong>The Timeless &amp; Unbreakable Family of Great Beings needs you.</strong></p>\n<p>Hopes for you.</p>\n<p>And the future generations, will need your shoulders to stand on.</p>\n<p>Rise to the challenge, become part of the thousands of years of hope, hope\n  for Peace, World Peace.</p>\n<p>Confident, and Unafraid.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-adventurer",
+      "title": "The Adventurer"
+    },
+    "next": {
+      "name": "the-knight-of-virtue",
+      "title": "The Knight Of Virtue"
+    }
   },
   {
     "title": "The Knight Of Virtue",
@@ -340,7 +368,15 @@
         "title": "Above the Common Levels",
         "text": "<p>By subtle analogy to high pursuits in modern era, we can estimate that to\n  aim for greatness, to climb the highest of mountains built Hardihood,\n  enabled Largesse, taught Benevolence, and helped with Honour.</p>\n<p>The stories of Virtuous Knights are journeys of pursuit of knowledge, and\n  self discovery, of trials and tribulations, of overcoming and rising, of\n  triumph and disaster.</p>\n<p>To search for the Grail, or Arthur, Percival, or Galahad, and the others;\n  was to find the Knightly Virtues and Wisdom set to timeless songs and poems.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-soldier",
+      "title": "The Soldier"
+    },
+    "next": {
+      "name": "the-lady-and-the-gentleman",
+      "title": "The Lady And The Gentleman"
+    }
   },
   {
     "title": "The Lady And The Gentleman",
@@ -406,7 +442,15 @@
         "title": "Speed Thou Slowly",
         "text": "<p>Life is the single most complex adventure you will face, take the long\n  roads. Choose Books, Audiobooks, and inherit as much wisdom from all the\n  great beings as you can.</p>\n<p><a href=\"https://www.audible.com/pd/The-Story-of-Philosophy-Audiobook/B0044EQEIA\">The Story of Philosophy, The Lives and Opinions of the Greater Philosophers</a> by <a href=\"https://en.wikipedia.org/wiki/Will_Durant\">Will Durant</a>.</p>\n<p><a href=\"https://www.audible.com/pd/The-Compleat-Gentleman-Audiobook/B002V5GZ4W\">The Compleat Gentleman, The Modern Man&#39;s Guide to Chivalry</a></p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-knight-of-virtue",
+      "title": "The Knight Of Virtue"
+    },
+    "next": {
+      "name": "the-officer",
+      "title": "The Officer"
+    }
   },
   {
     "title": "The Officer",
@@ -448,7 +492,15 @@
         "author": "Rudyard Kipling",
         "text": "<p>IF you can keep your head when all about you</p>\n<p>Are losing theirs and blaming it on you,</p>\n<p>If you can trust yourself when all men doubt you,</p>\n<p>But make allowance for their doubting too;</p>\n<p>If you can wait and not be tired by waiting,</p>\n<p>Or being lied about, don’t deal in lies,</p>\n<p>Or being hated, don’t give way to hating,</p>\n<p>And yet don’t look too good, nor talk too wise:</p>\n<p>If you can dream - and not make dreams your master;</p>\n<p>If you can think - and not make thoughts your aim;</p>\n<p>If you can meet with Triumph and Disaster</p>\n<p>And treat those two impostors just the same;</p>\n<p>If you can bear to hear the truth you’ve spoken</p>\n<p>Twisted by knaves to make a trap for fools,</p>\n<p>Or watch the things you gave your life to, broken,</p>\n<p>And stoop and build ‘em up with worn-out tools:</p>\n<p>If you can make one heap of all your winnings</p>\n<p>And risk it on one turn of pitch-and-toss,</p>\n<p>And lose, and start again at your beginnings</p>\n<p>And never breathe a word about your loss;</p>\n<p>If you can force your heart and nerve and sinew</p>\n<p>To serve your turn long after they are gone,</p>\n<p>And so hold on when there is nothing in you</p>\n<p>Except the Will which says to them: ‘Hold on!’</p>\n<p>If you can talk with crowds and keep your virtue,</p>\n<p>Or walk with Kings - nor lose the common touch,</p>\n<p>if neither foes nor loving friends can hurt you,</p>\n<p>If all men count with you, but none too much;</p>\n<p>If you can fill the unforgiving minute</p>\n<p>With sixty seconds’ worth of distance run,</p>\n<p>Yours is the Earth and everything that’s in it,</p>\n<p>And - which is more - you’ll be a Man, my son!</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-lady-and-the-gentleman",
+      "title": "The Lady And The Gentleman"
+    },
+    "next": {
+      "name": "the-intellectual",
+      "title": "The Intellectual"
+    }
   },
   {
     "title": "The Intellectual",
@@ -500,7 +552,15 @@
         "title": "He is not asking, he is teaching.",
         "text": "<p>Sir Ken Robinson is clearly well educated and experienced. In preparation\n  for this talk he would have wanted to come up with a powerful message, an\n  idea worth sharing. While extraordinary claims, require extraordinary\n  evidence; a simple question begs a simple answer.</p>\n<p>Yes. Schools kill creativity.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-officer",
+      "title": "The Officer"
+    },
+    "next": {
+      "name": "the-humanitarian",
+      "title": "The Humanitarian"
+    }
   },
   {
     "title": "The Humanitarian",
@@ -638,7 +698,15 @@
         "title": "World Crisis",
         "text": "<p>The human family is not divided by political borders. Kandice’s kids aren’t\n  the only kids that need help. This is not just a national crisis, it is a\n  global one.</p>\n<p><a href=\"https://www.hindustantimes.com/delhi/a-school-under-metro-bridge-teaches-these-delhi-slum-children/story-Qr3EV279SarAME4K6N8orL.html\">A school under Metro bridge teaches these Delhi slum children</a></p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-intellectual",
+      "title": "The Intellectual"
+    },
+    "next": {
+      "name": "the-ultra",
+      "title": "The Ultra"
+    }
   },
   {
     "title": "The Ultra",
@@ -739,7 +807,15 @@
         "title": "Wisdom and Endurance",
         "text": "<p>The workout is powered by the soul of a very old warrior, who lived many a\n  lifetime in daydreams, stories, books, and poems. There is no pain, it is\n  just a signal.</p>\n<p>On the Mind part, focus on gaining wisdom by all means. On the body part,\n  keep extending your endurance, the pain is too primitive to catch up with\n  an ultra.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-humanitarian",
+      "title": "The Humanitarian"
+    },
+    "next": {
+      "name": "the-superhero",
+      "title": "The Superhero"
+    }
   },
   {
     "title": "The Superhero",
@@ -886,7 +962,15 @@
         "video": "FhzNSPiqO0M",
         "title": "Make the rest of your life, the best of your life."
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-ultra",
+      "title": "The Ultra"
+    },
+    "next": {
+      "name": "the-philosopher",
+      "title": "The Philosopher"
+    }
   },
   {
     "title": "The Philosopher",
@@ -1004,7 +1088,15 @@
         "title": "Crash Course Philosophy",
         "text": "<p><a href=\"https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR\">47 Video YouTube Playlist</a></p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-superhero",
+      "title": "The Superhero"
+    },
+    "next": {
+      "name": "the-skeptic",
+      "title": "The Skeptic"
+    }
   },
   {
     "title": "The Skeptic",
@@ -1105,7 +1197,15 @@
         "title": "English Usage Misconceptions",
         "text": "<p>Misconception: The words &quot;and&quot; and &quot;but&quot; must not begin a sentence. Those\n  who impose this rule on themselves are following a modern English &quot;rule&quot;\n  that was not used historically. Jeremy Butterfield described this perceived\n  prohibition as one of &quot;the folk commandments of English usage&quot;. The Chicago\n  Manual of Style says: There is a widespread belief—one with no historical\n  or grammatical foundation—that it is an error to begin a sentence with a\n  conjunction such as &#39;and&#39;, &#39;but&#39;, or &#39;so&#39;. In fact, a substantial\n  percentage (often as many as 10 percent) of the sentences in first-rate\n  writing begin with conjunctions. It has been so for centuries, and even the\n  most conservative grammarians have followed this practice.</p>\n<p>And you can visit <a href=\"https://en.wikipedia.org/wiki/Common_English_usage_misconceptions\">Common English usage misconceptions</a> for more.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-philosopher",
+      "title": "The Philosopher"
+    },
+    "next": {
+      "name": "the-scientist",
+      "title": "The Scientist"
+    }
   },
   {
     "title": "The Scientist",
@@ -1190,7 +1290,15 @@
         "video": "dw4w1UsOafQ",
         "title": "Richard Dawkins: Growing up in the Universe (1991)"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-skeptic",
+      "title": "The Skeptic"
+    },
+    "next": {
+      "name": "the-naturalist",
+      "title": "The Naturalist"
+    }
   },
   {
     "title": "The Naturalist",
@@ -1292,7 +1400,15 @@
         "video": "p3Qnlu9Nfj8",
         "title": "Pennsylvania Polka"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-scientist",
+      "title": "The Scientist"
+    },
+    "next": {
+      "name": "the-survivalist",
+      "title": "The Survivalist"
+    }
   },
   {
     "title": "The Survivalist",
@@ -1454,7 +1570,15 @@
         "video": "vAuO3bHxSpc",
         "title": "Round Hut"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-naturalist",
+      "title": "The Naturalist"
+    },
+    "next": {
+      "name": "the-explorer",
+      "title": "The Explorer"
+    }
   },
   {
     "title": "The Explorer",
@@ -1516,7 +1640,15 @@
         "video": "KDPnWgVGuhc",
         "title": "Forgotten bunker found and opened"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-survivalist",
+      "title": "The Survivalist"
+    },
+    "next": {
+      "name": "the-discoverer",
+      "title": "The Discoverer"
+    }
   },
   {
     "title": "The Discoverer",
@@ -1547,7 +1679,15 @@
         "video": "P5ipVlY5p7w",
         "title": "The Pluto Fact Song"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-explorer",
+      "title": "The Explorer"
+    },
+    "next": {
+      "name": "the-astronomer",
+      "title": "The Astronomer"
+    }
   },
   {
     "title": "The Astronomer",
@@ -1721,7 +1861,15 @@
         "video": "c6Eq2sI1NDY",
         "title": "How the Edge of Our Galaxy Defies Known Physics"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-discoverer",
+      "title": "The Discoverer"
+    },
+    "next": {
+      "name": "the-mine-explorer",
+      "title": "The Mine Explorer"
+    }
   },
   {
     "title": "The Mine Explorer",
@@ -1852,7 +2000,15 @@
         "video": "5w0RzhT2wYQ",
         "title": "Road Kill Cave Conquered : Lucky To Be Alive | Aquachigger"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-astronomer",
+      "title": "The Astronomer"
+    },
+    "next": {
+      "name": "the-dancer",
+      "title": "The Dancer"
+    }
   },
   {
     "title": "The Dancer",
@@ -1993,7 +2149,15 @@
         "video": "1FLThlB_OWc",
         "title": "PRISYADKA (Russian Squat Kick TUTORIAL) - Detailed"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-mine-explorer",
+      "title": "The Mine Explorer"
+    },
+    "next": {
+      "name": "the-athlete",
+      "title": "The Athlete"
+    }
   },
   {
     "title": "The Athlete",
@@ -2118,7 +2282,15 @@
         "video": "vs3WTVFChtw",
         "title": "Rock Running - Real Olympics have few spectators."
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-dancer",
+      "title": "The Dancer"
+    },
+    "next": {
+      "name": "the-bodybuilder",
+      "title": "The Bodybuilder"
+    }
   },
   {
     "title": "The Bodybuilder",
@@ -2232,7 +2404,15 @@
         "title": "Trainer Song",
         "text": "<p>I also created an Open Source (Free) workout instruction drum song, the mp3\n  files are available here:\n  <a href=\"https://github.com/westland-valhalla/drums/releases\">https://github.com/westland-valhalla/drums/releases</a></p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-athlete",
+      "title": "The Athlete"
+    },
+    "next": {
+      "name": "the-luminary",
+      "title": "The Luminary"
+    }
   },
   {
     "title": "The Luminary",
@@ -2372,7 +2552,15 @@
         "url": "https://en.wikipedia.org/wiki/Tao_Porchon-Lynch",
         "text": "<p>There is Nothing You Cannot Do.</p>\n<p>Don&#39;t say, I&#39;ll do it tomorrow, because tomorrow never comes.</p>\n<p>One minute after midnight, and it is already today.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-bodybuilder",
+      "title": "The Bodybuilder"
+    },
+    "next": {
+      "name": "the-chef",
+      "title": "The Chef"
+    }
   },
   {
     "title": "The Chef",
@@ -2458,7 +2646,15 @@
         "title": "Questions and more questions...",
         "text": "<p><a href=\"https://realsalt.com/why-do-some-japanese-restaurants-keep-piles-of-salt-outside/\">Why Do Some Japanese Restaurants Keep Piles of Salt Outside?</a></p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-luminary",
+      "title": "The Luminary"
+    },
+    "next": {
+      "name": "the-blacksmith",
+      "title": "The Blacksmith"
+    }
   },
   {
     "title": "The Blacksmith",
@@ -2574,7 +2770,15 @@
         "video": "c80mMzDknTI",
         "title": "Chevron or Wheat twist, forge welding twists"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-chef",
+      "title": "The Chef"
+    },
+    "next": {
+      "name": "the-maker",
+      "title": "The Maker"
+    }
   },
   {
     "title": "The Maker",
@@ -2786,7 +2990,15 @@
         "video": "jn9Od4oP8D0",
         "title": "Water Trapped in Quartz Rock vs 60,000 PSI Waterjet - Enhydro Agate"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-blacksmith",
+      "title": "The Blacksmith"
+    },
+    "next": {
+      "name": "the-dj",
+      "title": "The Dj"
+    }
   },
   {
     "title": "The Dj",
@@ -2912,7 +3124,15 @@
         "video": "JDJRg8sowP4",
         "title": "Nina Kraviz: Dream Machine"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-maker",
+      "title": "The Maker"
+    },
+    "next": {
+      "name": "the-musician",
+      "title": "The Musician"
+    }
   },
   {
     "title": "The Musician",
@@ -3097,7 +3317,15 @@
         "title": "How to Share",
         "text": "<p>Upload your music to <a href=\"https://soundcloud.com\">Soundcloud</a> you get 180 minues of music space for\n  free (per account).</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-dj",
+      "title": "The Dj"
+    },
+    "next": {
+      "name": "the-composer",
+      "title": "The Composer"
+    }
   },
   {
     "title": "The Composer",
@@ -3195,7 +3423,15 @@
         "title": "Lead The Way",
         "text": "<p>My Friends, My Readers, play.</p>\n<p>Revolutionary Warriors. Lead The Way.</p>\n<p>Let no one stand in it, may they face your wrath.</p>\n<p>Make your own path.</p>\n<p>Let no one play you like a piano key.</p>\n<p>Be the change, you hope to see.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-musician",
+      "title": "The Musician"
+    },
+    "next": {
+      "name": "the-poet",
+      "title": "The Poet"
+    }
   },
   {
     "title": "The Poet",
@@ -3344,7 +3580,15 @@
         "video": "AfsnHVaScjg",
         "title": "Ravens can talk!"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-composer",
+      "title": "The Composer"
+    },
+    "next": {
+      "name": "the-sculptor",
+      "title": "The Sculptor"
+    }
   },
   {
     "title": "The Sculptor",
@@ -3483,7 +3727,15 @@
         "video": "20b2JWz2TfE",
         "title": "Best 3D Scanners 2019"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-poet",
+      "title": "The Poet"
+    },
+    "next": {
+      "name": "the-photographer",
+      "title": "The Photographer"
+    }
   },
   {
     "title": "The Photographer",
@@ -3519,7 +3771,15 @@
         "video": "QpeUEK_5Tb0",
         "title": "How to Create Tilt-Shift / Miniature World Time-lapses"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-sculptor",
+      "title": "The Sculptor"
+    },
+    "next": {
+      "name": "the-filmmaker",
+      "title": "The Filmmaker"
+    }
   },
   {
     "title": "The Filmmaker",
@@ -3655,7 +3915,15 @@
         "video": "dSnosk4tWrg",
         "title": "Like Jane"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-photographer",
+      "title": "The Photographer"
+    },
+    "next": {
+      "name": "the-artist",
+      "title": "The Artist"
+    }
   },
   {
     "title": "The Artist",
@@ -3812,7 +4080,15 @@
         "video": "bluffx6sB04",
         "title": "What's an Eraser Shield?"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-filmmaker",
+      "title": "The Filmmaker"
+    },
+    "next": {
+      "name": "the-designer",
+      "title": "The Designer"
+    }
   },
   {
     "title": "The Designer",
@@ -4011,7 +4287,15 @@
         "title": "Problems with non Cut & Sew",
         "text": "<p>Below is a picture of why you must choose the Cut &amp; Sew method. The\n  printing process on pre-made garments is flawed, the gas will not permeate\n  wrinkles that are sure to occur on pre-made garments. You must first create\n  the fabric, and then Cut &amp; Sew the garment. Take a look at the <a href=\"https://www.youtube.com/watch?v=IQdPP04qEwU\">source\n    video</a> that demonstrates the problem with sublimating pre-made garments\n  in a bit more detail.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-artist",
+      "title": "The Artist"
+    },
+    "next": {
+      "name": "the-graffitist",
+      "title": "The Graffitist"
+    }
   },
   {
     "title": "The Graffitist",
@@ -4145,7 +4429,15 @@
         "video": "RwK4NmQZe64",
         "title": "Red graffiti"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-designer",
+      "title": "The Designer"
+    },
+    "next": {
+      "name": "the-hacker",
+      "title": "The Hacker"
+    }
   },
   {
     "title": "The Hacker",
@@ -4190,7 +4482,7 @@
       {
         "type": "text",
         "title": "Heist",
-        "text": "<p>She likley stole her daddy’s dad’s password by using her older brother’s\n  <a href=\"https://www.amazon.com/keylogger/s?k=keylogger\">key logger</a>. To log into her dad’s computer she uses the ssh command.\n  ssh is just a program that establishes a secure (encrypted) connection\n  between two computers. She executes ssh <a href=\"mailto:&#97;&#x6c;&#x65;&#x78;&#x40;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#56;&#x2e;&#49;&#46;&#x32;&#55;\">&#97;&#x6c;&#x65;&#x78;&#x40;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#56;&#x2e;&#49;&#46;&#x32;&#55;</a> at <a href=\"https://youtu.be/W76o_iG7Y7g?t=87\">1:27</a>. And\n  begins using the ssh program.</p>\n<p>The remote shell, for convenience sake, looks almost the same as her own\n  local shell. Even though very little changes on her screen she is in a\n  full-screen program now, and once she is authenticated her shell prompt\n  changes to that of the remote system. It goes from pi@calebpi ~ $ to\n  []~$[].</p>\n<p>A shell prompt is the thing that indicates that you are free to type\n  commands. Her dad’s shell prompt is broken, he messed up with whatever was\n  supposed to go in between those square brackets, it maybe that he is using\n  fonts that the Raspberry PI does not have, or some mess like that. My\n  prompt as I write this is [user@computer warrior]$ that means username is\n  user, my computer’s network name is computer, and the directory I am in is\n  warrior.</p>\n<p>The dollar sign $ indicates that I, alex, and pi are normal users. You can\n  escalate your system privileges to become a system administrator where you\n  can read or delete other user’s files. On most systems the dollar sign\n  would then change to the pound sign # to indicate that care must be taken\n  as you are in special privileges mode, often called <a href=\"http://www.catb.org/~esr/jargon/html/R/root.html\">root</a>.</p>"
+        "text": "<p>She likley stole her daddy’s dad’s password by using her older brother’s\n  <a href=\"https://www.amazon.com/keylogger/s?k=keylogger\">key logger</a>. To log into her dad’s computer she uses the ssh command.\n  ssh is just a program that establishes a secure (encrypted) connection\n  between two computers. She executes ssh <a href=\"mailto:&#x61;&#108;&#101;&#x78;&#64;&#x31;&#57;&#x32;&#x2e;&#49;&#54;&#56;&#x2e;&#x31;&#46;&#x32;&#x37;\">&#x61;&#108;&#101;&#x78;&#64;&#x31;&#57;&#x32;&#x2e;&#49;&#54;&#56;&#x2e;&#x31;&#46;&#x32;&#x37;</a> at <a href=\"https://youtu.be/W76o_iG7Y7g?t=87\">1:27</a>. And\n  begins using the ssh program.</p>\n<p>The remote shell, for convenience sake, looks almost the same as her own\n  local shell. Even though very little changes on her screen she is in a\n  full-screen program now, and once she is authenticated her shell prompt\n  changes to that of the remote system. It goes from pi@calebpi ~ $ to\n  []~$[].</p>\n<p>A shell prompt is the thing that indicates that you are free to type\n  commands. Her dad’s shell prompt is broken, he messed up with whatever was\n  supposed to go in between those square brackets, it maybe that he is using\n  fonts that the Raspberry PI does not have, or some mess like that. My\n  prompt as I write this is [user@computer warrior]$ that means username is\n  user, my computer’s network name is computer, and the directory I am in is\n  warrior.</p>\n<p>The dollar sign $ indicates that I, alex, and pi are normal users. You can\n  escalate your system privileges to become a system administrator where you\n  can read or delete other user’s files. On most systems the dollar sign\n  would then change to the pound sign # to indicate that care must be taken\n  as you are in special privileges mode, often called <a href=\"http://www.catb.org/~esr/jargon/html/R/root.html\">root</a>.</p>"
       },
       {
         "type": "text",
@@ -4293,7 +4585,15 @@
         "video": "jeghGhVdt9s",
         "title": "Gallium vs. Titalium - Abus Padlock Meets a Gruesome End"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-graffitist",
+      "title": "The Graffitist"
+    },
+    "next": {
+      "name": "the-wizard",
+      "title": "The Wizard"
+    }
   },
   {
     "title": "The Wizard",
@@ -4417,7 +4717,15 @@
         "title": "Ken Thompson and Dennis Ritchie",
         "text": "<p>When Ken Thompson and Dennis Ritchie began creating the Unix operating\n  system in 1969, they did not envision that their work would become a\n  backbone of the computer revolution that has transformed the world <a href=\"https://www.sfgate.com/business/article/Ken-Thompson-Dennis-Ritchie-win-Japan-Prize-2478569.php\">»</a></p>\n<p>Some commands will be hard to remember, or just look too confusing. That&#39;s\n  because something went wrong in their creation, maybe there wasn&#39;t enough\n  funds, or the programmer was still learning UNIX.</p>\n<p>Forgive the ugly, and remember the promise of UNIX, and UNIX-like operating\n  systems. The command line is here to make your life simpler.</p>\n<p>Dear Reader, UNIX is here to convince you that you are a wizard, hairy; and\n  armed with many a fancy spell to hoot.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-hacker",
+      "title": "The Hacker"
+    },
+    "next": {
+      "name": "the-guru",
+      "title": "The Guru"
+    }
   },
   {
     "title": "The Guru",
@@ -4441,7 +4749,7 @@
       {
         "type": "text",
         "title": "Commands At A Glance",
-        "text": "<p>Here is what a command really looks like:</p>\n<p>command-name --some-argument value-of-the-argument</p>\n<p>gmail --recipient <a href=\"mailto:&#97;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#x6c;&#x2e;&#x63;&#x6f;&#109;\">&#97;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a> --subject &quot;I can&#39;t even!&quot; --message &quot;I\n  can&#39;t freaking believe it, commands are cool, rawr!&quot;</p>"
+        "text": "<p>Here is what a command really looks like:</p>\n<p>command-name --some-argument value-of-the-argument</p>\n<p>gmail --recipient <a href=\"mailto:&#97;&#x6c;&#105;&#99;&#101;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#x6f;&#x6d;\">&#97;&#x6c;&#105;&#99;&#101;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#x6f;&#x6d;</a> --subject &quot;I can&#39;t even!&quot; --message &quot;I\n  can&#39;t freaking believe it, commands are cool, rawr!&quot;</p>"
       },
       {
         "type": "text",
@@ -4476,7 +4784,7 @@
       {
         "type": "text",
         "title": "Commands Are Friends!",
-        "text": "<p>It is so awesome to just open a terminal, type in gmail <a href=\"mailto:&#97;&#108;&#x69;&#99;&#x65;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#111;&#109;\">&#97;&#108;&#x69;&#99;&#x65;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#111;&#109;</a> -s\n  &quot;About Cybertruck&quot; -m &quot;So did you get the $69K build?&quot; and go have your\n  Irish Breakfast Tea (or an Earl Gray with an extra lump of sugar and an\n  extended pinkie) a whole 35 seconds earlier, because you didn&#39;t have to\n  wait for the mail window to open and start sucking memory whilst inspecting\n  its innards.</p>"
+        "text": "<p>It is so awesome to just open a terminal, type in gmail <a href=\"mailto:&#x61;&#x6c;&#x69;&#99;&#101;&#x40;&#97;&#111;&#x6c;&#46;&#99;&#111;&#x6d;\">&#x61;&#x6c;&#x69;&#99;&#101;&#x40;&#97;&#111;&#x6c;&#46;&#99;&#111;&#x6d;</a> -s\n  &quot;About Cybertruck&quot; -m &quot;So did you get the $69K build?&quot; and go have your\n  Irish Breakfast Tea (or an Earl Gray with an extra lump of sugar and an\n  extended pinkie) a whole 35 seconds earlier, because you didn&#39;t have to\n  wait for the mail window to open and start sucking memory whilst inspecting\n  its innards.</p>"
       },
       {
         "type": "youtube",
@@ -4570,7 +4878,15 @@
         "title": "Smarter Coffeemaker",
         "text": "<p>I was unable to locate the coffeemaker from the story. Personally I&#39;d just\n  stick a <a href=\"https://www.raspberrypi.org/\">Raspberry PI</a> into a cheap one and make my own sys command\n  (with proper argument parsing).</p>\n<p>If you are courageous enough to do this, might as well install a small web\n  server, <a href=\"https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot\">stream the coffeemaker</a> using the <a href=\"https://www.raspberrypi.org/products/camera-module-v2/\">camera board module</a>, and\n  let people brew you one for a small <a href=\"https://stripe.com/\">fee of $9.95</a> while you <a href=\"https://gohugo.io/getting-started/quick-start/\">blog about\n    the experience</a> on the PI it self.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-wizard",
+      "title": "The Wizard"
+    },
+    "next": {
+      "name": "the-programmer",
+      "title": "The Programmer"
+    }
   },
   {
     "title": "The Programmer",
@@ -4672,7 +4988,15 @@
         "video": "nL34zDTPkcs",
         "title": "You can learn Arduino in 15 minutes."
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-guru",
+      "title": "The Guru"
+    },
+    "next": {
+      "name": "the-web-developer",
+      "title": "The Web Developer"
+    }
   },
   {
     "title": "The Web Developer",
@@ -4701,7 +5025,7 @@
       {
         "type": "text",
         "title": "What to Avoid",
-        "text": "<p>Shopify is the world’s fastest growing commerce platform and we have no\n  plans to slow down! The Shopify Theme Partnerships team is on a mission to\n  make sure our merchants have access to the highest quality themes\n  available. Every month, thousands of merchants look for new themes for\n  their online stores. Our team is on the lookout for skilled, passionate\n  designers and developers we can work with to create amazing themes for the\n  Theme Store.</p>\n<h5 id=\"important-information-to-know-before-you-apply\">Important information to know before you apply</h5>\n<p>Here are a few things to consider before you send us your Theme Partner\n  application:</p>\n<ul>\n  <li>Shopify themes need constant care and attention. We expect Theme\n    Partners who work with us to be engaged, passionate about their theme(s),\n    and apply any theme updates we request in a timely manner.</li>\n  <li>Being a Theme Partner is a full-time job. You will need to dedicate a\n    lot of time updating your theme(s) as well as supporting the merchants who\n    are using your theme. If you become a Theme Partner, you’ll need to\n    consider how you’ll balance Theme Partner work with other jobs you are\n    currently doing, or are planning to be engaged in.</li>\n  <li>Our current Theme Partners are a tight-knit group of people. We expect\n    potential Theme Partners to be approachable and collaborative with the\n    Shopify Theme Partnerships team, as well as merchants using your theme(s).</li>\n  <li>We want Theme Partners to actively contribute to the Shopify themes\n    ecosystem, and work with us to help merchants succeed. The Theme\n    Partnerships team will be working closely with you every step of the way\n    during the theme submission process, and will continue to work closely with\n    you once your theme is published. We have dedicated email and Slack\n    channels set up to provide feedback, advice and support for all your\n    theme-related questions and issues.</li>\n  <li>The revenue share for Theme Partners is 70/30. The Theme Partner\n    receives 70% of each theme sale.</li>\n</ul>\n<h5 id=\"what-to-submit-when-you-apply\">What to submit when you apply</h5>\n<p>Please email <a href=\"mailto:&#116;&#x68;&#x65;&#109;&#101;&#115;&#x40;&#115;&#104;&#x6f;&#112;&#x69;&#x66;&#121;&#x2e;&#x63;&#x6f;&#x6d;\">&#116;&#x68;&#x65;&#109;&#101;&#115;&#x40;&#115;&#104;&#x6f;&#112;&#x69;&#x66;&#121;&#x2e;&#x63;&#x6f;&#x6d;</a> and include all of the following:</p>\n<ol>\n  <li>A link to an active Shopify website you built for a client. This must\n    be a live, fully functioning shop that you built for a client.</li>\n  <li>A case study for the above Shopify website that details your\n    experiences on the project. You will need to provide an overview of the\n    project and the client.</li>\n  <li>A cover letter.</li>\n  <li>A link to your design portfolio.</li>\n</ol>\n<h5 id=\"how-we-review-your-application\">How we review your application</h5>\n<p>For the <strong>active Shopify website</strong> our review will cover:</p>\n<ul>\n  <li>Problem solving ability (the solution outlined in the case study is\n    visible).</li>\n  <li>Originality (the shop is using a custom theme, not a free or paid theme\n    from the Shopify Theme Store).</li>\n  <li>Art direction (choice of photography, images, icons, color, and overall\n    originality).</li>\n  <li>Layout (flow of content, hierarchy, balance, contrast, white space,\n    responsiveness, grid, and alignment).</li>\n  <li>Typography (font pairings, font sizes, line spacing, hierarchy of text,\n    number of fonts used, and legibility of text).</li>\n  <li>Consistency in design patterns (between pages and on a single page).</li>\n  <li>Accessibility (hover states, colour ratios, and touch targets).</li>\n  <li>Customer UX (purchase flow through the collection, product, and cart\n    pages).</li>\n  <li>Technical ability (up-to-date with Shopify platform, website\n    functionality, code consistency, and lack of errors).</li>\n</ul>\n<p>For the <strong>case study</strong> we will be looking for you to provide this\n  information:</p>\n<ul>\n  <li>What brought the client to you?</li>\n  <li>What were the client’s needs?</li>\n  <li>How did you go about solving their problem?</li>\n  <li>We would like to see your research, your workflow (prototyping and\n    refining), and what you learned.</li>\n</ul>\n<p>For the <strong>cover letter</strong> we would like to see the following information:</p>\n<ul>\n  <li>An outline of who you (and your team) are.</li>\n  <li>Why you want to join the Shopify Theme Partner community?</li>\n  <li>Why you think you’d do well as a Theme Partner?</li>\n</ul>\n<p>Feel free to put your own personal touch or spin on the cover letter. We\n  highly value originality, enthusiasm, and motivation when considering\n  applications.</p>\n<p>For the <strong>design portfolio</strong> we will be reviewing the same design related\n  points as mentioned above for the active Shopify website:</p>\n<ul>\n  <li>Art direction.</li>\n  <li>Layout.</li>\n  <li>Typography.</li>\n  <li>Consistency.</li>\n</ul>\n<p>The Shopify Theme Partnerships team is not able to provide detailed\n  feedback on why an application does not pass our review process. If we do\n  reach out to you about becoming a potential Theme Partner, we will work\n  with you on the next steps of the approval process.</p>\n<h5 id=\"your-theme-in-the-shopify-theme-store\">Your theme in the Shopify Theme Store</h5>\n<p>Once a theme has been built and approved, it may only be distributed via\n  the Theme Store. Please do not distribute your theme on other marketplaces\n  or third-party channels, or try to take customers away from the Theme Store.</p>\n<h5 id=\"theme-support\">Theme support</h5>\n<p>If there is a technical issue with your theme (for example: broken layout,\n  dead link, logic error) you will be responsible for fixing the issue in a\n  timely fashion. Critical bugs must be fixed immediately or your theme may\n  be temporarily removed from the Theme Store.</p>\n<p>Theme Partners are responsible for supporting merchants who use their\n  theme(s). You will need to provide a public support email address, theme\n  documentation, and assist merchants with their theme-related questions.</p>\n<p>Themes will be removed from the Theme Store if they have made less than 25\n  sales in a 3 month time period. Theme Partners are responsible for keeping\n  their themes up-to-date with core Shopify features and any improved\n  standards Shopify implements in the future. These can include improvements\n  to the overall user experience, the user interface, accessibility, and more.</p>"
+        "text": "<p>Shopify is the world’s fastest growing commerce platform and we have no\n  plans to slow down! The Shopify Theme Partnerships team is on a mission to\n  make sure our merchants have access to the highest quality themes\n  available. Every month, thousands of merchants look for new themes for\n  their online stores. Our team is on the lookout for skilled, passionate\n  designers and developers we can work with to create amazing themes for the\n  Theme Store.</p>\n<h5 id=\"important-information-to-know-before-you-apply\">Important information to know before you apply</h5>\n<p>Here are a few things to consider before you send us your Theme Partner\n  application:</p>\n<ul>\n  <li>Shopify themes need constant care and attention. We expect Theme\n    Partners who work with us to be engaged, passionate about their theme(s),\n    and apply any theme updates we request in a timely manner.</li>\n  <li>Being a Theme Partner is a full-time job. You will need to dedicate a\n    lot of time updating your theme(s) as well as supporting the merchants who\n    are using your theme. If you become a Theme Partner, you’ll need to\n    consider how you’ll balance Theme Partner work with other jobs you are\n    currently doing, or are planning to be engaged in.</li>\n  <li>Our current Theme Partners are a tight-knit group of people. We expect\n    potential Theme Partners to be approachable and collaborative with the\n    Shopify Theme Partnerships team, as well as merchants using your theme(s).</li>\n  <li>We want Theme Partners to actively contribute to the Shopify themes\n    ecosystem, and work with us to help merchants succeed. The Theme\n    Partnerships team will be working closely with you every step of the way\n    during the theme submission process, and will continue to work closely with\n    you once your theme is published. We have dedicated email and Slack\n    channels set up to provide feedback, advice and support for all your\n    theme-related questions and issues.</li>\n  <li>The revenue share for Theme Partners is 70/30. The Theme Partner\n    receives 70% of each theme sale.</li>\n</ul>\n<h5 id=\"what-to-submit-when-you-apply\">What to submit when you apply</h5>\n<p>Please email <a href=\"mailto:&#x74;&#104;&#101;&#x6d;&#x65;&#115;&#x40;&#115;&#x68;&#111;&#112;&#x69;&#102;&#121;&#x2e;&#99;&#x6f;&#109;\">&#x74;&#104;&#101;&#x6d;&#x65;&#115;&#x40;&#115;&#x68;&#111;&#112;&#x69;&#102;&#121;&#x2e;&#99;&#x6f;&#109;</a> and include all of the following:</p>\n<ol>\n  <li>A link to an active Shopify website you built for a client. This must\n    be a live, fully functioning shop that you built for a client.</li>\n  <li>A case study for the above Shopify website that details your\n    experiences on the project. You will need to provide an overview of the\n    project and the client.</li>\n  <li>A cover letter.</li>\n  <li>A link to your design portfolio.</li>\n</ol>\n<h5 id=\"how-we-review-your-application\">How we review your application</h5>\n<p>For the <strong>active Shopify website</strong> our review will cover:</p>\n<ul>\n  <li>Problem solving ability (the solution outlined in the case study is\n    visible).</li>\n  <li>Originality (the shop is using a custom theme, not a free or paid theme\n    from the Shopify Theme Store).</li>\n  <li>Art direction (choice of photography, images, icons, color, and overall\n    originality).</li>\n  <li>Layout (flow of content, hierarchy, balance, contrast, white space,\n    responsiveness, grid, and alignment).</li>\n  <li>Typography (font pairings, font sizes, line spacing, hierarchy of text,\n    number of fonts used, and legibility of text).</li>\n  <li>Consistency in design patterns (between pages and on a single page).</li>\n  <li>Accessibility (hover states, colour ratios, and touch targets).</li>\n  <li>Customer UX (purchase flow through the collection, product, and cart\n    pages).</li>\n  <li>Technical ability (up-to-date with Shopify platform, website\n    functionality, code consistency, and lack of errors).</li>\n</ul>\n<p>For the <strong>case study</strong> we will be looking for you to provide this\n  information:</p>\n<ul>\n  <li>What brought the client to you?</li>\n  <li>What were the client’s needs?</li>\n  <li>How did you go about solving their problem?</li>\n  <li>We would like to see your research, your workflow (prototyping and\n    refining), and what you learned.</li>\n</ul>\n<p>For the <strong>cover letter</strong> we would like to see the following information:</p>\n<ul>\n  <li>An outline of who you (and your team) are.</li>\n  <li>Why you want to join the Shopify Theme Partner community?</li>\n  <li>Why you think you’d do well as a Theme Partner?</li>\n</ul>\n<p>Feel free to put your own personal touch or spin on the cover letter. We\n  highly value originality, enthusiasm, and motivation when considering\n  applications.</p>\n<p>For the <strong>design portfolio</strong> we will be reviewing the same design related\n  points as mentioned above for the active Shopify website:</p>\n<ul>\n  <li>Art direction.</li>\n  <li>Layout.</li>\n  <li>Typography.</li>\n  <li>Consistency.</li>\n</ul>\n<p>The Shopify Theme Partnerships team is not able to provide detailed\n  feedback on why an application does not pass our review process. If we do\n  reach out to you about becoming a potential Theme Partner, we will work\n  with you on the next steps of the approval process.</p>\n<h5 id=\"your-theme-in-the-shopify-theme-store\">Your theme in the Shopify Theme Store</h5>\n<p>Once a theme has been built and approved, it may only be distributed via\n  the Theme Store. Please do not distribute your theme on other marketplaces\n  or third-party channels, or try to take customers away from the Theme Store.</p>\n<h5 id=\"theme-support\">Theme support</h5>\n<p>If there is a technical issue with your theme (for example: broken layout,\n  dead link, logic error) you will be responsible for fixing the issue in a\n  timely fashion. Critical bugs must be fixed immediately or your theme may\n  be temporarily removed from the Theme Store.</p>\n<p>Theme Partners are responsible for supporting merchants who use their\n  theme(s). You will need to provide a public support email address, theme\n  documentation, and assist merchants with their theme-related questions.</p>\n<p>Themes will be removed from the Theme Store if they have made less than 25\n  sales in a 3 month time period. Theme Partners are responsible for keeping\n  their themes up-to-date with core Shopify features and any improved\n  standards Shopify implements in the future. These can include improvements\n  to the overall user experience, the user interface, accessibility, and more.</p>"
       },
       {
         "type": "text",
@@ -4723,7 +5047,15 @@
         "title": "Become a CEO",
         "text": "<p>Web Developer, is a huge step. But making themes is not it. It is not even\n  about learning programming, though you should definitely know about it;\n  because you need a team of programmers to develop your sales platform(s).</p>\n<p>It is about becoming a Businessperson with a plan. In other words, a\n  Founder, a CEO.</p>\n<p>You shouldn&#39;t think of a web developer as a person that merely develops for\n  the web, think of one as a developer of the web. That is a difference\n  between $180 and $2,200,000, a resume and an outstanding portfolio, an\n  employee and an employer, bugfixes and excitement.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-programmer",
+      "title": "The Programmer"
+    },
+    "next": {
+      "name": "the-cryptographer",
+      "title": "The Cryptographer"
+    }
   },
   {
     "title": "The Cryptographer",
@@ -4849,7 +5181,15 @@
         "video": "nVVF8dgKC38",
         "title": "Keeping Secrets: Cryptography In A Connected World"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-web-developer",
+      "title": "The Web Developer"
+    },
+    "next": {
+      "name": "the-highschooler",
+      "title": "The Highschooler"
+    }
   },
   {
     "title": "The Highschooler",
@@ -5025,7 +5365,15 @@
         "title": "The Fierce & Authentic",
         "text": "<p>Staying in school had a negative impact on our education, on our futures.\n  College and Premed brought sleep deprivation into the farce, it was a\n  dangerous joke.</p>\n<p>In the end all we had was our friendship. The school was tearing us apart,\n  the Start-ups kept us together.</p>\n<p>Looking back at how young we were, how unbreakable, how fierce.</p>\n<p>Though we didn&#39;t believe in schools, we doubted ourselves for years. Now,\n  looking back, we searched for mentors, but none were to be found. But, in\n  the absence of teachers, we became the teachers.</p>\n<p>To quote an old commercial: We were The Crazy Ones, The Misfits, The\n  Rebels, The Troublemakers, the round pegs in the square holes, the ones who\n  saw things differently, who were not fond of rules, and had no respect for\n  the status quo.</p>\n<p>We were the ones crazy enough to think we could change the world...</p>\n<p>... and we did ...</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-cryptographer",
+      "title": "The Cryptographer"
+    },
+    "next": {
+      "name": "the-principal",
+      "title": "The Principal"
+    }
   },
   {
     "title": "The Principal",
@@ -5106,7 +5454,15 @@
         "title": "Non Cognitive Skills Must Come First",
         "text": "<p>Academic Development can&#39;t succeed on its own, it is incompatible with who\n  we are, we are not machines that can make room for knowledge on our\n  long-term storage drive. Even with a blooming ecosystem of Memory Palaces,\n  that which is irrelevant to out Hearts and Existence will be soon forgotten.</p>\n<p>This parade through classes, levels, and subjects is a waste of time. Our\n  time is precious, life is so dear. There simply is no time for charades.</p>\n<p>Principal, stand up, and deliver.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-highschooler",
+      "title": "The Highschooler"
+    },
+    "next": {
+      "name": "the-teacher",
+      "title": "The Teacher"
+    }
   },
   {
     "title": "The Teacher",
@@ -5213,7 +5569,15 @@
         "video": "TMrtLsQbaok",
         "title": "Greta Thunberg"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-principal",
+      "title": "The Principal"
+    },
+    "next": {
+      "name": "the-student",
+      "title": "The Student"
+    }
   },
   {
     "title": "The Student",
@@ -5301,7 +5665,15 @@
         "video": "vvlozhvQPJw",
         "title": "We can end poverty, but this is why we haven't by Teva Sienicki"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-teacher",
+      "title": "The Teacher"
+    },
+    "next": {
+      "name": "the-genius",
+      "title": "The Genius"
+    }
   },
   {
     "title": "The Genius",
@@ -5493,7 +5865,15 @@
         "title": "The Future, The World",
         "text": "<p>You were born a Genius. You are a Genius. It is not even that big of a\n  deal, you are a human with a brain, Genius is what we do. On the other end,\n  people saying they are better than you because they are a Genius, are sick\n  from poverty of mind, they got fractured, stuck. It is sad, let us hope\n  they feel better and catch up, but pass them on as they heal.</p>\n<p>Keep moving forward, keep learning, the World needs you to grow, to grow\n  all the way up, you, and all your peers, and all generations to come.</p>\n<p>It is the journey of self education that makes the real difference.</p>\n<p>Begin your journey under the banner of Unrelenting Pursuit of Excellence\n  and Love of Wisdom.</p>\n<p>The Future, and The World, it will all be Yours.</p>\n<p>You are far more than Genius.</p>\n<p>Unbreakable.</p>\n<p>Unstoppable.</p>\n<p>Uncontainable.</p>\n<p>Unpredictable.</p>\n<p>Uncontrollable.</p>\n<p>You Are The Future.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-student",
+      "title": "The Student"
+    },
+    "next": {
+      "name": "the-courageous",
+      "title": "The Courageous"
+    }
   },
   {
     "title": "The Courageous",
@@ -5632,7 +6012,15 @@
         "title": "Learning Online and Tool Examples",
         "text": "<p>Shopify’s Director of Production Engineering explains how reading broadly\n  helps him get to the bottom of things: <a href=\"https://superorganizers.substack.com/p/how-to-build-a-learning-machine\">How to Make Yourself Into a\n    Learning Machine</a></p>\n<p><a href=\"https://readwise.io/\">Readwise</a> Get the most out of what you read, Readwise makes it easy to revisit and learn from your ebook &amp; article highlights.</p>\n<p><a href=\"https://apps.ankiweb.net/\">Anki</a> Powerful, intelligent flash cards. Remembering things just became much easier.</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-genius",
+      "title": "The Genius"
+    },
+    "next": {
+      "name": "the-visionary",
+      "title": "The Visionary"
+    }
   },
   {
     "title": "The Visionary",
@@ -5703,7 +6091,15 @@
         "video": "Lp7BL-UI0Rw",
         "title": "How NASA is answering the question: Are we alone?"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-courageous",
+      "title": "The Courageous"
+    },
+    "next": {
+      "name": "the-founder",
+      "title": "The Founder"
+    }
   },
   {
     "title": "The Founder",
@@ -5815,6 +6211,10 @@
         "title": "Source of Ideas",
         "text": "<p>The best source of ideas, is a list of <a href=\"https://www.ycombinator.com/topcompanies/\">Winning Companies</a>.</p>\n<p>Investors <a href=\"https://www.ycombinator.com/rfs/\">Requesting for Startups</a>.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet\">List of mergers and acquisitions by Alphabet</a>.</p>\n<p><a href=\"http://profithunt.co/\">Profit Hunt</a> (a play on <a href=\"https://en.wikipedia.org/wiki/Product_Hunt\">Product Hunt</a>) has many smaller ideas along with Monthly Recurring Revenue (MRR).</p>"
       }
-    ]
+    ],
+    "previous": {
+      "name": "the-visionary",
+      "title": "The Visionary"
+    }
   }
 ]

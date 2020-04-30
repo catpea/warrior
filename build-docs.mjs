@@ -73,7 +73,7 @@ for(let chapter of warrior){
     }
   }
 
-  const chapterHtml = pretty(chapterTemplate({title:chapter.title, sections:chapter.data}),{ocd:true});
+  const chapterHtml = pretty(chapterTemplate({title:chapter.title, sections:chapter.data, next:chapter.next,previous:chapter.previous}),{ocd:true});
   fs.writeFileSync(chapterFullPath, chapterHtml);
 
 }

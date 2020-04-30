@@ -5,35 +5,27 @@
     <title>Warrior</title>
     <link rel="stylesheet" href="tufte.css"/>
     <link rel="stylesheet" href="latex.css"/>
+    <link rel="stylesheet" href="custom.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
     <article>
       <h1 id="tufte-css">Warrior</h1>
-      <p class="subtitle">To My Friends.</p>
-
-
-
-        <blockquote>
-          <p>
-            A warrior is she that thrives and triumphs where’er she be.<br>
-            As to meaning to it all, you'll find the lesser in your lasting contributions,<br>
-            and the more important one, in the Light of Your Life.<br>
-          </p>
-        </blockquote>
-      
-
+      <blockquote style="padding: 3rem 1rem;">
+        <p>
+          To My Friends,<br>
+          A warrior is she that thrives and triumphs where’er she be.<br>
+        </p>
+      </blockquote>
       <section>
         <h2 id="toc">Table Of Contents</h2>
         {{#each links}}
           <p><a href="{{href}}">{{title}}</a></p>
         {{/each}}
       </section>
-
       <section>
         {{{changelog}}}
       </section>
-
     </article>
   </body>
 </html>

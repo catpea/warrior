@@ -5,39 +5,37 @@
     <title>Warrior</title>
     <link rel="stylesheet" href="tufte.css"/>
     <link rel="stylesheet" href="latex.css"/>
+    <link rel="stylesheet" href="custom.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-    section {
-      margin-bottom: 5rem;
-    }
-    </style>
   </head>
   <body>
     <article>
 
+      <section>
       <h1 id="tufte-css">{{title}}</h1>
+      </section>
 
       {{#each sections}}
         <section>
 
 
-          <!-- quote: { keys: Set { 'author', 'url', 'text' } }, -->
           {{#is this.type 'quote'}}
-          <div class="epigraph">
             <blockquote>
               {{{text}}}
               <footer>
+
                 {{#if url}}
                   <a href="{{url}}">{{author}}</a>
-                {{else}}
-                  {{autor}}
                 {{/if}}
+
+                {{#unless url}}
+                  {{author}}
+                {{/unless}}
+
               </footer>
             </blockquote>
-          </div>
           {{/is}}
 
-          <!-- youtube: { keys: Set { 'video', 'title' } }, -->
           {{#is this.type 'youtube'}}
             <h2>{{title}}</h2>
             <figure class="iframe-wrapper">
@@ -45,13 +43,11 @@
             </figure>
           {{/is}}
 
-          <!-- text: { keys: Set { 'title', 'text' } }, -->
           {{#is this.type 'text'}}
             <h2>{{title}}</h2>
             {{{text}}}
           {{/is}}
 
-          <!-- poem: { keys: Set { 'title', 'author', 'text' } }, -->
           {{#is this.type 'poem'}}
             <h2>{{title}}</h2>
             <h3>{{author}}</h3>
@@ -59,7 +55,6 @@
             {{{text}}}
           {{/is}}
 
-          <!-- image: { keys: Set { 'url', 'title', 'text' } }, -->
           {{#is this.type 'image'}}
             <figure>
               <img src="images/{{url}}" alt="{{title}}">
@@ -68,12 +63,10 @@
             {{{text}}}
           {{/is}}
 
-          <!-- subtitle: { keys: Set { 'title' } }, -->
           {{#is this.type 'subtitle'}}
             <h2>{{title}}</h2>
           {{/is}}
 
-          <!-- link: { keys: Set { 'url', 'title' } }, -->
           {{#is this.type 'link'}}
             <h2>{{title}}</h2>
             <p>
@@ -81,7 +74,6 @@
             </p>
           {{/is}}
 
-          <!-- business: { keys: Set { 'url', 'title', 'text' } } -->
           {{#is this.type 'business'}}
             <h2>Business Practice: {{title}}</h2>
             <figure>
@@ -93,7 +85,17 @@
         </section>
       {{/each}}
 
+      <section>
+        <p>
+          {{#if previous}}<a href="{{previous.name}}.html">&laquo; {{previous.title}}</a> &middot;{{/if}}
+          <a href="index.html">Table of Contents</a>
+        </p>
 
+        <p>
+          {{#if next}}<a href="{{next.name}}.html" class="lg">{{next.title}} &raquo;</a>{{/if}}
+        </p>
+
+    </section>
 
     </article>
   </body>

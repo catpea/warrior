@@ -98,6 +98,9 @@
           all time, sees races, eras, dates, generations,</p>
         <p>The past, the future, dwelling there, like space, inseparable
         together.</p>
+  next:
+    name: the-hunter
+    title: The Hunter
 - title: The Hunter
   name: the-hunter
   data:
@@ -201,6 +204,12 @@
         Notes from a
             Catastrophe: Man, Nature, and Climate Change</a> and <a href="https://www.audible.com/pd/The-Sixth-Extinction-Audiobook/B00FZ4JEAS">The Sixth Extinction,
             An Unnatural History</a></p>
+  previous:
+    name: introduction
+    title: Introduction
+  next:
+    name: the-adventurer
+    title: The Adventurer
 - title: The Adventurer
   name: the-adventurer
   data:
@@ -272,6 +281,12 @@
           support the countless adventurers that are sure to follow. Long after we
           depart, our hard earned wisdom will retain the momentum of our hardest
           slopes, to serve as an inextinguishable candle in the dark.</p>
+  previous:
+    name: the-hunter
+    title: The Hunter
+  next:
+    name: the-soldier
+    title: The Soldier
 - title: The Soldier
   name: the-soldier
   data:
@@ -349,21 +364,21 @@
     - type: poem
       title: Eight virtues of Bushido
       text: >-
-        <h5 id="righteousness">Righteousness</h5>
+        <h3 id="righteousness">Righteousness</h3>
 
         <p>Be acutely honest throughout your dealings with all people. Believe
         in
           justice, not from other people, but from yourself. To the true warrior, all
           points of view are deeply considered regarding honesty, justice and
           integrity. Warriors make a full commitment to their decisions.</p>
-        <h5 id="heroic-courage">Heroic Courage</h5>
+        <h3 id="heroic-courage">Heroic Courage</h3>
 
         <p>Hiding like a turtle in a shell is not living at all. A true warrior
         must
           have heroic courage. It is absolutely risky. It is living life completely,
           fully and wonderfully. Heroic courage is not blind. It is intelligent and
           strong.</p>
-        <h5 id="benevolence-compassion">Benevolence, Compassion</h5>
+        <h3 id="benevolence-compassion">Benevolence, Compassion</h3>
 
         <p>Through intense training and hard work the true warrior becomes quick
         and
@@ -371,33 +386,33 @@
           for good. They have compassion. They help their fellow men at every
           opportunity. If an opportunity does not arise, they go out of their way to
           find one.</p>
-        <h5 id="respect">Respect</h5>
+        <h3 id="respect">Respect</h3>
 
         <p>True warriors have no reason to be cruel. They do not need to prove
         their
           strength. Warriors are not only respected for their strength in battle, but
           also by their dealings with others. The true strength of a warrior becomes
           apparent during difficult times.</p>
-        <h5 id="integrity">Integrity</h5>
+        <h3 id="integrity">Integrity</h3>
 
         <p>When warriors say that they will perform an action, it is as good as
         done.
           Nothing will stop them from completing what they say they will do. They do
           not have to ‘give their word’. They do not have to ‘promise’. Speaking and
           doing are the same action.</p>
-        <h5 id="honour">Honour</h5>
+        <h3 id="honour">Honour</h3>
 
         <p>Warriors have only one judge of honor and character, and this is
           themselves. Decisions they make and how these decisions are carried out are
           a reflection of whom they truly are. You cannot hide from yourself.</p>
-        <h5 id="duty-and-loyalty">Duty and Loyalty</h5>
+        <h3 id="duty-and-loyalty">Duty and Loyalty</h3>
 
         <p>Warriors are responsible for everything that they have done and
         everything
           that they have said, and all of the consequences that follow. They are
           immensely loyal to all of those in their care. To everyone that they are
           responsible for, they remain fiercely true.</p>
-        <h5 id="self-control">Self-Control</h5>
+        <h3 id="self-control">Self-Control</h3>
 
         <p>Warriors feel more than others. This calmness of behavior and
         composure of
@@ -516,6 +531,12 @@
         hope
           for Peace, World Peace.</p>
         <p>Confident, and Unafraid.</p>
+  previous:
+    name: the-adventurer
+    title: The Adventurer
+  next:
+    name: the-knight-of-virtue
+    title: The Knight Of Virtue
 - title: The Knight Of Virtue
   name: the-knight-of-virtue
   data:
@@ -599,6 +620,12 @@
         <p>To search for the Grail, or Arthur, Percival, or Galahad, and the
         others;
           was to find the Knightly Virtues and Wisdom set to timeless songs and poems.</p>
+  previous:
+    name: the-soldier
+    title: The Soldier
+  next:
+    name: the-lady-and-the-gentleman
+    title: The Lady And The Gentleman
 - title: The Lady And The Gentleman
   name: the-lady-and-the-gentleman
   data:
@@ -689,6 +716,12 @@
         <p><a
         href="https://www.audible.com/pd/The-Compleat-Gentleman-Audiobook/B002V5GZ4W">The
         Compleat Gentleman, The Modern Man&#39;s Guide to Chivalry</a></p>
+  previous:
+    name: the-knight-of-virtue
+    title: The Knight Of Virtue
+  next:
+    name: the-officer
+    title: The Officer
 - title: The Officer
   name: the-officer
   data:
@@ -802,6 +835,12 @@
         <p>With sixty seconds’ worth of distance run,</p>
         <p>Yours is the Earth and everything that’s in it,</p>
         <p>And - which is more - you’ll be a Man, my son!</p>
+  previous:
+    name: the-lady-and-the-gentleman
+    title: The Lady And The Gentleman
+  next:
+    name: the-intellectual
+    title: The Intellectual
 - title: The Intellectual
   name: the-intellectual
   data:
@@ -961,6 +1000,12 @@
           idea worth sharing. While extraordinary claims, require extraordinary
           evidence; a simple question begs a simple answer.</p>
         <p>Yes. Schools kill creativity.</p>
+  previous:
+    name: the-officer
+    title: The Officer
+  next:
+    name: the-humanitarian
+    title: The Humanitarian
 - title: The Humanitarian
   name: the-humanitarian
   data:
@@ -1165,6 +1210,12 @@
         <p><a
         href="https://www.hindustantimes.com/delhi/a-school-under-metro-bridge-teaches-these-delhi-slum-children/story-Qr3EV279SarAME4K6N8orL.html">A
         school under Metro bridge teaches these Delhi slum children</a></p>
+  previous:
+    name: the-intellectual
+    title: The Intellectual
+  next:
+    name: the-ultra
+    title: The Ultra
 - title: The Ultra
   name: the-ultra
   data:
@@ -1316,6 +1367,12 @@
         part,
           keep extending your endurance, the pain is too primitive to catch up with
           an ultra.</p>
+  previous:
+    name: the-humanitarian
+    title: The Humanitarian
+  next:
+    name: the-superhero
+    title: The Superhero
 - title: The Superhero
   name: the-superhero
   data:
@@ -1542,6 +1599,12 @@
     - type: youtube
       video: FhzNSPiqO0M
       title: 'Make the rest of your life, the best of your life.'
+  previous:
+    name: the-ultra
+    title: The Ultra
+  next:
+    name: the-philosopher
+    title: The Philosopher
 - title: The Philosopher
   name: the-philosopher
   data:
@@ -1681,6 +1744,12 @@
         <p><a
         href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR">47
         Video YouTube Playlist</a></p>
+  previous:
+    name: the-superhero
+    title: The Superhero
+  next:
+    name: the-skeptic
+    title: The Skeptic
 - title: The Skeptic
   name: the-skeptic
   data:
@@ -1793,6 +1862,12 @@
         <p>And you can visit <a
         href="https://en.wikipedia.org/wiki/Common_English_usage_misconceptions">Common
         English usage misconceptions</a> for more.</p>
+  previous:
+    name: the-philosopher
+    title: The Philosopher
+  next:
+    name: the-scientist
+    title: The Scientist
 - title: The Scientist
   name: the-scientist
   data:
@@ -1870,6 +1945,12 @@
     - type: youtube
       video: dw4w1UsOafQ
       title: 'Richard Dawkins: Growing up in the Universe (1991)'
+  previous:
+    name: the-skeptic
+    title: The Skeptic
+  next:
+    name: the-naturalist
+    title: The Naturalist
 - title: The Naturalist
   name: the-naturalist
   data:
@@ -1941,6 +2022,12 @@
     - type: youtube
       video: p3Qnlu9Nfj8
       title: Pennsylvania Polka
+  previous:
+    name: the-scientist
+    title: The Scientist
+  next:
+    name: the-survivalist
+    title: The Survivalist
 - title: The Survivalist
   name: the-survivalist
   data:
@@ -2077,6 +2164,12 @@
     - type: youtube
       video: vAuO3bHxSpc
       title: Round Hut
+  previous:
+    name: the-naturalist
+    title: The Naturalist
+  next:
+    name: the-explorer
+    title: The Explorer
 - title: The Explorer
   name: the-explorer
   data:
@@ -2127,6 +2220,12 @@
     - type: youtube
       video: KDPnWgVGuhc
       title: Forgotten bunker found and opened
+  previous:
+    name: the-survivalist
+    title: The Survivalist
+  next:
+    name: the-discoverer
+    title: The Discoverer
 - title: The Discoverer
   name: the-discoverer
   data:
@@ -2145,6 +2244,12 @@
     - type: youtube
       video: P5ipVlY5p7w
       title: The Pluto Fact Song
+  previous:
+    name: the-explorer
+    title: The Explorer
+  next:
+    name: the-astronomer
+    title: The Astronomer
 - title: The Astronomer
   name: the-astronomer
   data:
@@ -2270,6 +2375,12 @@
     - type: youtube
       video: c6Eq2sI1NDY
       title: How the Edge of Our Galaxy Defies Known Physics
+  previous:
+    name: the-discoverer
+    title: The Discoverer
+  next:
+    name: the-mine-explorer
+    title: The Mine Explorer
 - title: The Mine Explorer
   name: the-mine-explorer
   data:
@@ -2359,6 +2470,12 @@
     - type: youtube
       video: 5w0RzhT2wYQ
       title: 'Road Kill Cave Conquered : Lucky To Be Alive | Aquachigger'
+  previous:
+    name: the-astronomer
+    title: The Astronomer
+  next:
+    name: the-dancer
+    title: The Dancer
 - title: The Dancer
   name: the-dancer
   data:
@@ -2518,6 +2635,12 @@
     - type: youtube
       video: 1FLThlB_OWc
       title: PRISYADKA (Russian Squat Kick TUTORIAL) - Detailed
+  previous:
+    name: the-mine-explorer
+    title: The Mine Explorer
+  next:
+    name: the-athlete
+    title: The Athlete
 - title: The Athlete
   name: the-athlete
   data:
@@ -2610,6 +2733,12 @@
     - type: youtube
       video: vs3WTVFChtw
       title: Rock Running - Real Olympics have few spectators.
+  previous:
+    name: the-dancer
+    title: The Dancer
+  next:
+    name: the-bodybuilder
+    title: The Bodybuilder
 - title: The Bodybuilder
   name: the-bodybuilder
   data:
@@ -2921,6 +3050,12 @@
         the mp3
           files are available here:
           <a href="https://github.com/westland-valhalla/drums/releases">https://github.com/westland-valhalla/drums/releases</a></p>
+  previous:
+    name: the-athlete
+    title: The Athlete
+  next:
+    name: the-luminary
+    title: The Luminary
 - title: The Luminary
   name: the-luminary
   data:
@@ -3012,6 +3147,12 @@
         comes.</p>
 
         <p>One minute after midnight, and it is already today.</p>
+  previous:
+    name: the-bodybuilder
+    title: The Bodybuilder
+  next:
+    name: the-chef
+    title: The Chef
 - title: The Chef
   name: the-chef
   data:
@@ -3073,6 +3214,12 @@
         <p><a
         href="https://realsalt.com/why-do-some-japanese-restaurants-keep-piles-of-salt-outside/">Why
         Do Some Japanese Restaurants Keep Piles of Salt Outside?</a></p>
+  previous:
+    name: the-luminary
+    title: The Luminary
+  next:
+    name: the-blacksmith
+    title: The Blacksmith
 - title: The Blacksmith
   name: the-blacksmith
   data:
@@ -3172,6 +3319,12 @@
     - type: youtube
       video: c80mMzDknTI
       title: 'Chevron or Wheat twist, forge welding twists'
+  previous:
+    name: the-chef
+    title: The Chef
+  next:
+    name: the-maker
+    title: The Maker
 - title: The Maker
   name: the-maker
   data:
@@ -3386,6 +3539,12 @@
     - type: youtube
       video: jn9Od4oP8D0
       title: 'Water Trapped in Quartz Rock vs 60,000 PSI Waterjet - Enhydro Agate'
+  previous:
+    name: the-blacksmith
+    title: The Blacksmith
+  next:
+    name: the-dj
+    title: The Dj
 - title: The Dj
   name: the-dj
   data:
@@ -3487,6 +3646,12 @@
     - type: youtube
       video: JDJRg8sowP4
       title: 'Nina Kraviz: Dream Machine'
+  previous:
+    name: the-maker
+    title: The Maker
+  next:
+    name: the-musician
+    title: The Musician
 - title: The Musician
   name: the-musician
   data:
@@ -3687,6 +3852,12 @@
         <p>Upload your music to <a href="https://soundcloud.com">Soundcloud</a>
         you get 180 minues of music space for
           free (per account).</p>
+  previous:
+    name: the-dj
+    title: The Dj
+  next:
+    name: the-composer
+    title: The Composer
 - title: The Composer
   name: the-composer
   data:
@@ -3876,6 +4047,12 @@
         <p>Make your own path.</p>
         <p>Let no one play you like a piano key.</p>
         <p>Be the change, you hope to see.</p>
+  previous:
+    name: the-musician
+    title: The Musician
+  next:
+    name: the-poet
+    title: The Poet
 - title: The Poet
   name: the-poet
   data:
@@ -3993,6 +4170,12 @@
     - type: youtube
       video: AfsnHVaScjg
       title: Ravens can talk!
+  previous:
+    name: the-composer
+    title: The Composer
+  next:
+    name: the-sculptor
+    title: The Sculptor
 - title: The Sculptor
   name: the-sculptor
   data:
@@ -4105,6 +4288,12 @@
     - type: youtube
       video: 20b2JWz2TfE
       title: Best 3D Scanners 2019
+  previous:
+    name: the-poet
+    title: The Poet
+  next:
+    name: the-photographer
+    title: The Photographer
 - title: The Photographer
   name: the-photographer
   data:
@@ -4126,6 +4315,12 @@
     - type: youtube
       video: QpeUEK_5Tb0
       title: How to Create Tilt-Shift / Miniature World Time-lapses
+  previous:
+    name: the-sculptor
+    title: The Sculptor
+  next:
+    name: the-filmmaker
+    title: The Filmmaker
 - title: The Filmmaker
   name: the-filmmaker
   data:
@@ -4207,6 +4402,12 @@
     - type: youtube
       video: dSnosk4tWrg
       title: Like Jane
+  previous:
+    name: the-photographer
+    title: The Photographer
+  next:
+    name: the-artist
+    title: The Artist
 - title: The Artist
   name: the-artist
   data:
@@ -4379,6 +4580,12 @@
     - type: youtube
       video: bluffx6sB04
       title: What's an Eraser Shield?
+  previous:
+    name: the-filmmaker
+    title: The Filmmaker
+  next:
+    name: the-designer
+    title: The Designer
 - title: The Designer
   name: the-designer
   data:
@@ -4551,6 +4758,12 @@
           the fabric, and then Cut &amp; Sew the garment. Take a look at the <a href="https://www.youtube.com/watch?v=IQdPP04qEwU">source
             video</a> that demonstrates the problem with sublimating pre-made garments
           in a bit more detail.</p>
+  previous:
+    name: the-artist
+    title: The Artist
+  next:
+    name: the-graffitist
+    title: The Graffitist
 - title: The Graffitist
   name: the-graffitist
   data:
@@ -4641,6 +4854,12 @@
     - type: youtube
       video: RwK4NmQZe64
       title: Red graffiti
+  previous:
+    name: the-designer
+    title: The Designer
+  next:
+    name: the-hacker
+    title: The Hacker
 - title: The Hacker
   name: the-hacker
   data:
@@ -4697,7 +4916,7 @@
         brother’s
           <a href="https://www.amazon.com/keylogger/s?k=keylogger">key logger</a>. To log into her dad’s computer she uses the ssh command.
           ssh is just a program that establishes a secure (encrypted) connection
-          between two computers. She executes ssh <a href="mailto:&#97;&#x6c;&#x65;&#x78;&#x40;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#56;&#x2e;&#49;&#46;&#x32;&#55;">&#97;&#x6c;&#x65;&#x78;&#x40;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#56;&#x2e;&#49;&#46;&#x32;&#55;</a> at <a href="https://youtu.be/W76o_iG7Y7g?t=87">1:27</a>. And
+          between two computers. She executes ssh <a href="mailto:&#x61;&#108;&#101;&#x78;&#64;&#x31;&#57;&#x32;&#x2e;&#49;&#54;&#56;&#x2e;&#x31;&#46;&#x32;&#x37;">&#x61;&#108;&#101;&#x78;&#64;&#x31;&#57;&#x32;&#x2e;&#49;&#54;&#56;&#x2e;&#x31;&#46;&#x32;&#x37;</a> at <a href="https://youtu.be/W76o_iG7Y7g?t=87">1:27</a>. And
           begins using the ssh program.</p>
         <p>The remote shell, for convenience sake, looks almost the same as her
         own
@@ -4917,6 +5136,12 @@
     - type: youtube
       video: jeghGhVdt9s
       title: Gallium vs. Titalium - Abus Padlock Meets a Gruesome End
+  previous:
+    name: the-graffitist
+    title: The Graffitist
+  next:
+    name: the-wizard
+    title: The Wizard
 - title: The Wizard
   name: the-wizard
   data:
@@ -5057,6 +5282,12 @@
         <p>Dear Reader, UNIX is here to convince you that you are a wizard,
         hairy; and
           armed with many a fancy spell to hoot.</p>
+  previous:
+    name: the-hacker
+    title: The Hacker
+  next:
+    name: the-guru
+    title: The Guru
 - title: The Guru
   name: the-guru
   data:
@@ -5093,7 +5324,7 @@
         <p>command-name --some-argument value-of-the-argument</p>
 
         <p>gmail --recipient <a
-        href="mailto:&#97;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#97;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a>
+        href="mailto:&#97;&#x6c;&#105;&#99;&#101;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#x6f;&#x6d;">&#97;&#x6c;&#105;&#99;&#101;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#x6f;&#x6d;</a>
         --subject &quot;I can&#39;t even!&quot; --message &quot;I
           can&#39;t freaking believe it, commands are cool, rawr!&quot;</p>
     - type: text
@@ -5170,7 +5401,7 @@
       title: Commands Are Friends!
       text: >-
         <p>It is so awesome to just open a terminal, type in gmail <a
-        href="mailto:&#97;&#108;&#x69;&#99;&#x65;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#111;&#109;">&#97;&#108;&#x69;&#99;&#x65;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#111;&#109;</a>
+        href="mailto:&#x61;&#x6c;&#x69;&#99;&#101;&#x40;&#97;&#111;&#x6c;&#46;&#99;&#111;&#x6d;">&#x61;&#x6c;&#x69;&#99;&#101;&#x40;&#97;&#111;&#x6c;&#46;&#99;&#111;&#x6d;</a>
         -s
           &quot;About Cybertruck&quot; -m &quot;So did you get the $69K build?&quot; and go have your
           Irish Breakfast Tea (or an Earl Gray with an extra lump of sugar and an
@@ -5384,6 +5615,12 @@
           server, <a href="https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot">stream the coffeemaker</a> using the <a href="https://www.raspberrypi.org/products/camera-module-v2/">camera board module</a>, and
           let people brew you one for a small <a href="https://stripe.com/">fee of $9.95</a> while you <a href="https://gohugo.io/getting-started/quick-start/">blog about
             the experience</a> on the PI it self.</p>
+  previous:
+    name: the-wizard
+    title: The Wizard
+  next:
+    name: the-programmer
+    title: The Programmer
 - title: The Programmer
   name: the-programmer
   data:
@@ -5469,6 +5706,12 @@
     - type: youtube
       video: nL34zDTPkcs
       title: You can learn Arduino in 15 minutes.
+  previous:
+    name: the-guru
+    title: The Guru
+  next:
+    name: the-web-developer
+    title: The Web Developer
 - title: The Web Developer
   name: the-web-developer
   data:
@@ -5557,7 +5800,7 @@
         apply</h5>
 
         <p>Please email <a
-        href="mailto:&#116;&#x68;&#x65;&#109;&#101;&#115;&#x40;&#115;&#104;&#x6f;&#112;&#x69;&#x66;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#x68;&#x65;&#109;&#101;&#115;&#x40;&#115;&#104;&#x6f;&#112;&#x69;&#x66;&#121;&#x2e;&#x63;&#x6f;&#x6d;</a>
+        href="mailto:&#x74;&#104;&#101;&#x6d;&#x65;&#115;&#x40;&#115;&#x68;&#111;&#112;&#x69;&#102;&#121;&#x2e;&#99;&#x6f;&#109;">&#x74;&#104;&#101;&#x6d;&#x65;&#115;&#x40;&#115;&#x68;&#111;&#112;&#x69;&#102;&#121;&#x2e;&#99;&#x6f;&#109;</a>
         and include all of the following:</p>
 
         <ol>
@@ -5717,6 +5960,12 @@
           the web, think of one as a developer of the web. That is a difference
           between $180 and $2,200,000, a resume and an outstanding portfolio, an
           employee and an employer, bugfixes and excitement.</p>
+  previous:
+    name: the-programmer
+    title: The Programmer
+  next:
+    name: the-cryptographer
+    title: The Cryptographer
 - title: The Cryptographer
   name: the-cryptographer
   data:
@@ -5824,6 +6073,12 @@
     - type: youtube
       video: nVVF8dgKC38
       title: 'Keeping Secrets: Cryptography In A Connected World'
+  previous:
+    name: the-web-developer
+    title: The Web Developer
+  next:
+    name: the-highschooler
+    title: The Highschooler
 - title: The Highschooler
   name: the-highschooler
   data:
@@ -6233,6 +6488,12 @@
         world...</p>
 
         <p>... and we did ...</p>
+  previous:
+    name: the-cryptographer
+    title: The Cryptographer
+  next:
+    name: the-principal
+    title: The Principal
 - title: The Principal
   name: the-principal
   data:
@@ -6406,6 +6667,12 @@
         Our
           time is precious, life is so dear. There simply is no time for charades.</p>
         <p>Principal, stand up, and deliver.</p>
+  previous:
+    name: the-highschooler
+    title: The Highschooler
+  next:
+    name: the-teacher
+    title: The Teacher
 - title: The Teacher
   name: the-teacher
   data:
@@ -6608,6 +6875,12 @@
     - type: youtube
       video: TMrtLsQbaok
       title: Greta Thunberg
+  previous:
+    name: the-principal
+    title: The Principal
+  next:
+    name: the-student
+    title: The Student
 - title: The Student
   name: the-student
   data:
@@ -6695,6 +6968,12 @@
     - type: youtube
       video: vvlozhvQPJw
       title: 'We can end poverty, but this is why we haven''t by Teva Sienicki'
+  previous:
+    name: the-teacher
+    title: The Teacher
+  next:
+    name: the-genius
+    title: The Genius
 - title: The Genius
   name: the-genius
   data:
@@ -7148,6 +7427,12 @@
         <p>Uncontrollable.</p>
 
         <p>You Are The Future.</p>
+  previous:
+    name: the-student
+    title: The Student
+  next:
+    name: the-courageous
+    title: The Courageous
 - title: The Courageous
   name: the-courageous
   data:
@@ -7367,6 +7652,12 @@
 
         <p><a href="https://apps.ankiweb.net/">Anki</a> Powerful, intelligent
         flash cards. Remembering things just became much easier.</p>
+  previous:
+    name: the-genius
+    title: The Genius
+  next:
+    name: the-visionary
+    title: The Visionary
 - title: The Visionary
   name: the-visionary
   data:
@@ -7417,6 +7708,12 @@
     - type: youtube
       video: Lp7BL-UI0Rw
       title: 'How NASA is answering the question: Are we alone?'
+  previous:
+    name: the-courageous
+    title: The Courageous
+  next:
+    name: the-founder
+    title: The Founder
 - title: The Founder
   name: the-founder
   data:
@@ -7586,3 +7883,6 @@
         <p><a href="http://profithunt.co/">Profit Hunt</a> (a play on <a
         href="https://en.wikipedia.org/wiki/Product_Hunt">Product Hunt</a>) has
         many smaller ideas along with Monthly Recurring Revenue (MRR).</p>
+  previous:
+    name: the-visionary
+    title: The Visionary

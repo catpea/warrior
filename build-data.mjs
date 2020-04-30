@@ -25,15 +25,50 @@ const options = {
 // Parse Data
 const response = [];
 const toc = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, options.index))));
+
+let index = 0;
 for(let name of toc){
+
   let title = startCase(name);
+
+  let previousIndex = index-1;
+  let nextIndex = index+1;
+
+  let previous;
+  let next;
+
+  if(previousIndex<0){
+    previous = undefined;//{name:'index', title:'Table of Contents'};
+  }else{
+    previous = {
+      name: toc[previousIndex],
+      title: startCase(toc[previousIndex])
+    }
+  }
+
+  if((nextIndex+1)>toc.length){
+    next = undefined;//{name:'index', title:'Table of Contents'};
+  }else{
+    next = {
+      name: toc[nextIndex],
+      title: startCase(toc[nextIndex])
+    }
+  }
+
   const sections = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, name, options.index))));
+
   for(let section of sections){
     if(section.text){
       section.text = pretty(marked(fs.readFileSync(path.resolve(path.join(options.directory, name, section.text))).toString()), {ocd:true});
     }
   }
-  response.push({title, name, data:sections});
+
+  const element = {title, name, data:sections};
+  if(previous) element.previous = previous;
+  if(next) element.next = next;
+
+  response.push(element);
+  index++;
 }
 fs.ensureDirSync( path.resolve(path.join(options.destination)) );
 
