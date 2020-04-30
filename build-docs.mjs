@@ -37,6 +37,7 @@ const options = {
 
   docs:{
     path: 'docs',
+    missing:'docs/404.html',
     index:'docs/index.html',
     changelog:'docs/changelog.html',
   }
@@ -82,6 +83,7 @@ for(let chapter of warrior){
 
 const indexHtml = pretty(indexTemplate({links, changelog}),{ocd:true});
 fs.writeFileSync(path.resolve(options.docs.index), indexHtml);
+fs.writeFileSync(path.resolve(options.docs.missing), indexHtml);
 
 const changelogHtml = pretty(changelogTemplate({changelog}),{ocd:true});
 fs.writeFileSync(path.resolve(options.docs.changelog), changelogHtml);
