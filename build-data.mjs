@@ -10,7 +10,7 @@ import startCase from 'lodash/startCase.js';
 
 const options = {
 
-    directory: 'data',
+  directory: 'data',
   index: 'index.yaml',
 
   destination: 'dist',

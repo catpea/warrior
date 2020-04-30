@@ -27,17 +27,18 @@ const options = {
   template: {
     index:'tmpl/index.hbs',
     chapter:'tmpl/chapter.hbs',
+    changelog:'tmpl/changelog.hbs',
   },
 
   data:{
     json: 'dist/warrior.json',
     changelog: 'dist/changelog.html',
-
   },
 
   docs:{
     path: 'docs',
     index:'docs/index.html',
+    changelog:'docs/changelog.html',
   }
 
 }
@@ -47,6 +48,7 @@ const schema = {};
 
 // Load Templates
 const indexTemplate = handlebars.compile( fs.readFileSync(path.resolve(options.template.index)).toString() );
+const changelogTemplate = handlebars.compile( fs.readFileSync(path.resolve(options.template.changelog)).toString() );
 const chapterTemplate = handlebars.compile( fs.readFileSync(path.resolve(options.template.chapter)).toString() );
 
 // Load Data
@@ -80,6 +82,9 @@ for(let chapter of warrior){
 
 const indexHtml = pretty(indexTemplate({links, changelog}),{ocd:true});
 fs.writeFileSync(path.resolve(options.docs.index), indexHtml);
+
+const changelogHtml = pretty(changelogTemplate({changelog}),{ocd:true});
+fs.writeFileSync(path.resolve(options.docs.changelog), changelogHtml);
 
 for(let key in schema){
   schema[key].keys.delete('type')

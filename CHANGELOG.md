@@ -1,7 +1,7 @@
-## CHANGELOG
+## Changelog
 
 ### April 30th 2020, 12:47:00 pm
-Rebuild the Build System and Switched to [Edward Tufte CSS].
+Rebuilt the Build System and Switched to [Edward Tufte CSS].
 
 ### April 24th 2020, 10:00:51 pm
 Created a new chapter [The Mine Explorer] I moved a couple of videos from [The Explorer] into it.

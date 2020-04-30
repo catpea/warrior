@@ -34,7 +34,7 @@ receives 70% of each theme sale.
 
 ##### What to submit when you apply
 
-Please email themes@shopify.com and include all of the following:
+Please email themes\@shopify.com and include all of the following:
 
 1.  A link to an active Shopify website you built for a client. This must
 be a live, fully functioning shop that you built for a client.

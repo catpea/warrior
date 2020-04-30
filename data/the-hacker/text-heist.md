@@ -1,20 +1,20 @@
 She likley stole her daddy’s dad’s password by using her older brother’s
 [key logger][1]. To log into her dad’s computer she uses the ssh command.
 ssh is just a program that establishes a secure (encrypted) connection
-between two computers. She executes ssh alex@192.168.1.27 at [1:27][2]. And
+between two computers. She executes ssh alex\@192.168.1.27 at [1:27][2]. And
 begins using the ssh program.
 
 The remote shell, for convenience sake, looks almost the same as her own
 local shell. Even though very little changes on her screen she is in a
 full-screen program now, and once she is authenticated her shell prompt
-changes to that of the remote system. It goes from pi@calebpi ~ $ to
+changes to that of the remote system. It goes from pi\@calebpi ~ $ to
 \[\]~$\[\].
 
 A shell prompt is the thing that indicates that you are free to type
 commands. Her dad’s shell prompt is broken, he messed up with whatever was
 supposed to go in between those square brackets, it maybe that he is using
 fonts that the Raspberry PI does not have, or some mess like that. My
-prompt as I write this is \[user@computer warrior\]$ that means username is
+prompt as I write this is \[user\@computer warrior\]$ that means username is
 user, my computer’s network name is computer, and the directory I am in is
 warrior.
 
