@@ -19,6 +19,7 @@
   "homepage": "https://github.com/catpea/warrior#readme",
   "dependencies": {
     "fs-extra": "^9.0.0",
+    "handlebars": "^4.7.6",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "marked": "^1.0.0",
