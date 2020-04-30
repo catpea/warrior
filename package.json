@@ -1,0 +1,27 @@
+{
+  "name": "warrior",
+  "version": "1.0.0",
+  "description": "A Book About Growing Up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catpea/warrior.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catpea/warrior/issues"
+  },
+  "homepage": "https://github.com/catpea/warrior#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15",
+    "marked": "^1.0.0",
+    "pretty": "^2.0.0"
+  }
+}
