@@ -31,7 +31,7 @@
   title: Nataly Buhr
 
 - type: image
-  url: warrior/images/buhr1.png
+  url: buhr1.png
 
 - type: text
   title: 'How Unfortunate... '
@@ -50,7 +50,7 @@
   text: text-teaching-is-complex-and-rewarding.md
 
 - type: image
-  url: warrior/images/gpa.png
+  url: gpa.png
   text: image-undefined.md
 
 - type: text

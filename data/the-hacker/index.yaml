@@ -15,7 +15,7 @@
   title: What's inside the Raspberry Pi 4 Desktop Kit?
 
 - type: image
-  url: warrior/images/portable-monitor.jpg
+  url: portable-monitor.jpg
   title: Portable Monitor
 
 - type: text
@@ -23,7 +23,7 @@
   text: text-monitors.md
 
 - type: image
-  url: warrior/images/screen-projector.jpg
+  url: screen-projector.jpg
   title: Screen Projector
   text: image-screen-projector.md
 
@@ -40,7 +40,7 @@
   text: text-the-kill-9.md
 
 - type: image
-  url: warrior/images/aybabtu.png
+  url: aybabtu.png
   title: All Your Base Are Belong To Us
   text: image-all-your-base-are-belong-to-us.md
 
@@ -49,7 +49,7 @@
   text: text-jargon-file.md
 
 - type: image
-  url: warrior/images/glider.png
+  url: glider.png
   title: The Glider
 
 - type: text
@@ -57,7 +57,7 @@
   text: text-hacker-logo.md
 
 - type: image
-  url: warrior/images/gliders2.gif
+  url: gliders2.gif
   title: A look at a glider
 
 - type: text
@@ -65,7 +65,7 @@
   text: text-gliders.md
 
 - type: image
-  url: warrior/images/gliders.gif
+  url: gliders.gif
   title: Game of Life and the Gliders
 
 - type: text

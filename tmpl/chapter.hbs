@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
     section {
-      margin-bottom: 8rem;
+      margin-bottom: 5rem;
     }
     </style>
   </head>
@@ -83,19 +83,16 @@
 
           <!-- business: { keys: Set { 'url', 'title', 'text' } } -->
           {{#is this.type 'business'}}
-            <h2>{{title}}</h2>
+            <h2>Business Practice: {{title}}</h2>
+            <figure>
+              <img src="images/{{url}}" alt="{{title}}">
+            </figure>
             {{{text}}}
-            <p>
-              <a href="{{url}}">{{title}} &raquo;</a>
-            </p>
           {{/is}}
 
-
-
-          <!-- <h2 id="toc">Table Of Contents</h2>
-          <p><a href="{{href}}">{{title}}</a></p> -->
         </section>
       {{/each}}
+
 
 
     </article>

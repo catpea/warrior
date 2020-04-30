@@ -25,12 +25,12 @@
   title: Newton - Gravitation universelle
 
 - type: image
-  url: warrior/images/principia.png
+  url: principia.png
   title: Newton's Principia
   text: image-newtons-principia.md
 
 - type: image
-  url: warrior/images/cannon.jpg
+  url: cannon.jpg
   title: Philosophy
   text: image-philosophy.md
 

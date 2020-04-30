@@ -1,15 +1,15 @@
 - type: image
-  url: warrior/images/zeno-of-citium.jpg
+  url: zeno-of-citium.jpg
   title: Zeno of Citium
   text: image-zeno-of-citium.md
 
 - type: image
-  url: warrior/images/marcus-aurelius.jpg
+  url: marcus-aurelius.jpg
   title: Marcus Aurelius
   text: image-marcus-aurelius.md
 
 - type: image
-  url: warrior/images/tomoe-gozen.jpg
+  url: tomoe-gozen.jpg
   title: Tomoe Gozen
   text: image-tomoe-gozen.md
 
@@ -55,7 +55,7 @@
   title: Mad World Mountain Dew
 
 - type: image
-  url: warrior/images/lady.png
+  url: lady.png
   title: Hope
   text: image-hope.md
 

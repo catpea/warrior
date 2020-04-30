@@ -87,22 +87,22 @@
   title: Casting and Machining a Toothed Pulley
 
 - type: business
-  url: warrior/images/ponoko.jpg
+  url: ponoko.jpg
   title: Ponoko
   text: business-ponoko.md
 
 - type: business
-  url: warrior/images/ponoko-clocks.jpg
+  url: ponoko-clocks.jpg
   title: Ponoko Clocks
   text: business-ponoko-clocks.md
 
 - type: business
-  url: warrior/images/ponoko-cases.jpg
+  url: ponoko-cases.jpg
   title: Ponoko Cases
   text: business-ponoko-cases.md
 
 - type: business
-  url: warrior/images/ponoko-wallet.jpg
+  url: ponoko-wallet.jpg
   title: Wallets
   text: business-wallets.md
 
@@ -111,7 +111,7 @@
   title: 'Dremel Laser Cutter Demo ($6,499.00 - $8,499.00)'
 
 - type: business
-  url: warrior/images/leather.png
+  url: leather.png
   title: Laser-cut Leather
   text: business-laser-cut-leather.md
 
@@ -120,7 +120,7 @@
   title: Dremel DigiLab Laser Cutter Luggage Tag Project
 
 - type: business
-  url: warrior/images/leather2.png
+  url: leather2.png
   title: Laser-cut Leather
   text: business-laser-cut-leather-part-2.md
 

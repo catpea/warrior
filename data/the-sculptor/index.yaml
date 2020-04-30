@@ -88,12 +88,12 @@
   title: Why This Is the Best 3D Printer - Comparing ALL My Printers!!!
 
 - type: business
-  url: warrior/images/shapeways.png
+  url: shapeways.png
   title: Shapeways Laser Printing
   text: business-shapeways-laser-printing.md
 
 - type: business
-  url: warrior/images/3dscan.png
+  url: 3dscan.png
   title: Scanned Model Sales
   text: business-scanned-model-sales.md
 

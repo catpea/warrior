@@ -23,7 +23,7 @@
   title: Poles Escape With Secret of Enigma
 
 - type: image
-  url: warrior/images/enigma-patent.png
+  url: enigma-patent.png
   title: Enigma Machine
   text: image-enigma-machine.md
 
@@ -80,7 +80,7 @@
   text: text-kryptos.md
 
 - type: image
-  url: warrior/images/kryptos.jpg
+  url: kryptos.jpg
 
 - type: text
   title: Kryptos Transcription

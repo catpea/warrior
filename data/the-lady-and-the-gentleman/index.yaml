@@ -3,7 +3,7 @@
   text: quote-edmund-burke.md
 
 - type: image
-  url: warrior/images/gentleman.jpg
+  url: gentleman.jpg
   title: The Lady and The Gentleman
 
 - type: text
@@ -11,7 +11,7 @@
   text: text-inside-out.md
 
 - type: image
-  url: warrior/images/doubt.jpg
+  url: doubt.jpg
   title: Doubt
 
 - type: text
@@ -35,7 +35,7 @@
   text: text-definition.md
 
 - type: image
-  url: warrior/images/wanderer.jpg
+  url: wanderer.jpg
   title: A Wanderer Ennobled By His Deeds
 
 - type: text

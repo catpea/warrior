@@ -3,12 +3,12 @@
   title: 'Great Philosopher Jean Paul Sartre, plays the piano.'
 
 - type: image
-  url: warrior/images/ableton.png
+  url: ableton.png
   title: Important Music Tutorial
   text: image-important-music-tutorial.md
 
 - type: image
-  url: warrior/images/stereo-master.jpg
+  url: stereo-master.jpg
   title: The Masters of the Stereo
   text: image-the-masters-of-the-stereo.md
 
@@ -129,12 +129,12 @@
   text: text-community-links.md
 
 - type: business
-  url: warrior/images/bandcamp.png
+  url: bandcamp.png
   title: Bandcamp Music Sales
   text: business-bandcamp-music-sales.md
 
 - type: business
-  url: warrior/images/splice.png
+  url: splice.png
   title: Splice Sample Sales
   text: business-splice-sample-sales.md
 

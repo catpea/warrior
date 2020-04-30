@@ -16,7 +16,7 @@
   text: text-tracing-paper-part-2.md
 
 - type: image
-  url: warrior/images/graphite-paper.jpg
+  url: graphite-paper.jpg
   title: Graphite Paper
   text: image-graphite-paper.md
 
@@ -25,7 +25,7 @@
   title: 'Getting Started: Three Ways to Transfer an Image to Watercolor Paper'
 
 - type: image
-  url: warrior/images/lightbox.jpg
+  url: lightbox.jpg
   title: Light Box
   text: image-light-box.md
 
@@ -34,7 +34,7 @@
   title: How to trace a picture.
 
 - type: image
-  url: warrior/images/projector.jpg
+  url: projector.jpg
   title: Digital Projector
   text: image-digital-projector.md
 
@@ -43,27 +43,27 @@
   title: Home Wall Painting Using projector - DIY
 
 - type: image
-  url: warrior/images/projector-phone.jpg
+  url: projector-phone.jpg
   title: Digital Projector
   text: image-digital-projector-part-2.md
 
 - type: image
-  url: warrior/images/mona1.jpg
+  url: mona1.jpg
   title: Mona Lisa
   text: image-mona-lisa.md
 
 - type: image
-  url: warrior/images/mona2.jpg
+  url: mona2.jpg
   title: Mona Lisa Edge Detection
   text: image-mona-lisa-edge-detection.md
 
 - type: image
-  url: warrior/images/mona3.jpg
+  url: mona3.jpg
   title: Mona Lisa Simplified Color Palette
   text: image-mona-lisa-simplified-color-palette.md
 
 - type: image
-  url: warrior/images/mona4.jpg
+  url: mona4.jpg
   title: Mona Lisa Highlights
   text: image-mona-lisa-highlights.md
 
@@ -96,7 +96,7 @@
   title: Grisaille Method with Jon deMartin
 
 - type: business
-  url: warrior/images/bri.jpg
+  url: bri.jpg
   title: Brianna Schretlen and her Fur Kids
   text: business-brianna-schretlen-and-her-fur-kids.md
 

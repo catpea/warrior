@@ -36,7 +36,7 @@
   title: 'Play With Your Rhythm: Drum Patterns'
 
 - type: image
-  url: warrior/images/drumkit.jpg
+  url: drumkit.jpg
   title: The Drum Kit
   text: image-the-drum-kit-part-2.md
 
@@ -57,7 +57,7 @@
   text: text-never-fear.md
 
 - type: image
-  url: warrior/images/nocturne.png
+  url: nocturne.png
   title: Chopin's Revolutionary Nocturne
 
 - type: text

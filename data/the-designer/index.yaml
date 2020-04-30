@@ -3,22 +3,22 @@
   text: text-pixel-art.md
 
 - type: image
-  url: warrior/images/pixelart0.gif
+  url: pixelart0.gif
   title: Dušan Čežek
   text: image-dusan-cezek.md
 
 - type: image
-  url: warrior/images/pixelart1.png
+  url: pixelart1.png
   title: Octavi Navarro
   text: image-octavi-navarro.md
 
 - type: image
-  url: warrior/images/pixelart2.png
+  url: pixelart2.png
   title: eBoy Group
   text: image-e-boy-group.md
 
 - type: image
-  url: warrior/images/pixelart3.gif
+  url: pixelart3.gif
   title: Paul Robertson
   text: image-paul-robertson.md
 
@@ -51,27 +51,27 @@
   title: eBoy and the perfection of pixels
 
 - type: business
-  url: warrior/images/pixelart-product-1.jpg
+  url: pixelart-product-1.jpg
   title: Pixelart Watch
   text: business-pixelart-watch.md
 
 - type: business
-  url: warrior/images/pixelart-product-2.jpg
+  url: pixelart-product-2.jpg
   title: Huge Pixelart Posters
   text: business-huge-pixelart-posters.md
 
 - type: business
-  url: warrior/images/pixelart-product-4.jpg
+  url: pixelart-product-4.jpg
   title: Blinkenlighten Frame
   text: business-blinkenlighten-frame.md
 
 - type: business
-  url: warrior/images/pixelart-product-3.jpg
+  url: pixelart-product-3.jpg
   title: Pixelart is Life
   text: business-pixelart-is-life.md
 
 - type: image
-  url: warrior/images/demoscene.jpg
+  url: demoscene.jpg
   title: Demoscene
   text: image-demoscene.md
 
@@ -88,23 +88,23 @@
   text: text-pixel-art-part-2.md
 
 - type: image
-  url: warrior/images/fui1.jpg
+  url: fui1.jpg
   title: Fantasy User Interface
 
 - type: image
-  url: warrior/images/fui2.jpg
+  url: fui2.jpg
   title: Fantasy User Interface
 
 - type: image
-  url: warrior/images/fui3.jpg
+  url: fui3.jpg
   title: Fantasy User Interface
 
 - type: image
-  url: warrior/images/fui4.jpg
+  url: fui4.jpg
   title: Fantasy User Interface
 
 - type: image
-  url: warrior/images/fui5.png
+  url: fui5.png
   title: Fantasy User Interface
 
 - type: youtube
@@ -116,30 +116,30 @@
   title: It's a unix system
 
 - type: image
-  url: warrior/images/skeuomorphism.png
+  url: skeuomorphism.png
   title: Skeuomorphism
   text: image-skeuomorphism.md
 
 - type: image
-  url: warrior/images/minimalism.png
+  url: minimalism.png
   title: Minimalism and Typography
   text: image-minimalism-and-typography.md
 
 - type: business
-  url: warrior/images/dyesub1.jpg
+  url: dyesub1.jpg
   title: Dye Sublimation Printing
   text: business-dye-sublimation-printing.md
 
 - type: business
-  url: warrior/images/dyesub2.jpg
+  url: dyesub2.jpg
   title: Product Ideas
 
 - type: business
-  url: warrior/images/dyesub2b.jpg
+  url: dyesub2b.jpg
   title: Product Ideas
 
 - type: business
-  url: warrior/images/dyesub3.jpg
+  url: dyesub3.jpg
   title: Product Ideas
 
 - type: youtube
@@ -151,6 +151,6 @@
   title: Sportswear Printing - All over Print - Cut - Sew ( basketball uniforms)
 
 - type: business
-  url: warrior/images/dyesub0.jpg
+  url: dyesub0.jpg
   title: Problems with non Cut & Sew
   text: business-problems-with-non-cut-sew.md

@@ -1,5 +1,5 @@
 - type: image
-  url: warrior/images/courage-calls.jpg
+  url: courage-calls.jpg
   title: Dame Millicent Garrett Fawcett
   text: image-dame-millicent-garrett-fawcett.md
 
@@ -37,32 +37,32 @@
   text: text-article-one-inherent-dignity-nobility.md
 
 - type: image
-  url: warrior/images/mountain.jpg
+  url: mountain.jpg
   title: Self Education starts With Life Changing Books
   text: image-self-education-starts-with-life-changing-books.md
 
 - type: image
-  url: warrior/images/short-history.jpg
+  url: short-history.jpg
   title: A Short History of Nearly Everything
   text: image-a-short-history-of-nearly-everything.md
 
 - type: image
-  url: warrior/images/demon.jpg
+  url: demon.jpg
   title: 'The Demon-Haunted World: Science as a Candle in the Dark'
   text: image-the-demon-haunted-world-science-as-a-candle-in-the-dark.md
 
 - type: image
-  url: warrior/images/black-hole.jpg
+  url: black-hole.jpg
   title: 'Death by Black Hole: And Other Cosmic Quandaries'
   text: image-death-by-black-hole-and-other-cosmic-quandaries.md
 
 - type: image
-  url: warrior/images/whatif.jpg
+  url: whatif.jpg
   title: 'What If?: Serious Scientific Answers to Absurd Hypothetical Questions'
   text: image-what-if-serious-scientific-answers-to-absurd-hypothetical-questions.md
 
 - type: image
-  url: warrior/images/superheroes.jpg
+  url: superheroes.jpg
   title: The Physics of Superheroes
   text: image-the-physics-of-superheroes.md
 

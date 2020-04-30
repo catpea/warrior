@@ -107,11 +107,11 @@
   text: text-office-shenanigans.md
 
 - type: image
-  url: warrior/images/section8.png
+  url: section8.png
   title: Smart Coffeemaker
   text: image-smart-coffeemaker.md
 
 - type: image
-  url: warrior/images/wemo-schedule.jpg
+  url: wemo-schedule.jpg
   title: Smarter Coffeemaker
   text: image-smarter-coffeemaker.md

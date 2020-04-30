@@ -222,7 +222,7 @@
         courage
           required to grow strong in the broken places.</p>
     - type: image
-      url: warrior/images/chris-mccandless.png
+      url: chris-mccandless.png
       title: Alex
     - type: text
       title: Endless Horizons
@@ -276,7 +276,7 @@
   name: the-soldier
   data:
     - type: image
-      url: warrior/images/zeno-of-citium.jpg
+      url: zeno-of-citium.jpg
       title: Zeno of Citium
       text: >-
         <p><a href="https://en.wikipedia.org/wiki/Zeno_of_Citium">Zeno</a> was
@@ -294,7 +294,7 @@
           justly.</p>
         <p>Stoicism would have influenced the Roman Soldier.</p>
     - type: image
-      url: warrior/images/marcus-aurelius.jpg
+      url: marcus-aurelius.jpg
       title: Marcus Aurelius
       text: |-
         <p>Emperor Marcus Aurelius (161-180 AD) shows his clemency towards the
@@ -302,7 +302,7 @@
           a book titled <a href="https://en.wikipedia.org/wiki/Meditations">Meditations</a> and today it is available as an
           <a href="https://www.audible.com/pd/Meditations-Audiobook/B004IBRMZS">Audiobook</a>.</p>
     - type: image
-      url: warrior/images/tomoe-gozen.jpg
+      url: tomoe-gozen.jpg
       title: Tomoe Gozen
       text: >-
         <p><a href="https://en.wikipedia.org/wiki/Tomoe_Gozen">Tomoe</a> (c.
@@ -452,7 +452,7 @@
       video: Xcjb1f1qbBA
       title: Mad World Mountain Dew
     - type: image
-      url: warrior/images/lady.png
+      url: lady.png
       title: Hope
       text: >-
         <p>I think there was a hope that hard earned ideas won in hell of war
@@ -520,7 +520,7 @@
   name: the-knight-of-virtue
   data:
     - type: image
-      url: warrior/images/galahad.jpg
+      url: galahad.jpg
       title: Sir Galahad
       text: >-
         <p>As we grew so did our grasp on the Human Condition, from bloody and
@@ -560,7 +560,7 @@
           defends the helpless, His might upholds the weak, His words speak only
           truth, His wrath undoes the wicked.</p>
     - type: image
-      url: warrior/images/valkyries.jpg
+      url: valkyries.jpg
       title: Authenticity
       text: >-
         <p>A code of conduct that aimed to revolve around Authenticity, was
@@ -574,7 +574,7 @@
           of the tyrant - Nobility were but an empty name without her, and liberty
           finds the best protection in her lance and her sword.</p>
     - type: image
-      url: warrior/images/god-speed.jpg
+      url: god-speed.jpg
       title: Pursuits of Excellence
       text: |-
         <p>What we know of the superheroes of middle ages comes from poems and
@@ -606,7 +606,7 @@
       author: Edmund Burke
       text: <p>A King may make a Nobleman but he cannot make Gentleman.</p>
     - type: image
-      url: warrior/images/gentleman.jpg
+      url: gentleman.jpg
       title: The Lady and The Gentleman
     - type: text
       title: Inside Out
@@ -619,7 +619,7 @@
           only become an exercise in memorization. A school may make a diploma, but
           it cannot make a grown-up.</p>
     - type: image
-      url: warrior/images/doubt.jpg
+      url: doubt.jpg
       title: Doubt
     - type: text
       title: Authenticity
@@ -661,7 +661,7 @@
           heroically, always rising and growing up. Make the choices that the older
           you won&#39;t regret.</p>
     - type: image
-      url: warrior/images/wanderer.jpg
+      url: wanderer.jpg
       title: A Wanderer Ennobled By His Deeds
     - type: text
       title: Choices
@@ -693,7 +693,7 @@
   name: the-officer
   data:
     - type: image
-      url: warrior/images/honor-code.jpg
+      url: honor-code.jpg
       title: Cadet Honor Code
     - type: poem
       title: We The Warriors
@@ -1134,7 +1134,7 @@
             foundation of freedom, justice and peace in all of the world</a>, because
           our humanity depends on everyone’s humanity.</p>
     - type: image
-      url: warrior/images/the-runaway.jpg
+      url: the-runaway.jpg
       title: The Hero and The Runaway
       text: '<p>We&#39;ll put things right, we&#39;ll fix it all.</p>'
     - type: text
@@ -1155,7 +1155,7 @@
           place where we can each share in them, where every member of the human
           family can Converge on Wisdom.</p>
     - type: image
-      url: warrior/images/school.png
+      url: school.png
       title: World Crisis
       text: >-
         <p>The human family is not divided by political borders. Kandice’s kids
@@ -1546,7 +1546,7 @@
   name: the-philosopher
   data:
     - type: image
-      url: warrior/images/school-of-athens.jpg
+      url: school-of-athens.jpg
       title: Philosophy
       text: >-
         <p><a href="https://en.wikipedia.org/wiki/Philosophy">Philosophy</a>
@@ -1820,7 +1820,7 @@
       video: MpiknSRTmT4
       title: Newton - Gravitation universelle
     - type: image
-      url: warrior/images/principia.png
+      url: principia.png
       title: Newton's Principia
       text: >-
         <p>To paraphrase Alexander Pope &quot;Nature and Nature&#39;s laws lay
@@ -1828,7 +1828,7 @@
           Thus Nature said, Let Newton be! and all was light.&quot; You can find a
           translated digital copy of Newton&#39;s Principia <a href="https://archive.org/stream/newtonspmathema00newtrich">here</a>.</p>
     - type: image
-      url: warrior/images/cannon.jpg
+      url: cannon.jpg
       title: Philosophy
       text: >-
         <p>Newton&#39;s Orbital Cannon is on <a
@@ -2081,7 +2081,7 @@
   name: the-explorer
   data:
     - type: image
-      url: warrior/images/explorer.jpg
+      url: explorer.jpg
       title: The Explorer
       text: '<p>Danish explorer Peter Freuchen and his wife, Dagmar Cohn (1947)</p>'
     - type: text
@@ -2149,7 +2149,7 @@
   name: the-astronomer
   data:
     - type: image
-      url: warrior/images/astronomer.jpg
+      url: astronomer.jpg
       title: Where Earth and Heaven Meets
       text: >-
         <p>To put it simply, before you can create a warrior, you must first
@@ -2670,7 +2670,7 @@
           think. It does not seem Professional, I think it is just because phones are
           really good these days.</p>
     - type: image
-      url: warrior/images/music-player.jpg
+      url: music-player.jpg
       title: The Music Player
       text: >-
         <p>Distraction free with easy to push control buttons and large
@@ -2688,7 +2688,7 @@
         <p>Keep lowering that rest period until no rest is needed in your
         routine.</p>
     - type: image
-      url: warrior/images/timer.png
+      url: timer.png
       title: The Timer
       text: >-
         <p>Interval timer will vibrate on start and stop of both exercise and
@@ -2722,7 +2722,7 @@
           still likely to occur, you will need a proper bed, I use the inexpensive
           <a href="http://pragmabed.com/">PragmaBed</a></p>
     - type: image
-      url: warrior/images/bed.jpg
+      url: bed.jpg
       title: The Bed
       text: >-
         <p>Raising your legs, raising your upper body, curving your spine will
@@ -3270,7 +3270,7 @@
       video: 5GSHXC6fwq4
       title: Casting and Machining a Toothed Pulley
     - type: business
-      url: warrior/images/ponoko.jpg
+      url: ponoko.jpg
       title: Ponoko
       text: >-
         <p><a href="https://www.ponoko.com/">Ponoko</a> provides laser cutting
@@ -3280,7 +3280,7 @@
         your design real. Pricing starts from $1. You can make 1 or 100,000. And
         your designs are made &amp; delivered as fast as same day.</p>
     - type: business
-      url: warrior/images/ponoko-clocks.jpg
+      url: ponoko-clocks.jpg
       title: Ponoko Clocks
       text: >-
         <p>Thinking flat is about simplicity, and sometimes layers. In 3D
@@ -3288,14 +3288,14 @@
           think in layers of plastic; in Laser Cutting we can think in layers of
           whatever you are cutting.</p>
     - type: business
-      url: warrior/images/ponoko-cases.jpg
+      url: ponoko-cases.jpg
       title: Ponoko Cases
       text: >-
         <p>A great example of flat layers adding up to create more than just
         flat
           thing are Raspberry PI cases.</p>
     - type: business
-      url: warrior/images/ponoko-wallet.jpg
+      url: ponoko-wallet.jpg
       title: Wallets
       text: >-
         <p>A good example of a flat cut product that makes good money, is the
@@ -3311,7 +3311,7 @@
       video: rt6TqD000-s
       title: 'Dremel Laser Cutter Demo ($6,499.00 - $8,499.00)'
     - type: business
-      url: warrior/images/leather.png
+      url: leather.png
       title: Laser-cut Leather
       text: >-
         <p>Sarah Kirkham and Anna Warren created a <a
@@ -3324,7 +3324,7 @@
       video: sOmhgoD7Z9U
       title: Dremel DigiLab Laser Cutter Luggage Tag Project
     - type: business
-      url: warrior/images/leather2.png
+      url: leather2.png
       title: Laser-cut Leather
       text: >-
         <p>Visit <a href="https://tactilecraftworks.com/">Tactile Craftworks</a>
@@ -3494,14 +3494,14 @@
       video: TysXX7ZCV7g
       title: 'Great Philosopher Jean Paul Sartre, plays the piano.'
     - type: image
-      url: warrior/images/ableton.png
+      url: ableton.png
       title: Important Music Tutorial
       text: >-
         <p>Please visit <a href="https://learningmusic.ableton.com/">Learning
         Music</a> at Ableton, and take their music
           composition tutorial.</p>
     - type: image
-      url: warrior/images/stereo-master.jpg
+      url: stereo-master.jpg
       title: The Masters of the Stereo
       text: >-
         <p>A <strong>sample</strong> of sound, is the same as a sample of cake,
@@ -3663,13 +3663,13 @@
           <li><a href="https://www.reddit.com/r/IsolatedVocals/">/r/IsolatedVocals/</a></li>
         </ul>
     - type: business
-      url: warrior/images/bandcamp.png
+      url: bandcamp.png
       title: Bandcamp Music Sales
       text: >-
         <p>Sell your music on <a
         href="https://bandcamp.com/artists">Bandcamp</a> (free).</p>
     - type: business
-      url: warrior/images/splice.png
+      url: splice.png
       title: Splice Sample Sales
       text: >-
         <p><a
@@ -3679,7 +3679,7 @@
         music samples on <a href="https://splice.com/">Splice</a>.</p>
 
         <p>Consider creating less restrictive music/sample sharing platforms
-        (see <a href="founder.html">The
+        (see <a href="the-founder.html">The
             Founder</a>)</p>
     - type: text
       title: How to Share
@@ -3768,7 +3768,7 @@
       video: tm2BgO1VaRY
       title: 'Play With Your Rhythm: Drum Patterns'
     - type: image
-      url: warrior/images/drumkit.jpg
+      url: drumkit.jpg
       title: The Drum Kit
       text: >-
         <p>In general the instrumental sounds that can be created here fall
@@ -3856,7 +3856,7 @@
 
         <p>But that won&#39;t stop me.</p>
     - type: image
-      url: warrior/images/nocturne.png
+      url: nocturne.png
       title: Chopin's Revolutionary Nocturne
     - type: text
       title: 'Never Fear, Because You Are a Genius'
@@ -3927,7 +3927,7 @@
 
         <p>Become a Great Being.</p>
     - type: image
-      url: warrior/images/owlcat.jpg
+      url: owlcat.jpg
       title: The Owl and the Pussycat
       text: >-
         <p><a href="https://en.wikipedia.org/wiki/The_Owl_and_the_Pussy-Cat">The
@@ -4077,7 +4077,7 @@
       video: YzF5YnUuN4Q
       title: Why This Is the Best 3D Printer - Comparing ALL My Printers!!!
     - type: business
-      url: warrior/images/shapeways.png
+      url: shapeways.png
       title: Shapeways Laser Printing
       text: >-
         <p><a href="https://www.shapeways.com/marketplace">Sell</a> your 3D
@@ -4092,7 +4092,7 @@
         odd bobble heads, skeleton wallets, waveform rings, UPC/QR code
         bracelets or keychain doodads.).</p>
     - type: business
-      url: warrior/images/3dscan.png
+      url: 3dscan.png
       title: Scanned Model Sales
       text: >-
         <p>You are not limited to digital models, you can experiment with <a
@@ -4145,7 +4145,7 @@
       video: RVVwCE0A6Es
       title: Preparations
     - type: image
-      url: warrior/images/superman-plato.png
+      url: superman-plato.png
       title: He's reading about Plato
     - type: youtube
       video: eWw1rMlSfeQ
@@ -4237,7 +4237,7 @@
           one more time, the graphite on the back will now transfer to your drawing
           paper.</p>
     - type: image
-      url: warrior/images/graphite-paper.jpg
+      url: graphite-paper.jpg
       title: Graphite Paper
       text: >-
         <p>By blacking out the back of your trace you create Graphite Paper.</p>
@@ -4255,7 +4255,7 @@
       video: fN-VtUBC7Ys
       title: 'Getting Started: Three Ways to Transfer an Image to Watercolor Paper'
     - type: image
-      url: warrior/images/lightbox.jpg
+      url: lightbox.jpg
       title: Light Box
       text: >-
         <p>Lightbox will help you with tracing and creation of new designs.</p>
@@ -4272,7 +4272,7 @@
       video: cQGeOMCGh0U
       title: How to trace a picture.
     - type: image
-      url: warrior/images/projector.jpg
+      url: projector.jpg
       title: Digital Projector
       text: >-
         <p>Digital projectors ($100 - $400) are the fastest way to create murals
@@ -4285,7 +4285,7 @@
       video: iGDfa4T9yTE
       title: Home Wall Painting Using projector - DIY
     - type: image
-      url: warrior/images/projector-phone.jpg
+      url: projector-phone.jpg
       title: Digital Projector
       text: >-
         <p>You can take a selfie, connect your phone to the projector, and begin
@@ -4302,22 +4302,22 @@
         <p>Idea: Record your painting progress and upload a sped up movie to
         YouTube.</p>
     - type: image
-      url: warrior/images/mona1.jpg
+      url: mona1.jpg
       title: Mona Lisa
       text: >-
         <p>Using the Mona Lisa to show what you can get by connecting your
         projector
           to your laptop, and using a program like <a href="https://www.gimp.org/">GIMP</a>.</p>
     - type: image
-      url: warrior/images/mona2.jpg
+      url: mona2.jpg
       title: Mona Lisa Edge Detection
       text: <p>Discover all the hard edges where color changes abruptly.</p>
     - type: image
-      url: warrior/images/mona3.jpg
+      url: mona3.jpg
       title: Mona Lisa Simplified Color Palette
       text: <p>Show the color palette.</p>
     - type: image
-      url: warrior/images/mona4.jpg
+      url: mona4.jpg
       title: Mona Lisa Highlights
       text: <p>Reveal the brightest parts (highlights) in Mona Lisa.</p>
     - type: youtube
@@ -4342,7 +4342,7 @@
       video: JPar_nzAEL0
       title: Grisaille Method with Jon deMartin
     - type: business
-      url: warrior/images/bri.jpg
+      url: bri.jpg
       title: Brianna Schretlen and her Fur Kids
       text: >-
         <p>&quot;I&#39;m a professional graphic designer and illustrator with a
@@ -4391,7 +4391,7 @@
         href="https://weloveitbut.com/best-pixel-artists/">22 Pixel Artists
         Creating Beautiful Retro Masterpieces</a> for more.</p>
     - type: image
-      url: warrior/images/pixelart0.gif
+      url: pixelart0.gif
       title: Dušan Čežek
       text: >-
         <p>Inspired by the breathtaking <a
@@ -4401,15 +4401,15 @@
         <p><a
         href="https://www.behance.net/gallery/12753749/Pixelwood">Website</a></p>
     - type: image
-      url: warrior/images/pixelart1.png
+      url: pixelart1.png
       title: Octavi Navarro
       text: '<p><a href="https://pixelshuh.com/">Website</a></p>'
     - type: image
-      url: warrior/images/pixelart2.png
+      url: pixelart2.png
       title: eBoy Group
       text: '<p><a href="http://hello.eboy.com/eboy/">Website</a></p>'
     - type: image
-      url: warrior/images/pixelart3.gif
+      url: pixelart3.gif
       title: Paul Robertson
       text: '<p><a href="https://probertson.tumblr.com/">Website</a></p>'
     - type: youtube
@@ -4434,25 +4434,25 @@
       video: c1F6EsGGa4U
       title: eBoy and the perfection of pixels
     - type: business
-      url: warrior/images/pixelart-product-1.jpg
+      url: pixelart-product-1.jpg
       title: Pixelart Watch
       text: >-
         <p><a href="http://hello.eboy.com/eboy/">eBoy</a> are an inspiration for
         business ideas.</p>
     - type: business
-      url: warrior/images/pixelart-product-2.jpg
+      url: pixelart-product-2.jpg
       title: Huge Pixelart Posters
       text: '<p>They sell paper and digital posters, notebooks and calendars.</p>'
     - type: business
-      url: warrior/images/pixelart-product-4.jpg
+      url: pixelart-product-4.jpg
       title: Blinkenlighten Frame
       text: <p>They sell paper and digital posters.</p>
     - type: business
-      url: warrior/images/pixelart-product-3.jpg
+      url: pixelart-product-3.jpg
       title: Pixelart is Life
       text: <p>Unique notebooks and calendars.</p>
     - type: image
-      url: warrior/images/demoscene.jpg
+      url: demoscene.jpg
       title: Demoscene
       text: >-
         <p><a href="https://en.wikipedia.org/wiki/Demoscene">Demoscene</a> has
@@ -4479,19 +4479,19 @@
         <p>Visit <a href="https://www.pushing-pixels.org/fui/">Fantasy UI at
         Pushing Pixels</a> for more.</p>
     - type: image
-      url: warrior/images/fui1.jpg
+      url: fui1.jpg
       title: Fantasy User Interface
     - type: image
-      url: warrior/images/fui2.jpg
+      url: fui2.jpg
       title: Fantasy User Interface
     - type: image
-      url: warrior/images/fui3.jpg
+      url: fui3.jpg
       title: Fantasy User Interface
     - type: image
-      url: warrior/images/fui4.jpg
+      url: fui4.jpg
       title: Fantasy User Interface
     - type: image
-      url: warrior/images/fui5.png
+      url: fui5.png
       title: Fantasy User Interface
     - type: youtube
       video: 6WrhZsttinA
@@ -4500,7 +4500,7 @@
       video: dxIPcbmo1_U
       title: It's a unix system
     - type: image
-      url: warrior/images/skeuomorphism.png
+      url: skeuomorphism.png
       title: Skeuomorphism
       text: >-
         <p><a href="https://en.wikipedia.org/wiki/Skeuomorph">Skeuomorphism</a>
@@ -4509,7 +4509,7 @@
         href="https://www.dtelepathy.com/blog/inspiration/50-skeuomorphic-designs">A
         Showcase of 50 Skeuomorphic Designs</a> for more.</p>
     - type: image
-      url: warrior/images/minimalism.png
+      url: minimalism.png
       title: Minimalism and Typography
       text: >-
         <p><a href="https://en.wikipedia.org/wiki/Typography">Typography</a> is
@@ -4518,7 +4518,7 @@
         <a href="http://hellohappy.org/beautiful-web-type/">Beautiful Web
         Type</a>.</p>
     - type: business
-      url: warrior/images/dyesub1.jpg
+      url: dyesub1.jpg
       title: Dye Sublimation Printing
       text: >-
         <p>Allover Cut &amp; Sew Dye Sublimation Workout Outfits.</p>
@@ -4526,13 +4526,13 @@
         <p>Visit <a href="https://sellfy.com/spiderbitedesigns/">Spider Bite
         Designs</a> for patterns and ideas.</p>
     - type: business
-      url: warrior/images/dyesub2.jpg
+      url: dyesub2.jpg
       title: Product Ideas
     - type: business
-      url: warrior/images/dyesub2b.jpg
+      url: dyesub2b.jpg
       title: Product Ideas
     - type: business
-      url: warrior/images/dyesub3.jpg
+      url: dyesub3.jpg
       title: Product Ideas
     - type: youtube
       video: E2OL19GbtbY
@@ -4541,7 +4541,7 @@
       video: o2xOymSeH6I
       title: Sportswear Printing - All over Print - Cut - Sew ( basketball uniforms)
     - type: business
-      url: warrior/images/dyesub0.jpg
+      url: dyesub0.jpg
       title: Problems with non Cut & Sew
       text: >-
         <p>Below is a picture of why you must choose the Cut &amp; Sew method.
@@ -4576,7 +4576,7 @@
       video: ptJp6gTTYFY
       title: Ed-Mun - Freestyle 3D
     - type: image
-      url: warrior/images/sig-doke.jpg
+      url: sig-doke.jpg
       title: Doke
       text: >-
         <p><a
@@ -4592,7 +4592,7 @@
       video: v5tollaAXfU
       title: Tutorial - How to make Graffiti sketches - Step by step !
     - type: image
-      url: warrior/images/sig-kiptoe.jpg
+      url: sig-kiptoe.jpg
       title: Kiptoe
       text: >-
         <p><a
@@ -4608,7 +4608,7 @@
       video: DBqBH1wejbw
       title: BEST OF KIPTOE 2019 & My 3 Goals for 2020
     - type: image
-      url: warrior/images/sig-tank.jpg
+      url: sig-tank.jpg
       title: The Tank
       text: >-
         <p><a
@@ -4669,7 +4669,7 @@
       video: 88WOo4DIElY
       title: What's inside the Raspberry Pi 4 Desktop Kit?
     - type: image
-      url: warrior/images/portable-monitor.jpg
+      url: portable-monitor.jpg
       title: Portable Monitor
     - type: text
       title: Monitors
@@ -4683,7 +4683,7 @@
           <a href="https://www.youtube.com/watch?v=3qfa9hGJzoY">compose some music</a> with <a href="https://lmms.io/">LMMS</a> whilst <a href="https://www.youtube.com/watch?v=4mgrY-U9_8E">pondering album art</a> with
           <a href="https://www.gimp.org/">GIMP</a>.</p>
     - type: image
-      url: warrior/images/screen-projector.jpg
+      url: screen-projector.jpg
       title: Screen Projector
       text: >-
         <p>Don&#39;t forget about <a
@@ -4697,7 +4697,7 @@
         brother’s
           <a href="https://www.amazon.com/keylogger/s?k=keylogger">key logger</a>. To log into her dad’s computer she uses the ssh command.
           ssh is just a program that establishes a secure (encrypted) connection
-          between two computers. She executes ssh <a href="mailto:&#x61;&#108;&#101;&#120;&#64;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#x38;&#46;&#49;&#x2e;&#x32;&#55;">&#x61;&#108;&#101;&#120;&#64;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#x38;&#46;&#49;&#x2e;&#x32;&#55;</a> at <a href="https://youtu.be/W76o_iG7Y7g?t=87">1:27</a>. And
+          between two computers. She executes ssh <a href="mailto:&#97;&#x6c;&#x65;&#x78;&#x40;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#56;&#x2e;&#49;&#46;&#x32;&#55;">&#97;&#x6c;&#x65;&#x78;&#x40;&#x31;&#x39;&#50;&#46;&#49;&#x36;&#56;&#x2e;&#49;&#46;&#x32;&#55;</a> at <a href="https://youtu.be/W76o_iG7Y7g?t=87">1:27</a>. And
           begins using the ssh program.</p>
         <p>The remote shell, for convenience sake, looks almost the same as her
         own
@@ -4796,7 +4796,7 @@
           executes kill -9 95251 at <a href="https://youtu.be/W76o_iG7Y7g?t=326">5:26</a> his code editor disappears instantly.
           <strong>Yikes!</strong></p>
     - type: image
-      url: warrior/images/aybabtu.png
+      url: aybabtu.png
       title: All Your Base Are Belong To Us
       text: >-
         <p>Lookup <a
@@ -4842,7 +4842,7 @@
         <p>The basic difference is this: hackers build things, crackers break
         them.”</p>
     - type: image
-      url: warrior/images/glider.png
+      url: glider.png
       title: The Glider
     - type: text
       title: Hacker Logo
@@ -4851,7 +4851,7 @@
         and do
           not like each other, herds, or stupid little symbols.</p>
     - type: image
-      url: warrior/images/gliders2.gif
+      url: gliders2.gif
       title: A look at a glider
     - type: text
       title: Gliders
@@ -4862,7 +4862,7 @@
           manufactured by <a href="https://en.wikipedia.org/wiki/Gun_(cellular_automaton)">Gospers glider gun</a> and walking off towards lower right
           are gliders in action.)</p>
     - type: image
-      url: warrior/images/gliders.gif
+      url: gliders.gif
       title: Game of Life and the Gliders
     - type: text
       title: Cellular Automaton
@@ -4947,7 +4947,7 @@
           those are two separate kinds of computer programs. An Operating System, can
           have many types of User Interfaces.</p>
     - type: image
-      url: warrior/images/commodore.gif
+      url: commodore.gif
       title: Commodore 64
       text: >-
         <p>For Example, the designers of my first computer, the Commodore 64;
@@ -4960,7 +4960,7 @@
       video: h3bDa5z_B1M
       title: Commodore 64 - Introduction to Programming - Level 1
     - type: image
-      url: warrior/images/geos.gif
+      url: geos.gif
       title: Commodore 64 GEOS
       text: >-
         <p>In 1986 Berkeley Softworks came about and made the <a
@@ -4968,14 +4968,14 @@
         (Graphic
           Environment Operating System) for use with the <a href="https://en.wikipedia.org/wiki/Commodore_1351">Commodore 1351 Mouse</a></p>
     - type: image
-      url: warrior/images/msdos.jpg
+      url: msdos.jpg
       title: MS-DOS
       text: >-
         <p>Microsoft went through a similar upgrade. Microsoft DOS, a Command
         Line
           product was released in 1981.</p>
     - type: image
-      url: warrior/images/win1.png
+      url: win1.png
       title: Windows
       text: <p>And in 1985 Microsoft released Windows version 1.0</p>
     - type: youtube
@@ -4985,7 +4985,7 @@
       video: U1Oy4X5Ni8Y
       title: The history of the graphic user interface
     - type: image
-      url: warrior/images/aui.jpg
+      url: aui.jpg
       title: Android's Linux
       text: |-
         <p>The Android based Phone, is actually a Graphical User Interface to an
@@ -4994,7 +4994,7 @@
           Command Line Interface (CLI). You can then connect a USB keyboard to your
           phone, and type commands at it using the CLI.</p>
     - type: image
-      url: warrior/images/librem5.jpg
+      url: librem5.jpg
       title: 'Librem 5: Kings Cross Terminal'
       text: >-
         <p>Google has locked down their own OS, they don&#39;t want to let
@@ -5021,7 +5021,7 @@
       video: 5XgBd6rjuDQ
       title: How to run/use the Command Line on Mac
     - type: image
-      url: warrior/images/pi.jpg
+      url: pi.jpg
       title: Get the $55 Raspberry PI 4
       text: >-
         <p>Windows is not the best for Command Line Interface magic, but
@@ -5040,7 +5040,7 @@
       video: JoVQTPbD6UY
       title: Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)
     - type: image
-      url: warrior/images/tr.jpg
+      url: tr.jpg
       title: Ken Thompson and Dennis Ritchie
       text: >-
         <p>When Ken Thompson and Dennis Ritchie began creating the Unix
@@ -5093,7 +5093,7 @@
         <p>command-name --some-argument value-of-the-argument</p>
 
         <p>gmail --recipient <a
-        href="mailto:&#x61;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#108;&#x2e;&#99;&#111;&#109;">&#x61;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#108;&#x2e;&#99;&#111;&#109;</a>
+        href="mailto:&#97;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#97;&#x6c;&#x69;&#x63;&#101;&#x40;&#x61;&#111;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a>
         --subject &quot;I can&#39;t even!&quot; --message &quot;I
           can&#39;t freaking believe it, commands are cool, rawr!&quot;</p>
     - type: text
@@ -5170,7 +5170,7 @@
       title: Commands Are Friends!
       text: >-
         <p>It is so awesome to just open a terminal, type in gmail <a
-        href="mailto:&#x61;&#108;&#105;&#x63;&#101;&#x40;&#x61;&#111;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x61;&#108;&#105;&#x63;&#101;&#x40;&#x61;&#111;&#108;&#x2e;&#x63;&#x6f;&#109;</a>
+        href="mailto:&#97;&#108;&#x69;&#99;&#x65;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#111;&#109;">&#97;&#108;&#x69;&#99;&#x65;&#64;&#97;&#x6f;&#x6c;&#x2e;&#99;&#111;&#109;</a>
         -s
           &quot;About Cybertruck&quot; -m &quot;So did you get the $69K build?&quot; and go have your
           Irish Breakfast Tea (or an Earl Gray with an extra lump of sugar and an
@@ -5363,7 +5363,7 @@
           command name. It is actually difficult to parse arguments (-b/--brew), it
           takes no effort at all to use raw text (brew).</p>
     - type: image
-      url: warrior/images/section8.png
+      url: section8.png
       title: Smart Coffeemaker
       text: >-
         <p><a href="https://www.mrcoffee.com/wemo-landing-page.html">Mr. Coffee
@@ -5372,7 +5372,7 @@
         client for WeMo</a> found on github. As a bonus, you can control burn
         down you entire house, plus the Coffeemaker.</p>
     - type: image
-      url: warrior/images/wemo-schedule.jpg
+      url: wemo-schedule.jpg
       title: Smarter Coffeemaker
       text: >-
         <p>I was unable to locate the coffeemaker from the story. Personally
@@ -5557,7 +5557,7 @@
         apply</h5>
 
         <p>Please email <a
-        href="mailto:&#x74;&#104;&#x65;&#x6d;&#101;&#x73;&#64;&#115;&#104;&#x6f;&#112;&#105;&#102;&#x79;&#46;&#x63;&#x6f;&#x6d;">&#x74;&#104;&#x65;&#x6d;&#101;&#x73;&#64;&#115;&#104;&#x6f;&#112;&#105;&#102;&#x79;&#46;&#x63;&#x6f;&#x6d;</a>
+        href="mailto:&#116;&#x68;&#x65;&#109;&#101;&#115;&#x40;&#115;&#104;&#x6f;&#112;&#x69;&#x66;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#x68;&#x65;&#109;&#101;&#115;&#x40;&#115;&#104;&#x6f;&#112;&#x69;&#x66;&#121;&#x2e;&#x63;&#x6f;&#x6d;</a>
         and include all of the following:</p>
 
         <ol>
@@ -5739,7 +5739,7 @@
       video: mO0oET8TT5E
       title: Poles Escape With Secret of Enigma
     - type: image
-      url: warrior/images/enigma-patent.png
+      url: enigma-patent.png
       title: Enigma Machine
       text: >-
         <p>Invented by <a
@@ -5814,7 +5814,7 @@
         href="https://www.elonka.com/kryptos/CyrillicProjectorAnnouncement.html">The
         Cyrillic Projector Code - Cracked!</a></p>
     - type: image
-      url: warrior/images/kryptos.jpg
+      url: kryptos.jpg
     - type: text
       title: Kryptos Transcription
       text: "<p>EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJ YQTQUXQBQVYUVLLTREVJYQTMKYRDMFD\n  VFPJUDEEHZWETZYVGWHKKQETGFQJNCE GGWHKK?DQMCPFQZDQMMIAGPFXHQRLG\n  TIMVMZJANQLVKQEDAGDVFRPJUNGEUNA QZGZLECGYUXUEENJTBJLBQCRTBJDFHRR\n  YIZETKZEMVDUFKSJHKFWHKUWQLSZFTI HHDDDUVH?DWKBFUFPWNTDFIYCUQZERE\n  EVLDKFEZMOQQJLTTUGSYQPFEUNLAVIDX FLGGTEZ?FKZBSFDQVGOGIPUFXHHDRKF\n  FHQNTGPUAECNUVPDJMQCLQUMUNEDFQ ELZZVRRGKFFVOEEXBDMVPNFQXEZLGRE\n  DNQFMPNZGLFLPMRJQYALMGNUVPDXVKP DQUMEBEDMHDAFMJGZNUPLGEWJLLAETG </p>\n<p>\_ABCDEFGHIJKLMNOPQRSTUVWXYZABCD AKRYPTOSABCDEFGHIJLMNQUVWXZKRYP\n  BRYPTOSABCDEFGHIJLMNQUVWXZKRYPT CYPTOSABCDEFGHIJLMNQUVWXZKRYPTO\n  DPTOSABCDEFGHIJLMNQUVWXZKRYPTOS ETOSABCDEFGHIJLMNQUVWXZKRYPTOSA\n  FOSABCDEFGHIJLMNQUVWXZKRYPTOSAB GSABCDEFGHIJLMNQUVWXZKRYPTOSABC\n  HABCDEFGHIJLMNQUVWXZKRYPTOSABCD IBCDEFGHIJLMNQUVWXZKRYPTOSABCDE\n  JCDEFGHIJLMNQUVWXZKRYPTOSABCDEF KDEFGHIJLMNQUVWXZKRYPTOSABCDEFG\n  LEFGHIJLMNQUVWXZKRYPTOSABCDEFGH MFGHIJLMNQUVWXZKRYPTOSABCDEFGHI </p>\n<p>ENDYAHROHNLSRHEOCPTEOIBIDYSHNAIA CHTNREYULDSLLSLLNOHSNOSMRWXMNE\n  TPRNGATIHNRARPESLNNELEBLPIIACAE WMTWNDITEENRAHCTENEUDRETNHAEOE\n  TFOLSEDTIWENHAEIOYTEYQHEENCTAYCR EIFTBRSPAMHHEWENATAMATEGYEERLB\n  TEEFOASFIOTUETUAEOTOARMAEERTNRTI BSEDDNIAAHTTMSTEWPIEROAGRIEWFEB\n  AECTDDHILCEIHSITEGOEAOSDDRYDLORIT RKLMLEHAGTDHARDPNEOHMGFMFEUHE\n  ECDMRIPFEIMEHNLSSTTRTVDOHW?OBKR UOXOGHULBSOLIFBBWFLRVQQPRNGKSSO\n  TWTQSJQSSEKZZWATJKLUDIAWINFBNYP VTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR </p>\n<p>NGHIJLMNQUVWXZKRYPTOSABCDEFGHIJL OHIJLMNQUVWXZKRYPTOSABCDEFGHIJL\n  PIJLMNQUVWXZKRYPTOSABCDEFGHIJLM QJLMNQUVWXZKRYPTOSABCDEFGHIJLMN\n  RLMNQUVWXZKRYPTOSABCDEFGHIJLMNQ SMNQUVWXZKRYPTOSABCDEFGHIJLMNQU\n  TNQUVWXZKRYPTOSABCDEFGHIJLMNQUV UQUVWXZKRYPTOSABCDEFGHIJLMNQUVW\n  VUVWXZKRYPTOSABCDEFGHIJLMNQUVWX WVWXZKRYPTOSABCDEFGHIJLMNQUVWXZ\n  XWXZKRYPTOSABCDEFGHIJLMNQUVWXZK YXZKRYPTOSABCDEFGHIJLMNQUVWXZKR\n  ZZKRYPTOSABCDEFGHIJLMNQUVWXZKRY \_ABCDEFGHIJKLMNOPQRSTUVWXYZABCD</p>"
@@ -5897,7 +5897,7 @@
       video: GeSjkVFtb9k
       title: Nataly Buhr
     - type: image
-      url: warrior/images/buhr1.png
+      url: buhr1.png
     - type: text
       title: 'How Unfortunate... '
       text: >-
@@ -5952,7 +5952,7 @@
         Poets,
           Artists, Sculptors, Musicians, Adventures, Writers, Makers, Heroes.</p>
     - type: image
-      url: warrior/images/gpa.png
+      url: gpa.png
       text: >-
         <p>A picture of a real blackboard in a library taken from <a
         href="https://www.youtube.com/watch?v=xz-gVKwWNzs">F**k Grades by
@@ -6259,7 +6259,7 @@
           skills) will often remain in the culture of poverty be it dropping out or
           graduation. The steps out and up are just too far apart.</p>
     - type: image
-      url: warrior/images/fall.jpg
+      url: fall.jpg
       text: >-
         <p>How dare you.</p>
 
@@ -6344,7 +6344,7 @@
           that goes there at least look at your picture with your beloved students
           hugging you as if you were their own Mother.</p>
     - type: image
-      url: warrior/images/talitha-halley.png
+      url: talitha-halley.png
     - type: text
       title: A Meaningful Life Calls For Real Education
       text: >-
@@ -6375,7 +6375,7 @@
           slowly, build. But smaller steps, and maybe even smaller, or maybe even an
           on-ramp for a smooth ride.</p>
     - type: image
-      url: warrior/images/genius.png
+      url: genius.png
       text: >-
         <p>Image from <a href="https://www.youtube.com/watch?v=mQPEZdBTOeE">Can
         anyone become a genius? by Mark Diaz</a></p>
@@ -6729,7 +6729,7 @@
 
         <p>Speaking. Reading. Writing.</p>
     - type: image
-      url: warrior/images/thorgal.png
+      url: thorgal.png
       title: Thorgal
     - type: text
       title: 'Frameworks are superpowers, and your powers will call to you.'
@@ -6768,7 +6768,7 @@
         version
           1001 earn you a place in history.</p>
     - type: image
-      url: warrior/images/the-dises.jpg
+      url: the-dises.jpg
       title: The Dises (1909) by Dorothy Hardy.
     - type: text
       title: A Pen is Mightier than a Sword.
@@ -6934,7 +6934,7 @@
       video: YokKp3pwVFc
       title: 'Area of a circle, how to get the formula.'
     - type: image
-      url: warrior/images/circle.jpg
+      url: circle.jpg
       title: Just Eyeball
       text: >-
         <p>Just witness that half the circumference of the circle (4 slices) are
@@ -7152,7 +7152,7 @@
   name: the-courageous
   data:
     - type: image
-      url: warrior/images/courage-calls.jpg
+      url: courage-calls.jpg
       title: Dame Millicent Garrett Fawcett
       text: >-
         <p>English political leader, activist, writer and feminist icon. Known
@@ -7253,14 +7253,14 @@
         you
           are to rage, to rage against the dying of the light.</p>
     - type: image
-      url: warrior/images/mountain.jpg
+      url: mountain.jpg
       title: Self Education starts With Life Changing Books
       text: >-
         <p>Best way to understand a book, is to listen to the Author reading it.
         And
           the best way to listen to a book, is while climbing a <a href="https://en.wikipedia.org/wiki/Mount_Katahdin">great mountain</a>.</p>
     - type: image
-      url: warrior/images/short-history.jpg
+      url: short-history.jpg
       title: A Short History of Nearly Everything
       text: >-
         <p><a
@@ -7270,7 +7270,7 @@
         · <a
         href="https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW">Audible</a></p>
     - type: image
-      url: warrior/images/demon.jpg
+      url: demon.jpg
       title: 'The Demon-Haunted World: Science as a Candle in the Dark'
       text: >-
         <p><a
@@ -7280,7 +7280,7 @@
         · <a
         href="https://www.audible.com/pd/The-Demon-Haunted-World-Audiobook/B06XTZZLZ8">Audible</a></p>
     - type: image
-      url: warrior/images/black-hole.jpg
+      url: black-hole.jpg
       title: 'Death by Black Hole: And Other Cosmic Quandaries'
       text: >-
         <p><a
@@ -7290,7 +7290,7 @@
         <a
         href="https://www.audible.com/pd/Death-by-Black-Hole-Audiobook/B002VA9L7A">Audible</a></p>
     - type: image
-      url: warrior/images/whatif.jpg
+      url: whatif.jpg
       title: 'What If?: Serious Scientific Answers to Absurd Hypothetical Questions'
       text: >-
         <p><a
@@ -7300,7 +7300,7 @@
         · <a
         href="https://www.audible.com/pd/What-If-Audiobook/B00LV6V4UW">Audible</a></p>
     - type: image
-      url: warrior/images/superheroes.jpg
+      url: superheroes.jpg
       title: The Physics of Superheroes
       text: >-
         <p><a

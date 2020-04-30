@@ -3,7 +3,7 @@
   text: text-you-are-a-genius.md
 
 - type: image
-  url: warrior/images/thorgal.png
+  url: thorgal.png
   title: Thorgal
 
 - type: text
@@ -19,7 +19,7 @@
   text: text-land-of-monsters.md
 
 - type: image
-  url: warrior/images/the-dises.jpg
+  url: the-dises.jpg
   title: The Dises (1909) by Dorothy Hardy.
 
 - type: text
@@ -83,7 +83,7 @@
   title: 'Area of a circle, how to get the formula.'
 
 - type: image
-  url: warrior/images/circle.jpg
+  url: circle.jpg
   title: Just Eyeball
   text: image-just-eyeball.md
 

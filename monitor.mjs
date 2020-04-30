@@ -9,34 +9,31 @@ import kebabCase from 'lodash/kebabCase.js';
 import startCase from 'lodash/startCase.js';
 
 const options = {
-
     directory: 'data',
   index: 'index.yaml',
-
-  destination: 'dist',
-
-  json: 'warrior.json',
-  yaml: 'warrior.yaml',
-
-  log: './CHANGELOG.md',
-  changelog: 'changelog.html',
 }
 
-// Parse Data
+// FIX BROKEN IMAGES
 const response = [];
 const toc = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, options.index))));
+
 for(let name of toc){
-  let title = startCase(name);
+
+
 
   const sections = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, name, options.index))));
-
   for(let section of sections){
-    if(section.text){
-      section.text = pretty(marked(fs.readFileSync(path.resolve(path.join(options.directory, name, section.text))).toString()), {ocd:true});
+    if((section.type === 'image')&&(1)){
+      section.url = path.basename(section.url);
+    }
+    if((section.type === 'business')&&(1)){
+      section.url = path.basename(section.url);
     }
   }
-
-  let data = yaml.dump( chapter.data, {lineWidth: 10000} );
+  let data = yaml.dump( sections, {lineWidth: 10000} );
   data = data.replace(/- type: /g, '\n- type: ').trim()
-  fs.writeFileSync( path.resolve(path.join(options.directory, options.index)), data)
+  fs.writeFileSync( path.resolve(path.join(options.directory, name, options.index)), data);
+
+
+
 }

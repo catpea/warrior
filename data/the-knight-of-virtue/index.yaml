@@ -1,5 +1,5 @@
 - type: image
-  url: warrior/images/galahad.jpg
+  url: galahad.jpg
   title: Sir Galahad
   text: image-sir-galahad.md
 
@@ -17,7 +17,7 @@
   text: poem-knights-oath.md
 
 - type: image
-  url: warrior/images/valkyries.jpg
+  url: valkyries.jpg
   title: Authenticity
   text: image-authenticity.md
 
@@ -26,7 +26,7 @@
   text: quote-walter-scott.md
 
 - type: image
-  url: warrior/images/god-speed.jpg
+  url: god-speed.jpg
   title: Pursuits of Excellence
   text: image-pursuits-of-excellence.md
 
