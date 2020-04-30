@@ -22,12 +22,12 @@ call them ‘hackers’ too — and some claim that the hacker nature is really
 independent of the particular medium the hacker works in.
 
 There is another group of people who loudly call themselves hackers, but
-aren’t. These are people (mainly adolescent males, and little girls) who
+aren't. These are people (mainly adolescent males, and little girls) who
 get a kick out of breaking into computers and phreaking the phone system.
 Real hackers call these people ‘crackers’ and want nothing to do with them.
 Real hackers mostly think crackers are lazy, irresponsible, and not very
-bright, and object that being able to break security doesn’t make you a
-hacker any more than being able to hotwire cars makes you an automotive
+bright, and object that being able to break security doesn't make you a
+hacker any more than being able to hot-wire cars makes you an automotive
 engineer. Unfortunately, many journalists and writers have been fooled into
 using the word ‘hacker’ to describe crackers; this irritates real hackers
 no end.
