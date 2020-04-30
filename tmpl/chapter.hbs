@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Warrior</title>
+    <link rel="stylesheet" href="tufte.css"/>
+    <link rel="stylesheet" href="latex.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    section {
+      margin-bottom: 8rem;
+    }
+    </style>
+  </head>
+  <body>
+    <article>
+
+      <h1 id="tufte-css">{{title}}</h1>
+
+      {{#each sections}}
+        <section>
+
+
+          <!-- quote: { keys: Set { 'author', 'url', 'text' } }, -->
+          {{#is this.type 'quote'}}
+          <div class="epigraph">
+            <blockquote>
+              {{{text}}}
+              <footer>
+                {{#if url}}
+                  <a href="{{url}}">{{author}}</a>
+                {{else}}
+                  {{autor}}
+                {{/if}}
+              </footer>
+            </blockquote>
+          </div>
+          {{/is}}
+
+          <!-- youtube: { keys: Set { 'video', 'title' } }, -->
+          {{#is this.type 'youtube'}}
+            <h2>{{title}}</h2>
+            <figure class="iframe-wrapper">
+              <iframe width="853" height="480" src="https://www.youtube.com/embed/{{video}}" frameborder="0" allowfullscreen></iframe>
+            </figure>
+          {{/is}}
+
+          <!-- text: { keys: Set { 'title', 'text' } }, -->
+          {{#is this.type 'text'}}
+            <h2>{{title}}</h2>
+            {{{text}}}
+          {{/is}}
+
+          <!-- poem: { keys: Set { 'title', 'author', 'text' } }, -->
+          {{#is this.type 'poem'}}
+            <h2>{{title}}</h2>
+            <h3>{{author}}</h3>
+            <br>
+            {{{text}}}
+          {{/is}}
+
+          <!-- image: { keys: Set { 'url', 'title', 'text' } }, -->
+          {{#is this.type 'image'}}
+            <figure>
+              <img src="images/{{url}}" alt="{{title}}">
+            </figure>
+            <h2>{{title}}</h2>
+            {{{text}}}
+          {{/is}}
+
+          <!-- subtitle: { keys: Set { 'title' } }, -->
+          {{#is this.type 'subtitle'}}
+            <h2>{{title}}</h2>
+          {{/is}}
+
+          <!-- link: { keys: Set { 'url', 'title' } }, -->
+          {{#is this.type 'link'}}
+            <h2>{{title}}</h2>
+            <p>
+              <a href="{{url}}">{{title}} &raquo;</a>
+            </p>
+          {{/is}}
+
+          <!-- business: { keys: Set { 'url', 'title', 'text' } } -->
+          {{#is this.type 'business'}}
+            <h2>{{title}}</h2>
+            {{{text}}}
+            <p>
+              <a href="{{url}}">{{title}} &raquo;</a>
+            </p>
+          {{/is}}
+
+
+
+          <!-- <h2 id="toc">Table Of Contents</h2>
+          <p><a href="{{href}}">{{title}}</a></p> -->
+        </section>
+      {{/each}}
+
+
+    </article>
+  </body>
+</html>

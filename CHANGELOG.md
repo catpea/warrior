@@ -1,6 +1,4 @@
-# CHANGELOG
-
-## List Of Major Changes
+## CHANGELOG
 
 ### April 24th 2020, 10:00:51 pm
 Created a new chapter [The Mine Explorer] I moved a couple of videos from [The Explorer] into it.
@@ -422,70 +420,68 @@ Restructuring youtube links in [The Programmer] section.
 [Dr. Becky]: https://www.youtube.com/channel/UCYNbYGl89UUowy8oXkipC-Q
 [Gary Jules]: https://www.youtube.com/watch?v=D1Nq086QB1Q
 [Highlights from the Christmas Lectures Archive]: https://www.youtube.com/watch?v=OLNFrxgMJ6E&list=PLbnrZHfNEDZy9ZL0GpfoRi93hipIKUjFy
-[Hunter]: hunter.html
 [Introduction by Forbes]: https://www.youtube.com/watch?v=iw4FzMDhU6M
-[Introduction]: introduction.html
 [Jimmy Diresta]: https://www.youtube.com/user/jimmydiresta
 [Lauren Bruzzone]: https://www.youtube.com/watch?v=tI98MLR-4U4
 [link]: https://realsalt.com/why-do-some-japanese-restaurants-keep-piles-of-salt-outside/
-[Philosopher]: philosopher.html
 [Physics Girl]: https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA
 [Profit Hunt]: http://profithunt.co/
-[Readwise]: https://readwise.io/
 [Russian Squat Kick tutorial]: https://www.youtube.com/watch?v=1FLThlB_OWc
-[soldier]: soldier.html
+[Readwise]: https://readwise.io/
 [Svelte]: https://svelte.dev/
-[The Artist]: artist.html
-[The Astronomer]: astronomer.html
-[The Athlete]: athlete.html
-[The Blacksmith]: blacksmith.html
-[The Bodybuilder]: bodybuilder.html
-[The Chef]: chef.html
-[The Composer]: composer.html
-[The Courageous]: courageous.html
-[The Cryptographer]: cryptographer.html
-[The Dancer]: dancer.html
-[The Designer]: designer.html
-[The Discoverer]: discoverer.html
-[The DJ]: dj.html
-[The Explorer]: explorer.html
-[The Filmmaker]: filmmaker.html
-[The Founder]: founder.html
-[The Genius]: genius.html
-[The Graffitist]: graffitist.html
-[The Guru]: guru.html
-[The hacker]: hacker.html
-[The Hacker]: hacker.html
-[The Highschooler]: highschooler.html
-[The Humanitarian]: humanitarian.html
-[The Hunter]: hunter.html
-[The Intellectual]: intellectual.html
-[The Knight]: knight.html
-[The Knight of Virtue]: knight.html
-[The Lady and The Gentleman]: gentleman.html
-[The Luminary]: luminary.html
-[The Maker]: maker.html
-[The Mine Explorer]: mine-explorer.html
-[The Musician]: musician.html
-[The Naturalist]: naturalist.html
-[The Officer]: officer.html
-[The Philosopher]: philosopher.html
-[The Photographer]: photographer.html
-[The Poet]: poet.html
-[The Principal]: principal.html
-[The Programmer]: programmer.html
-[The Scientist]: scientist.html
-[The Sculptor]: sculptor.html
-[The Skeptic]: skeptic.html
-[The Soldier]: soldier.html
-[The Student]: student.html
-[The Superhero]: hunter.html
-[The Superhero]: superhero.html
-[The Survivalist]: survivalist.html
-[The Teacher]: teacher.html
-[The Ultra]: ultra.html
-[The Visionary]: visionary.html
-[The Web Developer]: web-developer.html
-[The Wizard]: wizard.html
 [Torbjörn Åhman]: https://www.youtube.com/channel/UCSFaYYQzNMLo2U6rSNLpghg
-[Wizard]: wizard.html
+
+[Introduction]: introduction.html
+
+[The Philosopher]: the-philosopher.html
+[The Hunter]: the-hunter.html
+[The Soldier]: the-soldier.html
+[The Artist]: the-artist.html
+[The Astronomer]: the-astronomer.html
+[The Athlete]: the-athlete.html
+[The Blacksmith]: the-blacksmith.html
+[The Bodybuilder]: the-bodybuilder.html
+[The Chef]: the-chef.html
+[The Composer]: the-composer.html
+[The Courageous]: the-courageous.html
+[The Cryptographer]: the-cryptographer.html
+[The Dancer]: the-dancer.html
+[The Designer]: the-designer.html
+[The Discoverer]: the-discoverer.html
+[The DJ]: the-dj.html
+[The Explorer]: the-explorer.html
+[The Filmmaker]: the-filmmaker.html
+[The Founder]: the-founder.html
+[The Genius]: the-genius.html
+[The Graffitist]: the-graffitist.html
+[The Guru]: the-guru.html
+[The hacker]: the-hacker.html
+[The Hacker]: the-hacker.html
+[The Highschooler]: the-highschooler.html
+[The Humanitarian]: the-humanitarian.html
+[The Intellectual]: the-intellectual.html
+[The Knight]: the-knight.html
+[The Knight of Virtue]: the-knight.html
+[The Lady and The Gentleman]: the-lady-and-the-gentleman.html
+[The Luminary]: the-luminary.html
+[The Maker]: the-maker.html
+[The Mine Explorer]: the-mine-explorer.html
+[The Musician]: the-musician.html
+[The Naturalist]: the-naturalist.html
+[The Officer]: the-officer.html
+[The Photographer]: the-photographer.html
+[The Poet]: the-poet.html
+[The Principal]: the-principal.html
+[The Programmer]: the-programmer.html
+[The Scientist]: the-scientist.html
+[The Sculptor]: the-sculptor.html
+[The Skeptic]: the-skeptic.html
+[The Student]: the-student.html
+[The Superhero]: the-hunter.html
+[The Superhero]: the-superhero.html
+[The Survivalist]: the-survivalist.html
+[The Teacher]: the-teacher.html
+[The Ultra]: the-ultra.html
+[The Visionary]: the-visionary.html
+[The Web Developer]: the-web-developer.html
+[The Wizard]: the-wizard.html
