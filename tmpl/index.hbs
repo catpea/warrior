@@ -16,17 +16,24 @@
         A Warrior is She that thrives and triumphs where’er She be.
 
       </p>
-      <section>
-        <h2 id="toc">Table Of Contents</h2>
+
+      <section class="toc">
+        <h2 class="toc-title">Table Of Contents</h2>
+
+        <ul class="toc-list">
         {{#each links}}
-          <p><a href="{{href}}">{{title}}</a></p>
+          <li class="toc-item"><a href="{{href}}">{{title}}</a></li>
         {{/each}}
+        </ul>
+
       </section>
+
       <section>
         <p>
           <a href="changelog.html">Changelog</a> &middot; <a href="https://github.com/catpea/warrior/issues">Bugs &amp Issues</a>
         </p>
       </section>
+
     </article>
   </body>
 </html>

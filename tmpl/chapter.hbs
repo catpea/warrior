@@ -50,7 +50,7 @@
           {{#is this.type 'youtube'}}
             <h2>{{title}}</h2>
             <figure>
-              <a href="https://www.youtube.com/watch?v={{video}}" title="{{title}}">
+              <a href="https://www.youtube.com/watch?v={{video}}" class="no-tufte-underline" title="{{title}}">
                 <img src="images/youtube-{{video}}.jpg" alt="{{title}}" style="width: 100%; height: auto;">
               </a>
             </figure>
@@ -104,7 +104,7 @@
           <a href="index.html">Table of Contents</a>
         </p>
 
-        <p style="padding: 3rem 0;">
+        <p style="padding: 3rem 0; width: 100%;">
           {{#if next}}<a href="{{next.name}}.html" class="lg">{{next.title}}&nbsp;&raquo;</a>{{/if}}
         </p>
 
