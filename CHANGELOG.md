@@ -1,7 +1,7 @@
 ## Changelog
 
 ### April 30th 2020, 8:26:00 pm
-Added the [Foreword] poem.
+Added the [Foreword] poem along with audio version.
 
 ### April 30th 2020, 12:47:00 pm
 Rebuilt the Build System and Switched to [Edward Tufte CSS].
