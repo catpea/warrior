@@ -1,5 +1,8 @@
 ## Changelog
 
+### May 1st 2020, 23:32:00 pm
+Created a new chapter [The Ukulele Player].
+
 ### April 30th 2020, 8:26:00 pm
 Added the [Foreword] poem along with audio version.
 
@@ -491,3 +494,4 @@ Restructuring youtube links in [The Programmer] section.
 [The Web Developer]: the-web-developer.html
 [The Wizard]: the-wizard.html
 [Foreword]: foreword.html
+[The Ukulele Player]: the-ukulele-player.html
