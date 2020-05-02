@@ -3,15 +3,15 @@
   text: text-user-interface.md
 
 - type: youtube
-  video: tc4ROCJYbm0
+  id: tc4ROCJYbm0
   title: The UNIX Operating System
 
 - type: youtube
-  video: jowCUo_UGts
+  id: jowCUo_UGts
   title: Unix vs Linux
 
 - type: youtube
-  video: o8NPllzkFhE
+  id: o8NPllzkFhE
   title: 'The mind behind Linux: Linus Torvalds'
 
 - type: text
@@ -24,7 +24,7 @@
   text: image-commodore-64.md
 
 - type: youtube
-  video: h3bDa5z_B1M
+  id: h3bDa5z_B1M
   title: Commodore 64 - Introduction to Programming - Level 1
 
 - type: image
@@ -43,11 +43,11 @@
   text: image-windows.md
 
 - type: youtube
-  video: ncCSmDAmcQY
+  id: ncCSmDAmcQY
   title: Visual The History of GUI
 
 - type: youtube
-  video: U1Oy4X5Ni8Y
+  id: U1Oy4X5Ni8Y
   title: The history of the graphic user interface
 
 - type: image
@@ -61,7 +61,7 @@
   text: image-librem-5-kings-cross-terminal.md
 
 - type: youtube
-  video: s0nKGFOWgFA
+  id: s0nKGFOWgFA
   title: 'Librem5: Kings Cross'
 
 - type: text
@@ -69,11 +69,11 @@
   text: text-finding-your-command-line.md
 
 - type: youtube
-  video: uE9WgNr3OjM
+  id: uE9WgNr3OjM
   title: How to Open Windows Command Prompt in Windows 10
 
 - type: youtube
-  video: 5XgBd6rjuDQ
+  id: 5XgBd6rjuDQ
   title: How to run/use the Command Line on Mac
 
 - type: image
@@ -82,11 +82,11 @@
   text: image-get-the-55-raspberry-pi-4.md
 
 - type: youtube
-  video: UW3UxK4Tiqg
+  id: UW3UxK4Tiqg
   title: Raspberry Pi - Getting Started with Terminal
 
 - type: youtube
-  video: JoVQTPbD6UY
+  id: JoVQTPbD6UY
   title: Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)
 
 - type: image

@@ -19,7 +19,7 @@
   text: text-authenticity.md
 
 - type: youtube
-  video: oRG2jlQWCsY
+  id: oRG2jlQWCsY
   title: Your Move Chief
 
 - type: text
@@ -27,7 +27,7 @@
   text: text-forbearance-and-largesse.md
 
 - type: youtube
-  video: VLAM6YxV_gA
+  id: VLAM6YxV_gA
   title: Why Chivalry Still has a Chance by Anthony Rudolf
 
 - type: text

@@ -7,11 +7,11 @@
   text: text-y-combinator.md
 
 - type: youtube
-  video: _4JtyLKDjXk
+  id: _4JtyLKDjXk
   title: What is Y Combinator?
 
 - type: youtube
-  video: ZoqgAy3h4OM
+  id: ZoqgAy3h4OM
   title: How and Why to Start A Startup - Sam Altman & Dustin Moskovitz (44 minute lecture)
 
 - type: text
@@ -19,23 +19,23 @@
   text: text-investors-are-waiting.md
 
 - type: youtube
-  video: waYiVrIGQ_0
+  id: waYiVrIGQ_0
   title: YC Partner AMA at the Female Founders Conference
 
 - type: youtube
-  video: GHoTciAH8Uo
+  id: GHoTciAH8Uo
   title: Fundraising Advice from Female Founders
 
 - type: youtube
-  video: ZAkzs4rgjOo
+  id: ZAkzs4rgjOo
   title: The Most Important Decision is Getting Started – Laura Behrens Wu
 
 - type: youtube
-  video: gmA-BOIVKQU
+  id: gmA-BOIVKQU
   title: 'Mariya Nurislamova, Founder of Scentbird at the Female Founders Conference'
 
 - type: youtube
-  video: ex-fXyRJTU8
+  id: ex-fXyRJTU8
   title: Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at the Female Founders Conference
 
 - type: text
@@ -43,19 +43,19 @@
   text: text-techstars.md
 
 - type: youtube
-  video: S-3YgWroCdo
+  id: S-3YgWroCdo
   title: What is Techstars?
 
 - type: youtube
-  video: Apr2B7Ix0zs
+  id: Apr2B7Ix0zs
   title: What Techstars Gave Me - Founder Stories
 
 - type: youtube
-  video: NE6jxVk7G-8
+  id: NE6jxVk7G-8
   title: 'Mary Haskett, Founder of Blink Identity'
 
 - type: youtube
-  video: oRjHsum2ImI
+  id: oRjHsum2ImI
   title: 'Sky Kelley, Founder of Avisare'
 
 - type: quote

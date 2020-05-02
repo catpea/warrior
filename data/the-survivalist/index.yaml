@@ -8,31 +8,31 @@
   text: text-becky.md
 
 - type: youtube
-  video: VBTC1j5-Quo
+  id: VBTC1j5-Quo
   title: Why I left school at 16...
 
 - type: youtube
-  video: KJ2fCBvrzIg
+  id: KJ2fCBvrzIg
   title: '8 Day Solo, Canvas Lavvu, Woodburner, Bushcraft Camp'
 
 - type: youtube
-  video: 2LTT2ChOh-k
+  id: 2LTT2ChOh-k
   title: '8 Day Solo, Lavvu, Woods Camp - Part 2, Beef Stew'
 
 - type: youtube
-  video: 0D1aA7QJVJ0
+  id: 0D1aA7QJVJ0
   title: Hiking Scotland | Solo Backpacking | EP 1
 
 - type: youtube
-  video: '-Myg8OpSUxI'
+  id: '-Myg8OpSUxI'
   title: Scotland Backpacking | Solo Hike | EP 2
 
 - type: youtube
-  video: Yh7Px8ylmDI
+  id: Yh7Px8ylmDI
   title: Scotland Backpacking Solo | EP 3 - Mountain Hut | Backpacking Food
 
 - type: youtube
-  video: s8-IPd-AtLU
+  id: s8-IPd-AtLU
   title: Hiking Scotland - Part 4 | Road Trip | Isle of Skye |
 
 - type: text
@@ -40,15 +40,15 @@
   text: text-survival-lilly.md
 
 - type: youtube
-  video: tSaknrYflQk
+  id: tSaknrYflQk
   title: Solo Winter Overnighter In A Tepee
 
 - type: youtube
-  video: ET0yaa8PB_o
+  id: ET0yaa8PB_o
   title: Solo Overnight - Alone in the dark forest
 
 - type: youtube
-  video: b40AGXWSX8Y
+  id: b40AGXWSX8Y
   title: Overnight in my super shelter
 
 - type: text
@@ -56,19 +56,19 @@
   text: text-vanessa-blank-bushcraft-abenteuer.md
 
 - type: youtube
-  video: 3rzkXQmX36E
+  id: 3rzkXQmX36E
   title: Deep in the Forest - Real Bushcraft
 
 - type: youtube
-  video: zjowi34UBe0
+  id: zjowi34UBe0
   title: Two Women Adventure Trip in the Mountain Ravine
 
 - type: youtube
-  video: VR4mlI834_Q
+  id: VR4mlI834_Q
   title: So this is Christmas - The Christmas Overnighter in the forest
 
 - type: youtube
-  video: ZLmLe1CClPk
+  id: ZLmLe1CClPk
   title: So this is Christmas Part II -The Christmas Overnighter in the forest
 
 - type: text
@@ -76,11 +76,11 @@
   text: text-alexis-outdoors.md
 
 - type: youtube
-  video: vyCICXGvkW4
+  id: vyCICXGvkW4
   title: Fall Canoe Trip in the Canadian Backcountry
 
 - type: youtube
-  video: IRydquzUHR0
+  id: IRydquzUHR0
   title: 'Splitwood Fire, Hike and Lunch in the Woods with my Dog'
 
 - type: text
@@ -88,11 +88,11 @@
   text: text-stephanie-margeth.md
 
 - type: youtube
-  video: 1sNfuuTS6q8
+  id: 1sNfuuTS6q8
   title: 5 Days in the Canadian Wilderness Pt1
 
 - type: youtube
-  video: QmTR9XmteyA
+  id: QmTR9XmteyA
   title: Surviving the Canadian Wilderness Pt2 (Carbon Monoxide Poisoning from fire)
 
 - type: text
@@ -100,7 +100,7 @@
   text: text-more-bushcraft.md
 
 - type: youtube
-  video: B9cVgScVlkk
+  id: B9cVgScVlkk
   title: Emelie Eating Ants
 
 - type: text
@@ -108,17 +108,17 @@
   text: text-primitive-technology.md
 
 - type: youtube
-  video: SLoukoBs8TE
+  id: SLoukoBs8TE
   title: Bow and Arrow
 
 - type: youtube
-  video: i-WYT2UotIc
+  id: i-WYT2UotIc
   title: Sandals
 
 - type: youtube
-  video: RzDMCVdPwnE
+  id: RzDMCVdPwnE
   title: Sling
 
 - type: youtube
-  video: vAuO3bHxSpc
+  id: vAuO3bHxSpc
   title: Round Hut

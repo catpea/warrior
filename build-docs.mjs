@@ -3,7 +3,10 @@
 import fs from 'fs-extra';
 import path from 'path';
 
+import request from 'request';
+
 import pretty from 'pretty';
+import yaml from 'js-yaml';
 import marked from 'marked';
 
 import handlebars from 'handlebars';
@@ -30,6 +33,11 @@ const options = {
     changelog:'tmpl/changelog.hbs',
   },
 
+  src:{
+    path: 'data',
+    index: 'index.yaml',
+  },
+
   data:{
     json: 'dist/warrior.json',
     changelog: 'dist/changelog.html',
@@ -37,12 +45,37 @@ const options = {
 
   docs:{
     path: 'docs',
+    images: 'docs/images',
     missing:'docs/404.html',
     index:'docs/index.html',
     changelog:'docs/changelog.html',
   }
 
 }
+
+
+
+function download(src, dest){
+  return new Promise(async function(resolve, reject) {
+    if(await fs.pathExists(dest)) {
+      //console.log('already downloaded, exit early',dest);
+      resolve();
+      return;
+    }else{
+      //console.log('Downloading %s into %s', src, dest);
+    }
+    request(src).pipe(fs.createWriteStream(dest)).on('close', function(err){
+      if (err) {
+        reject(err);
+        return;
+      }
+      resolve()
+    });
+  });
+}
+
+
+async function main(){
 
 // Schema
 const schema = {};
@@ -53,7 +86,7 @@ const changelogTemplate = handlebars.compile( fs.readFileSync(path.resolve(optio
 const chapterTemplate = handlebars.compile( fs.readFileSync(path.resolve(options.template.chapter)).toString() );
 
 // Load Data
-const warrior = JSON.parse( fs.readFileSync(path.resolve(options.data.json)).toString() );
+const book = JSON.parse( fs.readFileSync(path.resolve(options.data.json)).toString() );
 const changelog = fs.readFileSync(path.resolve(options.data.changelog)).toString()
 
 // Generate Index File
@@ -61,8 +94,24 @@ const indexFileName ='index.html';
 const indexFullPath = path.resolve(path.join(options.docs.path, indexFileName));
 const links = [];
 
+// Download Images
+for(let chapter of book){
+    for(let video of chapter.data.filter(o=>o.type === 'youtube')){
+
+    const thumbnailFilename = `yid-${video.id}.jpg`;
+    const thumbnailFullpath = path.resolve(path.join(options.docs.images, thumbnailFilename));
+    if(!fs.pathExistsSync(thumbnailFullpath)){
+      console.log('Downloading Thumbnail',thumbnailFullpath)
+      download(`https://img.youtube.com/vi/${video.id}/0.jpg`, thumbnailFullpath);
+    }
+
+  }
+}
+
+
+
 //Generate Chapter Files
-for(let chapter of warrior){
+for(let chapter of book){
   const chapterFileName = chapter.name + '.html';
   const chapterFullPath = path.resolve(path.join(options.docs.path, chapterFileName));
   links.push({title:chapter.title, href:chapterFileName})
@@ -88,10 +137,15 @@ fs.writeFileSync(path.resolve(options.docs.missing), indexHtml);
 const changelogHtml = pretty(changelogTemplate({changelog}),{ocd:true});
 fs.writeFileSync(path.resolve(options.docs.changelog), changelogHtml);
 
-for(let key in schema){
-  schema[key].keys.delete('type')
-}
 
 
 console.log('Database Schema');
-console.log(schema);
+for(let key in schema){schema[key].keys.delete('type')}
+for(let type in schema){
+  console.log(`${type}: ${Array.from(schema[type].keys).join(', ')}.`);
+}
+
+
+} // main
+
+main();

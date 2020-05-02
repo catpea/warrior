@@ -1,5 +1,5 @@
 - type: youtube
-  video: NWH8N-BvhAw
+  id: NWH8N-BvhAw
   title: The three secrets of resilient people by Lucy Hone
 
 - type: quote
@@ -11,7 +11,7 @@
   text: text-quo-vadis.md
 
 - type: youtube
-  video: MDL85fzdc1g
+  id: MDL85fzdc1g
   title: Dan Millman's Ted Talk
 
 - type: text
@@ -19,7 +19,7 @@
   text: text-a-warrior-in-training.md
 
 - type: youtube
-  video: gegNMYvY_yg
+  id: gegNMYvY_yg
   title: Way of the Peaceful Warrior Trailer
 
 - type: text
@@ -27,7 +27,7 @@
   text: text-sensei-lee.md
 
 - type: youtube
-  video: Op4g9McS3EY
+  id: Op4g9McS3EY
   title: 'No Retreat, No Surrender (1986)'
 
 - type: text
@@ -35,7 +35,7 @@
   text: text-by-whatever-means.md
 
 - type: youtube
-  video: '-YFbxFq6Zr8'
+  id: '-YFbxFq6Zr8'
   title: Another Mad World
 
 - type: text
@@ -43,7 +43,7 @@
   text: text-take-out-the-trash.md
 
 - type: youtube
-  video: 31lUwuhE8pc
+  id: 31lUwuhE8pc
   title: Peaceful Warrior Quotes
 
 - type: quote
@@ -55,11 +55,11 @@
   text: text-vulnerability-and-shame.md
 
 - type: youtube
-  video: iCvmsMzlF7o
+  id: iCvmsMzlF7o
   title: The power of vulnerability
 
 - type: youtube
-  video: psN1DORYYV0
+  id: psN1DORYYV0
   title: Listening to shame
 
 - type: poem
@@ -76,7 +76,7 @@
   text: text-become-a-great-being.md
 
 - type: youtube
-  video: TMrtLsQbaok
+  id: TMrtLsQbaok
   title: Greta Thunberg
 
 - type: text
@@ -84,11 +84,11 @@
   text: text-they-are-everywhere-and-everywhen.md
 
 - type: youtube
-  video: 9M4tdMsg3ts
+  id: 9M4tdMsg3ts
   title: Erica Goldson Valedictorian Speech
 
 - type: youtube
-  video: hgui64Kr0Go
+  id: hgui64Kr0Go
   title: Erica Goldson Self Education
 
 - type: text
@@ -108,5 +108,5 @@
   text: text-best-of-your-life.md
 
 - type: youtube
-  video: FhzNSPiqO0M
+  id: FhzNSPiqO0M
   title: 'Make the rest of your life, the best of your life.'

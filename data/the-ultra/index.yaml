@@ -3,11 +3,11 @@
   text: quote-henry-ford.md
 
 - type: youtube
-  video: k84QxVJd0tI
+  id: k84QxVJd0tI
   title: Coming Home
 
 - type: youtube
-  video: WnoziOPQ3HA
+  id: WnoziOPQ3HA
   title: 'Lucy Lawrence & James Lawrence: Breaking endurance barriers, one step at a time'
 
 - type: quote
@@ -15,7 +15,7 @@
   text: quote-bruce-lee.md
 
 - type: youtube
-  video: '-U5zA7gNPKo'
+  id: '-U5zA7gNPKo'
   title: Bruce Lee
 
 - type: text
@@ -27,7 +27,7 @@
   text: quote-dean-karnazes.md
 
 - type: youtube
-  video: Mtp65SWoyWc
+  id: Mtp65SWoyWc
   title: Dean Karnazes
 
 - type: quote
@@ -43,7 +43,7 @@
   text: text-pain-does-not-hurt.md
 
 - type: youtube
-  video: 7wtfhZwyrcc
+  id: 7wtfhZwyrcc
   title: Imagine Dragons - Believer
 
 - type: text
@@ -51,7 +51,7 @@
   text: text-there-is-no-later.md
 
 - type: youtube
-  video: wxmRulRQsLc
+  id: wxmRulRQsLc
   title: Make me young again
 
 - type: text
@@ -59,7 +59,7 @@
   text: text-make-me-young.md
 
 - type: youtube
-  video: EknD3KRtgDk
+  id: EknD3KRtgDk
   title: Nietzsche's Eternal Recurrence
 
 - type: text

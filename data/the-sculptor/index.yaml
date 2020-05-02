@@ -4,35 +4,35 @@
   text: quote-auguste-rodin.md
 
 - type: youtube
-  video: n_6p-1J551Y
+  id: n_6p-1J551Y
   title: Cubli
 
 - type: youtube
-  video: ZqzjAmPFND8
+  id: ZqzjAmPFND8
   title: Water No. 33 by Dean O'Callaghan
 
 - type: youtube
-  video: 1scj5sotD-E
+  id: 1scj5sotD-E
   title: Colibri by  Derek Hugger
 
 - type: youtube
-  video: zqNnOYoU5ls
+  id: zqNnOYoU5ls
   title: Kinetic Sculptures Intro
 
 - type: youtube
-  video: Ibq1crh0OFA
+  id: Ibq1crh0OFA
   title: Kinetic sculptures by Alex Harrell
 
 - type: youtube
-  video: nxdcj2tLQGE
+  id: nxdcj2tLQGE
   title: Kinetic Sculpture by David Roy
 
 - type: youtube
-  video: J4l5rHNSq9s
+  id: J4l5rHNSq9s
   title: Kinetic Masterpieces by Anthony Howe
 
 - type: youtube
-  video: IvUU8joBb1Q
+  id: IvUU8joBb1Q
   title: Wintergatan by Martin Molin
 
 - type: text
@@ -40,15 +40,15 @@
   text: text-blender.md
 
 - type: youtube
-  video: ICBP-7x7Chc
+  id: ICBP-7x7Chc
   title: MODELING For Absolute Beginners - Blender Tutorial
 
 - type: youtube
-  video: lp9JO7qpIO4
+  id: lp9JO7qpIO4
   title: 'B3d/ZB/MD: Threadox Pt.1'
 
 - type: youtube
-  video: a-Nsphndbj8
+  id: a-Nsphndbj8
   title: Blender 2.8 Mecha Sculpting In Dyntopo - Blender Tutorial
 
 - type: text
@@ -56,15 +56,15 @@
   text: text-z-brush.md
 
 - type: youtube
-  video: G3SVAN9TPbo
+  id: G3SVAN9TPbo
   title: Organic Sculpting with Maria Panfilova
 
 - type: youtube
-  video: k00bCwWH92E
+  id: k00bCwWH92E
   title: Joker Speed Art (Zbrush)
 
 - type: youtube
-  video: GhYwHcp-UV8
+  id: GhYwHcp-UV8
   title: Speedsculpt Zbrush
 
 - type: text
@@ -72,7 +72,7 @@
   text: text-air-dry-clay.md
 
 - type: youtube
-  video: H4WtpO8vfTU
+  id: H4WtpO8vfTU
   title: Speed Sculpting - What you NEED to Know
 
 - type: text
@@ -80,11 +80,11 @@
   text: text-3-d-printing.md
 
 - type: youtube
-  video: 9uxE_r9kEE8
+  id: 9uxE_r9kEE8
   title: 3D Printing Cast Metals via Shapeways
 
 - type: youtube
-  video: YzF5YnUuN4Q
+  id: YzF5YnUuN4Q
   title: Why This Is the Best 3D Printer - Comparing ALL My Printers!!!
 
 - type: business
@@ -98,9 +98,9 @@
   text: business-scanned-model-sales.md
 
 - type: youtube
-  video: TTCiOoedUco
+  id: TTCiOoedUco
   title: Explaining 3D Scanning
 
 - type: youtube
-  video: 20b2JWz2TfE
+  id: 20b2JWz2TfE
   title: Best 3D Scanners 2019

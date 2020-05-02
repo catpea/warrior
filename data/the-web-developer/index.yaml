@@ -1,9 +1,9 @@
 - type: youtube
-  video: ASbijZRU2Uo
+  id: ASbijZRU2Uo
   title: How I Became a Web Developer in 3 Months
 
 - type: youtube
-  video: 6NzNs8FAudQ
+  id: 6NzNs8FAudQ
   title: 'Passion, Programming, and Pragmatism by Marcella Jewell'
 
 - type: text
@@ -23,7 +23,7 @@
   text: text-the-challenge.md
 
 - type: youtube
-  video: uj0kReMs-gc
+  id: uj0kReMs-gc
   title: A Software Developer's Secret to Life by Julia Menchavez
 
 - type: text

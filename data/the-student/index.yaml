@@ -1,33 +1,33 @@
 - type: youtube
-  video: LwIyy1Fi-4Q
+  id: LwIyy1Fi-4Q
   title: Astra Taylor on the Unschooled Life
 
 - type: youtube
-  video: 23jVmKXk2I0
+  id: 23jVmKXk2I0
   title: Skipping School by Lua Martin Wells
 
 - type: youtube
-  video: h11u3vtcpaY
+  id: h11u3vtcpaY
   title: Hackschooling makes me happy by Logan LaPlante
 
 - type: youtube
-  video: T0hQNR5fDKw
+  id: T0hQNR5fDKw
   title: Going natural in education by Lora Smothers
 
 - type: youtube
-  video: OEqOgtmvkkE
+  id: OEqOgtmvkkE
   title: Why school sucks by Jad Khoury
 
 - type: youtube
-  video: 2Yt6raj-S1M
+  id: 2Yt6raj-S1M
   title: How School Makes Kids Less Intelligent by Eddy Zhong
 
 - type: youtube
-  video: woVtj8GH678
+  id: woVtj8GH678
   title: What standardized tests don't measure by Nikki Adeli
 
 - type: youtube
-  video: nVj3qizoWS8
+  id: nVj3qizoWS8
   title: Connecting Nature and Education by Bandile Phiri
 
 - type: quote
@@ -36,19 +36,19 @@
   text: quote-albert-einstein.md
 
 - type: youtube
-  video: StdwWpbokcw
+  id: StdwWpbokcw
   title: Inventing 101 by Chase Lewis
 
 - type: youtube
-  video: lFDG7w_jAFk
+  id: lFDG7w_jAFk
   title: The problem with inventions by Ann Makosinski
 
 - type: youtube
-  video: iw4FzMDhU6M
+  id: iw4FzMDhU6M
   title: 'Ann Makosinski: From Tinkering To Invention | Forbes'
 
 - type: youtube
-  video: sxyKNMrhEvY
+  id: sxyKNMrhEvY
   title: The Surprising Truth About Learning in Schools by Will Richardson
 
 - type: quote
@@ -61,5 +61,5 @@
   text: text-become-a-great-being.md
 
 - type: youtube
-  video: vvlozhvQPJw
+  id: vvlozhvQPJw
   title: 'We can end poverty, but this is why we haven''t by Teva Sienicki'

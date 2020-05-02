@@ -9,76 +9,80 @@
   text: quote-friedrich-nietzsche.md
 
 - type: youtube
-  video: rENyyRwxpHo
+  id: rENyyRwxpHo
   title: 'Laniakea: Our home supercluster'
 
 - type: subtitle
   title: Introduction
 
 - type: youtube
-  video: rfi3w9Bzwik
+  id: rfi3w9Bzwik
   title: 'The story of ''Oumuamua, the first visitor from another star system by Karen J. Meech'
 
 - type: youtube
-  video: gypAjPp6eps
+  id: gypAjPp6eps
   title: The most mysterious star in the universe by Tabetha Boyajian
 
 - type: youtube
-  video: yqc9zX04DXs
+  id: yqc9zX04DXs
   title: The history of our world in 18 minutes
 
 - type: subtitle
   title: Carl Sagan
 
 - type: youtube
-  video: BdXtjNSDi4s
+  id: BdXtjNSDi4s
   title: 'Carl Sagan: The Earth as a Planet (1977)'
 
 - type: link
   url: 'https://www.youtube.com/watch?v=BdXtjNSDi4s&list=PLzEZRwmmqC4FTciK3pyF2JsuSFyiysVYM'
   title: Full Playlist
 
+- type: youtube
+  id: 6_-jtyhAVTc
+  title: The Age of Exploration
+
 - type: subtitle
   title: Richard Feynman
 
 - type: youtube
-  video: P1ww1IXRfTA
+  id: P1ww1IXRfTA
   title: FUN TO IMAGINE with Richard Feynman
 
 - type: subtitle
   title: Murray Gell-Mann
 
 - type: youtube
-  video: UuRxRGR3VpM
+  id: UuRxRGR3VpM
   title: 'Murray Gell-Mann: Beauty and truth in physics'
 
 - type: subtitle
   title: Lord Martin Rees
 
 - type: youtube
-  video: YnU6vMVAdAE
+  id: YnU6vMVAdAE
   title: Martin Rees - The Future of Humanity
 
 - type: subtitle
   title: Neil DeGrasse Tyson
 
 - type: youtube
-  video: PTqqiDQP02I
+  id: PTqqiDQP02I
   title: Neil deGrasse Tyson on Larry King Now
 
 - type: youtube
-  video: h1iJXOUMJpg
+  id: h1iJXOUMJpg
   title: Neil DeGrasse Tyson on Death By Black Hole
 
 - type: youtube
-  video: wp6cnp1kZBY
+  id: wp6cnp1kZBY
   title: Neil deGrasse Tyson at University of Washington
 
 - type: subtitle
   title: SETI
 
 - type: youtube
-  video: EszGIvRdgTE
+  id: EszGIvRdgTE
   title: 'Jill Tarter: Why the search for alien intelligence matters'
 
 - type: text
@@ -86,33 +90,33 @@
   text: text-an-awful-waste-of-space.md
 
 - type: youtube
-  video: 0bWK5ES3lTE
+  id: 0bWK5ES3lTE
   title: 'First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak (SETI Talks)'
 
 - type: youtube
-  video: m9WxW2ktcKU
+  id: m9WxW2ktcKU
   title: 'The Search for Intelligent Life Among the Stars: New Strategies'
 
 - type: youtube
-  video: xvm7dB0mOic
+  id: xvm7dB0mOic
   title: Seth Shostak on SETI
 
 - type: subtitle
   title: Sean Carroll
 
 - type: youtube
-  video: 2JsKwyRFiYY
+  id: 2JsKwyRFiYY
   title: 'The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll'
 
 - type: youtube
-  video: qB_V1l8iLlc
+  id: qB_V1l8iLlc
   title: 'Sean Carroll: The Paradoxes of Time Travel'
 
 - type: subtitle
   title: Dr. Alex Filippenko
 
 - type: youtube
-  video: fnkj6fD_i9o
+  id: fnkj6fD_i9o
   title: 'Dark Energy and the Runaway Universe, Dr. Alex Filippenko, UC Berkeley'
 
 - type: text
@@ -120,7 +124,7 @@
   text: text-dr-becky.md
 
 - type: youtube
-  video: YgDItoRdQ_Q
+  id: YgDItoRdQ_Q
   title: 'A newly discovered, unexplained Fast Radio Burst | Night Sky News February 2020'
 
 - type: text
@@ -128,5 +132,5 @@
   text: text-physics-girl.md
 
 - type: youtube
-  video: c6Eq2sI1NDY
+  id: c6Eq2sI1NDY
   title: How the Edge of Our Galaxy Defies Known Physics

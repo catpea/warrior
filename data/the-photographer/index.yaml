@@ -1,23 +1,23 @@
 - type: youtube
-  video: Xb0HQSqkZHs
+  id: Xb0HQSqkZHs
   title: Petit World
 
 - type: youtube
-  video: uuMy9nsrLW4
+  id: uuMy9nsrLW4
   title: Petit Vienna
 
 - type: youtube
-  video: IpCdMGfducg
+  id: IpCdMGfducg
   title: Petit Montenegro
 
 - type: youtube
-  video: kdnyIIqEBII
+  id: kdnyIIqEBII
   title: Petit Prague
 
 - type: youtube
-  video: gvV5sINKnT8
+  id: gvV5sINKnT8
   title: 'Tilt-Shift Lens: Explained'
 
 - type: youtube
-  video: QpeUEK_5Tb0
+  id: QpeUEK_5Tb0
   title: How to Create Tilt-Shift / Miniature World Time-lapses

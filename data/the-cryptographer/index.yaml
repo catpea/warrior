@@ -3,23 +3,23 @@
   text: quote-carrie-anne.md
 
 - type: youtube
-  video: jhXCTbFnK8o
+  id: jhXCTbFnK8o
   title: 'Cryptography: Crash Course Computer Science #33'
 
 - type: youtube
-  video: 1P8Xpxm76e8
+  id: 1P8Xpxm76e8
   title: Cryptography 101 - Substitution Ciphers
 
 - type: youtube
-  video: mUoQhXWTKE0
+  id: mUoQhXWTKE0
   title: How to use the Frequency Analysis Tool
 
 - type: youtube
-  video: sHsnH1u03e4
+  id: sHsnH1u03e4
   title: 'Cryptography: Transposition Cipher'
 
 - type: youtube
-  video: mO0oET8TT5E
+  id: mO0oET8TT5E
   title: Poles Escape With Secret of Enigma
 
 - type: image
@@ -28,19 +28,19 @@
   text: image-enigma-machine.md
 
 - type: youtube
-  video: cpRhZaQxnhw
+  id: cpRhZaQxnhw
   title: Polish cryptologists and breaking of the Enigma
 
 - type: youtube
-  video: G2_Q9FoD-oQ
+  id: G2_Q9FoD-oQ
   title: Enigma Machine - Numberphile
 
 - type: youtube
-  video: V4V2bpZlqx8
+  id: V4V2bpZlqx8
   title: Flaw in the Enigma Code - Numberphile
 
 - type: youtube
-  video: dG09jv3c1sE
+  id: dG09jv3c1sE
   title: Typex
 
 - type: text
@@ -48,19 +48,19 @@
   text: text-more-on-wikipedia.md
 
 - type: youtube
-  video: Sy0sXa73PZA
+  id: Sy0sXa73PZA
   title: DES encryption by hand (simple low level example at a bit view)
 
 - type: youtube
-  video: O4xNJsjtN6E
+  id: O4xNJsjtN6E
   title: AES Explained (Advanced Encryption Standard) - Computerphile
 
 - type: youtube
-  video: pArLLJmgX10
+  id: pArLLJmgX10
   title: Symmetric and Asymmetric Encryption
 
 - type: youtube
-  video: AQDCe585Lnc
+  id: AQDCe585Lnc
   title: Asymmetric encryption - Simply explained
 
 - type: text
@@ -68,11 +68,11 @@
   text: text-games.md
 
 - type: youtube
-  video: j9xht4K-MBk
+  id: j9xht4K-MBk
   title: 'Google CTF: Beginner Quest: OCR IS COOL!'
 
 - type: youtube
-  video: fPJoNYgXHnI
+  id: fPJoNYgXHnI
   title: 'Kryptos: The CIA''s Unsolved Secret Code'
 
 - type: text
@@ -87,9 +87,9 @@
   text: text-kryptos-transcription.md
 
 - type: youtube
-  video: r-76Smf2oMk
+  id: r-76Smf2oMk
   title: Ancient Codes and Hieroglyphs
 
 - type: youtube
-  video: nVVF8dgKC38
+  id: nVVF8dgKC38
   title: 'Keeping Secrets: Cryptography In A Connected World'

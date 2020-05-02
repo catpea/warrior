@@ -8,7 +8,7 @@
   text: text-natural-born-athletes.md
 
 - type: youtube
-  video: 826HMLoiE_o
+  id: 826HMLoiE_o
   title: 'Human Mammal, Human Hunter, Attenborough, Life of Mammals'
 
 - type: text
@@ -16,7 +16,7 @@
   text: text-protect-life.md
 
 - type: youtube
-  video: 9FCsyK4aRXQ
+  id: 9FCsyK4aRXQ
   title: 'Modern Warrior: Damien Mander'
 
 - type: text
@@ -28,7 +28,7 @@
   text: text-one-family.md
 
 - type: youtube
-  video: PUwmA3Q0_OE
+  id: PUwmA3Q0_OE
   title: Human Population Across Time
 
 - type: text
@@ -36,11 +36,11 @@
   text: text-choose-life.md
 
 - type: youtube
-  video: kWrPo02e4fo
+  id: kWrPo02e4fo
   title: The Sixth Extinction
 
 - type: youtube
-  video: 9XzAgMe0WrI
+  id: 9XzAgMe0WrI
   title: 'Elizabeth Kolbert: How the 6th extinction threatens humans'
 
 - type: text

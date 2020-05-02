@@ -13,12 +13,14 @@
 
 
 
-        <p style="text-align: right; padding-right: 6rem;">
+        <div style="text-align: right; padding-right: 6rem;">
           <!-- {{#if previous}}<a href="{{previous.name}}.html">&laquo; {{previous.title}}</a> &middot;{{/if}}
          -->
-          <a href="index.html">Table of Contents</a><br>
-          {{#if next}}<a href="{{next.name}}.html">{{next.title}}&nbsp;&raquo;</a>{{/if}}
-        </p>
+          <p><a href="index.html">Table of Contents</a></p>
+          {{#if next}}
+          <p><a href="{{next.name}}.html">{{next.title}}&nbsp;&raquo;</a></p>
+          {{/if}}
+        </div>
 
 
 
@@ -50,9 +52,10 @@
           {{#is this.type 'youtube'}}
             <h2>{{title}}</h2>
             <figure>
-              <a href="https://www.youtube.com/watch?v={{video}}" class="no-tufte-underline" title="{{title}}">
-                <img src="images/youtube-{{video}}.jpg" alt="{{title}}" style="width: 100%; height: auto;">
+              <a href="https://www.youtube.com/watch?v={{id}}" class="no-tufte-underline" title="{{title}}">
+                <img src="images/yid-{{id}}.jpg" alt="{{title}}" style="width: 100%; height: auto;">
               </a>
+              <p style="margin: 0 0.50rem;"><a href="https://www.youtube.com/watch?v={{id}}" title="{{title}}">Play</a></p>
             </figure>
           {{/is}}
 
@@ -105,7 +108,7 @@
         </p>
 
         <p style="padding: 3rem 0; width: 100%;">
-          {{#if next}}<a href="{{next.name}}.html" class="lg">{{next.title}}&nbsp;&raquo;</a>{{/if}}
+          {{#if next}}<a href="{{next.name}}.html" style="line-height: 4rem; font-size: 3rem;">{{next.title}}&nbsp;&raquo;</a>{{/if}}
         </p>
 
     </section>

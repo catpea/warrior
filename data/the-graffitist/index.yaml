@@ -1,29 +1,29 @@
 - type: youtube
-  video: ARZzKXPc6FM
+  id: ARZzKXPc6FM
   title: 'First Name Basis: Wyland'
 
 - type: youtube
-  video: oyyvQikuog4
+  id: oyyvQikuog4
   title: The 10-Year-Old Graffiti Artist Who’s Tagging Britain With Chickens
 
 - type: youtube
-  video: ekzjYZHs27E
+  id: ekzjYZHs27E
   title: Shredded!
 
 - type: youtube
-  video: mDdqq_6OpyU
+  id: mDdqq_6OpyU
   title: 3D Graffiti murals
 
 - type: youtube
-  video: McDbh87cp6g
+  id: McDbh87cp6g
   title: Graffiti Sketch wild style en 3D
 
 - type: youtube
-  video: dHg7twHeIrw
+  id: dHg7twHeIrw
   title: Pensil 2018 wildstyle
 
 - type: youtube
-  video: ptJp6gTTYFY
+  id: ptJp6gTTYFY
   title: Ed-Mun - Freestyle 3D
 
 - type: image
@@ -32,15 +32,15 @@
   text: image-doke.md
 
 - type: youtube
-  video: a1WFwsPOHmg
+  id: a1WFwsPOHmg
   title: GRAFFITI WRITER vs POLICE
 
 - type: youtube
-  video: ofSvAqiv0ss
+  id: ofSvAqiv0ss
   title: 10 GRAFFITI Tips
 
 - type: youtube
-  video: v5tollaAXfU
+  id: v5tollaAXfU
   title: Tutorial - How to make Graffiti sketches - Step by step !
 
 - type: image
@@ -49,15 +49,15 @@
   text: image-kiptoe.md
 
 - type: youtube
-  video: _VpK2L47PwA
+  id: _VpK2L47PwA
   title: Three Saints
 
 - type: youtube
-  video: meIW0pv9izU
+  id: meIW0pv9izU
   title: MURAL x GRAFFITI (collab w/ DOKE)
 
 - type: youtube
-  video: DBqBH1wejbw
+  id: DBqBH1wejbw
   title: BEST OF KIPTOE 2019 & My 3 Goals for 2020
 
 - type: image
@@ -66,11 +66,11 @@
   text: image-the-tank.md
 
 - type: youtube
-  video: lEq27AH5yRY
+  id: lEq27AH5yRY
   title: Chill Day Graffiti
 
 - type: youtube
-  video: 1B6O2lW7Zjo
+  id: 1B6O2lW7Zjo
   title: Freight Junkie Graffiti
 
 - type: text
@@ -78,19 +78,19 @@
   text: text-art-must-speak-wisdom.md
 
 - type: youtube
-  video: n2UsOIJvx6Q
+  id: n2UsOIJvx6Q
   title: Beefs
 
 - type: youtube
-  video: _9JBW-cCNP0
+  id: _9JBW-cCNP0
   title: Police identify suspect in graffiti case
 
 - type: youtube
-  video: MB7wuCibXTo
+  id: MB7wuCibXTo
   title: Police searching for graffiti artists
 
 - type: youtube
-  video: A7lyE3qevrQ
+  id: A7lyE3qevrQ
   title: NAb Graffiti Vandals
 
 - type: text
@@ -98,5 +98,5 @@
   text: text-art-must-speak-wisdom-part-2.md
 
 - type: youtube
-  video: RwK4NmQZe64
+  id: RwK4NmQZe64
   title: Red graffiti

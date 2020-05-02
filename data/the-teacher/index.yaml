@@ -1,5 +1,5 @@
 - type: youtube
-  video: DjxhenAHyGk
+  id: DjxhenAHyGk
   title: Why I Dropped Out of College
 
 - type: text
@@ -12,11 +12,11 @@
   text: quote-abraham-lincoln.md
 
 - type: youtube
-  video: Bg_Q7KYWG1g
+  id: Bg_Q7KYWG1g
   title: The Wisdom of a Third Grade Dropout
 
 - type: youtube
-  video: FFMz8JRg8Y8
+  id: FFMz8JRg8Y8
   title: Jaime Escalante
 
 - type: text
@@ -24,19 +24,19 @@
   text: text-jaime-escalante.md
 
 - type: youtube
-  video: tlY0PkWxCW8
+  id: tlY0PkWxCW8
   title: 'Don''t Be Afraid to Fail Big, To Dream Big'
 
 - type: youtube
-  video: xFr0FKnaLDk
+  id: xFr0FKnaLDk
   title: Why it Pays to Be Hungry
 
 - type: youtube
-  video: Kb7_E12FFLw
+  id: Kb7_E12FFLw
   title: 5 Rules for Success
 
 - type: youtube
-  video: 8rmSldhnSDc
+  id: 8rmSldhnSDc
   title: Waiting For Superman
 
 - type: text
@@ -44,7 +44,7 @@
   text: text-waiting-for-a-generation-of-superheroes.md
 
 - type: youtube
-  video: SFnMTHhKdkw
+  id: SFnMTHhKdkw
   title: Waiting For the Champions
 
 - type: text
@@ -52,7 +52,7 @@
   text: text-waiting-for-the-champions.md
 
 - type: youtube
-  video: _4JtyLKDjXk
+  id: _4JtyLKDjXk
   title: What is Y Combinator?
 
 - type: text
@@ -60,7 +60,7 @@
   text: text-limitless.md
 
 - type: youtube
-  video: CpaFX6Ei0nU
+  id: CpaFX6Ei0nU
   title: My path out of poverty by Lashon Amado
 
 - type: text
@@ -68,7 +68,7 @@
   text: text-each-a-superhero.md
 
 - type: youtube
-  video: 9M4tdMsg3ts
+  id: 9M4tdMsg3ts
   title: Erica Goldson Valedictorian Speech
 
 - type: text
@@ -76,5 +76,5 @@
   text: text-mothers-rage-rage-against-the-dying-of-the-light.md
 
 - type: youtube
-  video: TMrtLsQbaok
+  id: TMrtLsQbaok
   title: Greta Thunberg

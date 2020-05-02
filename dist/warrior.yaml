@@ -217,10 +217,10 @@
         warriors
           go to war first and then seek to win.</p>
     - type: youtube
-      video: GEPhLqwKo6g
+      id: GEPhLqwKo6g
       title: Think Different
     - type: youtube
-      video: LlC2OdnhIiQ
+      id: LlC2OdnhIiQ
       title: Viktor Frankl
     - type: quote
       author: Viktor E. Frankl
@@ -266,7 +266,7 @@
           suffering, and standing upon the shoulders of giants to lead the way for
           others to follow.</p>
     - type: youtube
-      video: FyNR_LgiWEc
+      id: FyNR_LgiWEc
       title: Kosmos
     - type: poem
       title: Kosmos
@@ -336,7 +336,7 @@
         chase
           animals to death in an act called <a href="https://en.wikipedia.org/wiki/Persistence_hunting">Endurance Hunting</a></p>
     - type: youtube
-      video: 826HMLoiE_o
+      id: 826HMLoiE_o
       title: 'Human Mammal, Human Hunter, Attenborough, Life of Mammals'
     - type: text
       title: Protect Life
@@ -355,7 +355,7 @@
         that
           we evolved to require for our optimal health.</p>
     - type: youtube
-      video: 9FCsyK4aRXQ
+      id: 9FCsyK4aRXQ
       title: 'Modern Warrior: Damien Mander'
     - type: text
       title: Quo Vadis?
@@ -393,7 +393,7 @@
           future generations, looking after the little ones so that they may grow to
           become great hunters.</p>
     - type: youtube
-      video: PUwmA3Q0_OE
+      id: PUwmA3Q0_OE
       title: Human Population Across Time
     - type: text
       title: Choose Life
@@ -402,10 +402,10 @@
         health
           and <a href="https://youtu.be/TMrtLsQbaok">Survival</a></p>
     - type: youtube
-      video: kWrPo02e4fo
+      id: kWrPo02e4fo
       title: The Sixth Extinction
     - type: youtube
-      video: 9XzAgMe0WrI
+      id: 9XzAgMe0WrI
       title: 'Elizabeth Kolbert: How the 6th extinction threatens humans'
     - type: text
       title: Elizabeth Kolbert
@@ -425,7 +425,7 @@
   name: the-adventurer
   data:
     - type: youtube
-      video: 68jy3_ABvRo
+      id: 68jy3_ABvRo
       title: 'Nordhouse Dunes: Backpacking in a Snowstorm on Lake Michigan'
     - type: text
       title: Endless Horizons
@@ -459,7 +459,7 @@
         the Wild</a>, and there is also a <a
         href="https://www.youtube.com/watch?v=g7ArZ7VD-QQ">movie</a>.</p>
     - type: youtube
-      video: Mwx3RvDWvDM
+      id: Mwx3RvDWvDM
       title: Eddie Vedder - Guaranteed
     - type: text
       title: Courage
@@ -474,7 +474,7 @@
         his
           journey.</p>
     - type: youtube
-      video: DJXM8HjyVSo
+      id: DJXM8HjyVSo
       title: Carine McCandless
     - type: quote
       author: Robinson Jeffers
@@ -555,7 +555,7 @@
         soldier
           is saved inside out, not outside in.</p>
     - type: youtube
-      video: yDZZTmr_4d4
+      id: yDZZTmr_4d4
       title: What Being a Warrior Really Means
     - type: quote
       author: Nitobe Inazō
@@ -646,13 +646,13 @@
         growth; by
           means of the Great Art of Fine Disregard for Rule.</p>
     - type: youtube
-      video: L7EmLf4Xlq0
+      id: L7EmLf4Xlq0
       title: 'Stanislav Petrov, who averted possible nuclear war'
     - type: youtube
-      video: xTFUqnY3E3Q
+      id: xTFUqnY3E3Q
       title: Stanislav Petrov Movie
     - type: youtube
-      video: 8TNdihbV5go
+      id: 8TNdihbV5go
       title: The Man Who Saved The World
     - type: text
       title: 'Prevention, not War'
@@ -675,7 +675,7 @@
 
         <p>Prevention.</p>
     - type: youtube
-      video: Xcjb1f1qbBA
+      id: Xcjb1f1qbBA
       title: Mad World Mountain Dew
     - type: image
       url: lady.png
@@ -704,7 +704,7 @@
           are an emergent property of poverty. Maximization of survival, leads to the
           emergence of a self taught soldier.</p>
     - type: youtube
-      video: CpaFX6Ei0nU
+      id: CpaFX6Ei0nU
       title: My path out of poverty by Lashon Amado
     - type: text
       title: Hope
@@ -718,10 +718,10 @@
           another mission, a new challenge. It becomes a source of wisdom, a source
           of Great Power.</p>
     - type: youtube
-      video: zk--XN4ozr8
+      id: zk--XN4ozr8
       title: Homie Industries
     - type: youtube
-      video: 0fkKnfk4k40
+      id: 0fkKnfk4k40
       title: Kennedy Peace Speech
     - type: text
       title: Prevention
@@ -812,10 +812,10 @@
         <p>What we know of the superheroes of middle ages comes from poems and
           recreations of the lost arts.</p>
     - type: youtube
-      video: RBsY88Lir-A
+      id: RBsY88Lir-A
       title: King Arthur's Origins
     - type: youtube
-      video: mZeqgjC6gtE
+      id: mZeqgjC6gtE
       title: Swordplay and the Lost Art of Knighthood
     - type: text
       title: Above the Common Levels
@@ -870,7 +870,7 @@
         Would
           not be present had the virtues still mattered to an overwhelming majority.</p>
     - type: youtube
-      video: oRG2jlQWCsY
+      id: oRG2jlQWCsY
       title: Your Move Chief
     - type: text
       title: Forbearance and Largesse
@@ -879,7 +879,7 @@
         fine
           example of a modern gentleman with class, integrity, and authenticity.</p>
     - type: youtube
-      video: VLAM6YxV_gA
+      id: VLAM6YxV_gA
       title: Why Chivalry Still has a Chance by Anthony Rudolf
     - type: text
       title: Definition
@@ -986,7 +986,7 @@
           It almost seems like growing up is optional, and things get very strange in
           deed:</p>
     - type: youtube
-      video: 85dhw7nulb4
+      id: 85dhw7nulb4
       title: West Point Pillow Fight Turns Violent
     - type: text
       title: Modern Day
@@ -1008,7 +1008,7 @@
         <p>His poem “If” is a magnificent reminder that growing up is not
         optional.</p>
     - type: youtube
-      video: EEFMVIfl2UY
+      id: EEFMVIfl2UY
       title: 'IF, Rudyard Kipling''s poem, recited by Sir Michael Caine'
     - type: poem
       title: IF
@@ -1062,7 +1062,7 @@
         brought the
           waning wisdom back.</p>
     - type: youtube
-      video: sa1iS1MqUy4
+      id: sa1iS1MqUy4
       title: For the bullied and beautiful
     - type: poem
       title: John Galt's Speech Excerpt
@@ -1094,7 +1094,7 @@
         and
           triumph is Ayn Rand.</p>
     - type: youtube
-      video: 1ooKsv_SX4Y
+      id: 1ooKsv_SX4Y
       title: Ayn Rand First Interview 1959 (Full)
     - type: poem
       title: Desiderata
@@ -1200,7 +1200,7 @@
         Ken Robinson</a> warning you that
           things are not as they should be.</p>
     - type: youtube
-      video: iG9CE55wbtY
+      id: iG9CE55wbtY
       title: Do schools kill creativity?
     - type: text
       title: 'He is not asking, he is teaching.'
@@ -1221,7 +1221,7 @@
   name: the-humanitarian
   data:
     - type: youtube
-      video: kxR8XZOeV-s
+      id: kxR8XZOeV-s
       title: Peace Corps
     - type: text
       title: Live Deliberately
@@ -1239,7 +1239,7 @@
           an infinity of time ahead. You are needed, and your lasting contributions
           are necessary.</p>
     - type: youtube
-      video: ONiWmzrmfuY
+      id: ONiWmzrmfuY
       title: Murray Gell-Mann On Emergence
     - type: text
       title: Growing Up
@@ -1251,10 +1251,10 @@
           enough”, “Too Scary!”. That is how every hero begun, by measuring up; and
           then by growing up to the challenges before us.</p>
     - type: youtube
-      video: hTlrSYbCbHE
+      id: hTlrSYbCbHE
       title: Universal Declaration of Human Rights
     - type: youtube
-      video: 5RR4VXNX3jA
+      id: 5RR4VXNX3jA
       title: Universal Declaration of Human Rights
     - type: text
       title: New Voices
@@ -1265,7 +1265,7 @@
           needs to update it and extend it beyond what it is today, grant it new
           voices - and there are bright new voices to be heard.</p>
     - type: youtube
-      video: z2tmRpm4iK8
+      id: z2tmRpm4iK8
       title: Mad world - the voice of china
     - type: text
       title: Never Silenced
@@ -1274,7 +1274,7 @@
         spotlight,
           but were never silenced, and never tired. No more circles.</p>
     - type: youtube
-      video: SQ6H-Mz6hgw
+      id: SQ6H-Mz6hgw
       title: Michelle Alexander
     - type: quote
       author: Michelle Alexander
@@ -1294,7 +1294,7 @@
             in the Age of Colorblindness</a> which is also available as an
           <a href="https://www.audible.com/pd/The-New-Jim-Crow-Audiobook/B007QW236E">Audiobook</a></p>
     - type: youtube
-      video: c2tOp7OxyQ8
+      id: c2tOp7OxyQ8
       title: 'Bryan Stevenson: We need to talk about an injustice.'
     - type: quote
       author: Bryan Stevenson
@@ -1313,7 +1313,7 @@
         that prohibit sentencing children under 18 to death or to life
         imprisonment without parole.</p>
     - type: youtube
-      video: 7O7BMa9XGXE
+      id: 7O7BMa9XGXE
       title: 'How America''s public schools keep kids in poverty: Kandice Sumner'
     - type: text
       title: Kandice Sumner's Prevention
@@ -1331,7 +1331,7 @@
           A Police Officer must also be a Hero, a force of Goodness. Any compromise
           between good and evil only hurts the good and helps the evil.</p>
     - type: youtube
-      video: d-7o9xYp7eE
+      id: d-7o9xYp7eE
       title: Don't Talk to the Police
     - type: text
       title: The Walkouts
@@ -1363,7 +1363,7 @@
           armed with addiction, abuse, intolerance, xenophobia, violence, and dark
           blind stupidity.</p>
     - type: youtube
-      video: lnuoHywbaR8
+      id: lnuoHywbaR8
       title: How I spent 32 years in prison by George Martorano
     - type: text
       title: The Challenge
@@ -1434,10 +1434,10 @@
       author: Henry Ford
       text: '<p>Whether you think you can, or you think you can’t - you’re right.</p>'
     - type: youtube
-      video: k84QxVJd0tI
+      id: k84QxVJd0tI
       title: Coming Home
     - type: youtube
-      video: WnoziOPQ3HA
+      id: WnoziOPQ3HA
       title: >-
         Lucy Lawrence & James Lawrence: Breaking endurance barriers, one step at
         a time
@@ -1448,7 +1448,7 @@
         the man
           who has practiced one kick 10,000 times.</p>
     - type: youtube
-      video: '-U5zA7gNPKo'
+      id: '-U5zA7gNPKo'
       title: Bruce Lee
     - type: text
       title: Endurance Training
@@ -1467,7 +1467,7 @@
       author: Dean Karnazes
       text: <p>The human body has limitations. The human spirit is boundless.</p>
     - type: youtube
-      video: Mtp65SWoyWc
+      id: Mtp65SWoyWc
       title: Dean Karnazes
     - type: quote
       author: Dean Karnazes
@@ -1489,7 +1489,7 @@
         <p>Pain, is just a chemical signal, it is a squirt of goo – pain my dear
           friends, does not hurt.</p>
     - type: youtube
-      video: 7wtfhZwyrcc
+      id: 7wtfhZwyrcc
       title: Imagine Dragons - Believer
     - type: text
       title: There Is No Later
@@ -1500,7 +1500,7 @@
           all generations once discovered a great wish that we all wish for
           eventually.</p>
     - type: youtube
-      video: wxmRulRQsLc
+      id: wxmRulRQsLc
       title: Make me young again
     - type: text
       title: Make Me Young
@@ -1514,7 +1514,7 @@
           we live as it was countless lives already. By wiggling forward and back we
           can see where we are headed, and end up where we always wished to be.</p>
     - type: youtube
-      video: EknD3KRtgDk
+      id: EknD3KRtgDk
       title: Nietzsche's Eternal Recurrence
     - type: text
       title: Eternal Recurrence
@@ -1588,7 +1588,7 @@
   name: the-superhero
   data:
     - type: youtube
-      video: NWH8N-BvhAw
+      id: NWH8N-BvhAw
       title: The three secrets of resilient people by Lucy Hone
     - type: quote
       author: Lucy Hone
@@ -1620,7 +1620,7 @@
           decision making.</p>
         <p>Quo Vadis? My friends.</p>
     - type: youtube
-      video: MDL85fzdc1g
+      id: MDL85fzdc1g
       title: Dan Millman's Ted Talk
     - type: text
       title: A Warrior in Training
@@ -1634,7 +1634,7 @@
         of the Peaceful Warrior Audiobook</a> narrated by the man
           himself. It was also made into a movie starring Nick Nolte as Soc.</p>
     - type: youtube
-      video: gegNMYvY_yg
+      id: gegNMYvY_yg
       title: Way of the Peaceful Warrior Trailer
     - type: text
       title: Sensei Lee
@@ -1643,7 +1643,7 @@
         calls
           upon Sensei Lee, to come an teach him.</p>
     - type: youtube
-      video: Op4g9McS3EY
+      id: Op4g9McS3EY
       title: 'No Retreat, No Surrender (1986)'
     - type: text
       title: By Whatever Means
@@ -1657,7 +1657,7 @@
           not optional. Without growing up we will become weak or ill, and face those
           circles again.</p>
     - type: youtube
-      video: '-YFbxFq6Zr8'
+      id: '-YFbxFq6Zr8'
       title: Another Mad World
     - type: text
       title: Take Out The Trash
@@ -1666,7 +1666,7 @@
         negativity,
           fear, keep moving forward and become Vulnerable and Fearless Warriors.</p>
     - type: youtube
-      video: 31lUwuhE8pc
+      id: 31lUwuhE8pc
       title: Peaceful Warrior Quotes
     - type: quote
       author: Soc
@@ -1682,10 +1682,10 @@
           through what in my opinion is a two part TED talk: The power of
           vulnerability, and part two Listening to Shame.</p>
     - type: youtube
-      video: iCvmsMzlF7o
+      id: iCvmsMzlF7o
       title: The power of vulnerability
     - type: youtube
-      video: psN1DORYYV0
+      id: psN1DORYYV0
       title: Listening to shame
     - type: poem
       title: The Man in the Arena
@@ -1741,7 +1741,7 @@
           from becoming an <a href="https://en.wikipedia.org/wiki/Holocene_extinction">extinction event</a> it will take a Great Being to be
           heard, Greta Thunberg is a wonderful example, today.</p>
     - type: youtube
-      video: TMrtLsQbaok
+      id: TMrtLsQbaok
       title: Greta Thunberg
     - type: text
       title: They are Everywhere and Everywhen
@@ -1751,10 +1751,10 @@
           and help the world grow. She discovered the absence of teachers early on,
           and immediately became an educator her self.</p>
     - type: youtube
-      video: 9M4tdMsg3ts
+      id: 9M4tdMsg3ts
       title: Erica Goldson Valedictorian Speech
     - type: youtube
-      video: hgui64Kr0Go
+      id: hgui64Kr0Go
       title: Erica Goldson Self Education
     - type: text
       title: The Culture of Great Beings
@@ -1808,7 +1808,7 @@
           failed already, the rest of your life is always ahead of you. <strong>Make the
         rest of your life, the best of your life.</strong></p>
     - type: youtube
-      video: FhzNSPiqO0M
+      id: FhzNSPiqO0M
       title: 'Make the rest of your life, the best of your life.'
   previous:
     name: the-ultra
@@ -1836,7 +1836,7 @@
           that the more successful Alternative Education Systems should become the
           norm, because they are clearly more successful.</p>
     - type: youtube
-      video: wX78iKhInsc
+      id: wX78iKhInsc
       title: How to escape education's death valley by Sir Ken Robinson
     - type: text
       title: Extreme Ownership
@@ -1848,7 +1848,7 @@
           Ownership of Your Education, and here is Jocko Willink explaining the
           gravity of the words Extreme Ownership.</p>
     - type: youtube
-      video: ljqra3BcqWM
+      id: ljqra3BcqWM
       title: Extreme Ownership by Jocko Willink
     - type: text
       title: Extreme Ownership
@@ -1873,7 +1873,7 @@
           <a href="https://www.youtube.com/watch?v=1zwmum5_ofU">Examined Life</a>, and now <a href="https://www.youtube.com/watch?v=OHxRj9JWQMs">Democracy</a> further explains, and I think
           serves as an example of what it means to Self Educate.</p>
     - type: youtube
-      video: LwIyy1Fi-4Q
+      id: LwIyy1Fi-4Q
       title: Astra Taylor on the Unschooled Life
     - type: text
       title: Science Popularizers
@@ -1887,10 +1887,10 @@
         are,
           how they think, of their energy and class.</p>
     - type: youtube
-      video: _J4QPz52Sfo
+      id: _J4QPz52Sfo
       title: 'The Great Debate: THE STORYTELLING OF SCIENCE, part 1 of 2'
     - type: youtube
-      video: 40YIIaF1qiw
+      id: 40YIIaF1qiw
       title: 'The Great Debate: THE STORYTELLING OF SCIENCEi, part 2 of 2'
     - type: text
       title: Self Education
@@ -1907,12 +1907,12 @@
           to accept that great responsibility yourself. You must take extreme
           ownership of your own Self Education.</p>
     - type: youtube
-      video: XGK84Poeynk
+      id: XGK84Poeynk
       title: We Are All Connected
     - type: subtitle
       title: Bill Bryson
     - type: youtube
-      video: 4gb-hnbHbjw
+      id: 4gb-hnbHbjw
       title: 'Talking Science: Bill Bryson on A Short History of Nearly Everything'
     - type: text
       title: Bill Bryson
@@ -1926,7 +1926,7 @@
     - type: subtitle
       title: Howard Zinn
     - type: youtube
-      video: Vn_m9WCd-88
+      id: Vn_m9WCd-88
       title: 'Howard Zinn: A People''s History of the United States (1999)'
     - type: text
       title: A People’s History
@@ -1942,12 +1942,12 @@
     - type: subtitle
       title: Stoicism
     - type: youtube
-      video: R9OCA6UFE-0
+      id: R9OCA6UFE-0
       title: The philosophy of Stoicism by Massimo Pigliucci
     - type: subtitle
       title: Existentialism
     - type: youtube
-      video: YaDvRdLMkHs
+      id: YaDvRdLMkHs
       title: 'Existentialism: Crash Course Philosophy'
     - type: text
       title: Crash Course Philosophy
@@ -1965,43 +1965,43 @@
   name: the-skeptic
   data:
     - type: youtube
-      video: mxSNuIx4m5k
+      id: mxSNuIx4m5k
       title: How to Bend a Spoon with Your Mind by Michael Shermer
     - type: youtube
-      video: bKwmrB5lWfg
+      id: bKwmrB5lWfg
       title: Introduction to Spoon Bending
     - type: youtube
-      video: jobYTQTgeUE
+      id: jobYTQTgeUE
       title: Why do we believe things that aren't true? by Philip Fernbach
     - type: youtube
-      video: 8T_jwq9ph8k
+      id: 8T_jwq9ph8k
       title: Why people believe weird things by Michael Shermer
     - type: youtube
-      video: R6ijdDtOLLo
+      id: R6ijdDtOLLo
       title: The Believing Brain - Presented by Dr Michael Shermer
     - type: youtube
-      video: c0Z7KeNCi7g
+      id: c0Z7KeNCi7g
       title: 'James Randi: Homeopathy, Quackery and Fraud'
     - type: youtube
-      video: tQHBHRV6eBQ
+      id: tQHBHRV6eBQ
       title: James Randi Lecture at NASA 1/12
     - type: link
       url: 'https://www.youtube.com/watch?v=tQHBHRV6eBQ&list=PL63A23DCDD95209FC'
       title: Full Playlist
     - type: youtube
-      video: IKHhqTG9hsc
+      id: IKHhqTG9hsc
       title: An Evening With James Randi
     - type: youtube
-      video: f2izaEqs0pE
+      id: f2izaEqs0pE
       title: Surviving the Quacks
     - type: youtube
-      video: joADD7jWqa4
+      id: joADD7jWqa4
       title: Amazing James Randi
     - type: youtube
-      video: uq5MtA33OHk
+      id: uq5MtA33OHk
       title: The Best of James Randi
     - type: youtube
-      video: OOG65rSM5fA
+      id: OOG65rSM5fA
       title: The art of cognitive blindspots by Kyle Eschen
     - type: link
       url: 'https://www.youtube.com/watch?v=vJG698U2Mvo'
@@ -2083,14 +2083,14 @@
   name: the-scientist
   data:
     - type: youtube
-      video: jf_4z4AKwJg
+      id: jf_4z4AKwJg
       title: Introduction to Fusion
     - type: quote
       author: Carl Sagan
       url: 'https://en.wikipedia.org/wiki/Carl_Sagan'
       text: '<p>Somewhere, something incredible is waiting to be known.</p>'
     - type: youtube
-      video: 6CfHaeQo6oU
+      id: 6CfHaeQo6oU
       title: 'Cold Fusion Press Conference at University of Utah (March 23, 1989)'
     - type: quote
       author: Winston Churchill
@@ -2100,10 +2100,10 @@
         continue
           that counts.</p>
     - type: youtube
-      video: 51mxBkwwSB8
+      id: 51mxBkwwSB8
       title: Newton's Cannon
     - type: youtube
-      video: MpiknSRTmT4
+      id: MpiknSRTmT4
       title: Newton - Gravitation universelle
     - type: image
       url: principia.png
@@ -2121,13 +2121,13 @@
         href="https://archive.org/stream/newtonspmathema00newtrich#page/n517/mode/2up">page
         518</a>.</p>
     - type: youtube
-      video: ttZCKAMpcAo
+      id: ttZCKAMpcAo
       title: Theory of relativity explained in 7 mins
     - type: youtube
-      video: MTY1Kje0yLg
+      id: MTY1Kje0yLg
       title: Gravity Visualized
     - type: youtube
-      video: nQUwHdSAhmw
+      id: nQUwHdSAhmw
       title: 'Light Speed – fast, but slow'
     - type: text
       title: Royal Institution Christmas Lectures
@@ -2147,14 +2147,14 @@
         Royal Institution Christmas Lectures &amp; Royal
             Institution</a> for more.</p>
     - type: youtube
-      video: BdXtjNSDi4s
+      id: BdXtjNSDi4s
       title: 'Carl Sagan: The Earth as a Planet (1977)'
     - type: link
       url: >-
         https://www.youtube.com/watch?v=BdXtjNSDi4s&list=PLzEZRwmmqC4FTciK3pyF2JsuSFyiysVYM
       title: Full Playlist
     - type: youtube
-      video: dw4w1UsOafQ
+      id: dw4w1UsOafQ
       title: 'Richard Dawkins: Growing up in the Universe (1991)'
   previous:
     name: the-skeptic
@@ -2170,43 +2170,43 @@
       url: 'https://en.wikipedia.org/wiki/Beverly_Sills'
       text: <p>There are no shortcuts to any place worth going.</p>
     - type: youtube
-      video: 2197wgDecZk
+      id: 2197wgDecZk
       title: A journey through Henry David Thoreau's Maine woods.
     - type: youtube
-      video: SNxm2zkViKQ
+      id: SNxm2zkViKQ
       title: 'Appalachian Trail Thru Hike 2015: KATAHDIN!'
     - type: youtube
-      video: _8FUPrd5ra0
+      id: _8FUPrd5ra0
       title: Thoreau's simple life at Walden
     - type: youtube
-      video: JJL9S0J8-4k
+      id: JJL9S0J8-4k
       title: 'Political theory: Henry David Thoreau'
     - type: youtube
-      video: bAqIkEZbVhI
+      id: bAqIkEZbVhI
       title: 'Review: Walden by Henry David Thoreau'
     - type: youtube
-      video: VaME4iHUhSE
+      id: VaME4iHUhSE
       title: 'Walden, Public Domain Audiobook'
     - type: youtube
-      video: 6gFyH_cKWjk
+      id: 6gFyH_cKWjk
       title: 'Owl Banding at Whitefish Point, Michigan'
     - type: youtube
-      video: HgOJ0aShUuc
+      id: HgOJ0aShUuc
       title: 'Wild Things - Wildlife in Bialowieza, Poland (English)'
     - type: youtube
-      video: 1czqejkbvO8
+      id: 1czqejkbvO8
       title: Bialowieza primeval forest part 1/2
     - type: youtube
-      video: '-v7wqo-CHPI'
+      id: '-v7wqo-CHPI'
       title: Bialowieza primeval forest part 2/2
     - type: youtube
-      video: 2G8LAiHSCAs
+      id: 2G8LAiHSCAs
       title: Forest Birds Singing
     - type: youtube
-      video: ko_GQ9ImAvE
+      id: ko_GQ9ImAvE
       title: 'Crickets, Owls, Rain, and Wind'
     - type: youtube
-      video: vPhg6sc1Mk4
+      id: vPhg6sc1Mk4
       title: Ocean Sounds
     - type: text
       title: Groundhog Day
@@ -2219,7 +2219,7 @@
         winter will persist for six more weeks, and if it does not see its
         shadow because of cloudiness, spring will arrive early.</p>
     - type: youtube
-      video: FDFy7_DM_qQ
+      id: FDFy7_DM_qQ
       title: Why Groundhogs Supposedly Predict The Weather On Groundhog Day
     - type: quote
       author: Phil Connors (Bill Murray)
@@ -2228,10 +2228,10 @@
           groundhog keeps seeing his shadow. I don&#39;t see any other way out. He&#39;s got
           to be stopped. And I have to stop him.</p>
     - type: youtube
-      video: oLqLpVLE8R0
+      id: oLqLpVLE8R0
       title: Jimmy the Groundhog takes a nibble of Wisconsin mayor
     - type: youtube
-      video: p3Qnlu9Nfj8
+      id: p3Qnlu9Nfj8
       title: Pennsylvania Polka
   previous:
     name: the-scientist
@@ -2262,25 +2262,25 @@
         href="https://www.youtube.com/channel/UCJUsryI3i0T9KNTQxRJHuRg">Girl
         Outdoors Channel</a></p>
     - type: youtube
-      video: VBTC1j5-Quo
+      id: VBTC1j5-Quo
       title: Why I left school at 16...
     - type: youtube
-      video: KJ2fCBvrzIg
+      id: KJ2fCBvrzIg
       title: '8 Day Solo, Canvas Lavvu, Woodburner, Bushcraft Camp'
     - type: youtube
-      video: 2LTT2ChOh-k
+      id: 2LTT2ChOh-k
       title: '8 Day Solo, Lavvu, Woods Camp - Part 2, Beef Stew'
     - type: youtube
-      video: 0D1aA7QJVJ0
+      id: 0D1aA7QJVJ0
       title: Hiking Scotland | Solo Backpacking | EP 1
     - type: youtube
-      video: '-Myg8OpSUxI'
+      id: '-Myg8OpSUxI'
       title: Scotland Backpacking | Solo Hike | EP 2
     - type: youtube
-      video: Yh7Px8ylmDI
+      id: Yh7Px8ylmDI
       title: Scotland Backpacking Solo | EP 3 - Mountain Hut | Backpacking Food
     - type: youtube
-      video: s8-IPd-AtLU
+      id: s8-IPd-AtLU
       title: Hiking Scotland - Part 4 | Road Trip | Isle of Skye |
     - type: text
       title: Survival Lilly
@@ -2289,13 +2289,13 @@
         like to share
           my experiences with like minded people.&quot; <a href="https://www.youtube.com/channel/UCS4LBgyn1WLSojiQI4aPjtg">YouTube Channel</a></p>
     - type: youtube
-      video: tSaknrYflQk
+      id: tSaknrYflQk
       title: Solo Winter Overnighter In A Tepee
     - type: youtube
-      video: ET0yaa8PB_o
+      id: ET0yaa8PB_o
       title: Solo Overnight - Alone in the dark forest
     - type: youtube
-      video: b40AGXWSX8Y
+      id: b40AGXWSX8Y
       title: Overnight in my super shelter
     - type: text
       title: Vanessa Blank - Bushcraft & Abenteuer
@@ -2305,16 +2305,16 @@
         Bavaria</a> in German and the new bushcraft and survival
           channel <a href="https://www.youtube.com/channel/UCuQV_7hln2oL_nhfEShubZQ">Wild Woman Bushcraft</a> in English.</p>
     - type: youtube
-      video: 3rzkXQmX36E
+      id: 3rzkXQmX36E
       title: Deep in the Forest - Real Bushcraft
     - type: youtube
-      video: zjowi34UBe0
+      id: zjowi34UBe0
       title: Two Women Adventure Trip in the Mountain Ravine
     - type: youtube
-      video: VR4mlI834_Q
+      id: VR4mlI834_Q
       title: So this is Christmas - The Christmas Overnighter in the forest
     - type: youtube
-      video: ZLmLe1CClPk
+      id: ZLmLe1CClPk
       title: So this is Christmas Part II -The Christmas Overnighter in the forest
     - type: text
       title: Alexis Outdoors
@@ -2323,10 +2323,10 @@
         href="https://www.youtube.com/channel/UCQpWb6qSqhbtodndLhdhYkQ">Alexis
         Outdoors Channel</a></p>
     - type: youtube
-      video: vyCICXGvkW4
+      id: vyCICXGvkW4
       title: Fall Canoe Trip in the Canadian Backcountry
     - type: youtube
-      video: IRydquzUHR0
+      id: IRydquzUHR0
       title: 'Splitwood Fire, Hike and Lunch in the Woods with my Dog'
     - type: text
       title: Stephanie Margeth
@@ -2334,10 +2334,10 @@
         <p><a href="https://www.youtube.com/channel/UCH7TKPRHvp13swjx7WK9JIw">A
         girl in the Wild Stephanie Margeth Channel</a></p>
     - type: youtube
-      video: 1sNfuuTS6q8
+      id: 1sNfuuTS6q8
       title: 5 Days in the Canadian Wilderness Pt1
     - type: youtube
-      video: QmTR9XmteyA
+      id: QmTR9XmteyA
       title: >-
         Surviving the Canadian Wilderness Pt2 (Carbon Monoxide Poisoning from
         fire)
@@ -2355,7 +2355,7 @@
         <p><a href="https://www.youtube.com/user/athenajane1">Athena Mellor
         Channel</a> (Mountaineer from United Kingdom)</p>
     - type: youtube
-      video: B9cVgScVlkk
+      id: B9cVgScVlkk
       title: Emelie Eating Ants
     - type: text
       title: Primitive Technology
@@ -2364,16 +2364,16 @@
           completely from scratch using no modern tools or materials. <a href="https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA">Primitive
             Technology YouTube Channel</a></p>
     - type: youtube
-      video: SLoukoBs8TE
+      id: SLoukoBs8TE
       title: Bow and Arrow
     - type: youtube
-      video: i-WYT2UotIc
+      id: i-WYT2UotIc
       title: Sandals
     - type: youtube
-      video: RzDMCVdPwnE
+      id: RzDMCVdPwnE
       title: Sling
     - type: youtube
-      video: vAuO3bHxSpc
+      id: vAuO3bHxSpc
       title: Round Hut
   previous:
     name: the-naturalist
@@ -2394,7 +2394,7 @@
         <p><a href="https://www.youtube.com/user/jugglerguy1">YouTube
         Channel</a></p>
     - type: youtube
-      video: XRJBk3Ue7uY
+      id: XRJBk3Ue7uY
       title: Rock Hunting the Beach at Rockport State Park
     - type: text
       title: Relic Recoverist
@@ -2403,7 +2403,7 @@
         href="https://www.youtube.com/channel/UC9D3lVCpT6kljc61gm6h_Yg">YouTube
         Channel</a></p>
     - type: youtube
-      video: npixJs1UcUo
+      id: npixJs1UcUo
       title: Metal Detecting for Coins
     - type: text
       title: Mudlarking with Nicola White
@@ -2411,7 +2411,7 @@
         <p><a href="https://www.youtube.com/user/driftwoodnic">YouTube
         Channel</a></p>
     - type: youtube
-      video: Byhsobb6S2A
+      id: Byhsobb6S2A
       title: Mudlarking The River Thames - THREE mystery finds
     - type: text
       title: Aquachigger
@@ -2420,7 +2420,7 @@
         href="https://www.youtube.com/channel/UCv61IAZLDELwk2Kk5hfX0mg">YouTube
         Channel</a></p>
     - type: youtube
-      video: JDC3SUK3axM
+      id: JDC3SUK3axM
       title: OMG! I Found A Huge Silver Treasure Hoard Metal Detecting!
     - type: text
       title: WW2 History Hunter
@@ -2429,7 +2429,7 @@
         href="https://www.youtube.com/channel/UCWaFLqinCCMRgnIyF_CuoaQ">YouTube
         Channel</a></p>
     - type: youtube
-      video: KDPnWgVGuhc
+      id: KDPnWgVGuhc
       title: Forgotten bunker found and opened
   previous:
     name: the-survivalist
@@ -2441,19 +2441,19 @@
   name: the-discoverer
   data:
     - type: youtube
-      video: BFs3GC58O5U
+      id: BFs3GC58O5U
       title: 'Clyde Tombaugh: The Man who Discovered the Planet Pluto'
     - type: youtube
-      video: JqmIo-tUd48
+      id: JqmIo-tUd48
       title: NASA’s New Horizons Mission to Pluto
     - type: youtube
-      video: lwSjyoPrKfc
+      id: lwSjyoPrKfc
       title: Neil deGrasse Tyson - The Pluto Files
     - type: youtube
-      video: WMO6RRFBYMs
+      id: WMO6RRFBYMs
       title: The Pluto Song
     - type: youtube
-      video: P5ipVlY5p7w
+      id: P5ipVlY5p7w
       title: The Pluto Fact Song
   previous:
     name: the-explorer
@@ -2479,60 +2479,63 @@
       url: 'https://en.wikipedia.org/wiki/Friedrich_Nietzsche'
       text: <p>You must have chaos within you to give birth to a dancing star.</p>
     - type: youtube
-      video: rENyyRwxpHo
+      id: rENyyRwxpHo
       title: 'Laniakea: Our home supercluster'
     - type: subtitle
       title: Introduction
     - type: youtube
-      video: rfi3w9Bzwik
+      id: rfi3w9Bzwik
       title: >-
         The story of 'Oumuamua, the first visitor from another star system by
         Karen J. Meech
     - type: youtube
-      video: gypAjPp6eps
+      id: gypAjPp6eps
       title: The most mysterious star in the universe by Tabetha Boyajian
     - type: youtube
-      video: yqc9zX04DXs
+      id: yqc9zX04DXs
       title: The history of our world in 18 minutes
     - type: subtitle
       title: Carl Sagan
     - type: youtube
-      video: BdXtjNSDi4s
+      id: BdXtjNSDi4s
       title: 'Carl Sagan: The Earth as a Planet (1977)'
     - type: link
       url: >-
         https://www.youtube.com/watch?v=BdXtjNSDi4s&list=PLzEZRwmmqC4FTciK3pyF2JsuSFyiysVYM
       title: Full Playlist
+    - type: youtube
+      id: 6_-jtyhAVTc
+      title: The Age of Exploration
     - type: subtitle
       title: Richard Feynman
     - type: youtube
-      video: P1ww1IXRfTA
+      id: P1ww1IXRfTA
       title: FUN TO IMAGINE with Richard Feynman
     - type: subtitle
       title: Murray Gell-Mann
     - type: youtube
-      video: UuRxRGR3VpM
+      id: UuRxRGR3VpM
       title: 'Murray Gell-Mann: Beauty and truth in physics'
     - type: subtitle
       title: Lord Martin Rees
     - type: youtube
-      video: YnU6vMVAdAE
+      id: YnU6vMVAdAE
       title: Martin Rees - The Future of Humanity
     - type: subtitle
       title: Neil DeGrasse Tyson
     - type: youtube
-      video: PTqqiDQP02I
+      id: PTqqiDQP02I
       title: Neil deGrasse Tyson on Larry King Now
     - type: youtube
-      video: h1iJXOUMJpg
+      id: h1iJXOUMJpg
       title: Neil DeGrasse Tyson on Death By Black Hole
     - type: youtube
-      video: wp6cnp1kZBY
+      id: wp6cnp1kZBY
       title: Neil deGrasse Tyson at University of Washington
     - type: subtitle
       title: SETI
     - type: youtube
-      video: EszGIvRdgTE
+      id: EszGIvRdgTE
       title: 'Jill Tarter: Why the search for alien intelligence matters'
     - type: text
       title: An awful waste of space
@@ -2541,30 +2544,30 @@
         href="https://en.wikipedia.org/wiki/Contact_(1997_American_film)">Contact</a>
           was inspired by Jill Tarter.</p>
     - type: youtube
-      video: 0bWK5ES3lTE
+      id: 0bWK5ES3lTE
       title: >-
         First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak
         (SETI Talks)
     - type: youtube
-      video: m9WxW2ktcKU
+      id: m9WxW2ktcKU
       title: 'The Search for Intelligent Life Among the Stars: New Strategies'
     - type: youtube
-      video: xvm7dB0mOic
+      id: xvm7dB0mOic
       title: Seth Shostak on SETI
     - type: subtitle
       title: Sean Carroll
     - type: youtube
-      video: 2JsKwyRFiYY
+      id: 2JsKwyRFiYY
       title: >-
         The Big Picture: From the Big Bang to the Meaning of Life - with Sean
         Carroll
     - type: youtube
-      video: qB_V1l8iLlc
+      id: qB_V1l8iLlc
       title: 'Sean Carroll: The Paradoxes of Time Travel'
     - type: subtitle
       title: Dr. Alex Filippenko
     - type: youtube
-      video: fnkj6fD_i9o
+      id: fnkj6fD_i9o
       title: 'Dark Energy and the Runaway Universe, Dr. Alex Filippenko, UC Berkeley'
     - type: text
       title: Dr. Becky
@@ -2573,7 +2576,7 @@
         href="https://www.youtube.com/channel/UCYNbYGl89UUowy8oXkipC-Q">YouTube
         Channel</a></p>
     - type: youtube
-      video: YgDItoRdQ_Q
+      id: YgDItoRdQ_Q
       title: >-
         A newly discovered, unexplained Fast Radio Burst | Night Sky News
         February 2020
@@ -2584,7 +2587,7 @@
         href="https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA">YouTube
         Channel</a></p>
     - type: youtube
-      video: c6Eq2sI1NDY
+      id: c6Eq2sI1NDY
       title: How the Edge of Our Galaxy Defies Known Physics
   previous:
     name: the-discoverer
@@ -2608,78 +2611,78 @@
           <li><a href="https://www.youtube.com/user/aquachigger">Aquachigger</a></li>
         </ul>
     - type: youtube
-      video: WkklsnMaqiQ
+      id: WkklsnMaqiQ
       title: Into A Very Dangerous Underground Placer Gold Mine
     - type: youtube
-      video: E1_Timwm1fs
+      id: E1_Timwm1fs
       title: The Marvelous Marble Mines Of Carrara
     - type: youtube
-      video: MimPqfiwXXU
+      id: MimPqfiwXXU
       title: Deep Blue Mystery Mineral Inside An Abandoned Mine In Nevada
     - type: youtube
-      video: dSYy7YYo6XY
+      id: dSYy7YYo6XY
       title: Finding Something Unexpected in an Abandoned Copper Mine
     - type: youtube
-      video: HqQJTfdTJL0
+      id: HqQJTfdTJL0
       title: '4100 Feet Underground in the Massive, Abandoned Admiral Aaron Ward Mine'
     - type: youtube
-      video: z4mG3rAjEXQ
+      id: z4mG3rAjEXQ
       title: Entering Chasm Cave and Finding Light in the Darkness
     - type: youtube
-      video: 8nEoZcZmgo8
+      id: 8nEoZcZmgo8
       title: Exploring the Abandoned Copper Aces Mine Part 2
     - type: youtube
-      video: qwGMiCZZLDM
+      id: qwGMiCZZLDM
       title: 'Exploring an Abandoned, Three-Level Fluorite Mine'
     - type: youtube
-      video: RwqwNotrioo
+      id: RwqwNotrioo
       title: A&FP 2020 Summer Season Premier!
     - type: youtube
-      video: OqpqkaXNr74
+      id: OqpqkaXNr74
       title: 'Exploring the Whiskey Mine, Patented Portals and Open Pits'
     - type: youtube
-      video: WKSI-Vx4yUo
+      id: WKSI-Vx4yUo
       title: The Monte Cristo Mine Double Feature!
     - type: youtube
-      video: kjlHdEEfPxI
+      id: kjlHdEEfPxI
       title: Ep.32 ARCH CAVE Special Episode - 2016 Finale
     - type: youtube
-      video: Dr15j1TOBEU
+      id: Dr15j1TOBEU
       title: The Abandoned CAPE D'OR Copper Mines
     - type: youtube
-      video: SqLmFYAWpQc
+      id: SqLmFYAWpQc
       title: Ep.19 STELLARTON - Abandoned Coal Mines
     - type: youtube
-      video: 2p-DGj66Z0g
+      id: 2p-DGj66Z0g
       title: '#192 The most dangerous mine yet... has the most awesome artifacts!'
     - type: youtube
-      video: k7ISgvCAxRc
+      id: k7ISgvCAxRc
       title: '#157 The 1500 ft Dickson Decline in Hedley built 1907'
     - type: youtube
-      video: WI6ApUvuToM
+      id: WI6ApUvuToM
       title: >-
         #188 8 pair of Levis and other rare jeans from the 1800s found buried in
         an abandoned mine!
     - type: youtube
-      video: cEnFpU4ab-M
+      id: cEnFpU4ab-M
       title: Exploring the Abandoned Richmond Mine
     - type: youtube
-      video: zKC_TEIXMTs
+      id: zKC_TEIXMTs
       title: Exploring the Mountain Chief Mine - The Upper Workings (Part 1 of 2)
     - type: youtube
-      video: gIF7rws8Pl4
+      id: gIF7rws8Pl4
       title: Eerie Flooded Winzes in the Abandoned Bluejay Mine
     - type: youtube
-      video: kgITmAl7rJk
+      id: kgITmAl7rJk
       title: Digging Out And Exploring A Lost Underground Gold Mine Tunnel (1/2)
     - type: youtube
-      video: YXdQZvtHN2k
+      id: YXdQZvtHN2k
       title: Digging Out And Exploring A Lost Underground Gold Mine Tunnel (2/2)
     - type: youtube
-      video: RM-i7-elgJQ
+      id: RM-i7-elgJQ
       title: I Found A New Cave! | Aquachigger
     - type: youtube
-      video: 5w0RzhT2wYQ
+      id: 5w0RzhT2wYQ
       title: 'Road Kill Cave Conquered : Lucky To Be Alive | Aquachigger'
   previous:
     name: the-astronomer
@@ -2699,19 +2702,19 @@
           Typically performed to electronic music, the dance originated in the
           Melbourne rave scene, and was popular in the 1980s and 1990s.</p>
     - type: youtube
-      video: rrbUkYmOKL0
+      id: rrbUkYmOKL0
       title: Basic Melbourne Shuffle Tutorial
     - type: youtube
-      video: Kt-Tb9gaOB8
+      id: Kt-Tb9gaOB8
       title: Running Man and T Step and Variations
     - type: youtube
-      video: NVISfLc_z8c
+      id: NVISfLc_z8c
       title: 'How to Shuffle #1'
     - type: youtube
-      video: Pbx1MVThTfg
+      id: Pbx1MVThTfg
       title: 'How to Shuffle #2'
     - type: youtube
-      video: J35OLTyr0YI
+      id: J35OLTyr0YI
       title: How to Shuffle Dance
     - type: quote
       author: Brené Brown
@@ -2735,7 +2738,7 @@
           the original definition was to tell the story of who you are with your
           whole heart.</p>
     - type: youtube
-      video: ZBZ0zGVADXY
+      id: ZBZ0zGVADXY
       title: Faded Remix (Electro House)
     - type: quote
       author: Neil Gaiman
@@ -2745,7 +2748,7 @@
           mind, your story, your vision. So write and draw and build and play and
           dance and live as only you can.</p>
     - type: youtube
-      video: ilrMb3O0H4U
+      id: ilrMb3O0H4U
       title: Faded + Alone
     - type: quote
       author: Voltaire
@@ -2754,7 +2757,7 @@
         harm
           to the world.</p>
     - type: youtube
-      video: U0fk5L1ifbo
+      id: U0fk5L1ifbo
       title: Eiffel 65 - Blue (Da Ba Dee)
     - type: quote
       author: Friedrich Nietzsche
@@ -2762,7 +2765,7 @@
         <p>We should consider every day lost on which we have not danced at
         least once.</p>
     - type: youtube
-      video: S321TDbe9Bo
+      id: S321TDbe9Bo
       title: Alan Walker Shuffle Dance
     - type: quote
       author: Friedrich Nietzsche
@@ -2771,7 +2774,7 @@
         and
           run and climb and dance; one cannot fly into flying.</p>
     - type: youtube
-      video: _wbEu-KdPE8
+      id: _wbEu-KdPE8
       title: Alice DJ Better Off Alone | Shuffle Dance
     - type: text
       title: Shuffle Dance Playlist
@@ -2808,19 +2811,19 @@
         written by the group&#39;s creator Frank Farian, along with George Reyam
         and Fred Jay.</p>
     - type: youtube
-      video: 16y1AkoZkmQ
+      id: 16y1AkoZkmQ
       title: Boney M. - Rasputin (Sopot Festival 1979)
     - type: youtube
-      video: SRWiqjgOyX0
+      id: SRWiqjgOyX0
       title: Just Dance 2 - Rasputin (side by side)
     - type: youtube
-      video: I8kuhv0FcTE
+      id: I8kuhv0FcTE
       title: LittleSiha dancing to Rasputin
     - type: youtube
-      video: a_n2Jm6-NpA
+      id: a_n2Jm6-NpA
       title: CiaoMia dancing to Rasputin
     - type: youtube
-      video: YgGzAKP_HuM
+      id: YgGzAKP_HuM
       title: RASPUTIN - Vladimir Putin - Love The Way You Move
     - type: text
       title: Notes
@@ -2838,13 +2841,13 @@
         The series was named after the Lady Gaga song of the same title. The
         original Just Dance game was released on the Wii in 2009.</p>
     - type: youtube
-      video: 9S8ecyxO7Bw
+      id: 9S8ecyxO7Bw
       title: Rasputin by Roman Kondrachov
     - type: youtube
-      video: 85xPjTQYzWM
+      id: 85xPjTQYzWM
       title: Roman Kondrachov's Ukrainian Folk Dance Solos
     - type: youtube
-      video: 1FLThlB_OWc
+      id: 1FLThlB_OWc
       title: PRISYADKA (Russian Squat Kick TUTORIAL) - Detailed
   previous:
     name: the-mine-explorer
@@ -2856,7 +2859,7 @@
   name: the-athlete
   data:
     - type: youtube
-      video: paOvrIKH2Os
+      id: paOvrIKH2Os
       title: Winners
     - type: poem
       title: Invictus
@@ -2876,18 +2879,18 @@
     - type: subtitle
       title: Bodybuilding at age 93
     - type: youtube
-      video: rGgoCm1hofM
+      id: rGgoCm1hofM
       title: 'Why bodybuilding at age 93 is a great idea: Charles Eugster'
     - type: subtitle
       title: The Appalachian Trail
     - type: youtube
-      video: hPSvdKTEZug
+      id: hPSvdKTEZug
       title: Appalachian Trail
     - type: youtube
-      video: hT8ZMp8Ec7U
+      id: hT8ZMp8Ec7U
       title: Appalachian Trail
     - type: youtube
-      video: cOF2LIAp9bw
+      id: cOF2LIAp9bw
       title: A Walk in the Woods Trailer
     - type: text
       title: A Walk in the Woods
@@ -2900,39 +2903,39 @@
     - type: subtitle
       title: Intro to Ultramarathons
     - type: youtube
-      video: sQsaI8wfr8k
+      id: sQsaI8wfr8k
       title: 'From couch to ultra marathon: Bill Hoffman'
     - type: subtitle
       title: Western States (100 miles)
     - type: youtube
-      video: kYgcTJBLwsU
+      id: kYgcTJBLwsU
       title: Western States
     - type: youtube
-      video: Wqmu8glgE8U
+      id: Wqmu8glgE8U
       title: Western States 70
     - type: youtube
-      video: mmX1MGhR3WU
+      id: mmX1MGhR3WU
       title: Western States The SISU Journey
     - type: subtitle
       title: Ironman
     - type: youtube
-      video: g_utqeQALVE
+      id: g_utqeQALVE
       title: Paula Newby Frazier is Hitting The Wall 1995 Ironman Hawaii
     - type: youtube
-      video: MTn1v5TGK_w
+      id: MTn1v5TGK_w
       title: The Crawl - Sian Welch & Wendy Ingraham
     - type: youtube
-      video: oGW5APQVg-c
+      id: oGW5APQVg-c
       title: Elle's journey to good health
     - type: subtitle
       title: Ultraman Triathlon (320 miles)
     - type: youtube
-      video: P5pm-FyovNk
+      id: P5pm-FyovNk
       title: Lessons the Ultraman Triathlon taught me about life
     - type: subtitle
       title: Endurance
     - type: youtube
-      video: DJrdV0ZQWxQ
+      id: DJrdV0ZQWxQ
       title: The Eternal Suffering of the Endurance Mind by Colin Robertson
     - type: text
       title: Heart Health
@@ -2942,7 +2945,7 @@
         Hearts Evolved to Need Regular
             Activity</a></p>
     - type: youtube
-      video: vs3WTVFChtw
+      id: vs3WTVFChtw
       title: Rock Running - Real Olympics have few spectators.
   previous:
     name: the-dancer
@@ -2995,7 +2998,7 @@
           per hand, even if out of humility, even if just to remind yourself that you
           always start in the beginning, and you always finish what you start.</p>
     - type: youtube
-      video: L5n3V0VYGNg
+      id: L5n3V0VYGNg
       title: Dress for Confidence and Joy
     - type: text
       title: Hit Every Beat
@@ -3146,7 +3149,7 @@
         href="https://www.youtube.com/results?search_query=Choreography">Choreography</a>
         (choreographers tend to pick amazing songs).</p>
     - type: youtube
-      video: T2ezIjoqkrY
+      id: T2ezIjoqkrY
       title: Labrinth - Mount Everest - Choreography by Erica Klein
     - type: text
       title: Vocal Ideas
@@ -3155,10 +3158,10 @@
         then the
           <a href="https://www.youtube.com/watch?v=iFZsunzjDXU&amp;list=PL6A17A25BE19EA6E9">Backyard Sessions</a> come to mind.</p>
     - type: youtube
-      video: iFZsunzjDXU
+      id: iFZsunzjDXU
       title: Lilac Wine
     - type: youtube
-      video: wOwblaKmyVw
+      id: wOwblaKmyVw
       title: Jolene
     - type: text
       title: 'Meowmix vol. 1,627'
@@ -3238,7 +3241,7 @@
         <p>LMFAO: <a href="https://www.youtube.com/watch?v=wyx6JDQCslE">Sexy and
         I Know It</a></p>
     - type: youtube
-      video: _tc4K5Zujqw
+      id: _tc4K5Zujqw
       title: Power of Now
     - type: text
       title: Of Focus and Trance
@@ -3266,80 +3269,80 @@
     - type: subtitle
       title: Johanna Quaas
     - type: youtube
-      video: 0JWePnHeniM
+      id: 0JWePnHeniM
       title: 'Johanna Quaas, a Short Film'
     - type: youtube
-      video: o625rylh3bY
+      id: o625rylh3bY
       title: Johanna Quaas Gymanstics
     - type: subtitle
       title: Mary Duffy
     - type: youtube
-      video: A8_ApkdygvU
+      id: A8_ApkdygvU
       title: Mary Duffy
     - type: youtube
-      video: 3h1P58BIa2s
+      id: 3h1P58BIa2s
       title: Mary Duffy Strength Training
     - type: subtitle
       title: Ernestine Shepherd
     - type: youtube
-      video: hpBo2dl3PBc
+      id: hpBo2dl3PBc
       title: 'Ernestine Shepherd, record-holding bodybuilder.'
     - type: youtube
-      video: NbZLdLfBQuk
+      id: NbZLdLfBQuk
       title: Ernestine Shepherd and her Walking Group
     - type: youtube
-      video: MyUG9lR0-cg
+      id: MyUG9lR0-cg
       title: 'Ernestine Shepherd, Love Yourself, Love Your Body'
     - type: youtube
-      video: kSpLieRQL-w
+      id: kSpLieRQL-w
       title: 'Ernestine Shepherd, Determined, Dedicated, Disciplined'
     - type: subtitle
       title: Iris Davis
     - type: youtube
-      video: '-WZ0EPe_Nok'
+      id: '-WZ0EPe_Nok'
       title: Iris Davis - 21 pull-ups.
     - type: youtube
-      video: oiaQygkQtgw
+      id: oiaQygkQtgw
       title: Iris Davis - Abdominal Workout
     - type: subtitle
       title: Lauren Bruzzone
     - type: youtube
-      video: TAcyA3OQ1v8
+      id: TAcyA3OQ1v8
       title: >-
         Lauren Bruzzone, CrossFit genius, retired attorney and adjunct college
         professor.
     - type: youtube
-      video: WQukIAVo000
+      id: WQukIAVo000
       title: 'Lauren Bruzzone, Balance and Determination.'
     - type: youtube
-      video: tI98MLR-4U4
+      id: tI98MLR-4U4
       title: 'Lauren Bruzzone, Strength and Fitness.'
     - type: subtitle
       title: Willie Murphy
     - type: youtube
-      video: 0zjhSlJN-Qw
+      id: 0zjhSlJN-Qw
       title: 'Willie Murphy, Power Lifter'
     - type: youtube
-      video: gYLaobn-YVM
+      id: gYLaobn-YVM
       title: 'Willie Murphy: He picked the wrong house'
     - type: youtube
-      video: odJRDx3tA0w
+      id: odJRDx3tA0w
       title: 'Willie Murphy: Beat up Burglar'
     - type: subtitle
       title: Tao Porchon Lynch
     - type: youtube
-      video: u76yQEdflVM
+      id: u76yQEdflVM
       title: >-
         Tao Porchon Lynch - Strength and Energy, and her Amazing Ballroom
         Dancing
     - type: youtube
-      video: CdXp15Lbx1c
+      id: CdXp15Lbx1c
       title: Tao Porchon Lynch - Dancing is a Pure Pleasure
     - type: youtube
-      video: RAqv1KMNUUU
+      id: RAqv1KMNUUU
       title: Tao Porchon Lynch - Breath of Life
     - type: youtube
-      video: oTmaTD5H0iM
+      id: oTmaTD5H0iM
       title: Tao Porchon Lynch - There is nothing you cannot do.
     - type: quote
       author: Tao Porchon Lynch
@@ -3361,10 +3364,10 @@
   name: the-chef
   data:
     - type: youtube
-      video: PAQEOYYhp78
+      id: PAQEOYYhp78
       title: Yuki Chizui of Nadeshiko Sushi
     - type: youtube
-      video: nXfyJzMOwgw
+      id: nXfyJzMOwgw
       title: A candid view of Nadeshiko
     - type: text
       title: Nadeshiko Sushi
@@ -3372,7 +3375,7 @@
         <p>Visit Yuki Chizui&#39;s Nadeshiko Sushi website: <a
         href="http://www.nadeshico-sushi.com/">www.nadeshico-sushi.com</a></p>
     - type: youtube
-      video: dH2m2HZpHQM
+      id: dH2m2HZpHQM
       title: Yumi Chiba
     - type: text
       title: Korea
@@ -3383,34 +3386,34 @@
         href="https://www.amazon.com/matcha-powder/s?k=matcha+powder&amp;s=price-desc-rank&amp;qid=1578713886&amp;ref=sr_st_price-desc-rank">Matcha
         Powder Green Tea on Amazon</a></p>
     - type: youtube
-      video: HLfJlK4xPYo
+      id: HLfJlK4xPYo
       title: 'Self Expression Through Gimbap: The Sushi Chef with Toyoung'
     - type: text
       title: America
       text: <p>Master Sushi Chef Kate Koo</p>
     - type: youtube
-      video: IX3RLvS_J8o
+      id: IX3RLvS_J8o
       title: How Master Sushi Chef Kate Koo Charted Her Own Sushi Path
     - type: text
       title: America
       text: <p>Nakaba Miyazaki Sushi Chef</p>
     - type: youtube
-      video: C-HX9Y1X61Q
+      id: C-HX9Y1X61Q
       title: Meet Nakaba Miyazaki
     - type: text
       title: America
       text: <p>Ms. Oona Tempest</p>
     - type: youtube
-      video: qGT0qvLh3to
+      id: qGT0qvLh3to
       title: 25-year-old Oona Tempest opens NYC Sushi Speakeasy
     - type: youtube
-      video: QZZZ5wxUf3U
+      id: QZZZ5wxUf3U
       title: Oona Tempest and her Sensei Toshio Oguma
     - type: text
       title: Tradition
       text: '<p>The japanese tradition of Sushi, from director Junji Kojima.</p>'
     - type: youtube
-      video: 3nQ6c7WIudE
+      id: 3nQ6c7WIudE
       title: The Japanese Tradition - Sushi
     - type: text
       title: Questions and more questions...
@@ -3434,7 +3437,7 @@
         href="https://www.youtube.com/channel/UCPGxD_KKEb48mqhcjzPc3PA">YouTube
         Channel</a></p>
     - type: youtube
-      video: XNHEFj7UCzg
+      id: XNHEFj7UCzg
       title: 'Forging a Cat Bowie, the complete movie.'
     - type: text
       title: Walter Sorrells
@@ -3443,10 +3446,10 @@
         href="https://www.youtube.com/channel/UCkLxJCuQZ4hStBfs8TCnT9Q">YouTube
         Channel</a></p>
     - type: youtube
-      video: Yw1jlG__Eug
+      id: Yw1jlG__Eug
       title: Making a Japanese Marking Knife from Damascus Steel
     - type: youtube
-      video: b8hd4JC_zhY
+      id: b8hd4JC_zhY
       title: Making a Railroad Spike Knife
     - type: text
       title: Koss
@@ -3455,7 +3458,7 @@
         href="https://www.youtube.com/channel/UCBZ_OO-p6YZNsrnfk3SOfAw">YouTube
         Channel</a></p>
     - type: youtube
-      video: Vu1s8LoLd7c
+      id: Vu1s8LoLd7c
       title: Making a Knife from an Old File
     - type: text
       title: Shurap
@@ -3464,10 +3467,10 @@
         href="https://www.youtube.com/channel/UCGieG0SoGN7o3ZKzHGhHhUw">YouTube
         Channel</a></p>
     - type: youtube
-      video: ZrGJLunpHC4
+      id: ZrGJLunpHC4
       title: Blade - Elven Flame - process
     - type: youtube
-      video: tEICxi9--u0
+      id: tEICxi9--u0
       title: Forging a blade from an armor-piercing projectile
     - type: text
       title: Slavik Tely
@@ -3476,12 +3479,12 @@
         href="https://www.youtube.com/channel/UCsCuMSw61beQuEpUOcvQOwg">YouTube
         Channel</a></p>
     - type: youtube
-      video: d05KQ2ZC4Zc
+      id: d05KQ2ZC4Zc
       title: >-
         First ever hand made Jagdkommando Knife without a lathe or CNC machine
         Part 1
     - type: youtube
-      video: INHYR-3CdVM
+      id: INHYR-3CdVM
       title: >-
         First ever hand made Jagdkommando Knife without a lathe or CNC machine
         Part 2
@@ -3491,10 +3494,10 @@
         <p><a href="https://www.youtube.com/user/greenbeetlegear">YouTube
         Channel</a></p>
     - type: youtube
-      video: ww1kP6RryrA
+      id: ww1kP6RryrA
       title: 'Forging A Twist Seax Blade, The Second Knife!'
     - type: youtube
-      video: 54S8rpAgYog
+      id: 54S8rpAgYog
       title: The 3 Hour Knife Challenge!
     - type: text
       title: Chandler Dickinson
@@ -3503,7 +3506,7 @@
         href="https://www.youtube.com/channel/UCbpVXfX0GBy6Z2vqIwANdEA">YouTube
         Channel</a></p>
     - type: youtube
-      video: GLFAURAIyXQ
+      id: GLFAURAIyXQ
       title: Blacksmithing Knifemaking - Forging A Ram's Head Railroad Spike Knife
     - type: text
       title: Torbjörn Åhman
@@ -3512,7 +3515,7 @@
         href="https://www.youtube.com/channel/UCSFaYYQzNMLo2U6rSNLpghg">YouTube
         Channel</a></p>
     - type: youtube
-      video: je-BmMoEFtQ
+      id: je-BmMoEFtQ
       title: Making a pair of scissors
     - type: text
       title: Black Bear Forge
@@ -3521,7 +3524,7 @@
         href="https://www.youtube.com/channel/UCdOM6Qc53TcWuExrnDLVjXg">YouTube
         Channel</a></p>
     - type: youtube
-      video: c80mMzDknTI
+      id: c80mMzDknTI
       title: 'Chevron or Wheat twist, forge welding twists'
   previous:
     name: the-chef
@@ -3533,10 +3536,10 @@
   name: the-maker
   data:
     - type: youtube
-      video: b694exl_oZo
+      id: b694exl_oZo
       title: 'My creations, a new form of life by Theo Jansen'
     - type: youtube
-      video: KsqlnGMzMD4
+      id: KsqlnGMzMD4
       title: Strandbeest Evolution 2017
     - type: text
       title: Colin Furze
@@ -3544,10 +3547,10 @@
         <p><a href="https://www.youtube.com/user/colinfurze">YouTube
         Channel</a></p>
     - type: youtube
-      video: soxxPyaAT1k
+      id: soxxPyaAT1k
       title: Homemade Hoverbike
     - type: youtube
-      video: yox9CKYh7EU
+      id: yox9CKYh7EU
       title: Underground Beach Hut Build
     - type: text
       title: Jimmy Diresta
@@ -3555,10 +3558,10 @@
         <p><a href="https://www.youtube.com/user/jimmydiresta">YouTube
         Channel</a></p>
     - type: youtube
-      video: M6v2trBW4es
+      id: M6v2trBW4es
       title: Brass Hammer
     - type: youtube
-      video: gwAId02ssYs
+      id: gwAId02ssYs
       title: Stained Glass Window
     - type: text
       title: Clickspring
@@ -3575,10 +3578,10 @@
         href="https://www.youtube.com/playlist?list=PLZioPDnFPNsETq9h35dgQq80Ryx-beOli">Making
         A Large Wheel Skeleton Clock</a></p>
     - type: youtube
-      video: ML4tw_UzqZE
+      id: ML4tw_UzqZE
       title: 'The Antikythera Mechanism Episode 1 - Greeks, Clocks and Rockets.'
     - type: youtube
-      video: B8Y146v8HxE
+      id: B8Y146v8HxE
       title: How To Make A Clock In The Home Machine Shop - Part 1
     - type: text
       title: Andre Will Do It
@@ -3587,10 +3590,10 @@
         href="https://www.youtube.com/channel/UCad1pq_FAygE4VaDLJMZ8BA">YouTube
         Channel</a></p>
     - type: youtube
-      video: py6WEp6pKGE
+      id: py6WEp6pKGE
       title: Rusty Remington Clone
     - type: youtube
-      video: 86356fRR1VY
+      id: 86356fRR1VY
       title: Abandoned 1886 Colt Lightning
     - type: text
       title: Black Beard Projects
@@ -3599,7 +3602,7 @@
         href="https://www.youtube.com/channel/UC8q2GgxOUS_Dzd5KIYeJQIw">YouTube
         Channel</a></p>
     - type: youtube
-      video: 2RVyE1wlH7E
+      id: 2RVyE1wlH7E
       title: Knifemaker Restore An Italian Chef's Knife Worth 1€
     - type: text
       title: This Old Tony
@@ -3607,7 +3610,7 @@
         <p><a href="https://www.youtube.com/user/featony">YouTube
         Channel</a></p>
     - type: youtube
-      video: sjn6qeFzQCA
+      id: sjn6qeFzQCA
       title: CNC Sword
     - type: text
       title: Alumi Tube
@@ -3616,7 +3619,7 @@
         href="https://www.youtube.com/channel/UCcDpEbrETwvQfJxnpqY6idw">YouTube
         Channel</a></p>
     - type: youtube
-      video: 5g2DxY1Rjag
+      id: 5g2DxY1Rjag
       title: Casting REAL BRONZE THANOS Infinity Gauntlet
     - type: text
       title: My Ford Boy
@@ -3624,7 +3627,7 @@
         <p><a href="https://www.youtube.com/user/myfordboy">YouTube
         Channel</a></p>
     - type: youtube
-      video: 5GSHXC6fwq4
+      id: 5GSHXC6fwq4
       title: Casting and Machining a Toothed Pulley
     - type: business
       url: ponoko.jpg
@@ -3665,7 +3668,7 @@
         href="https://www.dangoproducts.com/">Dango Products</a> for more
         ideas.</p>
     - type: youtube
-      video: rt6TqD000-s
+      id: rt6TqD000-s
       title: 'Dremel Laser Cutter Demo ($6,499.00 - $8,499.00)'
     - type: business
       url: leather.png
@@ -3678,7 +3681,7 @@
         <p>Consider creating a similar business (see <a href="founder.html">The
         Founder</a>)</p>
     - type: youtube
-      video: sOmhgoD7Z9U
+      id: sOmhgoD7Z9U
       title: Dremel DigiLab Laser Cutter Luggage Tag Project
     - type: business
       url: leather2.png
@@ -3701,10 +3704,10 @@
         href="https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ">the
         Hacksmith</a> YouTube Channel for more.</p>
     - type: youtube
-      video: HxX75eYf598
+      id: HxX75eYf598
       title: 'Building Stormbreaker: Part 1'
     - type: youtube
-      video: 449lCaylrIo
+      id: 449lCaylrIo
       title: 'BRING ME THANOS! Building Stormbreaker: Part 2'
     - type: text
       title: 'CNC Plasma Cutter Demo: Man At Arms'
@@ -3714,7 +3717,7 @@
         At Arms</a> use a similar cutter, but tend to use the resulting product
         as a template/test for real blacksmithing.</p>
     - type: youtube
-      video: vef62MzS6as
+      id: vef62MzS6as
       title: 'Optimus Prime''s Sword from Transformers: The Last Knight '
     - type: text
       title: Plasma CNC in Action
@@ -3735,13 +3738,13 @@
         href="https://www.youtube.com/channel/UCY2--S73K_Ce6uvmN9UXvlw">Waterjet
         Channel</a> for more shenanigans.</p>
     - type: youtube
-      video: BVL3Y1uJY68
+      id: BVL3Y1uJY68
       title: cut in half - 1911 Airsoft pistol
     - type: youtube
-      video: o9ZDmsF3mpI
+      id: o9ZDmsF3mpI
       title: '55lb Kettlebell VS. Waterjet at 60,000 PSI'
     - type: youtube
-      video: jn9Od4oP8D0
+      id: jn9Od4oP8D0
       title: 'Water Trapped in Quartz Rock vs 60,000 PSI Waterjet - Enhydro Agate'
   previous:
     name: the-blacksmith
@@ -3761,10 +3764,10 @@
         href="https://www.youtube.com/channel/UC7orAmV1JD-j-cIxOW7gi3w">YouTube
         Topic</a></p>
     - type: youtube
-      video: dQRARRAhRLc
+      id: dQRARRAhRLc
       title: Mariana BO (Tomorrowland Belgium 2019)
     - type: youtube
-      video: V7-JQcNm8W0
+      id: V7-JQcNm8W0
       title: 'Mariana BO: Shankara'
     - type: text
       title: MATTN
@@ -3773,10 +3776,10 @@
         href="https://www.youtube.com/channel/UCojmPu73tS_5hcxUOoCtHjw">YouTube
         Topic</a></p>
     - type: youtube
-      video: ksqBDYwqkHA
+      id: ksqBDYwqkHA
       title: MATTN (Tomorrowland Mainstage 2019)
     - type: youtube
-      video: F18eozyUKoM
+      id: F18eozyUKoM
       title: 'MATTN: Jungle Fever'
     - type: text
       title: Peggy Gou
@@ -3785,10 +3788,10 @@
         href="https://www.youtube.com/channel/UConl7T_sh6sQCwYe8WrQNbQ">YouTube
         Topic</a></p>
     - type: youtube
-      video: '-UOMvxh4MYU'
+      id: '-UOMvxh4MYU'
       title: Peggy Gou (Palais des Beaux-Arts de Lille for Cercle)
     - type: youtube
-      video: r_wwmmo6UGY
+      id: r_wwmmo6UGY
       title: 'Peggy Gou: Starry Night'
     - type: text
       title: Miss K8
@@ -3797,10 +3800,10 @@
         href="https://www.youtube.com/channel/UC9QwEZj-KBlYzW3hbsgwS-Q">YouTube
         Channel</a></p>
     - type: youtube
-      video: Z0N1i7LwXXE
+      id: Z0N1i7LwXXE
       title: Miss K8 (Qlimax 2019)
     - type: youtube
-      video: k9sC2RcFsQg
+      id: k9sC2RcFsQg
       title: 'Miss K8: Out Of The Frame'
     - type: text
       title: Charlotte de Witte
@@ -3809,10 +3812,10 @@
         href="https://www.youtube.com/channel/UC-yOW3e6zBSo1JwLXq46Suw">YouTube
         Channel</a></p>
     - type: youtube
-      video: AtZxg-OC5ho
+      id: AtZxg-OC5ho
       title: Charlotte de Witte (Dour Festival 2017)
     - type: youtube
-      video: qNWQ5TGujVI
+      id: qNWQ5TGujVI
       title: 'Charlotte de Witte: Time'
     - type: text
       title: NERVO
@@ -3821,10 +3824,10 @@
         href="https://www.youtube.com/channel/UCPIq_wSB6DYBtoee4KqSZnw">YouTube
         Channel</a></p>
     - type: youtube
-      video: _m9OgQkdVqQ
+      id: _m9OgQkdVqQ
       title: 'NERVO (Tomorrowland July 22, 2017)'
     - type: youtube
-      video: rTOMpaOd31g
+      id: rTOMpaOd31g
       title: 'NERVO: The Way We See The World'
     - type: text
       title: Alison Wonderland
@@ -3833,10 +3836,10 @@
         href="https://www.youtube.com/channel/UCB6R4ceqzkFiNX6FjDNzuKw">YouTube
         Channel</a></p>
     - type: youtube
-      video: HIXwkduDI3w
+      id: HIXwkduDI3w
       title: Alison Wonderland (The Lab LA)
     - type: youtube
-      video: KbGV1KEXds4
+      id: KbGV1KEXds4
       title: 'Alison Wonderland: Peace'
     - type: text
       title: Nina Kraviz
@@ -3845,10 +3848,10 @@
         href="https://www.youtube.com/channel/UCF6lav85ybIK3Umon9oI-dw">YouTube
         Topic</a></p>
     - type: youtube
-      video: oFvqo1dil7M
+      id: oFvqo1dil7M
       title: Nina Kraviz (Tour Eiffel for Cercle)
     - type: youtube
-      video: JDJRg8sowP4
+      id: JDJRg8sowP4
       title: 'Nina Kraviz: Dream Machine'
   previous:
     name: the-maker
@@ -3860,7 +3863,7 @@
   name: the-musician
   data:
     - type: youtube
-      video: TysXX7ZCV7g
+      id: TysXX7ZCV7g
       title: 'Great Philosopher Jean Paul Sartre, plays the piano.'
     - type: image
       url: ableton.png
@@ -3878,13 +3881,13 @@
           bit of something larger. In the world of music, that little bit, would
           often be a defining sound in a song that captured your attention.</p>
     - type: youtube
-      video: i9MXYZh1jcs
+      id: i9MXYZh1jcs
       title: 'Amiga Samplers : Budget dance music in 1990'
     - type: youtube
-      video: v89CjsSOJ_c
+      id: v89CjsSOJ_c
       title: 'Amen, Break: The Most Sampled Loop in Music History'
     - type: youtube
-      video: H3TF-hI7zKc
+      id: H3TF-hI7zKc
       title: How sampling transformed music by Mark Ronson
     - type: text
       title: Art of Sampling
@@ -3918,22 +3921,22 @@
         huge library, and <a href="https://splice.com/">Splice</a> has a well
           organized one aimed at musicians for $7.99/mo (the free trial is worth it).</p>
     - type: youtube
-      video: mVxLhy1v-xU
+      id: mVxLhy1v-xU
       title: LoFi Synth-Hop
     - type: youtube
-      video: DdVOwNyomw4
+      id: DdVOwNyomw4
       title: RZA - Flying Birds / Sample Rich Track
     - type: youtube
-      video: g4tbuu9GTaw
+      id: g4tbuu9GTaw
       title: RZA'a Samurai Showdown (Lofi Hiphop)
     - type: youtube
-      video: ztPvUrQb9Vw
+      id: ztPvUrQb9Vw
       title: Beatboxers
     - type: youtube
-      video: d8s8e8JdGCc
+      id: d8s8e8JdGCc
       title: The Science of Dubstep by James Humberstone
     - type: youtube
-      video: q5yxIzs5Wug
+      id: q5yxIzs5Wug
       title: How to translate the feeling into sound by Claudio
     - type: text
       title: Become a Rockstar!
@@ -3958,25 +3961,25 @@
         <p>Take a look at the <a href="https://lmms.io/showcase">showcase</a>,
         albums of songs made with LMMS.</p>
     - type: youtube
-      video: 5j8c2qlih0M
+      id: 5j8c2qlih0M
       title: LMMS 1.2
     - type: youtube
-      video: 4dYxV3tqTUc
+      id: 4dYxV3tqTUc
       title: 'LMMS Tutorial 1: Piano Roll, Beat/Bass Line Editor'
     - type: youtube
-      video: Ow4fHTmd1mo
+      id: Ow4fHTmd1mo
       title: 'LMMS Tutorial 2: Sidebar'
     - type: youtube
-      video: 7lI8VgbocQg
+      id: 7lI8VgbocQg
       title: 'LMMS Tutorial 3: TripleOscillator Basics'
     - type: youtube
-      video: rJDc8p18fsE
+      id: rJDc8p18fsE
       title: How to Sing Any Song - Modified Lyrics - Felicia Ricci
     - type: youtube
-      video: ZATunybJm_4
+      id: ZATunybJm_4
       title: How To Sing Any Song - Voice Lessons - Ken Tamplin Vocal Academy
     - type: youtube
-      video: ytyLQ2Hl-H0
+      id: ytyLQ2Hl-H0
       title: >-
         How To Sing With Your Own Voice - Roger Burnley Voice Studio - Singing
         Vocal Lesson
@@ -3987,10 +3990,10 @@
         href="https://www.youtube.com/channel/UChyNJxSsIXh2KyY3VvLnI2g">Anne
         Reburn Channel on YouTube</a></p>
     - type: youtube
-      video: zFnSCJ8h9c4
+      id: zFnSCJ8h9c4
       title: How Am I Feeling Today?
     - type: youtube
-      video: SdM5DQxfGM0
+      id: SdM5DQxfGM0
       title: I'm A Believer
     - type: text
       title: Studio Acapellas
@@ -4003,10 +4006,10 @@
           youtube audio&quot; and then load them into LMMS and create your own backbeat
           and remixes.</p>
     - type: youtube
-      video: f5TSlm79zc0
+      id: f5TSlm79zc0
       title: 'P!nk - Fuckin'' Perfect (Official Acapella) [EXPLICIT]'
     - type: youtube
-      video: oRoauAOgWuw
+      id: oRoauAOgWuw
       title: Mad World Gary Jules Real Official Acapella
     - type: text
       title: Izzie Naylor
@@ -4015,10 +4018,10 @@
         proof
           that minimalist songs are often very beautiful.</p>
     - type: youtube
-      video: Z8ZShEgGt-4
+      id: Z8ZShEgGt-4
       title: 'Smile, Ukulele Cover by Izzie Naylor'
     - type: youtube
-      video: D1Nq086QB1Q
+      id: D1Nq086QB1Q
       title: Gary Jules - Mad World (live)
     - type: text
       title: Community Links
@@ -4066,44 +4069,44 @@
   name: the-ukulele-player
   data:
     - type: youtube
+      id: 6MzodhzPsVo
       title: What's Up by Ariel McCleary
-      video: 6MzodhzPsVo
     - type: youtube
+      id: S9cI-Z6i_aQ
       title: Havana by Ariel McCleary
-      video: S9cI-Z6i_aQ
     - type: youtube
+      id: TxTYcHHpQQo
       title: HOW TO PLAY "Havana" ON UKULELE! by Ariel McCleary
-      video: TxTYcHHpQQo
     - type: youtube
+      id: 5lqk2SnKpZ8
       title: Don't Worry Be Happy by Ariel McCleary
-      video: 5lqk2SnKpZ8
     - type: youtube
+      id: 8cUA1MaY3H4
       title: My ukulele progress after 1 year!
-      video: 8cUA1MaY3H4
     - type: youtube
+      id: GlrOzQzASRA
       title: EASY You Are My Sunshine Tutorial for Ukulele (with Free PDF)
-      video: GlrOzQzASRA
     - type: youtube
+      id: HeP9uWi0z68
       title: Manok Na Pula by Selena Marie
-      video: HeP9uWi0z68
     - type: youtube
+      id: DdsPyQi1El4
       title: Ocean Eyes by Nix
-      video: DdsPyQi1El4
     - type: youtube
+      id: lPCxm9kwO98
       title: La Vie En Rose by Reneé Dominique
-      video: lPCxm9kwO98
     - type: youtube
+      id: gnJCmbEDk-8
       title: Here Comes The Sun by Dodie
-      video: gnJCmbEDk-8
     - type: youtube
+      id: KiHjxdVPSVI
       title: Ukulele Recommendations
-      video: KiHjxdVPSVI
     - type: youtube
+      id: _90jqATJJaI
       title: I wrote a song using only hate comments!
-      video: _90jqATJJaI
     - type: youtube
+      id: ILBWV9AFKDU
       title: Different Types of Ukulele Players
-      video: ILBWV9AFKDU
   previous:
     name: the-musician
     title: The Musician
@@ -4144,7 +4147,7 @@
           jump around, transition from one nearby key to another, they are grouped to
           sound nice together. Break the rules from time to time.</p>
     - type: youtube
-      video: SYSxOj6W7IQ
+      id: SYSxOj6W7IQ
       title: Percussion Ensemble
     - type: text
       title: Sounds on a Timeline
@@ -4152,7 +4155,7 @@
         <p>Visualize notes as bright little objects on a timeline.</p>
         <p>Watch the melody.</p>
     - type: youtube
-      video: uGrN6PR44PQ
+      id: uGrN6PR44PQ
       title: Guitar Hero - Simpsons Theme Song
     - type: text
       title: Melody & Song Structure
@@ -4172,7 +4175,7 @@
           end. It does not seem to leave off unfinished, it hits those four final
           notes in a sequence, and you know it is done, and done.</p>
     - type: youtube
-      video: T5wTqFteQVY
+      id: T5wTqFteQVY
       title: Musical Form
     - type: text
       title: The Drum Kit
@@ -4188,7 +4191,7 @@
           would be like a piano with one key. There is more to drums, there are some
           quick sharp sounding things that go along with it.</p>
     - type: youtube
-      video: tm2BgO1VaRY
+      id: tm2BgO1VaRY
       title: 'Play With Your Rhythm: Drum Patterns'
     - type: image
       url: drumkit.jpg
@@ -4208,10 +4211,10 @@
 
         <p>Clap, that&#39;s the sound that clapping your hands makes.</p>
     - type: youtube
-      video: EY62kFvlbFg
+      id: EY62kFvlbFg
       title: PROFESSIONAL Drum Programming Made EASY in LMMS!
     - type: youtube
-      video: AvxevjgKBfo
+      id: AvxevjgKBfo
       title: How To Write A Melody On The Piano (For Beginners)
     - type: text
       title: The Melody
@@ -4288,7 +4291,7 @@
         90°
           clockwise.</p>
     - type: youtube
-      video: g1uLrHq9TDg
+      id: g1uLrHq9TDg
       title: Chopin - Revolutionary Etude (Op. 10 No. 12)
     - type: text
       title: Lead The Way
@@ -4309,10 +4312,10 @@
   name: the-poet
   data:
     - type: youtube
-      video: k6_QUhUPrF4
+      id: k6_QUhUPrF4
       title: All The Way by Charles Bukowski
     - type: youtube
-      video: T2LUbk_7uKg
+      id: T2LUbk_7uKg
       title: 'If - Rudyard Kipling, Dennis Hopper on Johnny Cash Show'
     - type: text
       title: By Subtle Analogy
@@ -4330,20 +4333,20 @@
         <p>The theory of a city, a poem, and of the large politics of these
         States;</p>
     - type: youtube
-      video: LVxrzOLst64
+      id: LVxrzOLst64
       title: Walt Whitman
     - type: youtube
-      video: qIDkjoyAAy8
+      id: qIDkjoyAAy8
       title: 'Favorite Poem Project: Kosmos by Ms. Browne'
     - type: quote
       author: Walt Whitman
       url: 'https://en.wikipedia.org/wiki/Walt_Whitman'
       text: <p>I sound my barbaric yawp over the rooftops of the world.</p>
     - type: youtube
-      video: gQU3EphIpMY
+      id: gQU3EphIpMY
       title: YAWP - Dead Poets Society
     - type: youtube
-      video: aS1esgRV4Rc
+      id: aS1esgRV4Rc
       title: Why do we read and write poetry?
     - type: text
       title: 'Please, Read & Write Poetry.'
@@ -4362,39 +4365,39 @@
         <p><a href="https://en.wikipedia.org/wiki/The_Owl_and_the_Pussy-Cat">The
         Owl and the Pussycat at Wikipedia</a>.</p>
     - type: youtube
-      video: WAfPKNSvesI
+      id: WAfPKNSvesI
       title: The Owl and the Pussycat
     - type: youtube
-      video: KUaQgRiJukA
+      id: KUaQgRiJukA
       title: 'The Road Not Taken, by Robert Frost'
     - type: youtube
-      video: JqOqo50LSZ0
+      id: JqOqo50LSZ0
       title: And Still I Rise - Maya Angelou
     - type: youtube
-      video: krbX-9ugbI4
+      id: krbX-9ugbI4
       title: Ozymandias by Percy Bysshe Shelley
     - type: youtube
-      video: TjozQHEqXNs
+      id: TjozQHEqXNs
       title: Stopping by Woods on a Snowy Evening by Robert Frost
     - type: youtube
-      video: rxg7OFFtWQE
+      id: rxg7OFFtWQE
       title: A Dream Within A Dream by Edgar Allan Poe
     - type: youtube
-      video: DYNjUllUcFY
+      id: DYNjUllUcFY
       title: 'Marianne Verville: Fire and Ice by Robert Frost'
     - type: youtube
-      video: oRQIISF4prA
+      id: oRQIISF4prA
       title: >-
         2014 National Champion Anita Norman (TN) recites The Layers by Stanley
         Kunitz
     - type: youtube
-      video: bmVGBcXqtFY
+      id: bmVGBcXqtFY
       title: 'Poetry Out Loud 2012 NJ State Finals: Brianne Barker performs Snow Day'
     - type: youtube
-      video: w8HdOHrc3OQ
+      id: w8HdOHrc3OQ
       title: The Great Dictator Speech - Charlie Chaplin
     - type: youtube
-      video: EWPFmdAWRZ0
+      id: EWPFmdAWRZ0
       title: Carl Sagan
     - type: text
       title: Science & Progress
@@ -4406,21 +4409,21 @@
         <p>Read You Poems, Record Them, Upload Them. Practice. Share, Teach and
           Inspire.</p>
     - type: youtube
-      video: a7q_vACVwq0
+      id: a7q_vACVwq0
       title: >-
         Morgan Freeman recites 'Invictus' from memory on Charlie Rose (about
         Nelson Mandela)
     - type: youtube
-      video: sR2v0Pfmzzc
+      id: sR2v0Pfmzzc
       title: Invictus by William Ernest Henley (1875)
     - type: youtube
-      video: j64SctPKmqk
+      id: j64SctPKmqk
       title: 'O Captain, my Captain! - Thank you to Robin Williams'
     - type: youtube
-      video: bLiXjaPqSyY
+      id: bLiXjaPqSyY
       title: 'The Simpsons - Edgar Allan Poe: The Raven'
     - type: youtube
-      video: AfsnHVaScjg
+      id: AfsnHVaScjg
       title: Ravens can talk!
   previous:
     name: the-composer
@@ -4440,28 +4443,28 @@
           trees, along roads by observing the formation of clouds, in the studio by
           studying the model, everywhere except in the schools.</p>
     - type: youtube
-      video: n_6p-1J551Y
+      id: n_6p-1J551Y
       title: Cubli
     - type: youtube
-      video: ZqzjAmPFND8
+      id: ZqzjAmPFND8
       title: Water No. 33 by Dean O'Callaghan
     - type: youtube
-      video: 1scj5sotD-E
+      id: 1scj5sotD-E
       title: Colibri by  Derek Hugger
     - type: youtube
-      video: zqNnOYoU5ls
+      id: zqNnOYoU5ls
       title: Kinetic Sculptures Intro
     - type: youtube
-      video: Ibq1crh0OFA
+      id: Ibq1crh0OFA
       title: Kinetic sculptures by Alex Harrell
     - type: youtube
-      video: nxdcj2tLQGE
+      id: nxdcj2tLQGE
       title: Kinetic Sculpture by David Roy
     - type: youtube
-      video: J4l5rHNSq9s
+      id: J4l5rHNSq9s
       title: Kinetic Masterpieces by Anthony Howe
     - type: youtube
-      video: IvUU8joBb1Q
+      id: IvUU8joBb1Q
       title: Wintergatan by Martin Molin
     - type: text
       title: Blender
@@ -4469,13 +4472,13 @@
         <p>Blender is a Free and Open Source Program with a large developer
         community.</p>
     - type: youtube
-      video: ICBP-7x7Chc
+      id: ICBP-7x7Chc
       title: MODELING For Absolute Beginners - Blender Tutorial
     - type: youtube
-      video: lp9JO7qpIO4
+      id: lp9JO7qpIO4
       title: 'B3d/ZB/MD: Threadox Pt.1'
     - type: youtube
-      video: a-Nsphndbj8
+      id: a-Nsphndbj8
       title: Blender 2.8 Mecha Sculpting In Dyntopo - Blender Tutorial
     - type: text
       title: ZBrush
@@ -4483,13 +4486,13 @@
         <p>Zbrush is a commercial product priced at $1,000.</p>
         <p>(I recommend learning Blender)</p>
     - type: youtube
-      video: G3SVAN9TPbo
+      id: G3SVAN9TPbo
       title: Organic Sculpting with Maria Panfilova
     - type: youtube
-      video: k00bCwWH92E
+      id: k00bCwWH92E
       title: Joker Speed Art (Zbrush)
     - type: youtube
-      video: GhYwHcp-UV8
+      id: GhYwHcp-UV8
       title: Speedsculpt Zbrush
     - type: text
       title: Air Dry Clay
@@ -4497,7 +4500,7 @@
         <p>Air Dry clay can be purchased for $25 for 25lb at <a
         href="https://www.amazon.com/AMACO-AMA46317P-Clay-Gray-lbs/dp/B0009RRTA8/ref=sr_1_10?keywords=air+drying+clay&amp;qid=1574898467&amp;sr=8-10">Amazon</a></p>
     - type: youtube
-      video: H4WtpO8vfTU
+      id: H4WtpO8vfTU
       title: Speed Sculpting - What you NEED to Know
     - type: text
       title: 3D Printing
@@ -4506,10 +4509,10 @@
         <a href="https://en.wikipedia.org/wiki/3D_printing">3D
             Printer</a> for quicker prototyping</p>
     - type: youtube
-      video: 9uxE_r9kEE8
+      id: 9uxE_r9kEE8
       title: 3D Printing Cast Metals via Shapeways
     - type: youtube
-      video: YzF5YnUuN4Q
+      id: YzF5YnUuN4Q
       title: Why This Is the Best 3D Printer - Comparing ALL My Printers!!!
     - type: business
       url: shapeways.png
@@ -4535,10 +4538,10 @@
             scanners</a> as well. Take a look at the <a href="https://www.shapeways.com/marketplace">Shapeways Marketplace</a> for
           more ideas.</p>
     - type: youtube
-      video: TTCiOoedUco
+      id: TTCiOoedUco
       title: Explaining 3D Scanning
     - type: youtube
-      video: 20b2JWz2TfE
+      id: 20b2JWz2TfE
       title: Best 3D Scanners 2019
   previous:
     name: the-poet
@@ -4550,22 +4553,22 @@
   name: the-photographer
   data:
     - type: youtube
-      video: Xb0HQSqkZHs
+      id: Xb0HQSqkZHs
       title: Petit World
     - type: youtube
-      video: uuMy9nsrLW4
+      id: uuMy9nsrLW4
       title: Petit Vienna
     - type: youtube
-      video: IpCdMGfducg
+      id: IpCdMGfducg
       title: Petit Montenegro
     - type: youtube
-      video: kdnyIIqEBII
+      id: kdnyIIqEBII
       title: Petit Prague
     - type: youtube
-      video: gvV5sINKnT8
+      id: gvV5sINKnT8
       title: 'Tilt-Shift Lens: Explained'
     - type: youtube
-      video: QpeUEK_5Tb0
+      id: QpeUEK_5Tb0
       title: How to Create Tilt-Shift / Miniature World Time-lapses
   previous:
     name: the-sculptor
@@ -4577,82 +4580,82 @@
   name: the-filmmaker
   data:
     - type: youtube
-      video: nH7r5ThIw5Y
+      id: nH7r5ThIw5Y
       title: Forgotten How To Listen
     - type: youtube
-      video: jreddFmavCI
+      id: jreddFmavCI
       title: Lady in the Water (2006) - Trailer
     - type: youtube
-      video: x7B928wTLGE
+      id: x7B928wTLGE
       title: The Fountain Explained
     - type: youtube
-      video: hIdsjNGCGz4
+      id: hIdsjNGCGz4
       title: Wicked Smart
     - type: youtube
-      video: RVVwCE0A6Es
+      id: RVVwCE0A6Es
       title: Preparations
     - type: image
       url: superman-plato.png
       title: He's reading about Plato
     - type: youtube
-      video: eWw1rMlSfeQ
+      id: eWw1rMlSfeQ
       title: He's Going to Change the World
     - type: youtube
-      video: zWTbLZCR84k
+      id: zWTbLZCR84k
       title: Faora-Ul vs Kal-El
     - type: youtube
-      video: xy62MyYWnU4
+      id: xy62MyYWnU4
       title: Kal-El vs Justice League
     - type: youtube
-      video: X7SiuQxhAjg
+      id: X7SiuQxhAjg
       title: Batman v Superman
     - type: youtube
-      video: 24vtRhMbDEA
+      id: 24vtRhMbDEA
       title: The Final Battle - Justice League
     - type: youtube
-      video: b9V3Pj47x4c
+      id: b9V3Pj47x4c
       title: Race. Flash vs Superman
     - type: youtube
-      video: sfM7_JLk-84
+      id: sfM7_JLk-84
       title: Wonder Woman 1984
     - type: youtube
-      video: CE8XKeN0zk4
+      id: CE8XKeN0zk4
       title: Kickboxer Dance
     - type: youtube
-      video: aztdMwYrF4k
+      id: aztdMwYrF4k
       title: 'Coco: Kickboxer Dance'
     - type: youtube
-      video: LUDEjulbqzk
+      id: LUDEjulbqzk
       title: I Have Made Fire!
     - type: youtube
-      video: YNcN5f3vwro
+      id: YNcN5f3vwro
       title: Not To Be
     - type: youtube
-      video: o_YtK5SYK6Y
+      id: o_YtK5SYK6Y
       title: Firewalker (in German)
     - type: youtube
-      video: wMyZEgC20UA
+      id: wMyZEgC20UA
       title: Bud Spencer & Terence Hill
     - type: youtube
-      video: 8WT6ihi8MkM
+      id: 8WT6ihi8MkM
       title: Louis de Funès
     - type: youtube
-      video: tDJJi5ijAnM
+      id: tDJJi5ijAnM
       title: Czterej Pancerni i Pies
     - type: youtube
-      video: 6FqUyxVD4qc
+      id: 6FqUyxVD4qc
       title: Alfa Mike Foxtrot - I Love It When a Plan Comes Together!
     - type: youtube
-      video: Rm8i9qMxeRQ
+      id: Rm8i9qMxeRQ
       title: Fifth Element Was Love
     - type: youtube
-      video: jXeF1rMkpQw
+      id: jXeF1rMkpQw
       title: Trinity
     - type: youtube
-      video: T4FUPSGiy8Y
+      id: T4FUPSGiy8Y
       title: Get Up Neo
     - type: youtube
-      video: dSnosk4tWrg
+      id: dSnosk4tWrg
       title: Like Jane
   previous:
     name: the-photographer
@@ -4677,7 +4680,7 @@
           What many don&#39;t understand is that after tracing, you need to black out the
           opposite side of your trace to create a home made, Transfer Paper.</p>
     - type: youtube
-      video: JW5PYVbc6ho
+      id: JW5PYVbc6ho
       title: How to Transfer an Image Using Tracing Paper
     - type: text
       title: Tracing Paper
@@ -4705,7 +4708,7 @@
         href="https://www.amazon.com/graphite-paper/s?k=graphite+paper">Graphite
         Paper on Amazon</a>.</p>
     - type: youtube
-      video: fN-VtUBC7Ys
+      id: fN-VtUBC7Ys
       title: 'Getting Started: Three Ways to Transfer an Image to Watercolor Paper'
     - type: image
       url: lightbox.jpg
@@ -4722,7 +4725,7 @@
         href="https://www.amazon.com/s?k=Light+Box+Tracing&amp;ref=nb_sb_noss_2">Light
         Boxes Paper on Amazon</a>.</p>
     - type: youtube
-      video: cQGeOMCGh0U
+      id: cQGeOMCGh0U
       title: How to trace a picture.
     - type: image
       url: projector.jpg
@@ -4735,7 +4738,7 @@
         href="https://www.amazon.com/Digital-Projectors/s?k=Digital+Projectors">Digital
         Projectors on Amazon</a>.</p>
     - type: youtube
-      video: iGDfa4T9yTE
+      id: iGDfa4T9yTE
       title: Home Wall Painting Using projector - DIY
     - type: image
       url: projector-phone.jpg
@@ -4774,25 +4777,25 @@
       title: Mona Lisa Highlights
       text: <p>Reveal the brightest parts (highlights) in Mona Lisa.</p>
     - type: youtube
-      video: 7LXyClky6A8
+      id: 7LXyClky6A8
       title: How to use GIMP for beginners tutorial
     - type: youtube
-      video: IeABb8cwdUg
+      id: IeABb8cwdUg
       title: 'Learn GIMP in 30 minutes, Complete Tutorial for Beginners'
     - type: youtube
-      video: BB6LM9IYcco
+      id: BB6LM9IYcco
       title: Working With Filters - GIMP Tutorials
     - type: youtube
-      video: Rp4G1pXx-cs
+      id: Rp4G1pXx-cs
       title: 'Sfumato, Unione, Chiaroscuro, Cangiante'
     - type: youtube
-      video: 1183SVMyJVI
+      id: 1183SVMyJVI
       title: 'Painting the Portrait: The Grisaille Method in Oil Part 1/2'
     - type: youtube
-      video: vN6aZSSGKGs
+      id: vN6aZSSGKGs
       title: 'Painting the Portrait: The Grisaille Method in Oil Part 2/2'
     - type: youtube
-      video: JPar_nzAEL0
+      id: JPar_nzAEL0
       title: Grisaille Method with Jon deMartin
     - type: business
       url: bri.jpg
@@ -4811,7 +4814,7 @@
           about $50 per portrait. Throw in a bonus, record a time lapse video of the
           painting for advertising, portfolio, and internet points.</p>
     - type: youtube
-      video: Aqn363Z1f5A
+      id: Aqn363Z1f5A
       title: Pet portrait time-lapse.
     - type: quote
       author: Henri Matisse
@@ -4827,10 +4830,10 @@
           battery powered eraser and eraser shield, and head for the <a href="https://www.dia.org/">DIA</a>, or a
           Museum, or even a Coffee Shop.</p>
     - type: youtube
-      video: zHiaJMf7m9Y
+      id: zHiaJMf7m9Y
       title: Blending Stumps for Beginners
     - type: youtube
-      video: bluffx6sB04
+      id: bluffx6sB04
       title: What's an Eraser Shield?
   previous:
     name: the-filmmaker
@@ -4872,25 +4875,25 @@
       title: Paul Robertson
       text: '<p><a href="https://probertson.tumblr.com/">Website</a></p>'
     - type: youtube
-      video: LZZXJ3zCRDQ
+      id: LZZXJ3zCRDQ
       title: Indiana Jones and the Fate Of Atlantis (1992)
     - type: youtube
-      video: Xz3Aw5qLcOs
+      id: Xz3Aw5qLcOs
       title: Maniac Mansion Day of The Tentacle (1993)
     - type: youtube
-      video: pdU0Njkek5s
+      id: pdU0Njkek5s
       title: 'Sam & Max: Hit the Road (1993)'
     - type: youtube
-      video: wNTnRM77XuE
+      id: wNTnRM77XuE
       title: Flashback (1992)
     - type: youtube
-      video: utrxk5_PeEY
+      id: utrxk5_PeEY
       title: Another World (1991)
     - type: youtube
-      video: vEVR2FUB3ic
+      id: vEVR2FUB3ic
       title: Undertale (2015)
     - type: youtube
-      video: c1F6EsGGa4U
+      id: c1F6EsGGa4U
       title: eBoy and the perfection of pixels
     - type: business
       url: pixelart-product-1.jpg
@@ -4927,10 +4930,10 @@
         href="https://www.youtube.com/watch?v=AmldRs7P8wI&amp;list=PL9HVvEQXdWVY3_QkiBh-aWRfxKW7DJezG">Best
         Of Demoscene 2019 on YouTube</a></p>
     - type: youtube
-      video: 9dZj33gr-yw
+      id: 9dZj33gr-yw
       title: Commodore 64 Demoscene - February 2019
     - type: youtube
-      video: JZ6ZzJeWgpY
+      id: JZ6ZzJeWgpY
       title: Demoscene - fermi paradox - mercury
     - type: text
       title: Pixel Art
@@ -4953,10 +4956,10 @@
       url: fui5.png
       title: Fantasy User Interface
     - type: youtube
-      video: 6WrhZsttinA
+      id: 6WrhZsttinA
       title: 'TRON Legacy: Encom Tower'
     - type: youtube
-      video: dxIPcbmo1_U
+      id: dxIPcbmo1_U
       title: It's a unix system
     - type: image
       url: skeuomorphism.png
@@ -4994,10 +4997,10 @@
       url: dyesub3.jpg
       title: Product Ideas
     - type: youtube
-      video: E2OL19GbtbY
+      id: E2OL19GbtbY
       title: How To Design Sublimation T-shirts
     - type: youtube
-      video: o2xOymSeH6I
+      id: o2xOymSeH6I
       title: Sportswear Printing - All over Print - Cut - Sew ( basketball uniforms)
     - type: business
       url: dyesub0.jpg
@@ -5020,25 +5023,25 @@
   name: the-graffitist
   data:
     - type: youtube
-      video: ARZzKXPc6FM
+      id: ARZzKXPc6FM
       title: 'First Name Basis: Wyland'
     - type: youtube
-      video: oyyvQikuog4
+      id: oyyvQikuog4
       title: The 10-Year-Old Graffiti Artist Who’s Tagging Britain With Chickens
     - type: youtube
-      video: ekzjYZHs27E
+      id: ekzjYZHs27E
       title: Shredded!
     - type: youtube
-      video: mDdqq_6OpyU
+      id: mDdqq_6OpyU
       title: 3D Graffiti murals
     - type: youtube
-      video: McDbh87cp6g
+      id: McDbh87cp6g
       title: Graffiti Sketch wild style en 3D
     - type: youtube
-      video: dHg7twHeIrw
+      id: dHg7twHeIrw
       title: Pensil 2018 wildstyle
     - type: youtube
-      video: ptJp6gTTYFY
+      id: ptJp6gTTYFY
       title: Ed-Mun - Freestyle 3D
     - type: image
       url: sig-doke.jpg
@@ -5048,13 +5051,13 @@
         href="https://www.youtube.com/channel/UC9ntGcdOjckSSjeeM_YmDcg">Doke on
         YouTube</a></p>
     - type: youtube
-      video: a1WFwsPOHmg
+      id: a1WFwsPOHmg
       title: GRAFFITI WRITER vs POLICE
     - type: youtube
-      video: ofSvAqiv0ss
+      id: ofSvAqiv0ss
       title: 10 GRAFFITI Tips
     - type: youtube
-      video: v5tollaAXfU
+      id: v5tollaAXfU
       title: Tutorial - How to make Graffiti sketches - Step by step !
     - type: image
       url: sig-kiptoe.jpg
@@ -5064,13 +5067,13 @@
         href="https://www.youtube.com/channel/UCwcDy-AjZJ5T7DH9BWaOMZg">Kiptoe
         on YouTube</a></p>
     - type: youtube
-      video: _VpK2L47PwA
+      id: _VpK2L47PwA
       title: Three Saints
     - type: youtube
-      video: meIW0pv9izU
+      id: meIW0pv9izU
       title: MURAL x GRAFFITI (collab w/ DOKE)
     - type: youtube
-      video: DBqBH1wejbw
+      id: DBqBH1wejbw
       title: BEST OF KIPTOE 2019 & My 3 Goals for 2020
     - type: image
       url: sig-tank.jpg
@@ -5080,31 +5083,31 @@
         href="https://www.youtube.com/channel/UCs4A7OdtEHGU_Q_HMrmo06g">The Tank
         on YouTube</a></p>
     - type: youtube
-      video: lEq27AH5yRY
+      id: lEq27AH5yRY
       title: Chill Day Graffiti
     - type: youtube
-      video: 1B6O2lW7Zjo
+      id: 1B6O2lW7Zjo
       title: Freight Junkie Graffiti
     - type: text
       title: Art. Must. Speak. Wisdom.
       text: '<p>Don&#39;t be a menace.</p>'
     - type: youtube
-      video: n2UsOIJvx6Q
+      id: n2UsOIJvx6Q
       title: Beefs
     - type: youtube
-      video: _9JBW-cCNP0
+      id: _9JBW-cCNP0
       title: Police identify suspect in graffiti case
     - type: youtube
-      video: MB7wuCibXTo
+      id: MB7wuCibXTo
       title: Police searching for graffiti artists
     - type: youtube
-      video: A7lyE3qevrQ
+      id: A7lyE3qevrQ
       title: NAb Graffiti Vandals
     - type: text
       title: Art. Must. Speak. Wisdom.
       text: '<p>Don&#39;t be a wise menace.</p>'
     - type: youtube
-      video: RwK4NmQZe64
+      id: RwK4NmQZe64
       title: Red graffiti
   previous:
     name: the-designer
@@ -5116,7 +5119,7 @@
   name: the-hacker
   data:
     - type: youtube
-      video: W76o_iG7Y7g
+      id: W76o_iG7Y7g
       title: Kids hack their Dad's computer on her Raspberry Pi
     - type: text
       title: Raspberry Pi
@@ -5134,10 +5137,10 @@
             2</a>. Heads up, ashens is an odd British man that utters odd British
           phrases.</p>
     - type: youtube
-      video: sajBySPeYH0
+      id: sajBySPeYH0
       title: Raspberry Pi 4
     - type: youtube
-      video: 88WOo4DIElY
+      id: 88WOo4DIElY
       title: What's inside the Raspberry Pi 4 Desktop Kit?
     - type: image
       url: portable-monitor.jpg
@@ -5354,13 +5357,13 @@
           reminding us to <strong>never pause</strong> after uttering the words “I invented a new
           kind of science” - Oof!.</p>
     - type: youtube
-      video: 60P7717-XOQ
+      id: 60P7717-XOQ
       title: Computing a theory of everything
     - type: youtube
-      video: EF3oi9Ra7IU
+      id: EF3oi9Ra7IU
       title: Pentesting Android Applications
     - type: youtube
-      video: 3Kq1MIfTWCE
+      id: 3Kq1MIfTWCE
       title: Network Penetration Testing for Beginners
     - type: text
       title: White Hat Hackers
@@ -5371,7 +5374,7 @@
           lockers - day to day lives. They do not keep information secret, and help
           us keep our family, homes, and possessions safer and more secure.</p>
     - type: youtube
-      video: ozIKwGt38LQ
+      id: ozIKwGt38LQ
       title: Smarter Every Day on Vulnerabilities in Smart Devices
     - type: text
       title: Lock Picking Lawyer
@@ -5380,13 +5383,13 @@
         href="https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ/search?query=combination">Lock
         Picking Lawyer</a> has 1.14M subscribers (Dec, 2019).</p>
     - type: youtube
-      video: lod_LUp3ggc
+      id: lod_LUp3ggc
       title: My Wife vs. Ben & Jerry’s Ice Cream Lock
     - type: youtube
-      video: Fah-LJJaPWg
+      id: Fah-LJJaPWg
       title: Fortress Combination Padlock Decoded FAST and Bypassed
     - type: youtube
-      video: jeghGhVdt9s
+      id: jeghGhVdt9s
       title: Gallium vs. Titalium - Abus Padlock Meets a Gruesome End
   previous:
     name: the-graffitist
@@ -5408,13 +5411,13 @@
           the underlying Operating System (OS), and the front-facing User Interface
           (UI).</p>
     - type: youtube
-      video: tc4ROCJYbm0
+      id: tc4ROCJYbm0
       title: The UNIX Operating System
     - type: youtube
-      video: jowCUo_UGts
+      id: jowCUo_UGts
       title: Unix vs Linux
     - type: youtube
-      video: o8NPllzkFhE
+      id: o8NPllzkFhE
       title: 'The mind behind Linux: Linus Torvalds'
     - type: text
       title: UI is not OS
@@ -5434,7 +5437,7 @@
           <a href="https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop">REPL Shell</a>, I would describe the Commodore UI as an efficient early
           Code Editor.</p>
     - type: youtube
-      video: h3bDa5z_B1M
+      id: h3bDa5z_B1M
       title: Commodore 64 - Introduction to Programming - Level 1
     - type: image
       url: geos.gif
@@ -5456,10 +5459,10 @@
       title: Windows
       text: <p>And in 1985 Microsoft released Windows version 1.0</p>
     - type: youtube
-      video: ncCSmDAmcQY
+      id: ncCSmDAmcQY
       title: Visual The History of GUI
     - type: youtube
-      video: U1Oy4X5Ni8Y
+      id: U1Oy4X5Ni8Y
       title: The history of the graphic user interface
     - type: image
       url: aui.jpg
@@ -5482,7 +5485,7 @@
           software. Visit <a href="https://puri.sm/">https://puri.sm</a> for &quot;Laptops &amp; phones that protect the
           privacy of your family and the security of your business.&quot;</p>
     - type: youtube
-      video: s0nKGFOWgFA
+      id: s0nKGFOWgFA
       title: 'Librem5: Kings Cross'
     - type: text
       title: Finding Your Command Line
@@ -5492,10 +5495,10 @@
           it will not be as flexible as Mac, but it is still a good example of a
           Command Line Interface.</p>
     - type: youtube
-      video: uE9WgNr3OjM
+      id: uE9WgNr3OjM
       title: How to Open Windows Command Prompt in Windows 10
     - type: youtube
-      video: 5XgBd6rjuDQ
+      id: 5XgBd6rjuDQ
       title: How to run/use the Command Line on Mac
     - type: image
       url: pi.jpg
@@ -5511,10 +5514,10 @@
           show everyone that you mean business. Get two nice monitors as well (you
           don&#39;t have to get the 4K)</p>
     - type: youtube
-      video: UW3UxK4Tiqg
+      id: UW3UxK4Tiqg
       title: Raspberry Pi - Getting Started with Terminal
     - type: youtube
-      video: JoVQTPbD6UY
+      id: JoVQTPbD6UY
       title: Ken Thompson and Dennis Ritchie Explain UNIX (Bell Labs)
     - type: image
       url: tr.jpg
@@ -5544,7 +5547,7 @@
   name: the-guru
   data:
     - type: youtube
-      video: 4RPtJ9UyHS0
+      id: 4RPtJ9UyHS0
       title: Keyboards & Command Line Interfaces
     - type: text
       title: Crash Course Computer Science
@@ -5586,7 +5589,7 @@
           that manage files and directories, a group of commands that compress files,
           or download files across the internet.</p>
     - type: youtube
-      video: RuusmAGbnOo
+      id: RuusmAGbnOo
       title: Getting Around in the Unix Command Line Interface
     - type: link
       url: >-
@@ -5659,7 +5662,7 @@
           wait for the mail window to open and start sucking memory whilst inspecting
           its innards.</p>
     - type: youtube
-      video: KEkrWRHCDQU
+      id: KEkrWRHCDQU
       title: How To Hack Time
     - type: text
       title: Simplicity Lost
@@ -5707,7 +5710,7 @@
         number of
           Graphical Pipe Editors exists as well, Node-RED is a nice example.</p>
     - type: youtube
-      video: vYreeoCoQPI
+      id: vYreeoCoQPI
       title: Node-RED
     - type: text
       title: Recap and Summary
@@ -5879,45 +5882,45 @@
       url: 'https://en.wikipedia.org/wiki/Albert_Einstein'
       text: <p>Never memorize something that you can look up.</p>
     - type: youtube
-      video: PUv66718DII
+      id: PUv66718DII
       title: Bret Victor - Inventing on Principle
     - type: youtube
-      video: '-jRREn6ifEQ'
+      id: '-jRREn6ifEQ'
       title: >-
         The poetry of programming (teaching children about computers): Linda
         Liukas
     - type: youtube
-      video: ghqSw40pC5s
+      id: ghqSw40pC5s
       title: Changing the world with code by Emma Yang
     - type: youtube
-      video: Bwiln7v0fdc
+      id: Bwiln7v0fdc
       title: 'Karlie Kloss: Coding is a superpower'
     - type: youtube
-      video: m2Ux2PnJe6E
+      id: m2Ux2PnJe6E
       title: 'Making a Game: Bill Gates explains If statements.'
     - type: youtube
-      video: vYXQTrYPenQ
+      id: vYXQTrYPenQ
       title: Bill Gates remembers his early programming career
     - type: youtube
-      video: 6V6Gir1Dyfs
+      id: 6V6Gir1Dyfs
       title: 1991 Interview with Bill Gates
     - type: youtube
-      video: g4a7_HH9Wbg
+      id: g4a7_HH9Wbg
       title: What do programmers actually do?
     - type: youtube
-      video: kXpWLv2o7hs
+      id: kXpWLv2o7hs
       title: How I Learned to Code - and Got a Job at Airbnb!
     - type: youtube
-      video: LCls16Tv8UE
+      id: LCls16Tv8UE
       title: Learn to Code in 6 months
     - type: youtube
-      video: PkZNo7MFNFg
+      id: PkZNo7MFNFg
       title: Learn JavaScript - Full Course for Beginners
     - type: youtube
-      video: RLtyhwFtXQA
+      id: RLtyhwFtXQA
       title: Learn Node.js - Full Tutorial for Beginners
     - type: youtube
-      video: 0o2whtCJw8I
+      id: 0o2whtCJw8I
       title: Amy Palamountain on Backbone and Marionette
     - type: text
       title: JavaScript
@@ -5927,7 +5930,7 @@
             10,000 stars</a> shows 409 JavaScript based projects, the next one down is
           Python with 117.</p>
     - type: youtube
-      video: vhGiGqZ78Rs
+      id: vhGiGqZ78Rs
       title: Svelte Tutorial
     - type: text
       title: Svelte
@@ -5951,10 +5954,10 @@
         <p>They offer a fantastic live coding tutorial at
           <a href="https://svelte.dev/tutorial/basics">https://svelte.dev/tutorial/basics</a></p>
     - type: youtube
-      video: 7vhvnaWUZjE
+      id: 7vhvnaWUZjE
       title: Arduino vs. Raspberry Pi - Which is best?
     - type: youtube
-      video: nL34zDTPkcs
+      id: nL34zDTPkcs
       title: You can learn Arduino in 15 minutes.
   previous:
     name: the-guru
@@ -5966,10 +5969,10 @@
   name: the-web-developer
   data:
     - type: youtube
-      video: ASbijZRU2Uo
+      id: ASbijZRU2Uo
       title: How I Became a Web Developer in 3 Months
     - type: youtube
-      video: 6NzNs8FAudQ
+      id: 6NzNs8FAudQ
       title: 'Passion, Programming, and Pragmatism by Marcella Jewell'
     - type: text
       title: Great Battle
@@ -6171,7 +6174,7 @@
             Developers</a>. All they do is add more components, and keep up with the
           latest updates to the <a href="https://getbootstrap.com/">Bootstrap</a> code base.</p>
     - type: youtube
-      video: uj0kReMs-gc
+      id: uj0kReMs-gc
       title: A Software Developer's Secret to Life by Julia Menchavez
     - type: text
       title: Services Platform
@@ -6221,19 +6224,19 @@
       author: Carrie Anne
       text: <p>The Enigma was a tough cookie to crack</p>
     - type: youtube
-      video: jhXCTbFnK8o
+      id: jhXCTbFnK8o
       title: 'Cryptography: Crash Course Computer Science #33'
     - type: youtube
-      video: 1P8Xpxm76e8
+      id: 1P8Xpxm76e8
       title: Cryptography 101 - Substitution Ciphers
     - type: youtube
-      video: mUoQhXWTKE0
+      id: mUoQhXWTKE0
       title: How to use the Frequency Analysis Tool
     - type: youtube
-      video: sHsnH1u03e4
+      id: sHsnH1u03e4
       title: 'Cryptography: Transposition Cipher'
     - type: youtube
-      video: mO0oET8TT5E
+      id: mO0oET8TT5E
       title: Poles Escape With Secret of Enigma
     - type: image
       url: enigma-patent.png
@@ -6245,16 +6248,16 @@
         href="https://en.wikipedia.org/wiki/Biuro_Szyfr%C3%B3w">Polish Cipher
         Bureau</a></p>
     - type: youtube
-      video: cpRhZaQxnhw
+      id: cpRhZaQxnhw
       title: Polish cryptologists and breaking of the Enigma
     - type: youtube
-      video: G2_Q9FoD-oQ
+      id: G2_Q9FoD-oQ
       title: Enigma Machine - Numberphile
     - type: youtube
-      video: V4V2bpZlqx8
+      id: V4V2bpZlqx8
       title: Flaw in the Enigma Code - Numberphile
     - type: youtube
-      video: dG09jv3c1sE
+      id: dG09jv3c1sE
       title: Typex
     - type: text
       title: More on Wikipedia
@@ -6270,16 +6273,16 @@
 
         <p><a href="https://en.wikipedia.org/wiki/Typex">Typex</a></p>
     - type: youtube
-      video: Sy0sXa73PZA
+      id: Sy0sXa73PZA
       title: DES encryption by hand (simple low level example at a bit view)
     - type: youtube
-      video: O4xNJsjtN6E
+      id: O4xNJsjtN6E
       title: AES Explained (Advanced Encryption Standard) - Computerphile
     - type: youtube
-      video: pArLLJmgX10
+      id: pArLLJmgX10
       title: Symmetric and Asymmetric Encryption
     - type: youtube
-      video: AQDCe585Lnc
+      id: AQDCe585Lnc
       title: Asymmetric encryption - Simply explained
     - type: text
       title: Games
@@ -6290,10 +6293,10 @@
         <p><a href="https://cryptochallenge.io/">NSA CRYPTOCHALLENGE - Puzzle of
         the week</a></p>
     - type: youtube
-      video: j9xht4K-MBk
+      id: j9xht4K-MBk
       title: 'Google CTF: Beginner Quest: OCR IS COOL!'
     - type: youtube
-      video: fPJoNYgXHnI
+      id: fPJoNYgXHnI
       title: 'Kryptos: The CIA''s Unsolved Secret Code'
     - type: text
       title: Kryptos
@@ -6316,10 +6319,10 @@
       title: Kryptos Transcription
       text: "<p>EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJ YQTQUXQBQVYUVLLTREVJYQTMKYRDMFD\n  VFPJUDEEHZWETZYVGWHKKQETGFQJNCE GGWHKK?DQMCPFQZDQMMIAGPFXHQRLG\n  TIMVMZJANQLVKQEDAGDVFRPJUNGEUNA QZGZLECGYUXUEENJTBJLBQCRTBJDFHRR\n  YIZETKZEMVDUFKSJHKFWHKUWQLSZFTI HHDDDUVH?DWKBFUFPWNTDFIYCUQZERE\n  EVLDKFEZMOQQJLTTUGSYQPFEUNLAVIDX FLGGTEZ?FKZBSFDQVGOGIPUFXHHDRKF\n  FHQNTGPUAECNUVPDJMQCLQUMUNEDFQ ELZZVRRGKFFVOEEXBDMVPNFQXEZLGRE\n  DNQFMPNZGLFLPMRJQYALMGNUVPDXVKP DQUMEBEDMHDAFMJGZNUPLGEWJLLAETG </p>\n<p>\_ABCDEFGHIJKLMNOPQRSTUVWXYZABCD AKRYPTOSABCDEFGHIJLMNQUVWXZKRYP\n  BRYPTOSABCDEFGHIJLMNQUVWXZKRYPT CYPTOSABCDEFGHIJLMNQUVWXZKRYPTO\n  DPTOSABCDEFGHIJLMNQUVWXZKRYPTOS ETOSABCDEFGHIJLMNQUVWXZKRYPTOSA\n  FOSABCDEFGHIJLMNQUVWXZKRYPTOSAB GSABCDEFGHIJLMNQUVWXZKRYPTOSABC\n  HABCDEFGHIJLMNQUVWXZKRYPTOSABCD IBCDEFGHIJLMNQUVWXZKRYPTOSABCDE\n  JCDEFGHIJLMNQUVWXZKRYPTOSABCDEF KDEFGHIJLMNQUVWXZKRYPTOSABCDEFG\n  LEFGHIJLMNQUVWXZKRYPTOSABCDEFGH MFGHIJLMNQUVWXZKRYPTOSABCDEFGHI </p>\n<p>ENDYAHROHNLSRHEOCPTEOIBIDYSHNAIA CHTNREYULDSLLSLLNOHSNOSMRWXMNE\n  TPRNGATIHNRARPESLNNELEBLPIIACAE WMTWNDITEENRAHCTENEUDRETNHAEOE\n  TFOLSEDTIWENHAEIOYTEYQHEENCTAYCR EIFTBRSPAMHHEWENATAMATEGYEERLB\n  TEEFOASFIOTUETUAEOTOARMAEERTNRTI BSEDDNIAAHTTMSTEWPIEROAGRIEWFEB\n  AECTDDHILCEIHSITEGOEAOSDDRYDLORIT RKLMLEHAGTDHARDPNEOHMGFMFEUHE\n  ECDMRIPFEIMEHNLSSTTRTVDOHW?OBKR UOXOGHULBSOLIFBBWFLRVQQPRNGKSSO\n  TWTQSJQSSEKZZWATJKLUDIAWINFBNYP VTTMZFPKWGDKZXTJCDIGKUHUAUEKCAR </p>\n<p>NGHIJLMNQUVWXZKRYPTOSABCDEFGHIJL OHIJLMNQUVWXZKRYPTOSABCDEFGHIJL\n  PIJLMNQUVWXZKRYPTOSABCDEFGHIJLM QJLMNQUVWXZKRYPTOSABCDEFGHIJLMN\n  RLMNQUVWXZKRYPTOSABCDEFGHIJLMNQ SMNQUVWXZKRYPTOSABCDEFGHIJLMNQU\n  TNQUVWXZKRYPTOSABCDEFGHIJLMNQUV UQUVWXZKRYPTOSABCDEFGHIJLMNQUVW\n  VUVWXZKRYPTOSABCDEFGHIJLMNQUVWX WVWXZKRYPTOSABCDEFGHIJLMNQUVWXZ\n  XWXZKRYPTOSABCDEFGHIJLMNQUVWXZK YXZKRYPTOSABCDEFGHIJLMNQUVWXZKR\n  ZZKRYPTOSABCDEFGHIJLMNQUVWXZKRY \_ABCDEFGHIJKLMNOPQRSTUVWXYZABCD</p>"
     - type: youtube
-      video: r-76Smf2oMk
+      id: r-76Smf2oMk
       title: Ancient Codes and Hieroglyphs
     - type: youtube
-      video: nVVF8dgKC38
+      id: nVVF8dgKC38
       title: 'Keeping Secrets: Cryptography In A Connected World'
   previous:
     name: the-web-developer
@@ -6331,7 +6334,7 @@
   name: the-highschooler
   data:
     - type: youtube
-      video: Io3sdAAcZLw
+      id: Io3sdAAcZLw
       title: Elon Musk knocks the college experience
     - type: text
       title: 'Notes from an Imaginary High School: A Quick Reminder'
@@ -6347,7 +6350,7 @@
           for long enough to pass standardized testing, and the administration didn&#39;t
           have a problem with that.</p>
     - type: youtube
-      video: DzSnvxejenY
+      id: DzSnvxejenY
       title: De-Grading Education by Elizabeth Wissner-Gross
     - type: text
       title: Paved with Good Intentions
@@ -6363,7 +6366,7 @@
           shamed us by saying. &quot;Oh, just grow up, already! Because, you need to
           improve your grades.&quot;</p>
     - type: youtube
-      video: sxyKNMrhEvY
+      id: sxyKNMrhEvY
       title: The Surprising Truth About Learning in Schools by Will Richardson
     - type: text
       title: We Were Mislead
@@ -6397,7 +6400,7 @@
         makes for
           a heartless, cruel, shameful petty little student.</p>
     - type: youtube
-      video: GeSjkVFtb9k
+      id: GeSjkVFtb9k
       title: Nataly Buhr
     - type: image
       url: buhr1.png
@@ -6423,7 +6426,7 @@
         <p>Tracking is not that hard, a pencil or a Concept Mapping tool will
         do.</p>
     - type: youtube
-      video: 22YeW55POBs
+      id: 22YeW55POBs
       title: Concept Mapping with Cmap
     - type: text
       title: Teaching is Complex and Rewarding
@@ -6529,7 +6532,7 @@
         rejected
           fake education, fake tests, fantasy GPA, is evil.</p>
     - type: youtube
-      video: iG9CE55wbtY
+      id: iG9CE55wbtY
       title: Do schools kill creativity? by Sir Ken Robinson
     - type: text
       title: 'Toxic, Fractured, Hoop Jumping'
@@ -6542,7 +6545,7 @@
           Career threatening GPA; forces the student to abandon Authentic Education
           for curriculum-hoop jumping.</p>
     - type: youtube
-      video: xz-gVKwWNzs
+      id: xz-gVKwWNzs
       title: F**k Grades by Denise Dutton
     - type: text
       title: 'We Were All Geniuses, We Were Mislead'
@@ -6564,7 +6567,7 @@
           that mold of form that we were being pressed into, and everyone else
           already accepted, and blindly participated in.</p>
     - type: youtube
-      video: 9M4tdMsg3ts
+      id: 9M4tdMsg3ts
       title: Erica Goldson
     - type: text
       title: 'Trigonometry, Triceps and Triceratops'
@@ -6584,7 +6587,7 @@
           Triceratops, when what we really needed was help with finding investors to
           scale our little Breakfast Club business.</p>
     - type: youtube
-      video: 2Yt6raj-S1M
+      id: 2Yt6raj-S1M
       title: How School Makes Kids Less Intelligent by Eddy Zhong
     - type: text
       title: The Courageous & The Fallen
@@ -6601,7 +6604,7 @@
           difficult to cram and memorize, it might have been neurologically
           impossible.</p>
     - type: youtube
-      video: zxRTHq5uBbg
+      id: zxRTHq5uBbg
       title: 'Mad World, Our Club'
     - type: text
       title: Angelheaded Hipsters
@@ -6641,7 +6644,7 @@
           they would think to themselves &quot;I was correct, I always knew that one was a
           loser too.&quot;</p>
     - type: youtube
-      video: DQ1QUK8KLH0
+      id: DQ1QUK8KLH0
       title: The Club
     - type: text
       title: 'People tried to help, but they didn''t know how.'
@@ -6675,7 +6678,7 @@
         <p>The root cause was that we were not safe, and we were not
         learning.</p>
     - type: youtube
-      video: 8rmSldhnSDc
+      id: 8rmSldhnSDc
       title: Waiting For Superman
     - type: text
       title: 'We Set Ourselves Free, to Live Authentic, to Invent, to Triumph.'
@@ -6746,7 +6749,7 @@
   name: the-principal
   data:
     - type: youtube
-      video: qzALINIvYNQ
+      id: qzALINIvYNQ
       title: Why most students are getting the least out of school by Dan Cardinali
     - type: text
       title: Poverty Of Mind Comes From Lack Of Non Cognitive Skills
@@ -6814,7 +6817,7 @@
         or
           depression.</p>
     - type: youtube
-      video: AyogyD7vXbw
+      id: AyogyD7vXbw
       title: The Power of a Teacher by Adam Saenz
     - type: text
       title: A Place of Healing
@@ -6830,7 +6833,7 @@
           culture and bad ideas.</p>
         <p>Today school is a bad place. Just another broken promise.</p>
     - type: youtube
-      video: Io3sdAAcZLw
+      id: Io3sdAAcZLw
       title: Elon Musk knocks the college experience
     - type: quote
       author: Elon Musk
@@ -6901,7 +6904,7 @@
         Donna
           came to her rescue, that is so brave and so sweet.</p>
     - type: youtube
-      video: 0NPO3lEcPyU
+      id: 0NPO3lEcPyU
       title: CIS Alum Talitha Halley appears on MSNBC 5/5/15
     - type: text
       title: Non Cognitive Skills Must Come First
@@ -6925,7 +6928,7 @@
   name: the-teacher
   data:
     - type: youtube
-      video: DjxhenAHyGk
+      id: DjxhenAHyGk
       title: Why I Dropped Out of College
     - type: text
       title: Knowledge vs. College
@@ -6941,10 +6944,10 @@
       url: 'https://en.wikipedia.org/wiki/Abraham_Lincoln'
       text: <p>The best way to predict your future is to create it.</p>
     - type: youtube
-      video: Bg_Q7KYWG1g
+      id: Bg_Q7KYWG1g
       title: The Wisdom of a Third Grade Dropout
     - type: youtube
-      video: FFMz8JRg8Y8
+      id: FFMz8JRg8Y8
       title: Jaime Escalante
     - type: text
       title: Jaime Escalante
@@ -6953,16 +6956,16 @@
         href="https://www.youtube.com/watch?v=qtQQC23eseU">Stand and
             Deliver (1988)</a></p>
     - type: youtube
-      video: tlY0PkWxCW8
+      id: tlY0PkWxCW8
       title: 'Don''t Be Afraid to Fail Big, To Dream Big'
     - type: youtube
-      video: xFr0FKnaLDk
+      id: xFr0FKnaLDk
       title: Why it Pays to Be Hungry
     - type: youtube
-      video: Kb7_E12FFLw
+      id: Kb7_E12FFLw
       title: 5 Rules for Success
     - type: youtube
-      video: 8rmSldhnSDc
+      id: 8rmSldhnSDc
       title: Waiting For Superman
     - type: text
       title: Waiting For a Generation of Superheroes
@@ -6980,7 +6983,7 @@
         of
           the future.</p>
     - type: youtube
-      video: SFnMTHhKdkw
+      id: SFnMTHhKdkw
       title: Waiting For the Champions
     - type: text
       title: Waiting For the Champions
@@ -7011,7 +7014,7 @@
           education. The individual must become a businessperson, just as the student
           must become her own teacher.</p>
     - type: youtube
-      video: _4JtyLKDjXk
+      id: _4JtyLKDjXk
       title: What is Y Combinator?
     - type: text
       title: Limitless
@@ -7052,7 +7055,7 @@
           torrent of Superheros under the banner of Unrelenting Pursuit of Excellence
           and Love of Wisdom.</p>
     - type: youtube
-      video: CpaFX6Ei0nU
+      id: CpaFX6Ei0nU
       title: My path out of poverty by Lashon Amado
     - type: text
       title: Each a Superhero
@@ -7076,7 +7079,7 @@
           broken when you were little. Stand up in the classroom and rage against
           mediocrity or lies. Take a lesson from Erica Goldson.</p>
     - type: youtube
-      video: 9M4tdMsg3ts
+      id: 9M4tdMsg3ts
       title: Erica Goldson Valedictorian Speech
     - type: text
       title: 'Mothers. Rage, rage against the dying of the light.'
@@ -7121,7 +7124,7 @@
           Failure is nonsense, just another excuse not to try. There is no such thing
           as failure. Every step forward adds to success.</p>
     - type: youtube
-      video: TMrtLsQbaok
+      id: TMrtLsQbaok
       title: Greta Thunberg
   previous:
     name: the-principal
@@ -7133,28 +7136,28 @@
   name: the-student
   data:
     - type: youtube
-      video: LwIyy1Fi-4Q
+      id: LwIyy1Fi-4Q
       title: Astra Taylor on the Unschooled Life
     - type: youtube
-      video: 23jVmKXk2I0
+      id: 23jVmKXk2I0
       title: Skipping School by Lua Martin Wells
     - type: youtube
-      video: h11u3vtcpaY
+      id: h11u3vtcpaY
       title: Hackschooling makes me happy by Logan LaPlante
     - type: youtube
-      video: T0hQNR5fDKw
+      id: T0hQNR5fDKw
       title: Going natural in education by Lora Smothers
     - type: youtube
-      video: OEqOgtmvkkE
+      id: OEqOgtmvkkE
       title: Why school sucks by Jad Khoury
     - type: youtube
-      video: 2Yt6raj-S1M
+      id: 2Yt6raj-S1M
       title: How School Makes Kids Less Intelligent by Eddy Zhong
     - type: youtube
-      video: woVtj8GH678
+      id: woVtj8GH678
       title: What standardized tests don't measure by Nikki Adeli
     - type: youtube
-      video: nVj3qizoWS8
+      id: nVj3qizoWS8
       title: Connecting Nature and Education by Bandile Phiri
     - type: quote
       author: Albert Einstein
@@ -7163,16 +7166,16 @@
         <p>Insanity is doing the same thing over and over again and expecting
           different results.</p>
     - type: youtube
-      video: StdwWpbokcw
+      id: StdwWpbokcw
       title: Inventing 101 by Chase Lewis
     - type: youtube
-      video: lFDG7w_jAFk
+      id: lFDG7w_jAFk
       title: The problem with inventions by Ann Makosinski
     - type: youtube
-      video: iw4FzMDhU6M
+      id: iw4FzMDhU6M
       title: 'Ann Makosinski: From Tinkering To Invention | Forbes'
     - type: youtube
-      video: sxyKNMrhEvY
+      id: sxyKNMrhEvY
       title: The Surprising Truth About Learning in Schools by Will Richardson
     - type: quote
       author: Will Richardson
@@ -7214,7 +7217,7 @@
         <p>Much more complex, and much greater, and far nobler challenges lie
         ahead.</p>
     - type: youtube
-      video: vvlozhvQPJw
+      id: vvlozhvQPJw
       title: 'We can end poverty, but this is why we haven''t by Teva Sienicki'
   previous:
     name: the-teacher
@@ -7274,7 +7277,7 @@
           forks and joins that will call to others to add to your story, to keep it
           alive across centuries even as English evolves.</p>
     - type: youtube
-      video: JgOi1YEU7TU
+      id: JgOi1YEU7TU
       title: Story of Beowulf
     - type: text
       title: Land of Monsters?
@@ -7343,7 +7346,7 @@
       title: Damn kids. They're all alike.
       text: <p>These words are still as mighty as the day I found them.</p>
     - type: youtube
-      video: 0tEnnvZbYek
+      id: 0tEnnvZbYek
       title: The Conscience of a Hacker read by The Mentor
     - type: text
       title: You are a Genius.
@@ -7365,7 +7368,7 @@
         complexity of
           information and tools needed to manipulate it.</p>
     - type: youtube
-      video: B_tjKYvEziI
+      id: B_tjKYvEziI
       title: >-
         Neuro Genesis: You can grow new brain cells. Here's how by Sandrine
         Thuret
@@ -7404,7 +7407,7 @@
         <p>Let me give you a hint on you how Frameworks like these emerge evolve
           across centuries.</p>
     - type: youtube
-      video: OGeIzmu9DSA
+      id: OGeIzmu9DSA
       title: A History of English Letters
     - type: text
       title: Good Frameworks come with Easy On-boarding
@@ -7429,7 +7432,7 @@
           progression, that expands standard mathematical on-boarding and helps the
           reader to a greater initial spectrum of Mathematics.</p>
     - type: youtube
-      video: vtQzuwnyW6E
+      id: vtQzuwnyW6E
       title: What if Schools Taught Us How to Learn by Jonathan Levi
     - type: text
       title: Memorizing πr²
@@ -7458,7 +7461,7 @@
           predisposed for abstract mechanics or Mathematics, are being forced, not
           to, learn Mathematics, or be punished.</p>
     - type: youtube
-      video: YokKp3pwVFc
+      id: YokKp3pwVFc
       title: 'Area of a circle, how to get the formula.'
     - type: image
       url: circle.jpg
@@ -7491,12 +7494,12 @@
         and
           distortion of sound waves, to other things...</p>
     - type: youtube
-      video: TgH9KXEQ0YU
+      id: TgH9KXEQ0YU
       title: >-
         Simple Relativity - Understanding Einstein's Special Theory of
         Relativity
     - type: youtube
-      video: hW7DW9NIO9M
+      id: hW7DW9NIO9M
       title: Einstein's Proof of E=mc2
     - type: text
       title: Math
@@ -7535,7 +7538,7 @@
           when transitioning from dead paper to colorful screens, games,
           visualizations.</p>
     - type: youtube
-      video: BGeT8IyKd2M
+      id: BGeT8IyKd2M
       title: Karlie Kloss explains how to use math with the artist in Code Studio
     - type: text
       title: Easy as π
@@ -7561,7 +7564,7 @@
         what these classes are like. What real education looks like, where
         teachers strive to be worthy of teaching their students.</p>
     - type: youtube
-      video: 36GT2zI8lVA
+      id: 36GT2zI8lVA
       title: 'Frameworks: Why.'
     - type: text
       title: Genius.
@@ -7582,7 +7585,7 @@
         lairs, do
           the talking - with each new generation, doubly so.</p>
     - type: youtube
-      video: XGK84Poeynk
+      id: XGK84Poeynk
       title: We are all connected.
     - type: text
       title: Accept The Responsibility
@@ -7597,7 +7600,7 @@
         <p>But remember, all problems created by Humans, can be solved by Humans
         too.</p>
     - type: youtube
-      video: QQskB2JJql4
+      id: QQskB2JJql4
       title: 'Those That Can''t Do, Teach.'
     - type: text
       title: Memorization is Over
@@ -7640,7 +7643,7 @@
 
         <p>Real knowledge will always beat what you memorized and forgot.</p>
     - type: youtube
-      video: mQPEZdBTOeE
+      id: mQPEZdBTOeE
       title: Genius by Mark Diaz
     - type: text
       title: 'The Future, The World'
@@ -7729,7 +7732,7 @@
           are two separate things.</p>
         <p>It will make you tired.</p>
     - type: youtube
-      video: TMrtLsQbaok
+      id: TMrtLsQbaok
       title: How dare you? You have stolen my dreams and my childhood.
     - type: text
       title: Bad News
@@ -7772,7 +7775,7 @@
         happy is
           not a healthy life.</p>
     - type: youtube
-      video: TLs4MGTTXRU
+      id: TLs4MGTTXRU
       title: Faith of the Heart
     - type: text
       title: 'Article One: Inherent Dignity, Nobility.'
@@ -7854,22 +7857,22 @@
         Institute for Human &amp; Machine Cognition
           (IHMC) for a free download.</p>
     - type: youtube
-      video: 5nTuScU70As
+      id: 5nTuScU70As
       title: Want to learn better? Start mind mapping
     - type: youtube
-      video: u5Y4pIsXTV0
+      id: u5Y4pIsXTV0
       title: How to Mind Map
     - type: youtube
-      video: 9Pzz6rDMd8c
+      id: 9Pzz6rDMd8c
       title: Mind Map vs Concept Map
     - type: youtube
-      video: 22YeW55POBs
+      id: 22YeW55POBs
       title: Concept Mapping with Cmap
     - type: youtube
-      video: o2Js_9-ek7o
+      id: o2Js_9-ek7o
       title: Concept Maps 1
     - type: youtube
-      video: TXU9UKajpVM
+      id: TXU9UKajpVM
       title: Concept Maps 2
     - type: text
       title: Behavior-Driven Development (BDD)
@@ -7885,7 +7888,7 @@
           need doors, as you can post a BDD Test Issue on <a href="https://www.bountysource.com/">Bounty Source</a> or
           similar.</p>
     - type: youtube
-      video: VS6EEUVZGLE
+      id: VS6EEUVZGLE
       title: What is Behavior Driven Development?
     - type: text
       title: Learning Online and Tool Examples
@@ -7910,7 +7913,7 @@
   name: the-visionary
   data:
     - type: youtube
-      video: 2B-XwPjn9YY
+      id: 2B-XwPjn9YY
       title: 'The Lost 1984 Video: young Steve Jobs introduces the Macintosh'
     - type: text
       title: Extrapolations and Dreams Of The Future
@@ -7928,33 +7931,33 @@
     - type: subtitle
       title: Ray Kurzweil
     - type: youtube
-      video: 1uIzS1uCOcE
+      id: 1uIzS1uCOcE
       title: 'Ray Kurzweil: The Coming Singularity'
     - type: subtitle
       title: Aubrey de Grey
     - type: youtube
-      video: 8iYpxRXlboQ
+      id: 8iYpxRXlboQ
       title: A roadmap to end aging by Aubrey de Grey
     - type: subtitle
       title: Craig Venter
     - type: youtube
-      video: QHIocNOHd7A
+      id: QHIocNOHd7A
       title: Craig Venter unveils synthetic life
     - type: youtube
-      video: EcUD_6dKJ7k
+      id: EcUD_6dKJ7k
       title: Richard Dawkins and Craig Venter Munich
     - type: subtitle
       title: Sam Harris
     - type: youtube
-      video: 8nt3edWLgIg
+      id: 8nt3edWLgIg
       title: Can we build AI without losing control over it? by Sam Harris
     - type: subtitle
       title: Astrobiology
     - type: youtube
-      video: IZaWP5PyGKc
+      id: IZaWP5PyGKc
       title: XQM/NASA Astrobiology Introduction
     - type: youtube
-      video: Lp7BL-UI0Rw
+      id: Lp7BL-UI0Rw
       title: 'How NASA is answering the question: Are we alone?'
   previous:
     name: the-courageous
@@ -7985,10 +7988,10 @@
         href="https://www.youtube.com/playlist?list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17">Startup
         School Videos</a></p>
     - type: youtube
-      video: _4JtyLKDjXk
+      id: _4JtyLKDjXk
       title: What is Y Combinator?
     - type: youtube
-      video: ZoqgAy3h4OM
+      id: ZoqgAy3h4OM
       title: >-
         How and Why to Start A Startup - Sam Altman & Dustin Moskovitz (44
         minute lecture)
@@ -8001,21 +8004,21 @@
           they are waiting for. It includes Enterprise Software, Financial Services,
           Programming Tools, and Computer Security to name a few.</p>
     - type: youtube
-      video: waYiVrIGQ_0
+      id: waYiVrIGQ_0
       title: YC Partner AMA at the Female Founders Conference
     - type: youtube
-      video: GHoTciAH8Uo
+      id: GHoTciAH8Uo
       title: Fundraising Advice from Female Founders
     - type: youtube
-      video: ZAkzs4rgjOo
+      id: ZAkzs4rgjOo
       title: The Most Important Decision is Getting Started – Laura Behrens Wu
     - type: youtube
-      video: gmA-BOIVKQU
+      id: gmA-BOIVKQU
       title: >-
         Mariya Nurislamova, Founder of Scentbird at the Female Founders
         Conference
     - type: youtube
-      video: ex-fXyRJTU8
+      id: ex-fXyRJTU8
       title: >-
         Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at
         the Female Founders Conference
@@ -8026,16 +8029,16 @@
         href="https://www.youtube.com/channel/UClebMzrpRNTWVfZXw2jfsSw">Techstars
         on YouTube</a></p>
     - type: youtube
-      video: S-3YgWroCdo
+      id: S-3YgWroCdo
       title: What is Techstars?
     - type: youtube
-      video: Apr2B7Ix0zs
+      id: Apr2B7Ix0zs
       title: What Techstars Gave Me - Founder Stories
     - type: youtube
-      video: NE6jxVk7G-8
+      id: NE6jxVk7G-8
       title: 'Mary Haskett, Founder of Blink Identity'
     - type: youtube
-      video: oRjHsum2ImI
+      id: oRjHsum2ImI
       title: 'Sky Kelley, Founder of Avisare'
     - type: quote
       author: Sun Tzu

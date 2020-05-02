@@ -32,24 +32,27 @@ const toc = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directo
 //   fs.writeFileSync( path.resolve(path.join(options.directory, name, options.index)), data);
 // }
 
-
-for(let name of toc){
-  const sections = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, name, options.index))));
-  const videos = sections.filter(o=>o.type === 'youtube');
-  for(let video of videos){
-
-    const type = video.type;
-    const id = video.video;
-    const title = video.title;
-
-    delete video.type;
-    delete video.video;
-    delete video.title;
-
-    video.type = type;
-    video.id = id;
-    video.title = title;
-
-    console.log(video);
-  }
-}
+// RENAME youtube.video to youtube.id
+// for(let name of toc){
+//   const sections = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, name, options.index))));
+//   const videos = sections.filter(o=>o.type === 'youtube');
+//   for(let video of videos){
+//
+//     const type = video.type;
+//     const id = video.video;
+//     const title = video.title;
+//
+//     delete video.type;
+//     delete video.video;
+//     delete video.title;
+//
+//     video.type = type;
+//     video.id = id;
+//     video.title = title;
+//
+//     console.log(video);
+//   }
+//   let data = yaml.dump( sections, {lineWidth: 10000} );
+//   data = data.replace(/- type: /g, '\n- type: ').trim();
+//   fs.writeFileSync( path.resolve(path.join(options.directory, name, options.index)), data);
+// }

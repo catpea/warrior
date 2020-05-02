@@ -1,5 +1,5 @@
 - type: youtube
-  video: 4RPtJ9UyHS0
+  id: 4RPtJ9UyHS0
   title: Keyboards & Command Line Interfaces
 
 - type: text
@@ -19,7 +19,7 @@
   text: text-commands-can-do-anything.md
 
 - type: youtube
-  video: RuusmAGbnOo
+  id: RuusmAGbnOo
   title: Getting Around in the Unix Command Line Interface
 
 - type: link
@@ -43,7 +43,7 @@
   text: text-commands-are-friends.md
 
 - type: youtube
-  video: KEkrWRHCDQU
+  id: KEkrWRHCDQU
   title: How To Hack Time
 
 - type: text
@@ -63,7 +63,7 @@
   text: text-user-interface.md
 
 - type: youtube
-  video: vYreeoCoQPI
+  id: vYreeoCoQPI
   title: Node-RED
 
 - type: text

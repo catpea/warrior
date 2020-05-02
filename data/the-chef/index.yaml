@@ -1,9 +1,9 @@
 - type: youtube
-  video: PAQEOYYhp78
+  id: PAQEOYYhp78
   title: Yuki Chizui of Nadeshiko Sushi
 
 - type: youtube
-  video: nXfyJzMOwgw
+  id: nXfyJzMOwgw
   title: A candid view of Nadeshiko
 
 - type: text
@@ -11,7 +11,7 @@
   text: text-nadeshiko-sushi.md
 
 - type: youtube
-  video: dH2m2HZpHQM
+  id: dH2m2HZpHQM
   title: Yumi Chiba
 
 - type: text
@@ -19,7 +19,7 @@
   text: text-korea.md
 
 - type: youtube
-  video: HLfJlK4xPYo
+  id: HLfJlK4xPYo
   title: 'Self Expression Through Gimbap: The Sushi Chef with Toyoung'
 
 - type: text
@@ -27,7 +27,7 @@
   text: text-america.md
 
 - type: youtube
-  video: IX3RLvS_J8o
+  id: IX3RLvS_J8o
   title: How Master Sushi Chef Kate Koo Charted Her Own Sushi Path
 
 - type: text
@@ -35,7 +35,7 @@
   text: text-america-part-2.md
 
 - type: youtube
-  video: C-HX9Y1X61Q
+  id: C-HX9Y1X61Q
   title: Meet Nakaba Miyazaki
 
 - type: text
@@ -43,11 +43,11 @@
   text: text-america-part-3.md
 
 - type: youtube
-  video: qGT0qvLh3to
+  id: qGT0qvLh3to
   title: 25-year-old Oona Tempest opens NYC Sushi Speakeasy
 
 - type: youtube
-  video: QZZZ5wxUf3U
+  id: QZZZ5wxUf3U
   title: Oona Tempest and her Sensei Toshio Oguma
 
 - type: text
@@ -55,7 +55,7 @@
   text: text-tradition.md
 
 - type: youtube
-  video: 3nQ6c7WIudE
+  id: 3nQ6c7WIudE
   title: The Japanese Tradition - Sushi
 
 - type: text

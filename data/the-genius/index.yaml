@@ -11,7 +11,7 @@
   text: text-frameworks-are-superpowers-and-your-powers-will-call-to-you.md
 
 - type: youtube
-  video: JgOi1YEU7TU
+  id: JgOi1YEU7TU
   title: Story of Beowulf
 
 - type: text
@@ -43,7 +43,7 @@
   text: text-damn-kids-theyre-all-alike-part-2.md
 
 - type: youtube
-  video: 0tEnnvZbYek
+  id: 0tEnnvZbYek
   title: The Conscience of a Hacker read by The Mentor
 
 - type: text
@@ -51,7 +51,7 @@
   text: text-you-are-a-genius-part-2.md
 
 - type: youtube
-  video: B_tjKYvEziI
+  id: B_tjKYvEziI
   title: 'Neuro Genesis: You can grow new brain cells. Here''s how by Sandrine Thuret'
 
 - type: text
@@ -63,7 +63,7 @@
   text: text-english-is-complex.md
 
 - type: youtube
-  video: OGeIzmu9DSA
+  id: OGeIzmu9DSA
   title: A History of English Letters
 
 - type: text
@@ -71,7 +71,7 @@
   text: text-good-frameworks-come-with-easy-on-boarding.md
 
 - type: youtube
-  video: vtQzuwnyW6E
+  id: vtQzuwnyW6E
   title: What if Schools Taught Us How to Learn by Jonathan Levi
 
 - type: text
@@ -79,7 +79,7 @@
   text: text-memorizing-πr.md
 
 - type: youtube
-  video: YokKp3pwVFc
+  id: YokKp3pwVFc
   title: 'Area of a circle, how to get the formula.'
 
 - type: image
@@ -96,11 +96,11 @@
   text: text-genius-is-our-right.md
 
 - type: youtube
-  video: TgH9KXEQ0YU
+  id: TgH9KXEQ0YU
   title: Simple Relativity - Understanding Einstein's Special Theory of Relativity
 
 - type: youtube
-  video: hW7DW9NIO9M
+  id: hW7DW9NIO9M
   title: Einstein's Proof of E=mc2
 
 - type: text
@@ -108,7 +108,7 @@
   text: text-math.md
 
 - type: youtube
-  video: BGeT8IyKd2M
+  id: BGeT8IyKd2M
   title: Karlie Kloss explains how to use math with the artist in Code Studio
 
 - type: text
@@ -116,7 +116,7 @@
   text: text-easy-as-π.md
 
 - type: youtube
-  video: 36GT2zI8lVA
+  id: 36GT2zI8lVA
   title: 'Frameworks: Why.'
 
 - type: text
@@ -124,7 +124,7 @@
   text: text-genius.md
 
 - type: youtube
-  video: XGK84Poeynk
+  id: XGK84Poeynk
   title: We are all connected.
 
 - type: text
@@ -132,7 +132,7 @@
   text: text-accept-the-responsibility.md
 
 - type: youtube
-  video: QQskB2JJql4
+  id: QQskB2JJql4
   title: 'Those That Can''t Do, Teach.'
 
 - type: text
@@ -140,7 +140,7 @@
   text: text-memorization-is-over.md
 
 - type: youtube
-  video: mQPEZdBTOeE
+  id: mQPEZdBTOeE
   title: Genius by Mark Diaz
 
 - type: text

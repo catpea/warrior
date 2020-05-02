@@ -12,7 +12,7 @@
   text: text-because-the-battle-is-not-for-you.md
 
 - type: youtube
-  video: TMrtLsQbaok
+  id: TMrtLsQbaok
   title: How dare you? You have stolen my dreams and my childhood.
 
 - type: text
@@ -29,7 +29,7 @@
   text: text-the-good-news.md
 
 - type: youtube
-  video: TLs4MGTTXRU
+  id: TLs4MGTTXRU
   title: Faith of the Heart
 
 - type: text
@@ -71,27 +71,27 @@
   text: text-mind-mapping.md
 
 - type: youtube
-  video: 5nTuScU70As
+  id: 5nTuScU70As
   title: Want to learn better? Start mind mapping
 
 - type: youtube
-  video: u5Y4pIsXTV0
+  id: u5Y4pIsXTV0
   title: How to Mind Map
 
 - type: youtube
-  video: 9Pzz6rDMd8c
+  id: 9Pzz6rDMd8c
   title: Mind Map vs Concept Map
 
 - type: youtube
-  video: 22YeW55POBs
+  id: 22YeW55POBs
   title: Concept Mapping with Cmap
 
 - type: youtube
-  video: o2Js_9-ek7o
+  id: o2Js_9-ek7o
   title: Concept Maps 1
 
 - type: youtube
-  video: TXU9UKajpVM
+  id: TXU9UKajpVM
   title: Concept Maps 2
 
 - type: text
@@ -99,7 +99,7 @@
   text: text-behavior-driven-development-bdd.md
 
 - type: youtube
-  video: VS6EEUVZGLE
+  id: VS6EEUVZGLE
   title: What is Behavior Driven Development?
 
 - type: text

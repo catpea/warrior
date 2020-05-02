@@ -1,9 +1,9 @@
 - type: youtube
-  video: k6_QUhUPrF4
+  id: k6_QUhUPrF4
   title: All The Way by Charles Bukowski
 
 - type: youtube
-  video: T2LUbk_7uKg
+  id: T2LUbk_7uKg
   title: 'If - Rudyard Kipling, Dennis Hopper on Johnny Cash Show'
 
 - type: text
@@ -16,11 +16,11 @@
   text: quote-walt-whitman.md
 
 - type: youtube
-  video: LVxrzOLst64
+  id: LVxrzOLst64
   title: Walt Whitman
 
 - type: youtube
-  video: qIDkjoyAAy8
+  id: qIDkjoyAAy8
   title: 'Favorite Poem Project: Kosmos by Ms. Browne'
 
 - type: quote
@@ -29,11 +29,11 @@
   text: quote-walt-whitman-part-2.md
 
 - type: youtube
-  video: gQU3EphIpMY
+  id: gQU3EphIpMY
   title: YAWP - Dead Poets Society
 
 - type: youtube
-  video: aS1esgRV4Rc
+  id: aS1esgRV4Rc
   title: Why do we read and write poetry?
 
 - type: text
@@ -46,47 +46,47 @@
   text: image-the-owl-and-the-pussycat.md
 
 - type: youtube
-  video: WAfPKNSvesI
+  id: WAfPKNSvesI
   title: The Owl and the Pussycat
 
 - type: youtube
-  video: KUaQgRiJukA
+  id: KUaQgRiJukA
   title: 'The Road Not Taken, by Robert Frost'
 
 - type: youtube
-  video: JqOqo50LSZ0
+  id: JqOqo50LSZ0
   title: And Still I Rise - Maya Angelou
 
 - type: youtube
-  video: krbX-9ugbI4
+  id: krbX-9ugbI4
   title: Ozymandias by Percy Bysshe Shelley
 
 - type: youtube
-  video: TjozQHEqXNs
+  id: TjozQHEqXNs
   title: Stopping by Woods on a Snowy Evening by Robert Frost
 
 - type: youtube
-  video: rxg7OFFtWQE
+  id: rxg7OFFtWQE
   title: A Dream Within A Dream by Edgar Allan Poe
 
 - type: youtube
-  video: DYNjUllUcFY
+  id: DYNjUllUcFY
   title: 'Marianne Verville: Fire and Ice by Robert Frost'
 
 - type: youtube
-  video: oRQIISF4prA
+  id: oRQIISF4prA
   title: 2014 National Champion Anita Norman (TN) recites The Layers by Stanley Kunitz
 
 - type: youtube
-  video: bmVGBcXqtFY
+  id: bmVGBcXqtFY
   title: 'Poetry Out Loud 2012 NJ State Finals: Brianne Barker performs Snow Day'
 
 - type: youtube
-  video: w8HdOHrc3OQ
+  id: w8HdOHrc3OQ
   title: The Great Dictator Speech - Charlie Chaplin
 
 - type: youtube
-  video: EWPFmdAWRZ0
+  id: EWPFmdAWRZ0
   title: Carl Sagan
 
 - type: text
@@ -94,21 +94,21 @@
   text: text-science-progress.md
 
 - type: youtube
-  video: a7q_vACVwq0
+  id: a7q_vACVwq0
   title: Morgan Freeman recites 'Invictus' from memory on Charlie Rose (about Nelson Mandela)
 
 - type: youtube
-  video: sR2v0Pfmzzc
+  id: sR2v0Pfmzzc
   title: Invictus by William Ernest Henley (1875)
 
 - type: youtube
-  video: j64SctPKmqk
+  id: j64SctPKmqk
   title: 'O Captain, my Captain! - Thank you to Robin Williams'
 
 - type: youtube
-  video: bLiXjaPqSyY
+  id: bLiXjaPqSyY
   title: 'The Simpsons - Edgar Allan Poe: The Raven'
 
 - type: youtube
-  video: AfsnHVaScjg
+  id: AfsnHVaScjg
   title: Ravens can talk!

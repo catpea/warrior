@@ -8,7 +8,7 @@
   text: text-michigan-rocks.md
 
 - type: youtube
-  video: XRJBk3Ue7uY
+  id: XRJBk3Ue7uY
   title: Rock Hunting the Beach at Rockport State Park
 
 - type: text
@@ -16,7 +16,7 @@
   text: text-relic-recoverist.md
 
 - type: youtube
-  video: npixJs1UcUo
+  id: npixJs1UcUo
   title: Metal Detecting for Coins
 
 - type: text
@@ -24,7 +24,7 @@
   text: text-mudlarking-with-nicola-white.md
 
 - type: youtube
-  video: Byhsobb6S2A
+  id: Byhsobb6S2A
   title: Mudlarking The River Thames - THREE mystery finds
 
 - type: text
@@ -32,7 +32,7 @@
   text: text-aquachigger.md
 
 - type: youtube
-  video: JDC3SUK3axM
+  id: JDC3SUK3axM
   title: OMG! I Found A Huge Silver Treasure Hoard Metal Detecting!
 
 - type: text
@@ -40,5 +40,5 @@
   text: text-ww-2-history-hunter.md
 
 - type: youtube
-  video: KDPnWgVGuhc
+  id: KDPnWgVGuhc
   title: Forgotten bunker found and opened

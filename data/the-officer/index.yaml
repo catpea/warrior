@@ -11,7 +11,7 @@
   text: text-modern-day.md
 
 - type: youtube
-  video: 85dhw7nulb4
+  id: 85dhw7nulb4
   title: West Point Pillow Fight Turns Violent
 
 - type: text
@@ -19,7 +19,7 @@
   text: text-modern-day-part-2.md
 
 - type: youtube
-  video: EEFMVIfl2UY
+  id: EEFMVIfl2UY
   title: 'IF, Rudyard Kipling''s poem, recited by Sir Michael Caine'
 
 - type: poem

@@ -23,31 +23,31 @@
   text: image-paul-robertson.md
 
 - type: youtube
-  video: LZZXJ3zCRDQ
+  id: LZZXJ3zCRDQ
   title: Indiana Jones and the Fate Of Atlantis (1992)
 
 - type: youtube
-  video: Xz3Aw5qLcOs
+  id: Xz3Aw5qLcOs
   title: Maniac Mansion Day of The Tentacle (1993)
 
 - type: youtube
-  video: pdU0Njkek5s
+  id: pdU0Njkek5s
   title: 'Sam & Max: Hit the Road (1993)'
 
 - type: youtube
-  video: wNTnRM77XuE
+  id: wNTnRM77XuE
   title: Flashback (1992)
 
 - type: youtube
-  video: utrxk5_PeEY
+  id: utrxk5_PeEY
   title: Another World (1991)
 
 - type: youtube
-  video: vEVR2FUB3ic
+  id: vEVR2FUB3ic
   title: Undertale (2015)
 
 - type: youtube
-  video: c1F6EsGGa4U
+  id: c1F6EsGGa4U
   title: eBoy and the perfection of pixels
 
 - type: business
@@ -76,11 +76,11 @@
   text: image-demoscene.md
 
 - type: youtube
-  video: 9dZj33gr-yw
+  id: 9dZj33gr-yw
   title: Commodore 64 Demoscene - February 2019
 
 - type: youtube
-  video: JZ6ZzJeWgpY
+  id: JZ6ZzJeWgpY
   title: Demoscene - fermi paradox - mercury
 
 - type: text
@@ -108,11 +108,11 @@
   title: Fantasy User Interface
 
 - type: youtube
-  video: 6WrhZsttinA
+  id: 6WrhZsttinA
   title: 'TRON Legacy: Encom Tower'
 
 - type: youtube
-  video: dxIPcbmo1_U
+  id: dxIPcbmo1_U
   title: It's a unix system
 
 - type: image
@@ -143,11 +143,11 @@
   title: Product Ideas
 
 - type: youtube
-  video: E2OL19GbtbY
+  id: E2OL19GbtbY
   title: How To Design Sublimation T-shirts
 
 - type: youtube
-  video: o2xOymSeH6I
+  id: o2xOymSeH6I
   title: Sportswear Printing - All over Print - Cut - Sew ( basketball uniforms)
 
 - type: business

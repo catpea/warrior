@@ -8,7 +8,7 @@
   text: text-music-language.md
 
 - type: youtube
-  video: SYSxOj6W7IQ
+  id: SYSxOj6W7IQ
   title: Percussion Ensemble
 
 - type: text
@@ -16,7 +16,7 @@
   text: text-sounds-on-a-timeline.md
 
 - type: youtube
-  video: uGrN6PR44PQ
+  id: uGrN6PR44PQ
   title: Guitar Hero - Simpsons Theme Song
 
 - type: text
@@ -24,7 +24,7 @@
   text: text-melody-song-structure.md
 
 - type: youtube
-  video: T5wTqFteQVY
+  id: T5wTqFteQVY
   title: Musical Form
 
 - type: text
@@ -32,7 +32,7 @@
   text: text-the-drum-kit.md
 
 - type: youtube
-  video: tm2BgO1VaRY
+  id: tm2BgO1VaRY
   title: 'Play With Your Rhythm: Drum Patterns'
 
 - type: image
@@ -41,11 +41,11 @@
   text: image-the-drum-kit-part-2.md
 
 - type: youtube
-  video: EY62kFvlbFg
+  id: EY62kFvlbFg
   title: PROFESSIONAL Drum Programming Made EASY in LMMS!
 
 - type: youtube
-  video: AvxevjgKBfo
+  id: AvxevjgKBfo
   title: How To Write A Melody On The Piano (For Beginners)
 
 - type: text
@@ -65,7 +65,7 @@
   text: text-never-fear-because-you-are-a-genius.md
 
 - type: youtube
-  video: g1uLrHq9TDg
+  id: g1uLrHq9TDg
   title: Chopin - Revolutionary Etude (Op. 10 No. 12)
 
 - type: text

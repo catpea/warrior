@@ -7,7 +7,7 @@
   text: text-the-big-three.md
 
 - type: youtube
-  video: L5n3V0VYGNg
+  id: L5n3V0VYGNg
   title: Dress for Confidence and Joy
 
 - type: text
@@ -54,7 +54,7 @@
   text: text-playlist.md
 
 - type: youtube
-  video: T2ezIjoqkrY
+  id: T2ezIjoqkrY
   title: Labrinth - Mount Everest - Choreography by Erica Klein
 
 - type: text
@@ -62,11 +62,11 @@
   text: text-vocal-ideas.md
 
 - type: youtube
-  video: iFZsunzjDXU
+  id: iFZsunzjDXU
   title: Lilac Wine
 
 - type: youtube
-  video: wOwblaKmyVw
+  id: wOwblaKmyVw
   title: Jolene
 
 - type: text
@@ -74,7 +74,7 @@
   text: text-meowmix-vol-1-627.md
 
 - type: youtube
-  video: _tc4K5Zujqw
+  id: _tc4K5Zujqw
   title: Power of Now
 
 - type: text

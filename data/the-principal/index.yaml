@@ -1,5 +1,5 @@
 - type: youtube
-  video: qzALINIvYNQ
+  id: qzALINIvYNQ
   title: Why most students are getting the least out of school by Dan Cardinali
 
 - type: text
@@ -15,7 +15,7 @@
   text: text-the-battle-against-poverty-of-mind.md
 
 - type: youtube
-  video: AyogyD7vXbw
+  id: AyogyD7vXbw
   title: The Power of a Teacher by Adam Saenz
 
 - type: text
@@ -23,7 +23,7 @@
   text: text-a-place-of-healing.md
 
 - type: youtube
-  video: Io3sdAAcZLw
+  id: Io3sdAAcZLw
   title: Elon Musk knocks the college experience
 
 - type: quote
@@ -51,7 +51,7 @@
   text: text-every-developmental-opportunity.md
 
 - type: youtube
-  video: 0NPO3lEcPyU
+  id: 0NPO3lEcPyU
   title: CIS Alum Talitha Halley appears on MSNBC 5/5/15
 
 - type: text

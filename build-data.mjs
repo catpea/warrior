@@ -30,16 +30,7 @@ const response = [];
 const toc = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, options.index))));
 
 
-//Download Images
-for(let name of toc){
-  const sections = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, name, options.index))));
-  const videos = sections.filter(o=>o.type === 'youtube');
-  for(let youtube of videos){
-    console.log(youtube.video);
-  }
-}
 
-return;
 
 let index = 0;
 for(let name of toc){

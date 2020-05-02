@@ -1,5 +1,5 @@
 - type: youtube
-  video: 68jy3_ABvRo
+  id: 68jy3_ABvRo
   title: 'Nordhouse Dunes: Backpacking in a Snowstorm on Lake Michigan'
 
 - type: text
@@ -19,7 +19,7 @@
   text: text-endless-horizons-part-2.md
 
 - type: youtube
-  video: Mwx3RvDWvDM
+  id: Mwx3RvDWvDM
   title: Eddie Vedder - Guaranteed
 
 - type: text
@@ -27,7 +27,7 @@
   text: text-courage.md
 
 - type: youtube
-  video: DJXM8HjyVSo
+  id: DJXM8HjyVSo
   title: Carine McCandless
 
 - type: quote

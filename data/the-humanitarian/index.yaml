@@ -1,5 +1,5 @@
 - type: youtube
-  video: kxR8XZOeV-s
+  id: kxR8XZOeV-s
   title: Peace Corps
 
 - type: text
@@ -7,7 +7,7 @@
   text: text-live-deliberately.md
 
 - type: youtube
-  video: ONiWmzrmfuY
+  id: ONiWmzrmfuY
   title: Murray Gell-Mann On Emergence
 
 - type: text
@@ -15,11 +15,11 @@
   text: text-growing-up.md
 
 - type: youtube
-  video: hTlrSYbCbHE
+  id: hTlrSYbCbHE
   title: Universal Declaration of Human Rights
 
 - type: youtube
-  video: 5RR4VXNX3jA
+  id: 5RR4VXNX3jA
   title: Universal Declaration of Human Rights
 
 - type: text
@@ -27,7 +27,7 @@
   text: text-new-voices.md
 
 - type: youtube
-  video: z2tmRpm4iK8
+  id: z2tmRpm4iK8
   title: Mad world - the voice of china
 
 - type: text
@@ -35,7 +35,7 @@
   text: text-never-silenced.md
 
 - type: youtube
-  video: SQ6H-Mz6hgw
+  id: SQ6H-Mz6hgw
   title: Michelle Alexander
 
 - type: quote
@@ -47,7 +47,7 @@
   text: text-michelle-alexander-part-2.md
 
 - type: youtube
-  video: c2tOp7OxyQ8
+  id: c2tOp7OxyQ8
   title: 'Bryan Stevenson: We need to talk about an injustice.'
 
 - type: quote
@@ -59,7 +59,7 @@
   text: text-bryan-stevenson-part-2.md
 
 - type: youtube
-  video: 7O7BMa9XGXE
+  id: 7O7BMa9XGXE
   title: 'How America''s public schools keep kids in poverty: Kandice Sumner'
 
 - type: text
@@ -71,7 +71,7 @@
   text: text-heroes-lost.md
 
 - type: youtube
-  video: d-7o9xYp7eE
+  id: d-7o9xYp7eE
   title: Don't Talk to the Police
 
 - type: text
@@ -83,7 +83,7 @@
   text: text-poverty-of-mind.md
 
 - type: youtube
-  video: lnuoHywbaR8
+  id: lnuoHywbaR8
   title: How I spent 32 years in prison by George Martorano
 
 - type: text

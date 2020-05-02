@@ -1,29 +1,29 @@
 - type: youtube
-  video: mxSNuIx4m5k
+  id: mxSNuIx4m5k
   title: How to Bend a Spoon with Your Mind by Michael Shermer
 
 - type: youtube
-  video: bKwmrB5lWfg
+  id: bKwmrB5lWfg
   title: Introduction to Spoon Bending
 
 - type: youtube
-  video: jobYTQTgeUE
+  id: jobYTQTgeUE
   title: Why do we believe things that aren't true? by Philip Fernbach
 
 - type: youtube
-  video: 8T_jwq9ph8k
+  id: 8T_jwq9ph8k
   title: Why people believe weird things by Michael Shermer
 
 - type: youtube
-  video: R6ijdDtOLLo
+  id: R6ijdDtOLLo
   title: The Believing Brain - Presented by Dr Michael Shermer
 
 - type: youtube
-  video: c0Z7KeNCi7g
+  id: c0Z7KeNCi7g
   title: 'James Randi: Homeopathy, Quackery and Fraud'
 
 - type: youtube
-  video: tQHBHRV6eBQ
+  id: tQHBHRV6eBQ
   title: James Randi Lecture at NASA 1/12
 
 - type: link
@@ -31,23 +31,23 @@
   title: Full Playlist
 
 - type: youtube
-  video: IKHhqTG9hsc
+  id: IKHhqTG9hsc
   title: An Evening With James Randi
 
 - type: youtube
-  video: f2izaEqs0pE
+  id: f2izaEqs0pE
   title: Surviving the Quacks
 
 - type: youtube
-  video: joADD7jWqa4
+  id: joADD7jWqa4
   title: Amazing James Randi
 
 - type: youtube
-  video: uq5MtA33OHk
+  id: uq5MtA33OHk
   title: The Best of James Randi
 
 - type: youtube
-  video: OOG65rSM5fA
+  id: OOG65rSM5fA
   title: The art of cognitive blindspots by Kyle Eschen
 
 - type: link

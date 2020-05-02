@@ -8,7 +8,7 @@
   text: text-tracing-paper.md
 
 - type: youtube
-  video: JW5PYVbc6ho
+  id: JW5PYVbc6ho
   title: How to Transfer an Image Using Tracing Paper
 
 - type: text
@@ -21,7 +21,7 @@
   text: image-graphite-paper.md
 
 - type: youtube
-  video: fN-VtUBC7Ys
+  id: fN-VtUBC7Ys
   title: 'Getting Started: Three Ways to Transfer an Image to Watercolor Paper'
 
 - type: image
@@ -30,7 +30,7 @@
   text: image-light-box.md
 
 - type: youtube
-  video: cQGeOMCGh0U
+  id: cQGeOMCGh0U
   title: How to trace a picture.
 
 - type: image
@@ -39,7 +39,7 @@
   text: image-digital-projector.md
 
 - type: youtube
-  video: iGDfa4T9yTE
+  id: iGDfa4T9yTE
   title: Home Wall Painting Using projector - DIY
 
 - type: image
@@ -68,31 +68,31 @@
   text: image-mona-lisa-highlights.md
 
 - type: youtube
-  video: 7LXyClky6A8
+  id: 7LXyClky6A8
   title: How to use GIMP for beginners tutorial
 
 - type: youtube
-  video: IeABb8cwdUg
+  id: IeABb8cwdUg
   title: 'Learn GIMP in 30 minutes, Complete Tutorial for Beginners'
 
 - type: youtube
-  video: BB6LM9IYcco
+  id: BB6LM9IYcco
   title: Working With Filters - GIMP Tutorials
 
 - type: youtube
-  video: Rp4G1pXx-cs
+  id: Rp4G1pXx-cs
   title: 'Sfumato, Unione, Chiaroscuro, Cangiante'
 
 - type: youtube
-  video: 1183SVMyJVI
+  id: 1183SVMyJVI
   title: 'Painting the Portrait: The Grisaille Method in Oil Part 1/2'
 
 - type: youtube
-  video: vN6aZSSGKGs
+  id: vN6aZSSGKGs
   title: 'Painting the Portrait: The Grisaille Method in Oil Part 2/2'
 
 - type: youtube
-  video: JPar_nzAEL0
+  id: JPar_nzAEL0
   title: Grisaille Method with Jon deMartin
 
 - type: business
@@ -101,7 +101,7 @@
   text: business-brianna-schretlen-and-her-fur-kids.md
 
 - type: youtube
-  video: Aqn363Z1f5A
+  id: Aqn363Z1f5A
   title: Pet portrait time-lapse.
 
 - type: quote
@@ -114,9 +114,9 @@
   text: text-please-never-draw-alone.md
 
 - type: youtube
-  video: zHiaJMf7m9Y
+  id: zHiaJMf7m9Y
   title: Blending Stumps for Beginners
 
 - type: youtube
-  video: bluffx6sB04
+  id: bluffx6sB04
   title: What's an Eraser Shield?

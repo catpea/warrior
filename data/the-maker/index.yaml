@@ -1,9 +1,9 @@
 - type: youtube
-  video: b694exl_oZo
+  id: b694exl_oZo
   title: 'My creations, a new form of life by Theo Jansen'
 
 - type: youtube
-  video: KsqlnGMzMD4
+  id: KsqlnGMzMD4
   title: Strandbeest Evolution 2017
 
 - type: text
@@ -11,11 +11,11 @@
   text: text-colin-furze.md
 
 - type: youtube
-  video: soxxPyaAT1k
+  id: soxxPyaAT1k
   title: Homemade Hoverbike
 
 - type: youtube
-  video: yox9CKYh7EU
+  id: yox9CKYh7EU
   title: Underground Beach Hut Build
 
 - type: text
@@ -23,11 +23,11 @@
   text: text-jimmy-diresta.md
 
 - type: youtube
-  video: M6v2trBW4es
+  id: M6v2trBW4es
   title: Brass Hammer
 
 - type: youtube
-  video: gwAId02ssYs
+  id: gwAId02ssYs
   title: Stained Glass Window
 
 - type: text
@@ -35,11 +35,11 @@
   text: text-clickspring.md
 
 - type: youtube
-  video: ML4tw_UzqZE
+  id: ML4tw_UzqZE
   title: 'The Antikythera Mechanism Episode 1 - Greeks, Clocks and Rockets.'
 
 - type: youtube
-  video: B8Y146v8HxE
+  id: B8Y146v8HxE
   title: How To Make A Clock In The Home Machine Shop - Part 1
 
 - type: text
@@ -47,11 +47,11 @@
   text: text-andre-will-do-it.md
 
 - type: youtube
-  video: py6WEp6pKGE
+  id: py6WEp6pKGE
   title: Rusty Remington Clone
 
 - type: youtube
-  video: 86356fRR1VY
+  id: 86356fRR1VY
   title: Abandoned 1886 Colt Lightning
 
 - type: text
@@ -59,7 +59,7 @@
   text: text-black-beard-projects.md
 
 - type: youtube
-  video: 2RVyE1wlH7E
+  id: 2RVyE1wlH7E
   title: Knifemaker Restore An Italian Chef's Knife Worth 1€
 
 - type: text
@@ -67,7 +67,7 @@
   text: text-this-old-tony.md
 
 - type: youtube
-  video: sjn6qeFzQCA
+  id: sjn6qeFzQCA
   title: CNC Sword
 
 - type: text
@@ -75,7 +75,7 @@
   text: text-alumi-tube.md
 
 - type: youtube
-  video: 5g2DxY1Rjag
+  id: 5g2DxY1Rjag
   title: Casting REAL BRONZE THANOS Infinity Gauntlet
 
 - type: text
@@ -83,7 +83,7 @@
   text: text-my-ford-boy.md
 
 - type: youtube
-  video: 5GSHXC6fwq4
+  id: 5GSHXC6fwq4
   title: Casting and Machining a Toothed Pulley
 
 - type: business
@@ -107,7 +107,7 @@
   text: business-wallets.md
 
 - type: youtube
-  video: rt6TqD000-s
+  id: rt6TqD000-s
   title: 'Dremel Laser Cutter Demo ($6,499.00 - $8,499.00)'
 
 - type: business
@@ -116,7 +116,7 @@
   text: business-laser-cut-leather.md
 
 - type: youtube
-  video: sOmhgoD7Z9U
+  id: sOmhgoD7Z9U
   title: Dremel DigiLab Laser Cutter Luggage Tag Project
 
 - type: business
@@ -129,11 +129,11 @@
   text: text-cnc-plasma-cutter-demo.md
 
 - type: youtube
-  video: HxX75eYf598
+  id: HxX75eYf598
   title: 'Building Stormbreaker: Part 1'
 
 - type: youtube
-  video: 449lCaylrIo
+  id: 449lCaylrIo
   title: 'BRING ME THANOS! Building Stormbreaker: Part 2'
 
 - type: text
@@ -141,7 +141,7 @@
   text: text-cnc-plasma-cutter-demo-man-at-arms.md
 
 - type: youtube
-  video: vef62MzS6as
+  id: vef62MzS6as
   title: 'Optimus Prime''s Sword from Transformers: The Last Knight '
 
 - type: text
@@ -153,13 +153,13 @@
   text: text-waterjet-cutter-demo.md
 
 - type: youtube
-  video: BVL3Y1uJY68
+  id: BVL3Y1uJY68
   title: cut in half - 1911 Airsoft pistol
 
 - type: youtube
-  video: o9ZDmsF3mpI
+  id: o9ZDmsF3mpI
   title: '55lb Kettlebell VS. Waterjet at 60,000 PSI'
 
 - type: youtube
-  video: jn9Od4oP8D0
+  id: jn9Od4oP8D0
   title: 'Water Trapped in Quartz Rock vs 60,000 PSI Waterjet - Enhydro Agate'

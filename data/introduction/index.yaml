@@ -4,11 +4,11 @@
   text: quote-sun-tzu.md
 
 - type: youtube
-  video: GEPhLqwKo6g
+  id: GEPhLqwKo6g
   title: Think Different
 
 - type: youtube
-  video: LlC2OdnhIiQ
+  id: LlC2OdnhIiQ
   title: Viktor Frankl
 
 - type: quote
@@ -21,7 +21,7 @@
   text: text-choose-life.md
 
 - type: youtube
-  video: FyNR_LgiWEc
+  id: FyNR_LgiWEc
   title: Kosmos
 
 - type: poem

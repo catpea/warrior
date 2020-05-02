@@ -1,5 +1,5 @@
 - type: youtube
-  video: Io3sdAAcZLw
+  id: Io3sdAAcZLw
   title: Elon Musk knocks the college experience
 
 - type: text
@@ -7,7 +7,7 @@
   text: text-notes-from-an-imaginary-high-school-a-quick-reminder.md
 
 - type: youtube
-  video: DzSnvxejenY
+  id: DzSnvxejenY
   title: De-Grading Education by Elizabeth Wissner-Gross
 
 - type: text
@@ -15,7 +15,7 @@
   text: text-paved-with-good-intentions.md
 
 - type: youtube
-  video: sxyKNMrhEvY
+  id: sxyKNMrhEvY
   title: The Surprising Truth About Learning in Schools by Will Richardson
 
 - type: text
@@ -27,7 +27,7 @@
   text: text-twists-turns.md
 
 - type: youtube
-  video: GeSjkVFtb9k
+  id: GeSjkVFtb9k
   title: Nataly Buhr
 
 - type: image
@@ -42,7 +42,7 @@
   text: text-teaching-is-complex.md
 
 - type: youtube
-  video: 22YeW55POBs
+  id: 22YeW55POBs
   title: Concept Mapping with Cmap
 
 - type: text
@@ -62,7 +62,7 @@
   text: text-how-evil.md
 
 - type: youtube
-  video: iG9CE55wbtY
+  id: iG9CE55wbtY
   title: Do schools kill creativity? by Sir Ken Robinson
 
 - type: text
@@ -70,7 +70,7 @@
   text: text-toxic-fractured-hoop-jumping.md
 
 - type: youtube
-  video: xz-gVKwWNzs
+  id: xz-gVKwWNzs
   title: F**k Grades by Denise Dutton
 
 - type: text
@@ -78,7 +78,7 @@
   text: text-we-were-all-geniuses-we-were-mislead.md
 
 - type: youtube
-  video: 9M4tdMsg3ts
+  id: 9M4tdMsg3ts
   title: Erica Goldson
 
 - type: text
@@ -86,7 +86,7 @@
   text: text-trigonometry-triceps-and-triceratops.md
 
 - type: youtube
-  video: 2Yt6raj-S1M
+  id: 2Yt6raj-S1M
   title: How School Makes Kids Less Intelligent by Eddy Zhong
 
 - type: text
@@ -94,7 +94,7 @@
   text: text-the-courageous-the-fallen.md
 
 - type: youtube
-  video: zxRTHq5uBbg
+  id: zxRTHq5uBbg
   title: 'Mad World, Our Club'
 
 - type: text
@@ -111,7 +111,7 @@
   text: text-we-didnt-forget-about-the-fallen.md
 
 - type: youtube
-  video: DQ1QUK8KLH0
+  id: DQ1QUK8KLH0
   title: The Club
 
 - type: text
@@ -119,7 +119,7 @@
   text: text-people-tried-to-help-but-they-didnt-know-how.md
 
 - type: youtube
-  video: 8rmSldhnSDc
+  id: 8rmSldhnSDc
   title: Waiting For Superman
 
 - type: text

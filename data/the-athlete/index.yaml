@@ -1,5 +1,5 @@
 - type: youtube
-  video: paOvrIKH2Os
+  id: paOvrIKH2Os
   title: Winners
 
 - type: poem
@@ -11,22 +11,22 @@
   title: Bodybuilding at age 93
 
 - type: youtube
-  video: rGgoCm1hofM
+  id: rGgoCm1hofM
   title: 'Why bodybuilding at age 93 is a great idea: Charles Eugster'
 
 - type: subtitle
   title: The Appalachian Trail
 
 - type: youtube
-  video: hPSvdKTEZug
+  id: hPSvdKTEZug
   title: Appalachian Trail
 
 - type: youtube
-  video: hT8ZMp8Ec7U
+  id: hT8ZMp8Ec7U
   title: Appalachian Trail
 
 - type: youtube
-  video: cOF2LIAp9bw
+  id: cOF2LIAp9bw
   title: A Walk in the Woods Trailer
 
 - type: text
@@ -37,51 +37,51 @@
   title: Intro to Ultramarathons
 
 - type: youtube
-  video: sQsaI8wfr8k
+  id: sQsaI8wfr8k
   title: 'From couch to ultra marathon: Bill Hoffman'
 
 - type: subtitle
   title: Western States (100 miles)
 
 - type: youtube
-  video: kYgcTJBLwsU
+  id: kYgcTJBLwsU
   title: Western States
 
 - type: youtube
-  video: Wqmu8glgE8U
+  id: Wqmu8glgE8U
   title: Western States 70
 
 - type: youtube
-  video: mmX1MGhR3WU
+  id: mmX1MGhR3WU
   title: Western States The SISU Journey
 
 - type: subtitle
   title: Ironman
 
 - type: youtube
-  video: g_utqeQALVE
+  id: g_utqeQALVE
   title: Paula Newby Frazier is Hitting The Wall 1995 Ironman Hawaii
 
 - type: youtube
-  video: MTn1v5TGK_w
+  id: MTn1v5TGK_w
   title: The Crawl - Sian Welch & Wendy Ingraham
 
 - type: youtube
-  video: oGW5APQVg-c
+  id: oGW5APQVg-c
   title: Elle's journey to good health
 
 - type: subtitle
   title: Ultraman Triathlon (320 miles)
 
 - type: youtube
-  video: P5pm-FyovNk
+  id: P5pm-FyovNk
   title: Lessons the Ultraman Triathlon taught me about life
 
 - type: subtitle
   title: Endurance
 
 - type: youtube
-  video: DJrdV0ZQWxQ
+  id: DJrdV0ZQWxQ
   title: The Eternal Suffering of the Endurance Mind by Colin Robertson
 
 - type: text
@@ -89,5 +89,5 @@
   text: text-heart-health.md
 
 - type: youtube
-  video: vs3WTVFChtw
+  id: vs3WTVFChtw
   title: Rock Running - Real Olympics have few spectators.

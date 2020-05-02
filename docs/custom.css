@@ -6,14 +6,10 @@ section {
   margin-bottom: 5rem;
 }
 
-.lg {
-  font-size: 3rem;
-}
-
+ 
 
 
 section h2 {
-  width: 55%;
   line-height: 3rem;
 }
 
@@ -21,7 +17,7 @@ section img {
   border-radius: .5rem;
   box-shadow: 0 0 64px 10px rgba(0,0,0,.15);
   filter: grayscale(80%);
-  transition: all 1s;
+  transition: filter 1s ease-in-out;
 
   border: 1px solid #bbb;
 
