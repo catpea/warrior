@@ -4060,6 +4060,54 @@
     name: the-dj
     title: The Dj
   next:
+    name: the-ukulele-player
+    title: The Ukulele Player
+- title: The Ukulele Player
+  name: the-ukulele-player
+  data:
+    - type: youtube
+      title: What's Up by Ariel McCleary
+      video: 6MzodhzPsVo
+    - type: youtube
+      title: Havana by Ariel McCleary
+      video: S9cI-Z6i_aQ
+    - type: youtube
+      title: HOW TO PLAY "Havana" ON UKULELE! by Ariel McCleary
+      video: TxTYcHHpQQo
+    - type: youtube
+      title: Don't Worry Be Happy by Ariel McCleary
+      video: 5lqk2SnKpZ8
+    - type: youtube
+      title: My ukulele progress after 1 year!
+      video: 8cUA1MaY3H4
+    - type: youtube
+      title: EASY You Are My Sunshine Tutorial for Ukulele (with Free PDF)
+      video: GlrOzQzASRA
+    - type: youtube
+      title: Manok Na Pula by Selena Marie
+      video: HeP9uWi0z68
+    - type: youtube
+      title: Ocean Eyes by Nix
+      video: DdsPyQi1El4
+    - type: youtube
+      title: La Vie En Rose by Reneé Dominique
+      video: lPCxm9kwO98
+    - type: youtube
+      title: Here Comes The Sun by Dodie
+      video: gnJCmbEDk-8
+    - type: youtube
+      title: Ukulele Recommendations
+      video: KiHjxdVPSVI
+    - type: youtube
+      title: I wrote a song using only hate comments!
+      video: _90jqATJJaI
+    - type: youtube
+      title: Different Types of Ukulele Players
+      video: ILBWV9AFKDU
+  previous:
+    name: the-musician
+    title: The Musician
+  next:
     name: the-composer
     title: The Composer
 - title: The Composer
@@ -4252,8 +4300,8 @@
         <p>Let no one play you like a piano key.</p>
         <p>Be the change, you hope to see.</p>
   previous:
-    name: the-musician
-    title: The Musician
+    name: the-ukulele-player
+    title: The Ukulele Player
   next:
     name: the-poet
     title: The Poet
