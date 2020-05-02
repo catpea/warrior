@@ -22,9 +22,24 @@ const options = {
   changelog: 'changelog.html',
 }
 
+
+async function main(){
+
 // Parse Data
 const response = [];
 const toc = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, options.index))));
+
+
+//Download Images
+for(let name of toc){
+  const sections = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, name, options.index))));
+  const videos = sections.filter(o=>o.type === 'youtube');
+  for(let youtube of videos){
+    console.log(youtube.video);
+  }
+}
+
+return;
 
 let index = 0;
 for(let name of toc){
@@ -79,3 +94,7 @@ fs.writeFileSync( path.resolve(path.join(options.destination, options.yaml)), ya
 // Create Changelog
 const changelog = pretty(marked(fs.readFileSync(path.resolve(options.log)).toString()).replace(/\n/g,' '), {ocd:true});
 fs.writeFileSync( path.resolve(path.join(options.destination, options.changelog)), changelog);
+
+}
+
+main();
