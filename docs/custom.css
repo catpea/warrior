@@ -5,10 +5,7 @@ body {
 section {
   margin-bottom: 5rem;
 }
-
  
-
-
 section h2 {
   line-height: 3rem;
 }
@@ -18,24 +15,13 @@ section img {
   box-shadow: 0 0 64px 10px rgba(0,0,0,.15);
   filter: grayscale(80%);
   transition: filter 1s ease-in-out;
-
   border: 1px solid #bbb;
-
   padding: 5px;
-
 }
 
 section img:hover {
   filter: grayscale(0);
 }
-
-
-
-
-
-
-
-
 
 
 .toc {
