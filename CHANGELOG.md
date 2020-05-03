@@ -1,6 +1,11 @@
 ## Changelog
 
-### May 1st 2020, 23:32:00 pm
+### May 3rd 2020, 5:38:00 pm
+I am upgrading the theme, there were come problems with [Edward Tufte CSS] so I switched to [Pico CSS] for now. As a result the book can read your browser settings, and if your operating system is in dark-mode the website will appear dark as well. There is also a persistent manual override, where you can flip your mode and it will stay that way.
+
+It is not a very tidy program I just patched Pico code, I need to rewrite that from ground up. Beyond this I need to work on the Changelong, I mangled the timestamps, I wasn't sure what to do with them, and now I have some programming to do. A lot of things are tricky here because I want this book to be archivable by robots, like [The Way Back Machine]. That means, no server junk, no external dependencies, no odd java-script (basically the website needs to work with JavaScript disabled.)
+
+### May 1st 2020, 11:32:00 pm
 Created a new chapter [The Ukulele Player].
 
 ### April 30th 2020, 8:26:00 pm
@@ -439,6 +444,8 @@ Restructuring youtube links in [The Programmer] section.
 [Readwise]: https://readwise.io/
 [Svelte]: https://svelte.dev/
 [Edward Tufte CSS]: https://edwardtufte.github.io/tufte-css/
+[Pico CSS]: https://picocss.com/
+[The Way Back Machine]: https://archive.org/web/
 [Torbjörn Åhman]: https://www.youtube.com/channel/UCSFaYYQzNMLo2U6rSNLpghg
 [Introduction]: introduction.html
 [The Philosopher]: the-philosopher.html

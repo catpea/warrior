@@ -1,7 +1,6 @@
 Who includes diversity and is Nature,
 
 Who is the amplitude of the earth, and the coarseness and sexuality of
-
 the earth, and the great charity of the earth and the equilibrium also,
 
 Who has not look’d forth from the windows the eyes for nothing, or whose
