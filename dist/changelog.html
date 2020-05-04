@@ -3,6 +3,17 @@
   <hgroup>
     <h3>May 4th 2020, 5:40:52 pm EDT</h3>
   </hgroup>
+  <p>The <a href="https://github.com/catpea/warrior/blob/master/templates/pico/files/js/theme-switch.js">Theme Switcher Code</a> is now more readable, it uses jQuery on the home page for button logic.</p>
+  <p>The chapters use standard albeit modern JavaScript. There is no way to switch themes from within chapters, the user has to go to the Table of Contents page, scroll to the bottom click Color Mode, force/reset theme, and then go back to reading.</p>
+  <p>If I find that I won&#39;t be adding anymore jQuery things, then I&#39;ll rewrite button logic and time-ago in plain JavaScript and removing the jQuery dependency.</p>
+  <p>It is of some note that only the default presentation of the Warrior Book requires jQuery, other presentations, written in different frameworks use their own ways of dealing with themes.</p>
+  <p>Furthermore, when JavaScript is disabled there are not broken buttons/features, the Color Mode in the Table of Contents pare will not display. This is crafted for archival purposes, that&#39;s what this while website is about, allowing Internet Archives to crawl the book, and display it correctly without any special needs.</p>
+</section>
+<section class="log-entry" itemscope itemtype="http://schema.org/CreativeWork">
+  <meta itemprop="dateCreated" datetime="2020-05-04T21:40:52.599Z">
+  <hgroup>
+    <h3>May 4th 2020, 5:40:52 pm EDT</h3>
+  </hgroup>
   <p>It took hours to sort out issues with the CHANGELOG, I ended up creating a <a href="https://github.com/catpea/warrior/tree/master/changelog">database with records</a>, then the <a href="https://catpea.github.io/warrior/changelog.html">HTML website version</a>, and a <a href="https://github.com/catpea/warrior/blob/master/CHANGELOG.md">GitHub version</a> as well. I added the &quot;ago&quot; timestamps, and set them update live.</p>
   <p>I used jQuery, for the time-agos, I&#39;ll guess I&#39;ll use it for the color/theme switcher as well. jQuery is getting old, but the time-ago feature took only <a href="https://github.com/catpea/warrior/blob/master/templates/pico/files/js/changelog-ago.js">ten lines of code</a> that&#39;s hard to do with pure <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents">DOM functions</a>.</p>
 </section>

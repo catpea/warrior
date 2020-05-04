@@ -3,6 +3,18 @@
 
 
 ### May 4th 2020, 5:40:52 pm EDT
+The [Theme Switcher Code](https://github.com/catpea/warrior/blob/master/templates/pico/files/js/theme-switch.js) is now more readable, it uses jQuery on the home page for button logic.
+
+The chapters use standard albeit modern JavaScript. There is no way to switch themes from within chapters, the user has to go to the Table of Contents page, scroll to the bottom click Color Mode, force/reset theme, and then go back to reading.
+
+If I find that I won't be adding anymore jQuery things, then I'll rewrite button logic and time-ago in plain JavaScript and removing the jQuery dependency.
+
+It is of some note that only the default presentation of the Warrior Book requires jQuery, other presentations, written in different frameworks use their own ways of dealing with themes.
+
+Furthermore, when JavaScript is disabled there are not broken buttons/features, the Color Mode in the Table of Contents pare will not display. This is crafted for archival purposes, that's what this while website is about, allowing Internet Archives to crawl the book, and display it correctly without any special needs.
+
+
+### May 4th 2020, 5:40:52 pm EDT
 It took hours to sort out issues with the CHANGELOG, I ended up creating a [database with records](https://github.com/catpea/warrior/tree/master/changelog), then the [HTML website version](https://catpea.github.io/warrior/changelog.html), and a [GitHub version](https://github.com/catpea/warrior/blob/master/CHANGELOG.md) as well. I added the "ago" timestamps, and set them update live.
 
 I used jQuery, for the time-agos, I'll guess I'll use it for the color/theme switcher as well. jQuery is getting old, but the time-ago feature took only [ten lines of code](https://github.com/catpea/warrior/blob/master/templates/pico/files/js/changelog-ago.js) that's hard to do with pure [DOM functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents).

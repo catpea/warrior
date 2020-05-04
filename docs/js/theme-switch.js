@@ -1,13 +1,20 @@
+
+
 jQuery(function($){
+
+  $('details.color-mode').show();
 
   var flipButton = $('<button></button>');
   var resetButton = $('<button></button>');
+  resetButton.text('System Default')
 
   $('li.theme-switcher').append(flipButton);
   $('li.theme-switcher-reset').append(resetButton);
 
   resetButton.on('click', function(){
     localStorage.removeItem('current-theme');
+    $('html').attr('data-theme', null);
+    updateUI();
   });
 
   flipButton.on('click', function(){
@@ -24,17 +31,22 @@ jQuery(function($){
   });
 
   function updateUI(){
-    if(getTheme()=='light'){
-      flipButton.text('Turn off dark mode');
+    if(getTheme() == 'light'){
+      flipButton.text('Force Dark Mode');
     }else{
-      flipButton.text('Turn on dark mode');
+      flipButton.text('Force Light Mode');
+    }
+    if(localStorage.getItem('current-theme')){
+      resetButton.show();
+    }else{
+      resetButton.hide();
     }
   }
 
   function getTheme() {
-    var currentTheme = localStorage.getItem('current-theme');
-    if(currentTheme){ // user is controlling color scheme by hand, override prefers color scheme
-      return currentTheme;
+    if(localStorage.getItem('current-theme')){
+      // user is controlling color scheme by hand, override prefers color scheme
+      return localStorage.getItem('current-theme');
     }
     if(window.matchMedia('(prefers-color-scheme: dark)').matches) {
       return 'dark';
@@ -43,5 +55,6 @@ jQuery(function($){
     }
   }
 
+  updateUI();
 
-})
+});
