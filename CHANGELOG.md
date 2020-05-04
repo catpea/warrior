@@ -2,7 +2,7 @@
 ## CHANGELOG
 
 
-### May 4th 2020, 5:40:52 pm EDT
+### May 4th 2020, 7:29:00 pm EDT
 The [Theme Switcher Code](https://github.com/catpea/warrior/blob/master/templates/pico/files/js/theme-switch.js) is now more readable, it uses jQuery on the home page for button logic.
 
 The chapters use standard albeit modern JavaScript. There is no way to switch themes from within chapters, the user has to go to the Table of Contents page, scroll to the bottom click Color Mode, force/reset theme, and then go back to reading.
