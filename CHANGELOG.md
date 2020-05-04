@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### May 4th 2020, 5:40:52 pm EDT
+It took hours to sort out issues with the CHANGELOG, I ended up creating a [database with records](https://github.com/catpea/warrior/tree/master/changelog), then the [HTML website version](https://catpea.github.io/warrior/changelog.html), and a [GitHub version](https://github.com/catpea/warrior/blob/master/CHANGELOG.md) as well. I added the "ago" timestamps, and set them update live.
+
+I used jQuery, for the time-agos, I'll guess I'll use it for the color/theme switcher as well. jQuery is getting old, but the time-ago feature took only [ten lines of code](https://github.com/catpea/warrior/blob/master/templates/pico/files/js/changelog-ago.js) that's hard to do with pure [DOM functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents).
+
+
 ### May 3rd 2020, 5:38:00 pm EDT
 I am upgrading the theme, there were some problems with [Edward Tufte CSS](https://edwardtufte.github.io/tufte-css/) so I switched to [Pico CSS](https://picocss.com/) for now. As a result the book can read your browser settings, and if your operating system is in dark-mode the website will appear dark as well. There is also a persistent manual override, where you can flip your mode and it will stay that way.
 
