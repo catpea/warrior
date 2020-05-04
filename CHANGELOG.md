@@ -1,5 +1,5 @@
-#WARRIOR
-##CHANGELOG
+# WARRIOR
+## CHANGELOG
 
 
 ### May 3rd 2020, 5:38:00 pm EDT

@@ -121,7 +121,7 @@ ${turndownService.turndown(o.html)}
 
 
 fs.writeFileSync( path.resolve(path.join(options.destination, options.changelogHtml)), pretty(htmlVersion.join('\n\n'), {ocd:true}));
-fs.writeFileSync( path.resolve(path.join('.',options.changelogMd)), `#WARRIOR\n##CHANGELOG\n\n`+mdVersion.join('\n'));
+fs.writeFileSync( path.resolve(path.join('.',options.changelogMd)), `# WARRIOR\n## CHANGELOG\n\n`+mdVersion.join('\n'));
 
 }
 
