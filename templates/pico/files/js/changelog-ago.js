@@ -4,7 +4,7 @@ jQuery(function($){
     var node = $('<h4></h4>')
     $('hgroup', this ).append(node);
     var update = function(){ node.text(moment(dateCreated).from(moment())) };
-    setInterval(update(),1000*60);
+    setInterval(update,1000*60);
     update();
   });
 })
