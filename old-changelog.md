@@ -1,563 +1,424 @@
 ## Changelog
 
 ### May 3rd 2020, 5:38:00 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-05-03T21:38:00.000Z"></div>
 I am upgrading the theme, there were come problems with [Edward Tufte CSS] so I switched to [Pico CSS] for now. As a result the book can read your browser settings, and if your operating system is in dark-mode the website will appear dark as well. There is also a persistent manual override, where you can flip your mode and it will stay that way.
 
 It is not a very tidy program I just patched Pico code, I need to rewrite that from ground up. Beyond this I need to work on the Changelong, I mangled the timestamps, I wasn't sure what to do with them, and now I have some programming to do. A lot of things are tricky here because I want this book to be archivable by robots, like [The Way Back Machine]. That means, no server junk, no external dependencies, no odd java-script (basically the website needs to work with JavaScript disabled.)
 
 ### May 1st 2020, 11:32:00 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-05-02T03:32:00.000Z"></div>
 Created a new chapter [The Ukulele Player].
 
 ### April 30th 2020, 8:26:00 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-05-01T00:26:00.000Z"></div>
 Added the [Foreword] poem along with audio version.
 
 ### April 30th 2020, 12:47:00 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-04-30T16:47:00.000Z"></div>
 Rebuilt the Build System and Switched to [Edward Tufte CSS].
 
 ### April 24th 2020, 10:00:51 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-04-25T02:00:51.000Z"></div>
 Created a new chapter [The Mine Explorer] I moved a couple of videos from [The Explorer] into it.
 
 ### April 17th 2020, 8:53:34 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-04-18T00:53:34.000Z"></div>
 Created a new chapter [The Cryptographer].
 
 ### April 10th 2020, 11:39:59 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-04-11T03:39:59.000Z"></div>
 Created a new chapter [The Filmmaker].
 
 ### April 4th 2020, 12:14:53 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-04-04T04:14:53.000Z"></div>
 Added a new chapter [The Poet].
 
 ### March 27th 2020, 9:32:11 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-28T01:32:11.000Z"></div>
 Added a revolutionary new chapter [The Composer].
 
 ### March 19th 2020, 7:29:38 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-19T23:29:38.000Z"></div>
 Updated [The Highschooler] adding notes on dangers and bringing becoming a Founder as a safer, healthier, more educational, alternative.
 
 ### March 18th 2020, 12:43:38 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-18T16:43:38.000Z"></div>
 Created [The Highschooler] out of [The Courageous], and added a new chapter [The Principal]. The Highschooler is an expansion of the "Notes from an Imaginary High School". Both chapters still need work, some of the more the spicy parts need to be flattened out. I added 8 new life changing videos. And I discovered [another Mad World that someone made out of Breakfast Club], I added that too. I also added [Gary Jules] next to Izzie Naylor in [The Musician].
 
 ### March 13th 2020, 11:04:07 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-14T03:04:07.000Z"></div>
 Added a bit more on Roman Kondrachov's warrior training for Ukrainian Folk Dance in [The Dancer]. And closed the Dancer section with a Detailed (22 min.) [Russian Squat Kick tutorial], thus unifying [The Dancer] with [The Athlete]
 
 ### March 13th 2020, 10:45:25 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-14T02:45:25.000Z"></div>
 Added an eight-video section about dancing to the Rasputin song (and Ukrainian Folk) in [The Dancer].
 
 ### March 13th 2020, 9:50:27 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-14T01:50:27.000Z"></div>
 Replaced a deleted Shuffle Dance video with [Alan Walker Shuffle Dance] in [The Dancer]
 
 ### March 6th 2020, 11:02:52 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T04:02:52.000Z"></div>
 Added a [link] to explanation as to why those two idiots found salt in front of the Sushi Bar in [The Chef]. (Ma-ma-ma-ma... oh-###
   to-to, ma-ma-ma-ma, Oh-to-to-to, I used to think that video was probably for real, just that Japanese culture was so odd - Oof.)
 
 ### March 6th 2020, 10:19:55 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T03:19:55.000Z"></div>
 I originally somewhat planned to add "The Inventor" as a precursor to The Founder but Bret Victor, Chase Lewis and Ann Makosinski are not just inventors, or rather we are all inventors and as with Genius it is not that big of a deal. They are Students and a Programmer, so I added them along with a few others to existing chapters. I haven't left much room between [The Courageous] and [The Visionary] The Inventor would not fit there very well. In addition I moved the Learning Toolkit (Mind/Concept Mapping) from Visionary to The Courageous adding [Readwise] and [Anki] (as examples of learning tools), as unique visions of the future begin with real education (self-education).
 
 ### March 6th 2020, 10:19:55 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T03:19:55.000Z"></div>
 Added [Bret Victor's Inventing on Principle] to [The Programmer].
 
 ### March 6th 2020, 9:42:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T02:42:44.000Z"></div>
 Added [Chase Lewis] to [The Student].
 
 ### March 6th 2020, 9:22:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T02:22:44.000Z"></div>
 Added [Ann Makosinski] and her more Student/Schooling focused [Introduction by Forbes] to [The Student].
 
 ### March 6th 2020, 9:08:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T02:08:44.000Z"></div>
 Added [Dr. Becky] and [Physics Girl] to [The Astronomer].
 
 ### March 6th 2020, 9:02:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T02:02:44.000Z"></div>
 Added [Jimmy Diresta] to [The Maker].
 
 ### March 6th 2020, 8:58:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T01:58:44.000Z"></div>
 Added [Profit Hunt] (and mentioned Requests for Startups again) at the bottom of [The Founder] (MRR means Monthly Recurring Revenue).
 
 ### March 6th 2020, 8:52:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-03-07T01:52:44.000Z"></div>
 Created [The Blacksmith] by splitting it from [The Maker], added [Torbjörn Åhman] and [Black Bear Forge].
 
 ### February 29th 2020, 9:04:49 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-29T14:04:49.000Z"></div>
 Updated [The Courageous] with the tiny "Article One". I hope someday this will grow to become a Universal Declaration of Student Rights, that a student who is not yet ready to voice her or his opinions can hold up in class as a symbol and reminder. Where we ask teachers to step away until they show that they are capable of helping and not interfering, with Real Education.
 
 ### February 28th 2020, 10:32:48 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-29T03:32:48.000Z"></div>
 Updated [The Courageous] with A Short History of Nearly Everything, The Demon-Haunted World: Science as a Candle in the Dark, Death by Black Hole: And Other Cosmic Quandaries, What If?: Serious Scientific Answers to Absurd Hypothetical Questions, and The Physics of Superheroes.
 
 ### February 28th 2020, 9:05:02 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-29T02:05:02.000Z"></div>
 Created \[and begun work on a\] new chapter [The Courageous], I just finished the abstract narrative and settled on a format for a list of Beautiful Audio-books by adding the first book.
 As a side-note I also added a couple more fantasy and Ides images to [The Genius] in hopes of reminding the readers of the Beauty & Might of Storytelling.
 
 ### February 23rd 2020, 8:42:36 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-24T01:42:36.000Z"></div>
 Updated [The Genius].
 
 ### February 21st 2020, 11:14:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-22T04:14:44.000Z"></div>
 Created a new chapter [The Genius].
 
 ### February 14th 2020, 11:42:48 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-15T04:42:48.000Z"></div>
 Created a new chapter [The Student].
 
 ### February 14th 2020, 8:50:11 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-15T01:50:11.000Z"></div>
 Added "Bill Gates remembers his early programming career" and the terrible "1991 Interview with Bill Gates" to [The Programmer].
 
 ### February 14th 2020, 8:17:11 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-15T01:17:11.000Z"></div>
 Youtube removed the Apple Think Different introduction due to a copyright strike, and user deleted one of the Lauren Bruzzone videos. Updated both [Introduction] and [The Luminary], with similar videos: [Apple Think Different, Steve Jobs Narrated Version] and [Lauren Bruzzone].
 
 ### February 9th 2020, 9:51:28 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-09T14:51:28.000Z"></div>
 Updated closing remarks in [The Teacher].
 
 ### February 8th 2020, 9:41:30 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-08T14:41:30.000Z"></div>
 Finished closing remarks in [The Teacher].
 
 ### February 8th 2020, 12:05:18 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-08T05:05:18.000Z"></div>
 Created a new chapter [The Teacher].
 
 ### February 7th 2020, 9:07:56 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-07T14:07:56.000Z"></div>
 Added Factory/Techno music to Playlist section in [The Bodybuilder].
 
 ### February 4th 2020, 9:42:19 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-04T14:42:19.000Z"></div>
 Expanded introduction to Sampling by adding "Amiga Samplers : Budget dance music in 1990" and a note on the "The Amen Break" in [The Musician].
 
 ### January 31st 2020, 11:46:13 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-02-01T04:46:13.000Z"></div>
 Created a new chapter [The Naturalist].
 
 ### January 25th 2020, 10:41:41 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-01-26T03:41:41.000Z"></div>
 Dozens of little design updates to the User Interface adding shadows and image titles throughout. Lightly updated content in [The Bodybuilder] where I explained bed, timer, and music in a bit more detail.
 
 ### January 24th 2020, 11:49:35 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-01-25T04:49:35.000Z"></div>
 Added titles and eight more videos to [The Luminary], adding Willie Murphy, more Lauren Bruzzone workouts, and a TED talk by Tao Porchon Lynch.
 
 ### January 24th 2020, 10:49:41 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-01-25T03:49:41.000Z"></div>
 Created a new chapter [The Luminary].
 
 ### January 21st 2020, 10:10:00 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-01-21T15:10:00.000Z"></div>
 Added closing remarks to Sir Ken Robinson's "idea worth sharing" in [The Intellectual].
 
 ### January 17th 2020, 11:27:53 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-01-18T04:27:53.000Z"></div>
 Created a new chapter [The Survivalist].
 
 ### January 10th 2020, 10:48:30 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-01-11T03:48:30.000Z"></div>
 Created a new chapter [The Chef].
 
 ### January 3rd 2020, 11:43:53 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2020-01-04T04:43:53.000Z"></div>
 Created a new chapter [The Graffitist].
 
 ### December 27th 2019, 9:51:24 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-28T02:51:24.000Z"></div>
 Added Walter Sorrells, AndreJS, and Koss to [The Maker].
 
 ### December 27th 2019, 9:18:18 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-28T02:18:18.000Z"></div>
 Added Colin Furze to [The Maker]. Added Lock Picking Lawyer to [The Hacker] with a PSA on vulnerabilities in smart-device microphones by Smarter Every Day. Added Anne Reburn to [The Musician].
 
 ### December 24th 2019, 1:53:30 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-24T18:53:30.000Z"></div>
 Fixed [Highlights from the Christmas Lectures Archive] link in [The Scientist].
 
 ### December 24th 2019, 9:13:07 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-24T14:13:07.000Z"></div>
 Created a new chapter [The DJ] feat. Mariana BO, MATTN, Peggy Gou, Miss K8, Charlotte de Witte, NERVO, Alison Wonderland, and Nina Kraviz.
 
 ### December 24th 2019, 7:10:42 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-24T12:10:42.000Z"></div>
 Added Royal Institution Christmas Lectures to [The Scientist].
 
 ### December 23rd 2019, 9:08:34 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-23T14:08:34.000Z"></div>
 Extended an invitation and added a video tutorial on the subject of programming JavaScript with the aid of [Svelte] compiler to [The Programmer].
 
 ### December 21st 2019, 10:50:32 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-22T03:50:32.000Z"></div>
 Created a new chapter [The Discoverer] opening with a story about Clyde Tombaugh.
 
 ### December 20th 2019, 10:18:25 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-21T03:18:25.000Z"></div>
 Added Kinetic Sculptures to [The Sculptor].
 
 ### December 20th 2019, 9:50:36 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-21T02:50:36.000Z"></div>
 Added Introduction to Fusion to [The Scientist] by means of asking "Where does Gold come from?"
 
 ### December 20th 2019, 9:13:38 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-20T14:13:38.000Z"></div>
 Added Theo Jansen's Beasts to [The Maker].
 
 ### December 20th 2019, 9:13:38 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-20T14:13:38.000Z"></div>
 Created a new chapter [The Scientist] explaining Orbital Dynamics, Spacetime, and Time Dilation. With an opening by the heartbreaking Fleischmann and Pons announcement of Cold Fusion in 89, and a closing about how useless speed of light is to us.
 
 ### December 18th 2019, 9:39:10 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-18T14:39:10.000Z"></div>
 Added a new Running Man and T-Step tutorial video to [The Dancer].
 
 ### December 17th 2019, 11:37:19 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-18T04:37:19.000Z"></div>
 Created a new chapter [The Skeptic] with a tutorial on **Spoon Bending**. Featuring Michael Shermer, James Randi, and links to lists of common misconceptions.
 
 ### December 17th 2019, 10:07:55 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-17T15:07:55.000Z"></div>
 Added overview of Sfumato, Unione, Chiaroscuro, Cangiante and a quick introduction to the Grisaille Method (Dead Color Under-painting) to [The Artist].
 
 ### December 16th 2019, 9:25:35 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-16T14:25:35.000Z"></div>
 Added Futurists and Dreams of the Future to [The Visionary], in hopes of demonstrating the scales that visionaries think on.
 
 ### December 15th 2019, 8:19:05 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-15T13:19:05.000Z"></div>
 Added introduction to Hardware Programming via the Arduino Microcontroller to [The Programmer].
 
 ### December 15th 2019, 8:09:21 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-15T13:09:21.000Z"></div>
 Simplified and improved the flow between [The Hacker], [The Wizard], [The Guru], [The Programmer], and [The Web Developer].
 
 ### December 15th 2019, 12:44:53 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-15T05:44:53.000Z"></div>
 Split [The Visionary] from [The Founder].
 
 ### December 15th 2019, 12:11:41 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-15T05:11:41.000Z"></div>
 New videos in [The Web Developer]: Passion, Programming, and Pragmatism and A Software Developer's Secret to Life. New video in [The Programmer]: Changing the world with code.
 
 ### December 14th 2019, 11:17:37 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-15T04:17:37.000Z"></div>
 Added three new videos to [The Wizard] on the subject of the history of the graphic user interface, and running commands. A new video in [The Guru] talks about roots of the command line interface (paper printer), and presents a 41 video crash course in computer science. Closing [The Guru] with Linus Torvalds, and Karlie Kloss calling Programming a Superpower, and The poetry of programming by Linda Liukas.
 
 ### December 14th 2019, 9:44:18 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-15T02:44:18.000Z"></div>
 New Tilt Shift explanation video in [The Photographer].
 
 ### December 14th 2019, 8:02:55 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-14T13:02:55.000Z"></div>
 Created a new chapter [The Photographer] with an introduction to Tilt Shift Photography.
 
 ### December 13th 2019, 10:13:06 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-14T03:13:06.000Z"></div>
 Added a GUI version of the imaginary print command in [The Guru] to show by example how much more compact and uniform the command-line interface is.
 
 ### December 13th 2019, 8:38:38 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-14T01:38:38.000Z"></div>
 Added Laniakea: Our home supercluster to [The Astronomer]
 
 ### December 12th 2019, 10:27:02 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-13T03:27:02.000Z"></div>
 Added Side Project/Small Business Idea box to [The Designer] on the subject of Allover Cut & Sew Dye Sublimation Workout Outfits.
 
 ### December 12th 2019, 4:53:37 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-12T21:53:37.000Z"></div>
 Added an shorter intro to commands, and an introduction to UNIX specific commands in [The Wizard], I break away from UNIX and file management commands in the next chapter, [The Guru] where I talk about applying command to machines.
 
 ### December 11th 2019, 7:28:29 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-12T00:28:29.000Z"></div>
 Created a new chapter [The Guru] with the first draft on use of command-line interface outside of operating systems.
 
 ### December 11th 2019, 8:53:43 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-11T13:53:43.000Z"></div>
 Wrote a closing to [The Wizard] featuring Ken Thompson and Dennis Ritchie.
 
 ### December 10th 2019, 10:27:15 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-11T03:27:15.000Z"></div>
 Added a note about the Librem 5 Phone to to [The Wizard].
 
 ### December 10th 2019, 10:04:25 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-11T03:04:25.000Z"></div>
 Added Flashback and Another World (aka Out of This World in North America) Longplays to Pixel Art section of [The Designer].
 
 ### December 10th 2019, 6:58:13 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-10T23:58:13.000Z"></div>
 Added images on companies upgrading from Text Interface to Graphic Interface, added videos on opening Terminals and finding the Command Line Interface in [The Wizard].
 
 ### December 10th 2019, 5:33:08 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-10T22:33:08.000Z"></div>
 Added Indiana Jones and the Fate Of Atlantis, Maniac Mansion Day of The Tentacle, and Sam & Max: Hit the Road Longplays to Pixel Art section of [The Designer].
 
 ### December 10th 2019, 9:16:01 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-10T14:16:01.000Z"></div>
 Split [Wizard] from [The Hacker] and begun writing a tidy Introduction to Command Line Interfaces.
 
 ### December 9th 2019, 7:28:34 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-10T00:28:34.000Z"></div>
 Added Demoscene to [The Designer].
 
 ### December 9th 2019, 7:27:35 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-09T12:27:35.000Z"></div>
 Added Fantasy User Interfaces to [The Designer].
 
 ### December 8th 2019, 7:40:26 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-09T00:40:26.000Z"></div>
 Added Pixel Art to [The Designer].
 
 ### December 7th 2019, 11:27:22 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-08T04:27:22.000Z"></div>
 Added introduction to Metal Casting, and promoted Clickspring to the top in [The Maker].
 
 ### December 7th 2019, 10:51:03 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-08T03:51:03.000Z"></div>
 Added a tiny introduction to LMMS, and promoted the Ableton tutorial to the top in [The Musician].
 
 ### December 7th 2019, 10:44:06 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-08T03:44:06.000Z"></div>
 Added Concept Mapping intro and lecture to [The Founder].
 
 ### December 7th 2019, 9:59:19 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-08T02:59:19.000Z"></div>
 Added a better Mind Mapping intro to [The Founder].
 
 ### December 7th 2019, 9:00:07 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-07T14:00:07.000Z"></div>
 Added the list of mergers and acquisitions by Alphabet (Google) to [The Founder].
 
 ### December 7th 2019, 8:40:22 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-07T13:40:22.000Z"></div>
 Fourth Shuffle Dance tutorial in [The Dancer].
 
 ### December 6th 2019, 7:07:49 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-07T00:07:49.000Z"></div>
 Added \[a draft of\] introduction to BDD and Mapping in [The Founder].
 
 ### December 6th 2019, 9:22:50 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-06T14:22:50.000Z"></div>
 Added Techstars to [The Founder] broadened the subject, and a added link to research smaller accelerators.
 
 ### December 5th 2019, 9:46:19 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-05T14:46:19.000Z"></div>
 Added Shuffle Dance Playlist (songs used in the dance videos) to [The Dancer]
 
 ### December 4th 2019, 9:35:23 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-05T02:35:23.000Z"></div>
 Created a new chapter [The Dancer] with an opening by Brené Brown. Centered around the Melbourne Shuffle Dance, including Shuffle Tutorials and Dance Videos.
 
 ### December 4th 2019, 8:40:26 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-04T13:40:26.000Z"></div>
 Expanded Side Project Idea with Bandcamp and added a note on Sharing via Soundcloud in [The Musician].
 
 ### December 4th 2019, 8:05:50 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-04T13:05:50.000Z"></div>
 Added Art of Sampling, Community Links, and Side Project Idea to [The Musician].
 
 ### December 3rd 2019, 6:26:26 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-03T23:26:26.000Z"></div>
 Created [The Designer] with an opening about Minimalism and Skeuomorphism.
 
 ### December 3rd 2019, 6:16:56 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-03T23:16:56.000Z"></div>
 Added Ableton Music Tutorials to [The Musician].
 
 ### December 3rd 2019, 5:49:40 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-03T22:49:40.000Z"></div>
 Split [The Founder] from [The Web Developer].
 
 ### December 3rd 2019, 5:32:56 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-03T22:32:56.000Z"></div>
 Added Introduction to Singing and Studio Acapellas to [The Musician].
 
 ### December 2nd 2019, 10:37:37 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-03T03:37:37.000Z"></div>
 More videos and a tidier version of [The Web Developer].
 
 ### December 2nd 2019, 7:37:18 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-03T00:37:18.000Z"></div>
 Experimental rough draft of [The Web Developer].
 
 ### December 2nd 2019, 9:30:14 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-02T14:30:14.000Z"></div>
 Added GIMP Image Manipulation Tutorials to [The Artist].
 
 ### December 1st 2019, 11:26:27 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-02T04:26:27.000Z"></div>
 Added Side Project Idea (Online Portraits) in the [The Artist].
 
 ### December 1st 2019, 10:34:55 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-02T03:34:55.000Z"></div>
 Added information about use of projectors in [The Artist].
 
 ### December 1st 2019, 9:47:54 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-02T02:47:54.000Z"></div>
 Created new chapter [The Artist] and added instructions about use of tracing paper.
 
 ### November 30th 2019, 8:50:40 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-12-01T01:50:40.000Z"></div>
 Added Laser-cutting of leather as a business case study, and **entertaining** demonstrations of CNC Plasma & Waterjet Cutters to the [The Maker] chapter.
 
 ### November 30th 2019, 9:03:39 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-30T14:03:39.000Z"></div>
 Added intro to Stoicism and Existentialism in [The Philosopher] chapter.
 
 ### November 28th 2019, 10:18:49 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-29T03:18:49.000Z"></div>
 Created new chapter [The Musician]
 
 ### November 28th 2019, 9:52:40 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-29T02:52:40.000Z"></div>
 A note on **Quo Vadis** in Damien Mander's [The Hunter] and Lucy Hone's [The Superhero]
 
 ### November 28th 2019, 12:04:36 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-28T17:04:36.000Z"></div>
 Added Shurap to [The Maker]
 
 ### November 28th 2019, 11:47:38 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-28T16:47:38.000Z"></div>
 Added Slavik Tely and Green Beetle to [The Maker]
 
 ### November 28th 2019, 11:47:38 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-28T16:47:38.000Z"></div>
 Added Ponoko Side Project Box to [The Maker]
 
 ### November 27th 2019, 8:03:15 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-28T01:03:15.000Z"></div>
 Created new chapter [The Maker]
 
 ### November 27th 2019, 7:09:44 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-28T00:09:44.000Z"></div>
 More information on Shapeways, a Side Project Box, and introduction to 3d Scanning in [The Sculptor] Chapter.
 
 ### November 27th 2019, 5:47:41 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-27T22:47:41.000Z"></div>
 Peter Freuchen and Dagmar Cohn opening the [The Explorer] Chapter
 
 ### November 26th 2019, 9:11:51 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-26T14:11:51.000Z"></div>
 Created new chapter [The Explorer]
 
 ### November 26th 2019, 8:45:23 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-26T13:45:23.000Z"></div>
 Created new chapter [The Sculptor]
 
 ### November 25th 2019, 7:34:41 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-26T00:34:41.000Z"></div>
 Rebuilt [The Bodybuilder] chapter with new design and formatting (Two more to go Hacker and Programmer)
 
 ### November 25th 2019, 7:26:04 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-26T00:26:04.000Z"></div>
 Navigation improvements add titles to buttons. The buttons are auto-generated by the custom book [build program].
 
 ### November 25th 2019, 5:22:53 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T22:22:53.000Z"></div>
 Split [The hacker] from [The Programmer].
 
 ### November 25th 2019, 4:07:03 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T21:07:03.000Z"></div>
 Rebuilt [The Superhero] chapter with new design and formatting.
 
 ### November 25th 2019, 3:34:56 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T20:34:56.000Z"></div>
 Split [The Astronomer] from [The Philosopher]. Added new opening videos to astronomer.
 
 ### November 25th 2019, 9:07:15 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T14:07:15.000Z"></div>
 Rebuilt [The Ultra] chapter with new design. Three more to go Superhero, Bodybuilder and Programmer.
 
 ### November 25th 2019, 8:49:28 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T13:49:28.000Z"></div>
 Rebuilt [The Humanitarian] chapter with new design.
 
 ### November 25th 2019, 7:59:06 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T12:59:06.000Z"></div>
 Placed materials indirectly related to growing up into the appendix.
 
 ### November 24th 2019, 9:19:15 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T02:19:15.000Z"></div>
 Rebuilt [The Athlete] chapter with new design.
 
 ### November 24th 2019, 9:04:11 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T02:04:11.000Z"></div>
 Rebuilt [The Philosopher] chapter with new design.
 
 ### November 24th 2019, 8:04:11 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-25T01:04:11.000Z"></div>
 New short video in [Philosopher]. The history of our world in 18 minutes.
 
 ### November 23rd 2019, 8:20:02 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-24T01:20:02.000Z"></div>
 New videos in [The Knight of Virtue]. King Arthur's Origins and Swordplay and the Lost Art of Knighthood.
 
 ### November 23rd 2019, 8:19:02 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-24T01:19:02.000Z"></div>
 Rebuilt [The Officer] and [The Intellectual] chapters with new design.
 
 ### November 23rd 2019, 7:56:18 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-24T00:56:18.000Z"></div>
 Add The Compleat Gentleman, The Modern Man's Guide to Chivalry to [The Lady and The Gentleman] chapter.
 
 ### November 23rd 2019, 7:46:34 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-24T00:46:34.000Z"></div>
 Rebuilt [The Lady and The Gentleman] chapter with new design.
 
 ### November 23rd 2019, 5:29:25 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-23T22:29:25.000Z"></div>
 New video, George Martorano in [The Humanitarian].
 
 ### November 23rd 2019, 5:20:55 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-23T22:20:55.000Z"></div>
 Rebuilt [The Knight] chapter with new design.
 
 ### November 23rd 2019, 8:51:27 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-23T13:51:27.000Z"></div>
 New videos in [The Soldier], Stanislav Petrov.
 
 ### November 23rd 2019, 8:01:33 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-23T13:01:33.000Z"></div>
 New video in [The Soldier], My path out of poverty by Lashon Amado.
 
 ### November 22nd 2019, 7:09:15 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-23T00:09:15.000Z"></div>
 Rebuilt [The Soldier] chapter with new user interface.
 
 ### November 22nd 2019, 1:57:46 pm
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-22T18:57:46.000Z"></div>
 Rename warrior of duty to [soldier].
 
 ### November 22nd 2019, 8:32:15 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-22T13:32:15.000Z"></div>
 New video in [Hunter], Human Population Across Time.
 
 ### November 22nd 2019, 7:32:15 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-22T12:32:15.000Z"></div>
 Color coded user interface work, preview in [Introduction].
 
 ### November 21st 2019, 8:51:38 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-21T13:51:38.000Z"></div>
 Working on explaining pipes in [The Programmer] section.
 
 ### November 20th 2019, 8:51:38 am
-<div itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="dateCreated" datetime="2019-11-20T13:51:38.000Z"></div>
 Restructuring youtube links in [The Programmer] section.
 
 [Alan Walker Shuffle Dance]: https://www.youtube.com/watch?v=S321TDbe9Bo
@@ -641,4 +502,3 @@ Restructuring youtube links in [The Programmer] section.
 [The Wizard]: the-wizard.html
 [Foreword]: foreword.html
 [The Ukulele Player]: the-ukulele-player.html
-
