@@ -98,7 +98,7 @@ async function main() {
     .map(o => o.name)
     .filter(s => s.endsWith('.md'))
     .sort()
-    .map(s => ({ s, path: path.join(options.log, s) }))
+    .map(name => ({ name, path: path.join(options.log, s) }))
     .map(o => ({ ...o, raw: fs.readFileSync(o.path).toString() }))
     .map(o => ({ ...o, ...matter(o.raw) }))
     .map(o => ({ ...o, html: marked(o.content) }))
