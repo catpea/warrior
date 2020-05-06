@@ -15,7 +15,7 @@ import TurndownService from 'turndown';
 const turndownService = new TurndownService();
 
 const options = {
-  directory: 'data',
+  directory: 'db',
   index: 'index.yaml',
   destination: 'dist',
   json: 'warrior.json',
@@ -98,7 +98,7 @@ async function main() {
     .map(o => o.name)
     .filter(s => s.endsWith('.md'))
     .sort()
-    .map(name => ({ name, path: path.join(options.log, s) }))
+    .map(name => ({ name, path: path.join(options.log, name) }))
     .map(o => ({ ...o, raw: fs.readFileSync(o.path).toString() }))
     .map(o => ({ ...o, ...matter(o.raw) }))
     .map(o => ({ ...o, html: marked(o.content) }))

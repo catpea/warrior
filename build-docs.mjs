@@ -40,7 +40,7 @@ const options = {
   },
 
   src:{
-    path: 'data',
+    path: 'db',
     index: 'index.yaml',
   },
 
