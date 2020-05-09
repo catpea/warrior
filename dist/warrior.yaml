@@ -2850,6 +2850,127 @@
     name: the-mine-explorer
     title: The Mine Explorer
   next:
+    name: the-jogger
+    title: The Jogger
+- title: The Jogger
+  name: the-jogger
+  data:
+    - type: youtube
+      id: of0FZaSRk60
+      title: Couch to 5K
+    - type: youtube
+      id: NVuTiG8WvC0
+      title: Cough to 5K (Couch to 5K)
+    - type: text
+      title: Vaya Pashos from Melbourne
+      text: >-
+        <p>Vaya&#39;s <a
+        href="https://www.youtube.com/watch?v=Ogx5kXFO7ng&amp;list=PLJwyyH1EPQxPMHecFRx_2fJabAg7CJ-rv">full
+        playlist</a> eight weeks, eight videos.</p>
+    - type: youtube
+      id: Ogx5kXFO7ng
+      title: 'Couch to 5K - Week 1, A Non-Runner''s Guide'
+    - type: youtube
+      id: qpU2HGs5URY
+      title: Couch to 5K - Week 2 | Why Aren't I Fit Yet?
+    - type: youtube
+      id: 6n18XSMzEkk
+      title: Couch to 5K - Week 3 | Because You Can
+    - type: youtube
+      id: kE_djgVJp6Q
+      title: Couch to 5K - Week 4 | The Week of Do Not Want
+    - type: youtube
+      id: cOewWlCNA2s
+      title: Couch to 5K - Week 5 | Wind out of My Sails
+    - type: youtube
+      id: ojk53CH2Axo
+      title: Couch to 5K - Week 6 | Tortoise
+    - type: youtube
+      id: 0TZyWMJmpf8
+      title: Couch to 5K - Week 7 | Are We Having Fun Yet?
+    - type: youtube
+      id: c3p9jy8UMMQ
+      title: Couch to 5K - Week 8 | The End But Not Really the End.
+    - type: youtube
+      id: EcT_cKCuoOU
+      title: Couch to 5K (C25K) Review
+    - type: youtube
+      id: iI7X3dgu5iw
+      title: Couch to 5k (c25k) Exercise Challenge - Week 01
+    - type: text
+      title: Lorilee
+      text: >-
+        <p>Lorilee&#39;s eight weeks.</p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=iI7X3dgu5iw">Week 01</a></p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=Vzqu5pVFq4Q">Week 02</a></p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=d7YR7dH3g-w">Week 03</a></p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=o8ia3qnd7g4">Week 04</a></p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=crG3k7A4jZA">Week 05</a></p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=SRDyiulSZIA">Week 06</a></p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=gsbgRUy4wvw">Week 07</a></p>
+
+        <p>Couch to 5k (c25k) Exercise Challenge - <a
+        href="https://www.youtube.com/watch?v=rGpRf--gpNE">Week 08</a></p>
+    - type: youtube
+      id: 5MWJDwN447k
+      title: 5 tips for starting running (Couch to 5K)
+    - type: youtube
+      id: 0d1cRlkHGVw
+      title: 'Beginner''s running tips: Couch to 5K'
+    - type: youtube
+      id: mb17nm6fKiQ
+      title: How I started running (Couch to 5K)
+    - type: youtube
+      id: 2L6KgQWvek0
+      title: Couch To 5K Training Tips
+    - type: youtube
+      id: EkHTGx99MZU
+      title: Couch to 5K tips for beginners
+    - type: youtube
+      id: LceANHxxekg
+      title: How I went from couch to 5K in a month
+    - type: youtube
+      id: 6abu6QXAGEQ
+      title: 8 Week Training Plan To Run Your First 5km
+    - type: youtube
+      id: _kGESn8ArrU
+      title: How To Run Properly
+    - type: youtube
+      id: XImJDzo36_4
+      title: Running for Beginners
+    - type: youtube
+      id: 5umbf4ps0GQ
+      title: 5 Running Tips for Beginners
+    - type: youtube
+      id: j64lvNJ5X2Y
+      title: How To Start Running When You're Overweight
+    - type: youtube
+      id: Hv5UvqcsIfY
+      title: Improve Your Running Technique Instantly
+    - type: youtube
+      id: Qgzjpz3dn6E
+      title: 'How to start running, 3 biggest running mistakes.'
+    - type: youtube
+      id: g2JXGSPbHGE
+      title: I Tried Running an ULTRA MARATHON without Training
+  previous:
+    name: the-dancer
+    title: The Dancer
+  next:
     name: the-athlete
     title: The Athlete
 - title: The Athlete
@@ -2945,8 +3066,8 @@
       id: vs3WTVFChtw
       title: Rock Running - Real Olympics have few spectators.
   previous:
-    name: the-dancer
-    title: The Dancer
+    name: the-jogger
+    title: The Jogger
   next:
     name: the-bodybuilder
     title: The Bodybuilder

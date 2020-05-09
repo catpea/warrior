@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 8th 2020, 11:25:28 pm EDT
+Created a new chapter [The Jogger](the-jogger.html).
+
+
 ### May 4th 2020, 7:29:00 pm EDT
 The [Theme Switcher Code](https://github.com/catpea/warrior/blob/master/templates/pico/files/js/theme-switch.js) is now more readable, it uses jQuery on the home page for button logic.
 
