@@ -2,7 +2,7 @@
 ## CHANGELOG
 
 
-### May 8th 2020, 11:25:28 pm EDT
+### May 8th 2020, 11:33:11 pm EDT
 Created a new chapter [The Jogger](the-jogger.html).
 
 
