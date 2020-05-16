@@ -2376,6 +2376,75 @@
     name: the-naturalist
     title: The Naturalist
   next:
+    name: the-backpacker
+    title: The Backpacker
+- title: The Backpacker
+  name: the-backpacker
+  data:
+    - type: youtube
+      id: IJduf7v4Wwo
+      title: 'Into the Wild: My Journey on the Appalachian Trail'
+    - type: youtube
+      id: w0X6D_4DUd8
+      title: 'First Time Backpacker, Appalachian Trail'
+    - type: youtube
+      id: 9nEahlbzGA4
+      title: 'My First Time Solo Backpacking, Eastern Sierra, Ansel Adams Wilderness'
+    - type: youtube
+      id: eKkyOGX7VWU
+      title: I Tried To Backpack Alone And Make Zero Trash
+    - type: youtube
+      id: zWbbFVk3G2k
+      title: Women Backpack Overnight For The First Time
+    - type: youtube
+      id: EzXP5PjRHjM
+      title: 'Appalachian Trail Documentary: DIXIE TO MAINE'
+    - type: youtube
+      id: V4D4TcgppD8
+      title: 'Pacific Crest Trail Documentary: A YEAR OF ICE AND FIRE'
+    - type: youtube
+      id: 1ewQvcGhQAA
+      title: 'Continental Divide Trail Documentary: CHOOSE YOUR ADVENTURE'
+    - type: youtube
+      id: W_QC8Nw1bH0
+      title: 8 Tips for Successfully Thru-hiking the Appalachian Trail
+    - type: youtube
+      id: yhqvPu8zMS0
+      title: WHAT I EAT IN A DAY BACKPACKING - Simple Backpacking Food
+    - type: youtube
+      id: rg_1tB9eGJE
+      title: My Favorite Food on the PCT
+    - type: youtube
+      id: HugY6T3Dvho
+      title: Backpacking Checklist
+    - type: youtube
+      id: U1JwxGmsPj0
+      title: Bugs on the Appalachian Trail
+    - type: youtube
+      id: Cr9N5Wo_ZTo
+      title: How To Survive a Thunderstorm on the Trail
+    - type: youtube
+      id: r76GJDP0uWQ
+      title: What to expect if you encounter a wolf
+    - type: youtube
+      id: JTf9Hk6OSio
+      title: Mountain Lion Safety Tips
+    - type: youtube
+      id: VHlcg1axzmQ
+      title: 'Episode 9: MOUNTAIN LION'
+    - type: youtube
+      id: d4FbHzeCJjM
+      title: Face to Face With A Mountain Lion
+    - type: youtube
+      id: fbHJQxqmVk4
+      title: Dealing With Black Bears in the Woods
+    - type: youtube
+      id: rbE53XUtVw0
+      title: Bear sits next to guy
+  previous:
+    name: the-survivalist
+    title: The Survivalist
+  next:
     name: the-explorer
     title: The Explorer
 - title: The Explorer
@@ -2429,8 +2498,8 @@
       id: KDPnWgVGuhc
       title: Forgotten bunker found and opened
   previous:
-    name: the-survivalist
-    title: The Survivalist
+    name: the-backpacker
+    title: The Backpacker
   next:
     name: the-discoverer
     title: The Discoverer

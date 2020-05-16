@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 15th 2020, 11:44:23 pm EDT
+Created a new chapter [The Backpacker](the-backpacker.html).
+
+
 ### May 8th 2020, 11:33:11 pm EDT
 Created a new chapter [The Jogger](the-jogger.html).
 
