@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 22nd 2020, 10:58:08 pm EDT
+Created a new chapter [The Restorer](the-restorer.html).
+
+
 ### May 15th 2020, 11:44:23 pm EDT
 Created a new chapter [The Backpacker](the-backpacker.html).
 
