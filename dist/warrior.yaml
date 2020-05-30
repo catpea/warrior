@@ -3451,6 +3451,66 @@
     name: the-athlete
     title: The Athlete
   next:
+    name: the-gymnast
+    title: The Gymnast
+- title: The Gymnast
+  name: the-gymnast
+  data:
+    - type: youtube
+      id: O4um3YEX51k
+      title: Kerri Strug's Unforgettable Determination to Win Gymnastics Olympic Gold
+    - type: youtube
+      id: X_uDt5nd1JE
+      title: Magnificent Seven Gymnastics Team Recalls Olympic Glory 20 Years Later
+    - type: youtube
+      id: rCbfF-R4vZs
+      title: Gold Medalist Kerri Strug Embraces Life Defining Moment
+    - type: youtube
+      id: yQ9sHEnw2bI
+      title: Kyla Ross 2012 Olympics
+    - type: youtube
+      id: 8t8Kcd1EX_8
+      title: 'Kyla Ross: Four Years Later'
+    - type: youtube
+      id: 9e95ZO6KZrc
+      title: All 22 of Kyla Ross' perfect-10 routines in full
+    - type: youtube
+      id: nDFLrD_sZM4
+      title: 'No Silver Lining: McKayla Maroney unimpressed at London vault finals'
+    - type: youtube
+      id: 1OmSm1S1z60
+      title: Women's Individual All-Around Final - Artistic Gymnastics
+    - type: youtube
+      id: HHxRBljtoqU
+      title: 73 Questions With Simone Biles
+    - type: youtube
+      id: C54cHGCwBdk
+      title: Biles. Is. Back.
+    - type: youtube
+      id: gWOsFWWQDno
+      title: How to be a self-taught gymnast
+    - type: youtube
+      id: 96tK1BAqIk4
+      title: We Trained To Be Gymnasts In 7 Days
+    - type: youtube
+      id: mRWoNyB_jBY
+      title: 20 YEAR OLD Does Level 1 GYMNASTICS On ALL EVENTS!
+    - type: youtube
+      id: 3wdUTUvic70
+      title: Gymnastics Level 1 Bar Routine With Coach Meggin!
+    - type: youtube
+      id: gSxw-E1iYy0
+      title: Fit And Fun With Coach Meggin YouTube Trailer
+    - type: text
+      title: Fit And Fun With Coach Meggin
+      text: >-
+        <p>Visit Meggin&#39;s <a
+        href="https://www.youtube.com/channel/UCWmIgfMkVvcXbvyTKEyRZIw">YouTube
+        Channel</a></p>
+  previous:
+    name: the-bodybuilder
+    title: The Bodybuilder
+  next:
     name: the-luminary
     title: The Luminary
 - title: The Luminary
@@ -3545,8 +3605,8 @@
 
         <p>One minute after midnight, and it is already today.</p>
   previous:
-    name: the-bodybuilder
-    title: The Bodybuilder
+    name: the-gymnast
+    title: The Gymnast
   next:
     name: the-chef
     title: The Chef

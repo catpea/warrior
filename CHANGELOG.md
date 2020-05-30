@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 29th 2020, 11:48:17 pm EDT
+Created a new chapter [The Gymnast](the-gymnast.html).
+
+
 ### May 22nd 2020, 10:58:08 pm EDT
 Created a new chapter [The Restorer](the-restorer.html).
 
