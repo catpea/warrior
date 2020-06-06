@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### June 5th 2020, 11:19:14 pm EDT
+Created a new chapter [The Trainer](the-trainer.html).
+
+
 ### May 29th 2020, 11:48:17 pm EDT
 Created a new chapter [The Gymnast](the-gymnast.html).
 

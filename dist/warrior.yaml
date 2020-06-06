@@ -2919,6 +2919,100 @@
     name: the-mine-explorer
     title: The Mine Explorer
   next:
+    name: the-trainer
+    title: The Trainer
+- title: The Trainer
+  name: the-trainer
+  data:
+    - type: youtube
+      id: B_9FyTiq3SA
+      title: Rocky IV Training Montage
+    - type: youtube
+      id: rF3ixuORPaw
+      title: Actors Give Advice on Diet & Exercise
+    - type: youtube
+      id: uzUEiVKQzJk
+      title: Study finds dehydration affects our brains
+    - type: youtube
+      id: P8c9DIiAFz8
+      title: Hydration
+    - type: youtube
+      id: pJdWvseRy7g
+      title: How to Recover After A Marathon
+    - type: youtube
+      id: XyrSr2blmwA
+      title: How to recover from a Marathon
+    - type: youtube
+      id: BfRSXjviISU
+      title: Overtraining Syndrome
+    - type: youtube
+      id: KNzSsnc9LA8
+      title: 11 signs of Overtraining
+    - type: youtube
+      id: POBOKrLjxj8
+      title: The Signs of Overtraining Syndrome with Travis Macy
+    - type: text
+      title: Overtraining
+      text: >-
+        <p><a
+        href="https://www.irunfar.com/2013/09/overtraining-syndrome-part-one.html">Overtraining
+        Syndrome, Part One: An Overview</a></p>
+
+        <p><a
+        href="https://www.irunfar.com/2013/10/overtraining-syndrome-part-two-treatment-and-prevention.html">Overtraining
+        Syndrome, Part Two: Treatment and Prevention</a></p>
+
+        <p><a
+        href="https://www.irunfar.com/2012/10/your-ultra-training-bag-of-tricks-recovery.html">Your
+        Ultra-Training Bag of Tricks: Recovery</a></p>
+
+        <p><a
+        href="https://www.irunfar.com/2014/09/recover-better-10-rules-for-optimal-ultramarathon-recovery.html">Recover
+        Better: 10 Rules For Optimal Ultramarathon Recovery</a></p>
+    - type: youtube
+      id: 1xqaw7rDiV0
+      title: Mark Twight 300 training rise of an empire
+    - type: youtube
+      id: AqTfEHExoAQ
+      title: >-
+        Celebrity Trainer Don Saladino: The Most Effective Way To Lose Weight &
+        Get Shredded
+    - type: youtube
+      id: y5-R-TICKSw
+      title: How a Celebrity Trainer Gets Actors in Shape for Movies
+    - type: youtube
+      id: tSzlgybdkFA
+      title: Henry Cavill Explains His 'Witcher' Arm and Leg Workout
+    - type: youtube
+      id: iVWQqga9NFc
+      title: 'Meet the man who made Ben Affleck the biggest, buffest Batman'
+    - type: youtube
+      id: FVycakwgoSA
+      title: Ben Affleck's Batman Workout Explained By His Trainer
+    - type: youtube
+      id: bxX5sFJl-u0
+      title: The Wolverine Diet/Workout (Stay Hydrated!)
+    - type: youtube
+      id: S_w-e45TxnQ
+      title: GYMBOSS Interval Timer Demo
+    - type: youtube
+      id: aat4hmwGS2I
+      title: Instructions- How To Use Your Gymboss Interval Timer
+    - type: youtube
+      id: LszTNOxBNio
+      title: 7 Things Your Personal Trainer Should NEVER Say or Do...
+    - type: youtube
+      id: AVc1LzZRTyk
+      title: 100 Rules of a successful personal trainer (Business Advice)
+    - type: youtube
+      id: Y3eFvLWXjYk
+      title: >-
+        Personal Trainer Tips: 10 Things to do before starting or expanding your
+        own training business
+  previous:
+    name: the-dancer
+    title: The Dancer
+  next:
     name: the-jogger
     title: The Jogger
 - title: The Jogger
@@ -3040,8 +3134,8 @@
       id: g2JXGSPbHGE
       title: I Tried Running an ULTRA MARATHON without Training
   previous:
-    name: the-dancer
-    title: The Dancer
+    name: the-trainer
+    title: The Trainer
   next:
     name: the-athlete
     title: The Athlete
