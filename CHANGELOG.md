@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### June 12th 2020, 11:30:21 pm EDT
+Created a new chapter [The Connoisseur](the-connoisseur.html).
+
+
 ### June 5th 2020, 11:19:14 pm EDT
 Created a new chapter [The Trainer](the-trainer.html).
 
