@@ -2,7 +2,7 @@
 ## CHANGELOG
 
 
-### June 12th 2020, 11:30:21 pm EDT
+### June 20th 2020, 12:03:55 am EDT
 Created a new chapter [The Tracer](the-tracer.html).
 
 
