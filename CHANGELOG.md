@@ -3,6 +3,10 @@
 
 
 ### June 12th 2020, 11:30:21 pm EDT
+Created a new chapter [The Tracer](the-tracer.html).
+
+
+### June 12th 2020, 11:30:21 pm EDT
 Created a new chapter [The Connoisseur](the-connoisseur.html).
 
 
