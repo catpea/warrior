@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### June 27th 2020, 12:47:26 am EDT
+Created a new chapter [The Maverick](the-maverick.html).
+
+
 ### June 20th 2020, 12:03:55 am EDT
 Created a new chapter [The Tracer](the-tracer.html).
 
