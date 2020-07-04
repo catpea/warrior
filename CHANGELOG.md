@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### July 3rd 2020, 11:35:17 pm EDT
+Created a new chapter [The Mudlark](the-mudlark.html).
+
+
 ### June 27th 2020, 12:47:26 am EDT
 Created a new chapter [The Maverick](the-maverick.html).
 

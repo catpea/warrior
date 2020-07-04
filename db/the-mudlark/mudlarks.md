@@ -1,0 +1,2 @@
+In the 18th and 19th centuries Mudlarks would search the muddy shores of the River Thames at low tide for anything that could be sold; and sometimes, when occasion arose, pilfering from river traffic. By at least the late 18th century people dwelling near the river could scrape a subsistence living this way.
+More recently, metal-detectorists and other individuals searching the foreshore for historic artifacts have described themselves as "mudlarks".

@@ -2475,7 +2475,8 @@
       title: Mudlarking with Nicola White
       text: >-
         <p><a href="https://www.youtube.com/user/driftwoodnic">YouTube
-        Channel</a></p>
+        Channel</a> Visit <a href="the-mudlark.html">The Mudlark</a> chapter for
+        more Mudlarking with Nicola White and others.</p>
     - type: youtube
       id: Byhsobb6S2A
       title: Mudlarking The River Thames - THREE mystery finds
@@ -5295,6 +5296,97 @@
     name: the-photographer
     title: The Photographer
   next:
+    name: the-mudlark
+    title: The Mudlark
+- title: The Mudlark
+  name: the-mudlark
+  data:
+    - type: text
+      title: Mudlarks
+      text: >-
+        <p>In the 18th and 19th centuries Mudlarks would search the muddy shores
+        of the River Thames at low tide for anything that could be sold; and
+        sometimes, when occasion arose, pilfering from river traffic. By at
+        least the late 18th century people dwelling near the river could scrape
+        a subsistence living this way.
+          More recently, metal-detectorists and other individuals searching the foreshore for historic artifacts have described themselves as &quot;mudlarks&quot;.</p>
+    - type: youtube
+      id: jwbL19S8mbE
+      title: Mudlarking on the BBC with Lara Maiklem
+    - type: youtube
+      id: ep7H5DwXwbA
+      title: We make colourful sea glass candle jars with our finds!
+    - type: youtube
+      id: fMZ0cGUT0N4
+      title: Gem hunting near abandoned mines! We find rare GLOWING crystals!
+    - type: youtube
+      id: iY0kGTaIPbc
+      title: >-
+        Treasures in the sand! Hundreds of artefacts and handfuls of coins! And
+        our most amazing find yet!
+    - type: youtube
+      id: HuAMxiG7GmI
+      title: >-
+        Treasure hunting after a storm. Amazing artefacts on the beach! Gold,
+        silver & over 50 coins found!
+    - type: youtube
+      id: eheIPJTwm9E
+      title: >-
+        What is in the hole?! Metal detecting our Scottish farmhouse plus the
+        history of our finds.
+    - type: youtube
+      id: iUWMIOiBz6g
+      title: >-
+        We stumble upon victorian treasure! 130 year old bottles with an
+        incredible history.
+    - type: youtube
+      id: Pp6rqhyL_KA
+      title: Crafting With Casts of Heads Found Mudlarking
+    - type: youtube
+      id: hQ9Ajh1aCeo
+      title: Mudlarking Bottle Beach Return To Pottery Paradise
+    - type: youtube
+      id: ubFbzS80RrQ
+      title: 'Mudlarking A Castle Foreshore: It''s Snowing!'
+    - type: youtube
+      id: s609KM6eb4Q
+      title: Field Walking The Field Of Dreams With The Northern Mudlarks
+    - type: youtube
+      id: IR9qGkBwOYs
+      title: Mudlarking and Treasure Hunting in the City of Bath
+    - type: youtube
+      id: C3bs2GO0w1g
+      title: Mudlarking - An Assortment of Treasure from Glorious Somerset!
+    - type: youtube
+      id: bSxfOYVpd5E
+      title: Real Retro Treasure Digging from the City of Bath!
+    - type: youtube
+      id: bvEnI8wZci0
+      title: >-
+        WHAT STORIES WILL THE THAMES REVEAL TODAY?! - Mudlarking the River
+        Thames with Nicola White
+    - type: youtube
+      id: qr32SUs9HvA
+      title: Mudlarking the River Thames London - A Mystery Object
+    - type: youtube
+      id: zFEtBBpmoQs
+      title: Mudlarking the Thames foreshore - treasures from London's past
+    - type: youtube
+      id: 1VB7G6BCapQ
+      title: The hidden secrets of the Thames revealed with Mudlarks Simon & Nicola
+    - type: youtube
+      id: rMNJ8wRfjEA
+      title: Bottle digging goes wrong! ARMED POLICE...
+    - type: youtube
+      id: 3iuiShjA0Io
+      title: 'MUDLARKING GOLD Aquachigger, Deep Digger Dan and Chill Bill'
+    - type: youtube
+      id: tUg8GzDlUjU
+      title: 'London Mudlarking: Lara Maiklem – A Short Film About Mudlarking'
+  previous:
+    name: the-filmmaker
+    title: The Filmmaker
+  next:
     name: the-artist
     title: The Artist
 - title: The Artist
@@ -5470,8 +5562,8 @@
       id: bluffx6sB04
       title: What's an Eraser Shield?
   previous:
-    name: the-filmmaker
-    title: The Filmmaker
+    name: the-mudlark
+    title: The Mudlark
   next:
     name: the-designer
     title: The Designer
