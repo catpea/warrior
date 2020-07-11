@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### July 10th 2020, 11:45:03 pm EDT
+Created a new chapter [The Slackliner](the-slackliner.html).
+
+
 ### July 3rd 2020, 11:35:17 pm EDT
 Created a new chapter [The Mudlark](the-mudlark.html).
 

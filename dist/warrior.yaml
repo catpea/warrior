@@ -3546,6 +3546,77 @@
     name: the-athlete
     title: The Athlete
   next:
+    name: the-slackliner
+    title: The Slackliner
+- title: The Slackliner
+  name: the-slackliner
+  data:
+    - type: text
+      title: Slacklining
+      text: >-
+        <p><a href="https://en.wikipedia.org/wiki/Slacklining">Slacklining</a>
+        refers to the act of walking, running or balancing along a suspended
+        length of flat webbing that is tensioned between two anchors. There are
+        many styles of slacklining, including Urbanlining, Tricklining,
+        Highlining, Slackline yoga, Rodeo lines, and Windlining.</p>
+    - type: youtube
+      id: G74j6govoIg
+      title: 'Liz Thomas: Never Too Old to Play'
+    - type: youtube
+      id: xV_V1WTs_LQ
+      title: Presenting Louise Lenoble
+    - type: youtube
+      id: XgJCs0Ck9BY
+      title: Return to Balance
+    - type: youtube
+      id: l9k2IIrC8a4
+      title: Crossing The Chasm Together
+    - type: youtube
+      id: iZb8pjVbuZA
+      title: Slacklining with Kendra Charts
+    - type: quote
+      author: Albert Einstein
+      url: 'https://en.wikipedia.org/wiki/Albert_Einstein'
+      text: >-
+        <p>Look deep into nature, and then you will understand everything
+        better.</p>
+    - type: youtube
+      id: R7dtTGAtSFI
+      title: One Day in the life of Giovanna Petrucci
+    - type: youtube
+      id: wLSj55NVmV4
+      title: That Slackline Girl
+    - type: youtube
+      id: Oc__gYAxIRI
+      title: 'Elli, Epic Slackline Sessions'
+    - type: youtube
+      id: DGtTw-I_SpQ
+      title: Leashfalling is Cool
+    - type: youtube
+      id: d3GzAxe8smU
+      title: World Record Highline Walk by Mia Noblet
+    - type: youtube
+      id: MFgURsk9Myw
+      title: Free Solo Highlines
+    - type: youtube
+      id: iZAmoZvZMqE
+      title: World's longest highline in Switzerland
+    - type: youtube
+      id: Td5tc4KU8Qs
+      title: Here the Rest of the World Doesn't Exist
+    - type: youtube
+      id: 2TDdOWamrmc
+      title: Women's Highline Meeting X (2019)
+    - type: youtube
+      id: NqKNWVRvKOs
+      title: How to Sit Start mount a Slackline
+    - type: youtube
+      id: MLiswII4Oag
+      title: How to SIT on a Slackline
+  previous:
+    name: the-bodybuilder
+    title: The Bodybuilder
+  next:
     name: the-tracer
     title: The Tracer
 - title: The Tracer
@@ -3606,8 +3677,8 @@
       id: ZgwcgQrEkRg
       title: Teaching Parkour To A Dancer
   previous:
-    name: the-bodybuilder
-    title: The Bodybuilder
+    name: the-slackliner
+    title: The Slackliner
   next:
     name: the-gymnast
     title: The Gymnast
