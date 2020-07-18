@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### July 18th 2020, 12:00:40 am EDT
+Created a new chapter [The Metal Detectorist](the-metal-detectorist.html).
+
+
 ### July 10th 2020, 11:45:03 pm EDT
 Created a new chapter [The Slackliner](the-slackliner.html).
 
