@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### July 25th 2020, 1:29:41 am EDT
+Created a new chapter [The Flintknapper](the-flintknapper.html).
+
+
 ### July 18th 2020, 12:00:40 am EDT
 Created a new chapter [The Metal Detectorist](the-metal-detectorist.html).
 

@@ -2256,11 +2256,120 @@
         "type": "youtube",
         "id": "5C2kwQchngs",
         "title": "Treasure Hunting at Ginnie Springs"
+      },
+      {
+        "type": "youtube",
+        "id": "xkmkrvkc8qg",
+        "title": "Apple picking then baking a pie from scratch"
       }
     ],
     "previous": {
       "name": "the-mine-explorer",
       "title": "The Mine Explorer"
+    },
+    "next": {
+      "name": "the-flintknapper",
+      "title": "The Flintknapper"
+    }
+  },
+  {
+    "title": "The Flintknapper",
+    "name": "the-flintknapper",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "yTzEHqVNmvU",
+        "title": "Arrowhead hunting #68 Hawking Lithics incredible artifacts"
+      },
+      {
+        "type": "youtube",
+        "id": "W5u4ttosEmM",
+        "title": "How to make an arrowhead. An intensive breakdown for beginner Flint Knappers."
+      },
+      {
+        "type": "youtube",
+        "id": "exrRw8RG_z8",
+        "title": "Arrowhead hunting #51 Hawking Lithics Dreams do come true!"
+      },
+      {
+        "type": "youtube",
+        "id": "H7pbvbBC3Fs",
+        "title": "Arrowhead hunting #72 Hawking Lithics smokers with a smile"
+      },
+      {
+        "type": "youtube",
+        "id": "AoA5-D5w-xU",
+        "title": "Hawking Lithics #74 Arrowhead hunting artifact rescue"
+      },
+      {
+        "type": "youtube",
+        "id": "oDXUuZsyIQg",
+        "title": "Arrowhead hunting amazing paleo find"
+      },
+      {
+        "type": "youtube",
+        "id": "UVuiQCb5OMw",
+        "title": "Making a Knapped Stone Spear Head From Mahogany Obsidian"
+      },
+      {
+        "type": "youtube",
+        "id": "ofzfrDKWeQA",
+        "title": "Obsidian Arrowhead Part 1/2"
+      },
+      {
+        "type": "youtube",
+        "id": "9ZMeAf2RGys",
+        "title": "Obsidian Arrowhead Part 2/2"
+      },
+      {
+        "type": "youtube",
+        "id": "lfIr6XSHNOQ",
+        "title": "Thin Arrowhead Part 1/2"
+      },
+      {
+        "type": "youtube",
+        "id": "i-v7LAS1PmE",
+        "title": "Thin Arrowhead Part 2/2"
+      },
+      {
+        "type": "youtube",
+        "id": "F10x5hbbOGE",
+        "title": "Making the Wintu Arrowhead"
+      },
+      {
+        "type": "youtube",
+        "id": "ruVjJRxB5g4",
+        "title": "Hupa Barbed Arrow"
+      },
+      {
+        "type": "youtube",
+        "id": "aleCwGFVXeI",
+        "title": "making a glass spearhead from a bottle"
+      },
+      {
+        "type": "youtube",
+        "id": "hGYOTQu57nQ",
+        "title": "How to Make and Use a Stone Knife"
+      },
+      {
+        "type": "youtube",
+        "id": "cNn8ujT6Fgg",
+        "title": "Making Flint for Flintknapping, Spalling Chert (1/2)"
+      },
+      {
+        "type": "youtube",
+        "id": "Bd5IhDugptQ",
+        "title": "Spalling Chert (2/2)"
+      },
+      {
+        "type": "youtube",
+        "id": "ULVQuCbkFjQ",
+        "title": "Native American Horn Bow"
+      }
+    ],
+    "previous": {
+      "name": "the-metal-detectorist",
+      "title": "The Metal Detectorist"
     },
     "next": {
       "name": "the-dancer",
@@ -2408,8 +2517,8 @@
       }
     ],
     "previous": {
-      "name": "the-metal-detectorist",
-      "title": "The Metal Detectorist"
+      "name": "the-flintknapper",
+      "title": "The Flintknapper"
     },
     "next": {
       "name": "the-trainer",
