@@ -2521,6 +2521,95 @@
       "title": "The Flintknapper"
     },
     "next": {
+      "name": "the-longboarder",
+      "title": "The Longboarder"
+    }
+  },
+  {
+    "title": "The Longboarder",
+    "name": "the-longboarder",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "dMeKjQbqy_Y",
+        "title": "I Bought a Longboard!"
+      },
+      {
+        "type": "youtube",
+        "id": "qiZddu07f7Q",
+        "title": "Longboard Girls Crew France - Road Trip Summer Meet"
+      },
+      {
+        "type": "youtube",
+        "id": "vZIcbbSUUQQ",
+        "title": "Longboard Girls Crew"
+      },
+      {
+        "type": "youtube",
+        "id": "tBtggl33hU8",
+        "title": "Longboard Dancing With Korea’s Skating Sensation"
+      },
+      {
+        "type": "youtube",
+        "id": "tQNzYSUsJdk",
+        "title": "Longboarding Skills Musical Compilation"
+      },
+      {
+        "type": "youtube",
+        "id": "50BpWno7itc",
+        "title": "Awesome Longboarding Girl Does Skateboard Dancing"
+      },
+      {
+        "type": "youtube",
+        "id": "9MknR9u2Sc0",
+        "title": "What to choose: Skateboard, Longboard or Cruiser"
+      },
+      {
+        "type": "youtube",
+        "id": "JUjDhNJOIUo",
+        "title": "LEARNING TO SKATEBOARD!"
+      },
+      {
+        "type": "youtube",
+        "id": "PJGhiWPI8Qc",
+        "title": "Learning to Skateboard and Ollie in 30 Days with Rachelle Vinberg"
+      },
+      {
+        "type": "youtube",
+        "id": "yDqdF5-qRBM",
+        "title": "How to Longboard Step-by-Step"
+      },
+      {
+        "type": "youtube",
+        "id": "zBdrp2tCu4w",
+        "title": "How To Longboard For Beginners"
+      },
+      {
+        "type": "youtube",
+        "id": "IbXfdXaMsic",
+        "title": "Longboard Dancing Tutorial: First Steps"
+      },
+      {
+        "type": "youtube",
+        "id": "T_NnzpGa410",
+        "title": "Learning to Longboard Dance with Viral Skater Sensation Hyojoo"
+      },
+      {
+        "type": "youtube",
+        "id": "AuCv9DV2Nbc",
+        "title": "Los Angeles, with umbrella"
+      },
+      {
+        "type": "youtube",
+        "id": "CKJ8aTp9-OY",
+        "title": "Sky Brown"
+      }
+    ],
+    "previous": {
+      "name": "the-dancer",
+      "title": "The Dancer"
+    },
+    "next": {
       "name": "the-trainer",
       "title": "The Trainer"
     }
@@ -2641,8 +2730,8 @@
       }
     ],
     "previous": {
-      "name": "the-dancer",
-      "title": "The Dancer"
+      "name": "the-longboarder",
+      "title": "The Longboarder"
     },
     "next": {
       "name": "the-jogger",

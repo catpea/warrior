@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### July 31st 2020, 9:35:20 pm EDT
+Created a new chapter [The Longboarder](the-longboarder.html).
+
+
 ### July 25th 2020, 1:29:41 am EDT
 Created a new chapter [The Flintknapper](the-flintknapper.html).
 
