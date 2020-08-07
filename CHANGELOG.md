@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### August 7th 2020, 7:16:31 pm EDT
+Created a new chapter [The Typographer](the-typographer.html).
+
+
 ### July 31st 2020, 9:35:20 pm EDT
 Created a new chapter [The Longboarder](the-longboarder.html).
 
