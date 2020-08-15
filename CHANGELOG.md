@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### August 14th 2020, 8:56:55 pm EDT
+Created a new chapter [The Trail Runner](the-trail-runner.html).
+
+
 ### August 7th 2020, 7:16:31 pm EDT
 Created a new chapter [The Typographer](the-typographer.html).
 
