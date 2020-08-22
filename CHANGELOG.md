@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### August 21st 2020, 8:27:03 pm EDT
+Created a new chapter [The Slam Poet](the-slam-poet.html).
+
+
 ### August 14th 2020, 8:56:55 pm EDT
 Created a new chapter [The Trail Runner](the-trail-runner.html).
 
