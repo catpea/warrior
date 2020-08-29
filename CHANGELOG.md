@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### August 28th 2020, 8:24:27 pm EDT
+Created a new chapter [The Librarian](the-librarian.html).
+
+
 ### August 21st 2020, 8:27:03 pm EDT
 Created a new chapter [The Slam Poet](the-slam-poet.html).
 
