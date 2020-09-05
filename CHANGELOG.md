@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### September 4th 2020, 10:27:19 pm EDT
+Created a new chapter [The Orator](the-orator.html).
+
+
 ### August 28th 2020, 8:24:27 pm EDT
 Created a new chapter [The Librarian](the-librarian.html).
 
