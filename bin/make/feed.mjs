@@ -151,12 +151,12 @@ async function main(){
 
     if(!item.previous){
       item.previous = {
-        name: data[data.length-1].name
+        name: 'warrior-'+ data[data.length-1].name
       }
     }
     if(!item.next){
       item.next = {
-        name: data[0].name
+        name: 'warrior-'+ data[0].name
       }
     }
 
@@ -188,8 +188,8 @@ async function main(){
           "isNewest": (index+1)===data.length?true:false,
           "isOldest": index===0?true:false,
 
-          "olderId": item.previous.name,
-          "newerId": item.next.name,
+          "olderId": 'warrior-' + item.previous.name,
+          "newerId": 'warrior-' + item.next.name,
 
           "newestId": `warrior-${data[data.length-1].name}`,
           "oldestId": `warrior-${data[0].name}`,
