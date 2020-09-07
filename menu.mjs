@@ -17,13 +17,18 @@ const questions = [
       // },
       {
         key: 'u',
-        name: 'Make Data',
+        name: '1) Make Data',
         value: './bin/make/data.mjs'
       },
       {
         key: 'u',
-        name: 'Make Docs',
+        name: '2) Make Docs',
         value: './bin/make/docs.mjs'
+      },
+      {
+        key: 'u',
+        name: '3) Make Feed',
+        value: './bin/make/feed.mjs'
       },
       {
         key: 'p',
