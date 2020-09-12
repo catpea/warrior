@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### September 11th 2020, 10:54:50 pm EDT
+Created a new chapter [The Believer](the-believer.html).
+
+
 ### September 4th 2020, 10:27:19 pm EDT
 Created a new chapter [The Orator](the-orator.html).
 

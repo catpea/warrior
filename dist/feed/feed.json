@@ -12,9 +12,9 @@
     "counter": 1,
     "isNewest": false,
     "isOldest": true,
-    "olderId": "warrior-warrior-the-founder",
+    "olderId": "warrior-warrior-the-believer",
     "newerId": "warrior-introduction",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -32,7 +32,7 @@
     "isOldest": false,
     "olderId": "warrior-foreword",
     "newerId": "warrior-the-hunter",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -50,7 +50,7 @@
     "isOldest": false,
     "olderId": "warrior-introduction",
     "newerId": "warrior-the-adventurer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -68,7 +68,7 @@
     "isOldest": false,
     "olderId": "warrior-the-hunter",
     "newerId": "warrior-the-soldier",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -86,7 +86,7 @@
     "isOldest": false,
     "olderId": "warrior-the-adventurer",
     "newerId": "warrior-the-knight-of-virtue",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -104,7 +104,7 @@
     "isOldest": false,
     "olderId": "warrior-the-soldier",
     "newerId": "warrior-the-lady-and-the-gentleman",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -122,7 +122,7 @@
     "isOldest": false,
     "olderId": "warrior-the-knight-of-virtue",
     "newerId": "warrior-the-officer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -140,7 +140,7 @@
     "isOldest": false,
     "olderId": "warrior-the-lady-and-the-gentleman",
     "newerId": "warrior-the-intellectual",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -158,7 +158,7 @@
     "isOldest": false,
     "olderId": "warrior-the-officer",
     "newerId": "warrior-the-humanitarian",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -176,7 +176,7 @@
     "isOldest": false,
     "olderId": "warrior-the-intellectual",
     "newerId": "warrior-the-ultra",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -194,7 +194,7 @@
     "isOldest": false,
     "olderId": "warrior-the-humanitarian",
     "newerId": "warrior-the-superhero",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -212,7 +212,7 @@
     "isOldest": false,
     "olderId": "warrior-the-ultra",
     "newerId": "warrior-the-philosopher",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -230,7 +230,7 @@
     "isOldest": false,
     "olderId": "warrior-the-superhero",
     "newerId": "warrior-the-skeptic",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -248,7 +248,7 @@
     "isOldest": false,
     "olderId": "warrior-the-philosopher",
     "newerId": "warrior-the-scientist",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -266,7 +266,7 @@
     "isOldest": false,
     "olderId": "warrior-the-skeptic",
     "newerId": "warrior-the-naturalist",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -284,7 +284,7 @@
     "isOldest": false,
     "olderId": "warrior-the-scientist",
     "newerId": "warrior-the-survivalist",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -302,7 +302,7 @@
     "isOldest": false,
     "olderId": "warrior-the-naturalist",
     "newerId": "warrior-the-backpacker",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -320,7 +320,7 @@
     "isOldest": false,
     "olderId": "warrior-the-survivalist",
     "newerId": "warrior-the-explorer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -338,7 +338,7 @@
     "isOldest": false,
     "olderId": "warrior-the-backpacker",
     "newerId": "warrior-the-discoverer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -356,7 +356,7 @@
     "isOldest": false,
     "olderId": "warrior-the-explorer",
     "newerId": "warrior-the-astronomer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -374,7 +374,7 @@
     "isOldest": false,
     "olderId": "warrior-the-discoverer",
     "newerId": "warrior-the-mine-explorer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -392,7 +392,7 @@
     "isOldest": false,
     "olderId": "warrior-the-astronomer",
     "newerId": "warrior-the-metal-detectorist",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -410,7 +410,7 @@
     "isOldest": false,
     "olderId": "warrior-the-mine-explorer",
     "newerId": "warrior-the-flintknapper",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -428,7 +428,7 @@
     "isOldest": false,
     "olderId": "warrior-the-metal-detectorist",
     "newerId": "warrior-the-dancer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -446,7 +446,7 @@
     "isOldest": false,
     "olderId": "warrior-the-flintknapper",
     "newerId": "warrior-the-longboarder",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -464,7 +464,7 @@
     "isOldest": false,
     "olderId": "warrior-the-dancer",
     "newerId": "warrior-the-trainer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -482,7 +482,7 @@
     "isOldest": false,
     "olderId": "warrior-the-longboarder",
     "newerId": "warrior-the-jogger",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -500,7 +500,7 @@
     "isOldest": false,
     "olderId": "warrior-the-trainer",
     "newerId": "warrior-the-trail-runner",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -518,7 +518,7 @@
     "isOldest": false,
     "olderId": "warrior-the-jogger",
     "newerId": "warrior-the-athlete",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -536,7 +536,7 @@
     "isOldest": false,
     "olderId": "warrior-the-trail-runner",
     "newerId": "warrior-the-bodybuilder",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -554,7 +554,7 @@
     "isOldest": false,
     "olderId": "warrior-the-athlete",
     "newerId": "warrior-the-slackliner",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -572,7 +572,7 @@
     "isOldest": false,
     "olderId": "warrior-the-bodybuilder",
     "newerId": "warrior-the-tracer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -590,7 +590,7 @@
     "isOldest": false,
     "olderId": "warrior-the-slackliner",
     "newerId": "warrior-the-gymnast",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -608,7 +608,7 @@
     "isOldest": false,
     "olderId": "warrior-the-tracer",
     "newerId": "warrior-the-luminary",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -626,7 +626,7 @@
     "isOldest": false,
     "olderId": "warrior-the-gymnast",
     "newerId": "warrior-the-connoisseur",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -644,7 +644,7 @@
     "isOldest": false,
     "olderId": "warrior-the-luminary",
     "newerId": "warrior-the-chef",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -662,7 +662,7 @@
     "isOldest": false,
     "olderId": "warrior-the-connoisseur",
     "newerId": "warrior-the-restorer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -680,7 +680,7 @@
     "isOldest": false,
     "olderId": "warrior-the-chef",
     "newerId": "warrior-the-blacksmith",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -698,7 +698,7 @@
     "isOldest": false,
     "olderId": "warrior-the-restorer",
     "newerId": "warrior-the-maker",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -716,7 +716,7 @@
     "isOldest": false,
     "olderId": "warrior-the-blacksmith",
     "newerId": "warrior-the-dj",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -734,7 +734,7 @@
     "isOldest": false,
     "olderId": "warrior-the-maker",
     "newerId": "warrior-the-musician",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -752,7 +752,7 @@
     "isOldest": false,
     "olderId": "warrior-the-dj",
     "newerId": "warrior-the-ukulele-player",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -770,7 +770,7 @@
     "isOldest": false,
     "olderId": "warrior-the-musician",
     "newerId": "warrior-the-maverick",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -788,7 +788,7 @@
     "isOldest": false,
     "olderId": "warrior-the-ukulele-player",
     "newerId": "warrior-the-composer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -806,7 +806,7 @@
     "isOldest": false,
     "olderId": "warrior-the-maverick",
     "newerId": "warrior-the-poet",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -824,7 +824,7 @@
     "isOldest": false,
     "olderId": "warrior-the-composer",
     "newerId": "warrior-the-slam-poet",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -842,7 +842,7 @@
     "isOldest": false,
     "olderId": "warrior-the-poet",
     "newerId": "warrior-the-sculptor",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -860,7 +860,7 @@
     "isOldest": false,
     "olderId": "warrior-the-slam-poet",
     "newerId": "warrior-the-photographer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -878,7 +878,7 @@
     "isOldest": false,
     "olderId": "warrior-the-sculptor",
     "newerId": "warrior-the-filmmaker",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -896,7 +896,7 @@
     "isOldest": false,
     "olderId": "warrior-the-photographer",
     "newerId": "warrior-the-mudlark",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -914,7 +914,7 @@
     "isOldest": false,
     "olderId": "warrior-the-filmmaker",
     "newerId": "warrior-the-artist",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -932,7 +932,7 @@
     "isOldest": false,
     "olderId": "warrior-the-mudlark",
     "newerId": "warrior-the-typographer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -950,7 +950,7 @@
     "isOldest": false,
     "olderId": "warrior-the-artist",
     "newerId": "warrior-the-designer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -968,7 +968,7 @@
     "isOldest": false,
     "olderId": "warrior-the-typographer",
     "newerId": "warrior-the-graffitist",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -986,7 +986,7 @@
     "isOldest": false,
     "olderId": "warrior-the-designer",
     "newerId": "warrior-the-hacker",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1004,7 +1004,7 @@
     "isOldest": false,
     "olderId": "warrior-the-graffitist",
     "newerId": "warrior-the-wizard",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1022,7 +1022,7 @@
     "isOldest": false,
     "olderId": "warrior-the-hacker",
     "newerId": "warrior-the-guru",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1040,7 +1040,7 @@
     "isOldest": false,
     "olderId": "warrior-the-wizard",
     "newerId": "warrior-the-programmer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1058,7 +1058,7 @@
     "isOldest": false,
     "olderId": "warrior-the-guru",
     "newerId": "warrior-the-web-developer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1076,7 +1076,7 @@
     "isOldest": false,
     "olderId": "warrior-the-programmer",
     "newerId": "warrior-the-cryptographer",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1094,7 +1094,7 @@
     "isOldest": false,
     "olderId": "warrior-the-web-developer",
     "newerId": "warrior-the-librarian",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1112,7 +1112,7 @@
     "isOldest": false,
     "olderId": "warrior-the-cryptographer",
     "newerId": "warrior-the-highschooler",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1130,7 +1130,7 @@
     "isOldest": false,
     "olderId": "warrior-the-librarian",
     "newerId": "warrior-the-principal",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1148,7 +1148,7 @@
     "isOldest": false,
     "olderId": "warrior-the-highschooler",
     "newerId": "warrior-the-teacher",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1166,7 +1166,7 @@
     "isOldest": false,
     "olderId": "warrior-the-principal",
     "newerId": "warrior-the-student",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1184,7 +1184,7 @@
     "isOldest": false,
     "olderId": "warrior-the-teacher",
     "newerId": "warrior-the-orator",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1202,7 +1202,7 @@
     "isOldest": false,
     "olderId": "warrior-the-student",
     "newerId": "warrior-the-genius",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1220,7 +1220,7 @@
     "isOldest": false,
     "olderId": "warrior-the-orator",
     "newerId": "warrior-the-courageous",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1238,7 +1238,7 @@
     "isOldest": false,
     "olderId": "warrior-the-genius",
     "newerId": "warrior-the-visionary",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1256,7 +1256,7 @@
     "isOldest": false,
     "olderId": "warrior-the-courageous",
     "newerId": "warrior-the-founder",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1270,11 +1270,29 @@
       "text": "Startup Accelerators: There are two leading Startup Accelerators in US. Y Combinator and Techstars. Y Combinator: Website · Y Combinator on YouTube Startup School Videos What is Y Combinator? How and Why to Start A Startup - Sam Altman & Dustin Moskovitz (44 minute lecture) Investors Are Waiting: Y Combinator created Requests for Startups, a list of startup ideas they are waiting for. It includes Enterprise Software, Financial Services, Programming Tools, and Computer Security to name a few. YC Partner AMA at the Female Founders Conference Fundraising Advice from Female Founders The Most Important Decision is Getting Started – Laura Behrens Wu Mariya Nurislamova, Founder of Scentbird at the Female Founders Conference Emily Weiss on the Insights That Grew Glossier - With Amy Buechler at the Female Founders Conference Techstars: Website · Techstars on YouTube What is Techstars? What Techstars Gave Me - Founder Stories Mary Haskett, Founder of Blink Identity Sky Kelley, Founder of Avisare Sun Tzu: Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. Mastery of Subject: What Sun Tzu hoped we understood was this: \"Victorious warriors, master the sword before the battle; while defeated warriors hope to learn how to use the sword during their first sword-fight.\" Creating a tiny company with a winning product, even without filling out any paperwork. Will give you all the tools you need to sit down with an Accelerator, or your first investors and show them the relationship between advertising budget, number of developers, and product sales. What may feel intimidating when all you have, is an idea; will become energizing, and empowering when you have some sales to show for it. It Is a Big World: Large Startup Accelerator acceptance rates are between 1% and 3%, but there are many more smaller ones. Remember, you and your investors are connected. They make money, when you make money. Armed with a winning idea you already covered a great deal of distance towards success. Good Ideas: A good idea, already has desperate customers searching for a way in. Google Ads is a Good Idea. Every business person on the internet needs to advertise to get customers to come over. Google has a unique position where many people come to visit its pages, thus they can display ads; they have an advertising network. They have something everybody needs the moment they are ready for their first sale. Squarespace or similar, is another great idea. It is a website that can generate a start-up website, based on some screenshots and text. Every start-up has screenshots, and no time to work on the website. Wrap Bootstrap: User Interfaces are hard. Having your team create a powerful computer program is one thing, but making it look nice; is another. This is why theme websites make sales. They have all the code, with all the colors and fonts matching, and it saves so much work to focus on the program and have the UI snippets ready. Parse, because saving data, is huge. When developing applications you need User Accounts, but also some place to store information. Parse has been Open Sourced, and all of the code is available here: https://parseplatform.org/ Danger: Learning Programming to begin creating such marvels, will also destroy the pillars behind them; as the languages twist them to meet your own deadlines. Sitting down to build your program, and invent it too, is only good for research, and not for meeting serious implementation goals or deadlines. You must separate yourself from the implementation (of which, in the end, there may be many). You must become the leader, the protector of your vision. And lead - that's right - lead your team to victory. Source of Ideas: The best source of ideas, is a list of Winning Companies. Investors Requesting for Startups. List of mergers and acquisitions by Alphabet. Profit Hunt (a play on Product Hunt) has many smaller ideas along with Monthly Recurring Revenue (MRR). "
     },
     "counter": 71,
-    "isNewest": true,
+    "isNewest": false,
     "isOldest": false,
     "olderId": "warrior-the-visionary",
+    "newerId": "warrior-the-believer",
+    "newestId": "warrior-the-believer",
+    "oldestId": "warrior-foreword"
+  },
+  {
+    "title": "The Believer",
+    "date": "2019-2020",
+    "timestamp": "2019-2020",
+    "id": "warrior-the-believer",
+    "data": {
+      "html": "<section>\n  <header>\n    <h2>My thoughts for the Call to Unite</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=QU4Q17t4muY\" class=\"no-tufte-underline\" title=\"My thoughts for the Call to Unite\">\n      <img src=\"image/yid-QU4Q17t4muY.jpg\" alt=\"My thoughts for the Call to Unite\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>My thoughts for the Call to Unite</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=QU4Q17t4muY\" title=\"My thoughts for the Call to Unite\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>How books can open your mind by Lisa Bu</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=6ibCtsHgz3Y\" class=\"no-tufte-underline\" title=\"How books can open your mind by Lisa Bu\">\n      <img src=\"image/yid-6ibCtsHgz3Y.jpg\" alt=\"How books can open your mind by Lisa Bu\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>How books can open your mind by Lisa Bu</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=6ibCtsHgz3Y\" title=\"How books can open your mind by Lisa Bu\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Why you should make useless things by Simone Giertz</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=c0bsKc4tiuY\" class=\"no-tufte-underline\" title=\"Why you should make useless things by Simone Giertz\">\n      <img src=\"image/yid-c0bsKc4tiuY.jpg\" alt=\"Why you should make useless things by Simone Giertz\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Why you should make useless things by Simone Giertz</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=c0bsKc4tiuY\" title=\"Why you should make useless things by Simone Giertz\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=hJnEQCMA5Sg\" class=\"no-tufte-underline\" title=\"Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger\">\n      <img src=\"image/yid-hJnEQCMA5Sg.jpg\" alt=\"Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=hJnEQCMA5Sg\" title=\"Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>How language shapes the way we think by Lera Boroditsky</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=RKK7wGAYP6k\" class=\"no-tufte-underline\" title=\"How language shapes the way we think by Lera Boroditsky\">\n      <img src=\"image/yid-RKK7wGAYP6k.jpg\" alt=\"How language shapes the way we think by Lera Boroditsky\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>How language shapes the way we think by Lera Boroditsky</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=RKK7wGAYP6k\" title=\"How language shapes the way we think by Lera Boroditsky\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>What I learned as a prisoner in North Korea by Euna Lee</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=ZL-6MeYBeUs\" class=\"no-tufte-underline\" title=\"What I learned as a prisoner in North Korea by Euna Lee\">\n      <img src=\"image/yid-ZL-6MeYBeUs.jpg\" alt=\"What I learned as a prisoner in North Korea by Euna Lee\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>What I learned as a prisoner in North Korea by Euna Lee</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=ZL-6MeYBeUs\" title=\"What I learned as a prisoner in North Korea by Euna Lee\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Success, failure and the drive to keep creating by Elizabeth Gilbert</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=_waBFUg_oT8\" class=\"no-tufte-underline\" title=\"Success, failure and the drive to keep creating by Elizabeth Gilbert\">\n      <img src=\"image/yid-_waBFUg_oT8.jpg\" alt=\"Success, failure and the drive to keep creating by Elizabeth Gilbert\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Success, failure and the drive to keep creating by Elizabeth Gilbert</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=_waBFUg_oT8\" title=\"Success, failure and the drive to keep creating by Elizabeth Gilbert\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The power of introverts by Susan Cain</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=c0KYU2j0TM4\" class=\"no-tufte-underline\" title=\"The power of introverts by Susan Cain\">\n      <img src=\"image/yid-c0KYU2j0TM4.jpg\" alt=\"The power of introverts by Susan Cain\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The power of introverts by Susan Cain</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=c0KYU2j0TM4\" title=\"The power of introverts by Susan Cain\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>There&#x27;s more to life than being happy by Emily Esfahani Smith</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=y9Trdafp83U\" class=\"no-tufte-underline\" title=\"There&#x27;s more to life than being happy by Emily Esfahani Smith\">\n      <img src=\"image/yid-y9Trdafp83U.jpg\" alt=\"There&#x27;s more to life than being happy by Emily Esfahani Smith\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>There&#x27;s more to life than being happy by Emily Esfahani Smith</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=y9Trdafp83U\" title=\"There&#x27;s more to life than being happy by Emily Esfahani Smith\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Grit, the power of passion and perseverance by Angela Lee Duckworth</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=H14bBuluwB8\" class=\"no-tufte-underline\" title=\"Grit, the power of passion and perseverance by Angela Lee Duckworth\">\n      <img src=\"image/yid-H14bBuluwB8.jpg\" alt=\"Grit, the power of passion and perseverance by Angela Lee Duckworth\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Grit, the power of passion and perseverance by Angela Lee Duckworth</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=H14bBuluwB8\" title=\"Grit, the power of passion and perseverance by Angela Lee Duckworth\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The power of believing that you can improve by Carol Dweck</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=_X0mgOOSpLU\" class=\"no-tufte-underline\" title=\"The power of believing that you can improve by Carol Dweck\">\n      <img src=\"image/yid-_X0mgOOSpLU.jpg\" alt=\"The power of believing that you can improve by Carol Dweck\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The power of believing that you can improve by Carol Dweck</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=_X0mgOOSpLU\" title=\"The power of believing that you can improve by Carol Dweck\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Finding Your Element by Sir Ken Robinson</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=17fbxRQgMlU\" class=\"no-tufte-underline\" title=\"Finding Your Element by Sir Ken Robinson\">\n      <img src=\"image/yid-17fbxRQgMlU.jpg\" alt=\"Finding Your Element by Sir Ken Robinson\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Finding Your Element by Sir Ken Robinson</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=17fbxRQgMlU\" title=\"Finding Your Element by Sir Ken Robinson\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Allow things to unfold and you will find your purpose in life by Peggy Oki</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=ycB29FkoylE\" class=\"no-tufte-underline\" title=\"Allow things to unfold and you will find your purpose in life by Peggy Oki\">\n      <img src=\"image/yid-ycB29FkoylE.jpg\" alt=\"Allow things to unfold and you will find your purpose in life by Peggy Oki\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Allow things to unfold and you will find your purpose in life by Peggy Oki</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=ycB29FkoylE\" title=\"Allow things to unfold and you will find your purpose in life by Peggy Oki\">Play Video</a></p>\n</section>",
+      "page": "<html><head><title>The Believer</title></head><body><section>\n  <header>\n    <h2>My thoughts for the Call to Unite</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=QU4Q17t4muY\" class=\"no-tufte-underline\" title=\"My thoughts for the Call to Unite\">\n      <img src=\"image/yid-QU4Q17t4muY.jpg\" alt=\"My thoughts for the Call to Unite\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>My thoughts for the Call to Unite</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=QU4Q17t4muY\" title=\"My thoughts for the Call to Unite\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>How books can open your mind by Lisa Bu</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=6ibCtsHgz3Y\" class=\"no-tufte-underline\" title=\"How books can open your mind by Lisa Bu\">\n      <img src=\"image/yid-6ibCtsHgz3Y.jpg\" alt=\"How books can open your mind by Lisa Bu\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>How books can open your mind by Lisa Bu</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=6ibCtsHgz3Y\" title=\"How books can open your mind by Lisa Bu\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Why you should make useless things by Simone Giertz</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=c0bsKc4tiuY\" class=\"no-tufte-underline\" title=\"Why you should make useless things by Simone Giertz\">\n      <img src=\"image/yid-c0bsKc4tiuY.jpg\" alt=\"Why you should make useless things by Simone Giertz\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Why you should make useless things by Simone Giertz</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=c0bsKc4tiuY\" title=\"Why you should make useless things by Simone Giertz\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=hJnEQCMA5Sg\" class=\"no-tufte-underline\" title=\"Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger\">\n      <img src=\"image/yid-hJnEQCMA5Sg.jpg\" alt=\"Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=hJnEQCMA5Sg\" title=\"Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>How language shapes the way we think by Lera Boroditsky</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=RKK7wGAYP6k\" class=\"no-tufte-underline\" title=\"How language shapes the way we think by Lera Boroditsky\">\n      <img src=\"image/yid-RKK7wGAYP6k.jpg\" alt=\"How language shapes the way we think by Lera Boroditsky\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>How language shapes the way we think by Lera Boroditsky</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=RKK7wGAYP6k\" title=\"How language shapes the way we think by Lera Boroditsky\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>What I learned as a prisoner in North Korea by Euna Lee</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=ZL-6MeYBeUs\" class=\"no-tufte-underline\" title=\"What I learned as a prisoner in North Korea by Euna Lee\">\n      <img src=\"image/yid-ZL-6MeYBeUs.jpg\" alt=\"What I learned as a prisoner in North Korea by Euna Lee\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>What I learned as a prisoner in North Korea by Euna Lee</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=ZL-6MeYBeUs\" title=\"What I learned as a prisoner in North Korea by Euna Lee\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Success, failure and the drive to keep creating by Elizabeth Gilbert</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=_waBFUg_oT8\" class=\"no-tufte-underline\" title=\"Success, failure and the drive to keep creating by Elizabeth Gilbert\">\n      <img src=\"image/yid-_waBFUg_oT8.jpg\" alt=\"Success, failure and the drive to keep creating by Elizabeth Gilbert\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Success, failure and the drive to keep creating by Elizabeth Gilbert</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=_waBFUg_oT8\" title=\"Success, failure and the drive to keep creating by Elizabeth Gilbert\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The power of introverts by Susan Cain</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=c0KYU2j0TM4\" class=\"no-tufte-underline\" title=\"The power of introverts by Susan Cain\">\n      <img src=\"image/yid-c0KYU2j0TM4.jpg\" alt=\"The power of introverts by Susan Cain\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The power of introverts by Susan Cain</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=c0KYU2j0TM4\" title=\"The power of introverts by Susan Cain\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>There&#x27;s more to life than being happy by Emily Esfahani Smith</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=y9Trdafp83U\" class=\"no-tufte-underline\" title=\"There&#x27;s more to life than being happy by Emily Esfahani Smith\">\n      <img src=\"image/yid-y9Trdafp83U.jpg\" alt=\"There&#x27;s more to life than being happy by Emily Esfahani Smith\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>There&#x27;s more to life than being happy by Emily Esfahani Smith</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=y9Trdafp83U\" title=\"There&#x27;s more to life than being happy by Emily Esfahani Smith\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Grit, the power of passion and perseverance by Angela Lee Duckworth</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=H14bBuluwB8\" class=\"no-tufte-underline\" title=\"Grit, the power of passion and perseverance by Angela Lee Duckworth\">\n      <img src=\"image/yid-H14bBuluwB8.jpg\" alt=\"Grit, the power of passion and perseverance by Angela Lee Duckworth\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Grit, the power of passion and perseverance by Angela Lee Duckworth</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=H14bBuluwB8\" title=\"Grit, the power of passion and perseverance by Angela Lee Duckworth\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The power of believing that you can improve by Carol Dweck</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=_X0mgOOSpLU\" class=\"no-tufte-underline\" title=\"The power of believing that you can improve by Carol Dweck\">\n      <img src=\"image/yid-_X0mgOOSpLU.jpg\" alt=\"The power of believing that you can improve by Carol Dweck\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The power of believing that you can improve by Carol Dweck</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=_X0mgOOSpLU\" title=\"The power of believing that you can improve by Carol Dweck\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Finding Your Element by Sir Ken Robinson</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=17fbxRQgMlU\" class=\"no-tufte-underline\" title=\"Finding Your Element by Sir Ken Robinson\">\n      <img src=\"image/yid-17fbxRQgMlU.jpg\" alt=\"Finding Your Element by Sir Ken Robinson\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Finding Your Element by Sir Ken Robinson</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=17fbxRQgMlU\" title=\"Finding Your Element by Sir Ken Robinson\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Allow things to unfold and you will find your purpose in life by Peggy Oki</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=ycB29FkoylE\" class=\"no-tufte-underline\" title=\"Allow things to unfold and you will find your purpose in life by Peggy Oki\">\n      <img src=\"image/yid-ycB29FkoylE.jpg\" alt=\"Allow things to unfold and you will find your purpose in life by Peggy Oki\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Allow things to unfold and you will find your purpose in life by Peggy Oki</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=ycB29FkoylE\" title=\"Allow things to unfold and you will find your purpose in life by Peggy Oki\">Play Video</a></p>\n</section></body></html>",
+      "text": "My thoughts for the Call to Unite How books can open your mind by Lisa Bu Why you should make useless things by Simone Giertz Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger How language shapes the way we think by Lera Boroditsky What I learned as a prisoner in North Korea by Euna Lee Success, failure and the drive to keep creating by Elizabeth Gilbert The power of introverts by Susan Cain There's more to life than being happy by Emily Esfahani Smith Grit, the power of passion and perseverance by Angela Lee Duckworth The power of believing that you can improve by Carol Dweck Finding Your Element by Sir Ken Robinson Allow things to unfold and you will find your purpose in life by Peggy Oki "
+    },
+    "counter": 72,
+    "isNewest": true,
+    "isOldest": false,
+    "olderId": "warrior-the-founder",
     "newerId": "warrior-warrior-foreword",
-    "newestId": "warrior-the-founder",
+    "newestId": "warrior-the-believer",
     "oldestId": "warrior-foreword"
   }
 ]
