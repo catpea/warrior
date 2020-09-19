@@ -217,9 +217,6 @@
         warriors
           go to war first and then seek to win.</p>
     - type: youtube
-      id: GEPhLqwKo6g
-      title: Think Different
-    - type: youtube
       id: LlC2OdnhIiQ
       title: Viktor Frankl
     - type: quote
@@ -9453,3 +9450,60 @@
   previous:
     name: the-founder
     title: The Founder
+  next:
+    name: the-human
+    title: The Human
+- title: The Human
+  name: the-human
+  data:
+    - type: youtube
+      id: NtG9z2rwmUU
+      title: Eleanor Roosevelt’s Fight for Human Rights
+    - type: youtube
+      id: QmrIDK03Hlg
+      title: Max Richter - All Human Beings (Official Music Video by Yulia Mahr)
+    - type: youtube
+      id: 0k4nO4_iHG8
+      title: Viktor Frankl
+    - type: youtube
+      id: RBQ-IoHfimQ
+      title: Little Girl
+    - type: youtube
+      id: JaHwy5tdLOY
+      title: UDHR
+    - type: youtube
+      id: hTlrSYbCbHE
+      title: The Universal Declaration of Human Rights
+    - type: youtube
+      id: 9AThycGCakk
+      title: Life Lessons From 100-Year-Olds
+    - type: youtube
+      id: hZeoyYOYgg4
+      title: Eckhart Tolle
+    - type: youtube
+      id: QGQQ7pJQqHk
+      title: Emotional Intelligence
+    - type: youtube
+      id: iCvmsMzlF7o
+      title: The power of vulnerability
+    - type: youtube
+      id: psN1DORYYV0
+      title: Listening to shame
+    - type: youtube
+      id: vbM86eiczAg
+      title: Sir Harry Lauder 'Keep Right On To The End Of The Road' 1926 78 RPM
+    - type: youtube
+      id: mCbdS4hSa0s
+      title: Sir Ken Robinson - Changing Paradigms
+    - type: youtube
+      id: rBpaUICxEhk
+      title: Life is NOT a Journey - Alan Watts
+    - type: youtube
+      id: x7wni5hqSn4
+      title: 'American Tragedy, Sifting Through the Wreckage of a Rancher''s Life'
+    - type: youtube
+      id: cbcGbflpFzI
+      title: 'Examined Life, Martha Nussbaum'
+  previous:
+    name: the-believer
+    title: The Believer

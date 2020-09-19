@@ -2,6 +2,14 @@
 ## CHANGELOG
 
 
+### September 18th 2020, 8:07:57 pm EDT
+Created a new chapter [The Human](the-human.html).
+
+There is currently 73 chapters, we are either nearing the completion of this book, or its first part.
+
+The chapters are becoming more powerful, more complex and multiplexed, perhaps this is the beginning of the book... not the end; perhaps this is the beginning of the second book...
+
+
 ### September 11th 2020, 10:54:50 pm EDT
 Created a new chapter [The Believer](the-believer.html).
 

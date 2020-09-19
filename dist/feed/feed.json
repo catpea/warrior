@@ -12,9 +12,9 @@
     "counter": 1,
     "isNewest": false,
     "isOldest": true,
-    "olderId": "warrior-warrior-the-believer",
+    "olderId": "warrior-warrior-the-human",
     "newerId": "warrior-introduction",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -23,16 +23,16 @@
     "timestamp": "2019-2020",
     "id": "warrior-introduction",
     "data": {
-      "html": "<section>\n    <header>\n      <h2>Quote by Sun Tzu</h2>\n    </header>\n    <blockquote>\n      <p>Victorious warriors win first and then go to war, while defeated warriors\n        go to war first and then seek to win.</p>\n      <footer>\n        <cite title=\"Sun Tzu\"><a href=\"https://en.wikipedia.org/wiki/Sun_Tzu\">Sun Tzu</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Think Different</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=GEPhLqwKo6g\" class=\"no-tufte-underline\" title=\"Think Different\">\n        <img src=\"image/yid-GEPhLqwKo6g.jpg\" alt=\"Think Different\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Think Different</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=GEPhLqwKo6g\" title=\"Think Different\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Viktor Frankl</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" class=\"no-tufte-underline\" title=\"Viktor Frankl\">\n        <img src=\"image/yid-LlC2OdnhIiQ.jpg\" alt=\"Viktor Frankl\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Viktor Frankl</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" title=\"Viktor Frankl\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Quote by Viktor E. Frankl</h2>\n    </header>\n    <blockquote>\n      <p>Don&#39;t aim at success. The more you aim at it and make it a target, the more\n        you are going to miss it. For success, like happiness, cannot be pursued;\n        it must ensue, and it only does so as the unintended side effect of one&#39;s\n        personal dedication to a cause greater than oneself or as the by-product of\n        one&#39;s surrender to a person other than oneself. Happiness must happen, and\n        the same holds for success: you have to let it happen by not caring about\n        it. I want you to listen to what your conscience commands you to do and go\n        on to carry it out to the best of your knowledge. Then you will live to see\n        that in the long-run - in the long-run, I say! - success will follow you\n        precisely because you had forgotten to think about it.</p>\n      <footer>\n        <cite title=\"Viktor E. Frankl\"><a href=\"https://en.wikipedia.org/wiki/Viktor_Frankl\">Viktor E. Frankl</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Choose Life</h2>\n    </header>\n    <p>Warrior is the oldest name for it. Since our days in Africa we have\n      progressed forward and the word has evolved many times.</p>\n    <p>At each stage there are strong lessons to be learned, directly, or\n      indirectly.</p>\n    <p>Whatever your calling, wherever you break away to make your stand, even if\n      you fail to reach the top of your mountain, know that you will surely reach\n      the rays of the sun, know that you will become part of the Great Family of\n      Heroes, know that countless many will follow, and that your footsteps will\n      become a well worn path, in time.</p>\n    <p>The lessons come from Philosophers, Scientists, Thinkers, Soldiers,\n      Presidents, Athletes, Mercenaries, Murphy’s Law, Mighty Little Girls &amp;\n      Young Ladies, Mothers, Sisters, Brothers, and Fathers. From empathy and\n      compassion, joy and tragedy, triumph and disaster, and great challenges\n      like learning to live and grieve at the same time, or standing with the\n      demonized, disposable, or voiceless.</p>\n    <p>The lessons come from, Choosing Life.</p>\n    <p>To progress forward, we must be ready to learn to understand by subtle\n      analogy from all other theories. Theories of survival, of living above the\n      common levels of life, of choosing heroism, choosing greatness. Striving to\n      thrive, rising to impossible challenges, learning to overcome pain and\n      suffering, and standing upon the shoulders of giants to lead the way for\n      others to follow.</p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" class=\"no-tufte-underline\" title=\"Kosmos\">\n        <img src=\"image/yid-FyNR_LgiWEc.jpg\" alt=\"Kosmos\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Kosmos</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" title=\"Kosmos\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n      <h3>Walt Whitman</h3>\n    </header>\n    <p>Who includes diversity and is Nature,</p>\n    <p>Who is the amplitude of the earth, and the coarseness and sexuality of\n      the earth, and the great charity of the earth and the equilibrium also,</p>\n    <p>Who has not look’d forth from the windows the eyes for nothing, or whose\n      brain held audience with messengers for nothing,</p>\n    <p>Who contains believers and disbelievers, who is the most majestic lover,</p>\n    <p>Who holds duly his or her triune proportion of realism, spiritualism, and\n      of the æsthetic or intellectual,</p>\n    <p>Who having consider’d the body finds all its organs and parts good,</p>\n    <p>Who, out of the theory of the earth and of his or her body understands by\n      subtle analogies all other theories,</p>\n    <p>The theory of a city, a poem, and of the large politics of these States;</p>\n    <p>Who believes not only in our globe with its sun and moon, but in other\n      globes with their suns and moons,</p>\n    <p>Who, constructing the house of himself or herself, not for a day but for\n      all time, sees races, eras, dates, generations,</p>\n    <p>The past, the future, dwelling there, like space, inseparable together.</p>\n  </section>",
-      "page": "<html><head><title>Introduction</title></head><body><section>\n    <header>\n      <h2>Quote by Sun Tzu</h2>\n    </header>\n    <blockquote>\n      <p>Victorious warriors win first and then go to war, while defeated warriors\n        go to war first and then seek to win.</p>\n      <footer>\n        <cite title=\"Sun Tzu\"><a href=\"https://en.wikipedia.org/wiki/Sun_Tzu\">Sun Tzu</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Think Different</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=GEPhLqwKo6g\" class=\"no-tufte-underline\" title=\"Think Different\">\n        <img src=\"image/yid-GEPhLqwKo6g.jpg\" alt=\"Think Different\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Think Different</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=GEPhLqwKo6g\" title=\"Think Different\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Viktor Frankl</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" class=\"no-tufte-underline\" title=\"Viktor Frankl\">\n        <img src=\"image/yid-LlC2OdnhIiQ.jpg\" alt=\"Viktor Frankl\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Viktor Frankl</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" title=\"Viktor Frankl\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Quote by Viktor E. Frankl</h2>\n    </header>\n    <blockquote>\n      <p>Don&#39;t aim at success. The more you aim at it and make it a target, the more\n        you are going to miss it. For success, like happiness, cannot be pursued;\n        it must ensue, and it only does so as the unintended side effect of one&#39;s\n        personal dedication to a cause greater than oneself or as the by-product of\n        one&#39;s surrender to a person other than oneself. Happiness must happen, and\n        the same holds for success: you have to let it happen by not caring about\n        it. I want you to listen to what your conscience commands you to do and go\n        on to carry it out to the best of your knowledge. Then you will live to see\n        that in the long-run - in the long-run, I say! - success will follow you\n        precisely because you had forgotten to think about it.</p>\n      <footer>\n        <cite title=\"Viktor E. Frankl\"><a href=\"https://en.wikipedia.org/wiki/Viktor_Frankl\">Viktor E. Frankl</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Choose Life</h2>\n    </header>\n    <p>Warrior is the oldest name for it. Since our days in Africa we have\n      progressed forward and the word has evolved many times.</p>\n    <p>At each stage there are strong lessons to be learned, directly, or\n      indirectly.</p>\n    <p>Whatever your calling, wherever you break away to make your stand, even if\n      you fail to reach the top of your mountain, know that you will surely reach\n      the rays of the sun, know that you will become part of the Great Family of\n      Heroes, know that countless many will follow, and that your footsteps will\n      become a well worn path, in time.</p>\n    <p>The lessons come from Philosophers, Scientists, Thinkers, Soldiers,\n      Presidents, Athletes, Mercenaries, Murphy’s Law, Mighty Little Girls &amp;\n      Young Ladies, Mothers, Sisters, Brothers, and Fathers. From empathy and\n      compassion, joy and tragedy, triumph and disaster, and great challenges\n      like learning to live and grieve at the same time, or standing with the\n      demonized, disposable, or voiceless.</p>\n    <p>The lessons come from, Choosing Life.</p>\n    <p>To progress forward, we must be ready to learn to understand by subtle\n      analogy from all other theories. Theories of survival, of living above the\n      common levels of life, of choosing heroism, choosing greatness. Striving to\n      thrive, rising to impossible challenges, learning to overcome pain and\n      suffering, and standing upon the shoulders of giants to lead the way for\n      others to follow.</p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" class=\"no-tufte-underline\" title=\"Kosmos\">\n        <img src=\"image/yid-FyNR_LgiWEc.jpg\" alt=\"Kosmos\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Kosmos</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" title=\"Kosmos\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n      <h3>Walt Whitman</h3>\n    </header>\n    <p>Who includes diversity and is Nature,</p>\n    <p>Who is the amplitude of the earth, and the coarseness and sexuality of\n      the earth, and the great charity of the earth and the equilibrium also,</p>\n    <p>Who has not look’d forth from the windows the eyes for nothing, or whose\n      brain held audience with messengers for nothing,</p>\n    <p>Who contains believers and disbelievers, who is the most majestic lover,</p>\n    <p>Who holds duly his or her triune proportion of realism, spiritualism, and\n      of the æsthetic or intellectual,</p>\n    <p>Who having consider’d the body finds all its organs and parts good,</p>\n    <p>Who, out of the theory of the earth and of his or her body understands by\n      subtle analogies all other theories,</p>\n    <p>The theory of a city, a poem, and of the large politics of these States;</p>\n    <p>Who believes not only in our globe with its sun and moon, but in other\n      globes with their suns and moons,</p>\n    <p>Who, constructing the house of himself or herself, not for a day but for\n      all time, sees races, eras, dates, generations,</p>\n    <p>The past, the future, dwelling there, like space, inseparable together.</p>\n  </section></body></html>",
-      "text": "Sun Tzu: Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. Think Different Viktor Frankl Viktor E. Frankl: Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run - in the long-run, I say! - success will follow you precisely because you had forgotten to think about it. Choose Life: Warrior is the oldest name for it. Since our days in Africa we have progressed forward and the word has evolved many times. At each stage there are strong lessons to be learned, directly, or indirectly. Whatever your calling, wherever you break away to make your stand, even if you fail to reach the top of your mountain, know that you will surely reach the rays of the sun, know that you will become part of the Great Family of Heroes, know that countless many will follow, and that your footsteps will become a well worn path, in time. The lessons come from Philosophers, Scientists, Thinkers, Soldiers, Presidents, Athletes, Mercenaries, Murphy’s Law, Mighty Little Girls & Young Ladies, Mothers, Sisters, Brothers, and Fathers. From empathy and compassion, joy and tragedy, triumph and disaster, and great challenges like learning to live and grieve at the same time, or standing with the demonized, disposable, or voiceless. The lessons come from, Choosing Life. To progress forward, we must be ready to learn to understand by subtle analogy from all other theories. Theories of survival, of living above the common levels of life, of choosing heroism, choosing greatness. Striving to thrive, rising to impossible challenges, learning to overcome pain and suffering, and standing upon the shoulders of giants to lead the way for others to follow. Kosmos Kosmos by Walt Whitman: Who includes diversity and is Nature, Who is the amplitude of the earth, and the coarseness and sexuality of the earth, and the great charity of the earth and the equilibrium also, Who has not look’d forth from the windows the eyes for nothing, or whose brain held audience with messengers for nothing, Who contains believers and disbelievers, who is the most majestic lover, Who holds duly his or her triune proportion of realism, spiritualism, and of the æsthetic or intellectual, Who having consider’d the body finds all its organs and parts good, Who, out of the theory of the earth and of his or her body understands by subtle analogies all other theories, The theory of a city, a poem, and of the large politics of these States; Who believes not only in our globe with its sun and moon, but in other globes with their suns and moons, Who, constructing the house of himself or herself, not for a day but for all time, sees races, eras, dates, generations, The past, the future, dwelling there, like space, inseparable together. "
+      "html": "<section>\n    <header>\n      <h2>Quote by Sun Tzu</h2>\n    </header>\n    <blockquote>\n      <p>Victorious warriors win first and then go to war, while defeated warriors\n        go to war first and then seek to win.</p>\n      <footer>\n        <cite title=\"Sun Tzu\"><a href=\"https://en.wikipedia.org/wiki/Sun_Tzu\">Sun Tzu</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Viktor Frankl</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" class=\"no-tufte-underline\" title=\"Viktor Frankl\">\n        <img src=\"image/yid-LlC2OdnhIiQ.jpg\" alt=\"Viktor Frankl\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Viktor Frankl</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" title=\"Viktor Frankl\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Quote by Viktor E. Frankl</h2>\n    </header>\n    <blockquote>\n      <p>Don&#39;t aim at success. The more you aim at it and make it a target, the more\n        you are going to miss it. For success, like happiness, cannot be pursued;\n        it must ensue, and it only does so as the unintended side effect of one&#39;s\n        personal dedication to a cause greater than oneself or as the by-product of\n        one&#39;s surrender to a person other than oneself. Happiness must happen, and\n        the same holds for success: you have to let it happen by not caring about\n        it. I want you to listen to what your conscience commands you to do and go\n        on to carry it out to the best of your knowledge. Then you will live to see\n        that in the long-run - in the long-run, I say! - success will follow you\n        precisely because you had forgotten to think about it.</p>\n      <footer>\n        <cite title=\"Viktor E. Frankl\"><a href=\"https://en.wikipedia.org/wiki/Viktor_Frankl\">Viktor E. Frankl</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Choose Life</h2>\n    </header>\n    <p>Warrior is the oldest name for it. Since our days in Africa we have\n      progressed forward and the word has evolved many times.</p>\n    <p>At each stage there are strong lessons to be learned, directly, or\n      indirectly.</p>\n    <p>Whatever your calling, wherever you break away to make your stand, even if\n      you fail to reach the top of your mountain, know that you will surely reach\n      the rays of the sun, know that you will become part of the Great Family of\n      Heroes, know that countless many will follow, and that your footsteps will\n      become a well worn path, in time.</p>\n    <p>The lessons come from Philosophers, Scientists, Thinkers, Soldiers,\n      Presidents, Athletes, Mercenaries, Murphy’s Law, Mighty Little Girls &amp;\n      Young Ladies, Mothers, Sisters, Brothers, and Fathers. From empathy and\n      compassion, joy and tragedy, triumph and disaster, and great challenges\n      like learning to live and grieve at the same time, or standing with the\n      demonized, disposable, or voiceless.</p>\n    <p>The lessons come from, Choosing Life.</p>\n    <p>To progress forward, we must be ready to learn to understand by subtle\n      analogy from all other theories. Theories of survival, of living above the\n      common levels of life, of choosing heroism, choosing greatness. Striving to\n      thrive, rising to impossible challenges, learning to overcome pain and\n      suffering, and standing upon the shoulders of giants to lead the way for\n      others to follow.</p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" class=\"no-tufte-underline\" title=\"Kosmos\">\n        <img src=\"image/yid-FyNR_LgiWEc.jpg\" alt=\"Kosmos\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Kosmos</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" title=\"Kosmos\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n      <h3>Walt Whitman</h3>\n    </header>\n    <p>Who includes diversity and is Nature,</p>\n    <p>Who is the amplitude of the earth, and the coarseness and sexuality of\n      the earth, and the great charity of the earth and the equilibrium also,</p>\n    <p>Who has not look’d forth from the windows the eyes for nothing, or whose\n      brain held audience with messengers for nothing,</p>\n    <p>Who contains believers and disbelievers, who is the most majestic lover,</p>\n    <p>Who holds duly his or her triune proportion of realism, spiritualism, and\n      of the æsthetic or intellectual,</p>\n    <p>Who having consider’d the body finds all its organs and parts good,</p>\n    <p>Who, out of the theory of the earth and of his or her body understands by\n      subtle analogies all other theories,</p>\n    <p>The theory of a city, a poem, and of the large politics of these States;</p>\n    <p>Who believes not only in our globe with its sun and moon, but in other\n      globes with their suns and moons,</p>\n    <p>Who, constructing the house of himself or herself, not for a day but for\n      all time, sees races, eras, dates, generations,</p>\n    <p>The past, the future, dwelling there, like space, inseparable together.</p>\n  </section>",
+      "page": "<html><head><title>Introduction</title></head><body><section>\n    <header>\n      <h2>Quote by Sun Tzu</h2>\n    </header>\n    <blockquote>\n      <p>Victorious warriors win first and then go to war, while defeated warriors\n        go to war first and then seek to win.</p>\n      <footer>\n        <cite title=\"Sun Tzu\"><a href=\"https://en.wikipedia.org/wiki/Sun_Tzu\">Sun Tzu</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Viktor Frankl</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" class=\"no-tufte-underline\" title=\"Viktor Frankl\">\n        <img src=\"image/yid-LlC2OdnhIiQ.jpg\" alt=\"Viktor Frankl\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Viktor Frankl</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=LlC2OdnhIiQ\" title=\"Viktor Frankl\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Quote by Viktor E. Frankl</h2>\n    </header>\n    <blockquote>\n      <p>Don&#39;t aim at success. The more you aim at it and make it a target, the more\n        you are going to miss it. For success, like happiness, cannot be pursued;\n        it must ensue, and it only does so as the unintended side effect of one&#39;s\n        personal dedication to a cause greater than oneself or as the by-product of\n        one&#39;s surrender to a person other than oneself. Happiness must happen, and\n        the same holds for success: you have to let it happen by not caring about\n        it. I want you to listen to what your conscience commands you to do and go\n        on to carry it out to the best of your knowledge. Then you will live to see\n        that in the long-run - in the long-run, I say! - success will follow you\n        precisely because you had forgotten to think about it.</p>\n      <footer>\n        <cite title=\"Viktor E. Frankl\"><a href=\"https://en.wikipedia.org/wiki/Viktor_Frankl\">Viktor E. Frankl</a></cite>\n      </footer>\n    </blockquote>\n  </section>\n  <section>\n    <header>\n      <h2>Choose Life</h2>\n    </header>\n    <p>Warrior is the oldest name for it. Since our days in Africa we have\n      progressed forward and the word has evolved many times.</p>\n    <p>At each stage there are strong lessons to be learned, directly, or\n      indirectly.</p>\n    <p>Whatever your calling, wherever you break away to make your stand, even if\n      you fail to reach the top of your mountain, know that you will surely reach\n      the rays of the sun, know that you will become part of the Great Family of\n      Heroes, know that countless many will follow, and that your footsteps will\n      become a well worn path, in time.</p>\n    <p>The lessons come from Philosophers, Scientists, Thinkers, Soldiers,\n      Presidents, Athletes, Mercenaries, Murphy’s Law, Mighty Little Girls &amp;\n      Young Ladies, Mothers, Sisters, Brothers, and Fathers. From empathy and\n      compassion, joy and tragedy, triumph and disaster, and great challenges\n      like learning to live and grieve at the same time, or standing with the\n      demonized, disposable, or voiceless.</p>\n    <p>The lessons come from, Choosing Life.</p>\n    <p>To progress forward, we must be ready to learn to understand by subtle\n      analogy from all other theories. Theories of survival, of living above the\n      common levels of life, of choosing heroism, choosing greatness. Striving to\n      thrive, rising to impossible challenges, learning to overcome pain and\n      suffering, and standing upon the shoulders of giants to lead the way for\n      others to follow.</p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n    </header>\n    <figure>\n      <a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" class=\"no-tufte-underline\" title=\"Kosmos\">\n        <img src=\"image/yid-FyNR_LgiWEc.jpg\" alt=\"Kosmos\" style=\"width: 100%; height: auto;\">\n      </a>\n      <figcaption>Kosmos</figcaption>\n    </figure>\n    <p><a href=\"https://www.youtube.com/watch?v=FyNR_LgiWEc\" title=\"Kosmos\">Play Video</a></p>\n  </section>\n  <section>\n    <header>\n      <h2>Kosmos</h2>\n      <h3>Walt Whitman</h3>\n    </header>\n    <p>Who includes diversity and is Nature,</p>\n    <p>Who is the amplitude of the earth, and the coarseness and sexuality of\n      the earth, and the great charity of the earth and the equilibrium also,</p>\n    <p>Who has not look’d forth from the windows the eyes for nothing, or whose\n      brain held audience with messengers for nothing,</p>\n    <p>Who contains believers and disbelievers, who is the most majestic lover,</p>\n    <p>Who holds duly his or her triune proportion of realism, spiritualism, and\n      of the æsthetic or intellectual,</p>\n    <p>Who having consider’d the body finds all its organs and parts good,</p>\n    <p>Who, out of the theory of the earth and of his or her body understands by\n      subtle analogies all other theories,</p>\n    <p>The theory of a city, a poem, and of the large politics of these States;</p>\n    <p>Who believes not only in our globe with its sun and moon, but in other\n      globes with their suns and moons,</p>\n    <p>Who, constructing the house of himself or herself, not for a day but for\n      all time, sees races, eras, dates, generations,</p>\n    <p>The past, the future, dwelling there, like space, inseparable together.</p>\n  </section></body></html>",
+      "text": "Sun Tzu: Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. Viktor Frankl Viktor E. Frankl: Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run - in the long-run, I say! - success will follow you precisely because you had forgotten to think about it. Choose Life: Warrior is the oldest name for it. Since our days in Africa we have progressed forward and the word has evolved many times. At each stage there are strong lessons to be learned, directly, or indirectly. Whatever your calling, wherever you break away to make your stand, even if you fail to reach the top of your mountain, know that you will surely reach the rays of the sun, know that you will become part of the Great Family of Heroes, know that countless many will follow, and that your footsteps will become a well worn path, in time. The lessons come from Philosophers, Scientists, Thinkers, Soldiers, Presidents, Athletes, Mercenaries, Murphy’s Law, Mighty Little Girls & Young Ladies, Mothers, Sisters, Brothers, and Fathers. From empathy and compassion, joy and tragedy, triumph and disaster, and great challenges like learning to live and grieve at the same time, or standing with the demonized, disposable, or voiceless. The lessons come from, Choosing Life. To progress forward, we must be ready to learn to understand by subtle analogy from all other theories. Theories of survival, of living above the common levels of life, of choosing heroism, choosing greatness. Striving to thrive, rising to impossible challenges, learning to overcome pain and suffering, and standing upon the shoulders of giants to lead the way for others to follow. Kosmos Kosmos by Walt Whitman: Who includes diversity and is Nature, Who is the amplitude of the earth, and the coarseness and sexuality of the earth, and the great charity of the earth and the equilibrium also, Who has not look’d forth from the windows the eyes for nothing, or whose brain held audience with messengers for nothing, Who contains believers and disbelievers, who is the most majestic lover, Who holds duly his or her triune proportion of realism, spiritualism, and of the æsthetic or intellectual, Who having consider’d the body finds all its organs and parts good, Who, out of the theory of the earth and of his or her body understands by subtle analogies all other theories, The theory of a city, a poem, and of the large politics of these States; Who believes not only in our globe with its sun and moon, but in other globes with their suns and moons, Who, constructing the house of himself or herself, not for a day but for all time, sees races, eras, dates, generations, The past, the future, dwelling there, like space, inseparable together. "
     },
     "counter": 2,
     "isNewest": false,
     "isOldest": false,
     "olderId": "warrior-foreword",
     "newerId": "warrior-the-hunter",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -50,7 +50,7 @@
     "isOldest": false,
     "olderId": "warrior-introduction",
     "newerId": "warrior-the-adventurer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -68,7 +68,7 @@
     "isOldest": false,
     "olderId": "warrior-the-hunter",
     "newerId": "warrior-the-soldier",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -86,7 +86,7 @@
     "isOldest": false,
     "olderId": "warrior-the-adventurer",
     "newerId": "warrior-the-knight-of-virtue",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -104,7 +104,7 @@
     "isOldest": false,
     "olderId": "warrior-the-soldier",
     "newerId": "warrior-the-lady-and-the-gentleman",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -122,7 +122,7 @@
     "isOldest": false,
     "olderId": "warrior-the-knight-of-virtue",
     "newerId": "warrior-the-officer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -140,7 +140,7 @@
     "isOldest": false,
     "olderId": "warrior-the-lady-and-the-gentleman",
     "newerId": "warrior-the-intellectual",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -158,7 +158,7 @@
     "isOldest": false,
     "olderId": "warrior-the-officer",
     "newerId": "warrior-the-humanitarian",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -176,7 +176,7 @@
     "isOldest": false,
     "olderId": "warrior-the-intellectual",
     "newerId": "warrior-the-ultra",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -194,7 +194,7 @@
     "isOldest": false,
     "olderId": "warrior-the-humanitarian",
     "newerId": "warrior-the-superhero",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -212,7 +212,7 @@
     "isOldest": false,
     "olderId": "warrior-the-ultra",
     "newerId": "warrior-the-philosopher",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -230,7 +230,7 @@
     "isOldest": false,
     "olderId": "warrior-the-superhero",
     "newerId": "warrior-the-skeptic",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -248,7 +248,7 @@
     "isOldest": false,
     "olderId": "warrior-the-philosopher",
     "newerId": "warrior-the-scientist",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -266,7 +266,7 @@
     "isOldest": false,
     "olderId": "warrior-the-skeptic",
     "newerId": "warrior-the-naturalist",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -284,7 +284,7 @@
     "isOldest": false,
     "olderId": "warrior-the-scientist",
     "newerId": "warrior-the-survivalist",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -302,7 +302,7 @@
     "isOldest": false,
     "olderId": "warrior-the-naturalist",
     "newerId": "warrior-the-backpacker",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -320,7 +320,7 @@
     "isOldest": false,
     "olderId": "warrior-the-survivalist",
     "newerId": "warrior-the-explorer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -338,7 +338,7 @@
     "isOldest": false,
     "olderId": "warrior-the-backpacker",
     "newerId": "warrior-the-discoverer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -356,7 +356,7 @@
     "isOldest": false,
     "olderId": "warrior-the-explorer",
     "newerId": "warrior-the-astronomer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -374,7 +374,7 @@
     "isOldest": false,
     "olderId": "warrior-the-discoverer",
     "newerId": "warrior-the-mine-explorer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -392,7 +392,7 @@
     "isOldest": false,
     "olderId": "warrior-the-astronomer",
     "newerId": "warrior-the-metal-detectorist",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -410,7 +410,7 @@
     "isOldest": false,
     "olderId": "warrior-the-mine-explorer",
     "newerId": "warrior-the-flintknapper",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -428,7 +428,7 @@
     "isOldest": false,
     "olderId": "warrior-the-metal-detectorist",
     "newerId": "warrior-the-dancer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -446,7 +446,7 @@
     "isOldest": false,
     "olderId": "warrior-the-flintknapper",
     "newerId": "warrior-the-longboarder",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -464,7 +464,7 @@
     "isOldest": false,
     "olderId": "warrior-the-dancer",
     "newerId": "warrior-the-trainer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -482,7 +482,7 @@
     "isOldest": false,
     "olderId": "warrior-the-longboarder",
     "newerId": "warrior-the-jogger",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -500,7 +500,7 @@
     "isOldest": false,
     "olderId": "warrior-the-trainer",
     "newerId": "warrior-the-trail-runner",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -518,7 +518,7 @@
     "isOldest": false,
     "olderId": "warrior-the-jogger",
     "newerId": "warrior-the-athlete",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -536,7 +536,7 @@
     "isOldest": false,
     "olderId": "warrior-the-trail-runner",
     "newerId": "warrior-the-bodybuilder",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -554,7 +554,7 @@
     "isOldest": false,
     "olderId": "warrior-the-athlete",
     "newerId": "warrior-the-slackliner",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -572,7 +572,7 @@
     "isOldest": false,
     "olderId": "warrior-the-bodybuilder",
     "newerId": "warrior-the-tracer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -590,7 +590,7 @@
     "isOldest": false,
     "olderId": "warrior-the-slackliner",
     "newerId": "warrior-the-gymnast",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -608,7 +608,7 @@
     "isOldest": false,
     "olderId": "warrior-the-tracer",
     "newerId": "warrior-the-luminary",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -626,7 +626,7 @@
     "isOldest": false,
     "olderId": "warrior-the-gymnast",
     "newerId": "warrior-the-connoisseur",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -644,7 +644,7 @@
     "isOldest": false,
     "olderId": "warrior-the-luminary",
     "newerId": "warrior-the-chef",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -662,7 +662,7 @@
     "isOldest": false,
     "olderId": "warrior-the-connoisseur",
     "newerId": "warrior-the-restorer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -680,7 +680,7 @@
     "isOldest": false,
     "olderId": "warrior-the-chef",
     "newerId": "warrior-the-blacksmith",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -698,7 +698,7 @@
     "isOldest": false,
     "olderId": "warrior-the-restorer",
     "newerId": "warrior-the-maker",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -716,7 +716,7 @@
     "isOldest": false,
     "olderId": "warrior-the-blacksmith",
     "newerId": "warrior-the-dj",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -734,7 +734,7 @@
     "isOldest": false,
     "olderId": "warrior-the-maker",
     "newerId": "warrior-the-musician",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -752,7 +752,7 @@
     "isOldest": false,
     "olderId": "warrior-the-dj",
     "newerId": "warrior-the-ukulele-player",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -770,7 +770,7 @@
     "isOldest": false,
     "olderId": "warrior-the-musician",
     "newerId": "warrior-the-maverick",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -788,7 +788,7 @@
     "isOldest": false,
     "olderId": "warrior-the-ukulele-player",
     "newerId": "warrior-the-composer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -806,7 +806,7 @@
     "isOldest": false,
     "olderId": "warrior-the-maverick",
     "newerId": "warrior-the-poet",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -824,7 +824,7 @@
     "isOldest": false,
     "olderId": "warrior-the-composer",
     "newerId": "warrior-the-slam-poet",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -842,7 +842,7 @@
     "isOldest": false,
     "olderId": "warrior-the-poet",
     "newerId": "warrior-the-sculptor",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -860,7 +860,7 @@
     "isOldest": false,
     "olderId": "warrior-the-slam-poet",
     "newerId": "warrior-the-photographer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -878,7 +878,7 @@
     "isOldest": false,
     "olderId": "warrior-the-sculptor",
     "newerId": "warrior-the-filmmaker",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -896,7 +896,7 @@
     "isOldest": false,
     "olderId": "warrior-the-photographer",
     "newerId": "warrior-the-mudlark",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -914,7 +914,7 @@
     "isOldest": false,
     "olderId": "warrior-the-filmmaker",
     "newerId": "warrior-the-artist",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -932,7 +932,7 @@
     "isOldest": false,
     "olderId": "warrior-the-mudlark",
     "newerId": "warrior-the-typographer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -950,7 +950,7 @@
     "isOldest": false,
     "olderId": "warrior-the-artist",
     "newerId": "warrior-the-designer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -968,7 +968,7 @@
     "isOldest": false,
     "olderId": "warrior-the-typographer",
     "newerId": "warrior-the-graffitist",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -986,7 +986,7 @@
     "isOldest": false,
     "olderId": "warrior-the-designer",
     "newerId": "warrior-the-hacker",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1004,7 +1004,7 @@
     "isOldest": false,
     "olderId": "warrior-the-graffitist",
     "newerId": "warrior-the-wizard",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1022,7 +1022,7 @@
     "isOldest": false,
     "olderId": "warrior-the-hacker",
     "newerId": "warrior-the-guru",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1040,7 +1040,7 @@
     "isOldest": false,
     "olderId": "warrior-the-wizard",
     "newerId": "warrior-the-programmer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1058,7 +1058,7 @@
     "isOldest": false,
     "olderId": "warrior-the-guru",
     "newerId": "warrior-the-web-developer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1076,7 +1076,7 @@
     "isOldest": false,
     "olderId": "warrior-the-programmer",
     "newerId": "warrior-the-cryptographer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1094,7 +1094,7 @@
     "isOldest": false,
     "olderId": "warrior-the-web-developer",
     "newerId": "warrior-the-librarian",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1112,7 +1112,7 @@
     "isOldest": false,
     "olderId": "warrior-the-cryptographer",
     "newerId": "warrior-the-highschooler",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1130,7 +1130,7 @@
     "isOldest": false,
     "olderId": "warrior-the-librarian",
     "newerId": "warrior-the-principal",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1148,7 +1148,7 @@
     "isOldest": false,
     "olderId": "warrior-the-highschooler",
     "newerId": "warrior-the-teacher",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1166,7 +1166,7 @@
     "isOldest": false,
     "olderId": "warrior-the-principal",
     "newerId": "warrior-the-student",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1184,7 +1184,7 @@
     "isOldest": false,
     "olderId": "warrior-the-teacher",
     "newerId": "warrior-the-orator",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1202,7 +1202,7 @@
     "isOldest": false,
     "olderId": "warrior-the-student",
     "newerId": "warrior-the-genius",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1220,7 +1220,7 @@
     "isOldest": false,
     "olderId": "warrior-the-orator",
     "newerId": "warrior-the-courageous",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1238,7 +1238,7 @@
     "isOldest": false,
     "olderId": "warrior-the-genius",
     "newerId": "warrior-the-visionary",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1256,7 +1256,7 @@
     "isOldest": false,
     "olderId": "warrior-the-courageous",
     "newerId": "warrior-the-founder",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1274,7 +1274,7 @@
     "isOldest": false,
     "olderId": "warrior-the-visionary",
     "newerId": "warrior-the-believer",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   },
   {
@@ -1288,11 +1288,29 @@
       "text": "My thoughts for the Call to Unite How books can open your mind by Lisa Bu Why you should make useless things by Simone Giertz Why are these 32 symbols found in caves all over Europe by Genevieve von Petzinger How language shapes the way we think by Lera Boroditsky What I learned as a prisoner in North Korea by Euna Lee Success, failure and the drive to keep creating by Elizabeth Gilbert The power of introverts by Susan Cain There's more to life than being happy by Emily Esfahani Smith Grit, the power of passion and perseverance by Angela Lee Duckworth The power of believing that you can improve by Carol Dweck Finding Your Element by Sir Ken Robinson Allow things to unfold and you will find your purpose in life by Peggy Oki "
     },
     "counter": 72,
-    "isNewest": true,
+    "isNewest": false,
     "isOldest": false,
     "olderId": "warrior-the-founder",
+    "newerId": "warrior-the-human",
+    "newestId": "warrior-the-human",
+    "oldestId": "warrior-foreword"
+  },
+  {
+    "title": "The Human",
+    "date": "2019-2020",
+    "timestamp": "2019-2020",
+    "id": "warrior-the-human",
+    "data": {
+      "html": "<section>\n  <header>\n    <h2>Eleanor Roosevelt’s Fight for Human Rights</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=NtG9z2rwmUU\" class=\"no-tufte-underline\" title=\"Eleanor Roosevelt’s Fight for Human Rights\">\n      <img src=\"image/yid-NtG9z2rwmUU.jpg\" alt=\"Eleanor Roosevelt’s Fight for Human Rights\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Eleanor Roosevelt’s Fight for Human Rights</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=NtG9z2rwmUU\" title=\"Eleanor Roosevelt’s Fight for Human Rights\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Max Richter - All Human Beings (Official Music Video by Yulia Mahr)</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=QmrIDK03Hlg\" class=\"no-tufte-underline\" title=\"Max Richter - All Human Beings (Official Music Video by Yulia Mahr)\">\n      <img src=\"image/yid-QmrIDK03Hlg.jpg\" alt=\"Max Richter - All Human Beings (Official Music Video by Yulia Mahr)\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Max Richter - All Human Beings (Official Music Video by Yulia Mahr)</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=QmrIDK03Hlg\" title=\"Max Richter - All Human Beings (Official Music Video by Yulia Mahr)\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Viktor Frankl</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=0k4nO4_iHG8\" class=\"no-tufte-underline\" title=\"Viktor Frankl\">\n      <img src=\"image/yid-0k4nO4_iHG8.jpg\" alt=\"Viktor Frankl\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Viktor Frankl</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=0k4nO4_iHG8\" title=\"Viktor Frankl\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Little Girl</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=RBQ-IoHfimQ\" class=\"no-tufte-underline\" title=\"Little Girl\">\n      <img src=\"image/yid-RBQ-IoHfimQ.jpg\" alt=\"Little Girl\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Little Girl</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=RBQ-IoHfimQ\" title=\"Little Girl\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>UDHR</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=JaHwy5tdLOY\" class=\"no-tufte-underline\" title=\"UDHR\">\n      <img src=\"image/yid-JaHwy5tdLOY.jpg\" alt=\"UDHR\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>UDHR</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=JaHwy5tdLOY\" title=\"UDHR\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The Universal Declaration of Human Rights</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=hTlrSYbCbHE\" class=\"no-tufte-underline\" title=\"The Universal Declaration of Human Rights\">\n      <img src=\"image/yid-hTlrSYbCbHE.jpg\" alt=\"The Universal Declaration of Human Rights\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The Universal Declaration of Human Rights</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=hTlrSYbCbHE\" title=\"The Universal Declaration of Human Rights\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Life Lessons From 100-Year-Olds</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=9AThycGCakk\" class=\"no-tufte-underline\" title=\"Life Lessons From 100-Year-Olds\">\n      <img src=\"image/yid-9AThycGCakk.jpg\" alt=\"Life Lessons From 100-Year-Olds\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Life Lessons From 100-Year-Olds</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=9AThycGCakk\" title=\"Life Lessons From 100-Year-Olds\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Eckhart Tolle</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=hZeoyYOYgg4\" class=\"no-tufte-underline\" title=\"Eckhart Tolle\">\n      <img src=\"image/yid-hZeoyYOYgg4.jpg\" alt=\"Eckhart Tolle\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Eckhart Tolle</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=hZeoyYOYgg4\" title=\"Eckhart Tolle\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Emotional Intelligence</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=QGQQ7pJQqHk\" class=\"no-tufte-underline\" title=\"Emotional Intelligence\">\n      <img src=\"image/yid-QGQQ7pJQqHk.jpg\" alt=\"Emotional Intelligence\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Emotional Intelligence</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=QGQQ7pJQqHk\" title=\"Emotional Intelligence\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The power of vulnerability</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=iCvmsMzlF7o\" class=\"no-tufte-underline\" title=\"The power of vulnerability\">\n      <img src=\"image/yid-iCvmsMzlF7o.jpg\" alt=\"The power of vulnerability\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The power of vulnerability</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=iCvmsMzlF7o\" title=\"The power of vulnerability\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Listening to shame</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=psN1DORYYV0\" class=\"no-tufte-underline\" title=\"Listening to shame\">\n      <img src=\"image/yid-psN1DORYYV0.jpg\" alt=\"Listening to shame\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Listening to shame</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=psN1DORYYV0\" title=\"Listening to shame\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=vbM86eiczAg\" class=\"no-tufte-underline\" title=\"Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM\">\n      <img src=\"image/yid-vbM86eiczAg.jpg\" alt=\"Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=vbM86eiczAg\" title=\"Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Sir Ken Robinson - Changing Paradigms</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=mCbdS4hSa0s\" class=\"no-tufte-underline\" title=\"Sir Ken Robinson - Changing Paradigms\">\n      <img src=\"image/yid-mCbdS4hSa0s.jpg\" alt=\"Sir Ken Robinson - Changing Paradigms\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Sir Ken Robinson - Changing Paradigms</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=mCbdS4hSa0s\" title=\"Sir Ken Robinson - Changing Paradigms\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Life is NOT a Journey - Alan Watts</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=rBpaUICxEhk\" class=\"no-tufte-underline\" title=\"Life is NOT a Journey - Alan Watts\">\n      <img src=\"image/yid-rBpaUICxEhk.jpg\" alt=\"Life is NOT a Journey - Alan Watts\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Life is NOT a Journey - Alan Watts</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=rBpaUICxEhk\" title=\"Life is NOT a Journey - Alan Watts\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=x7wni5hqSn4\" class=\"no-tufte-underline\" title=\"American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life\">\n      <img src=\"image/yid-x7wni5hqSn4.jpg\" alt=\"American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=x7wni5hqSn4\" title=\"American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Examined Life, Martha Nussbaum</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=cbcGbflpFzI\" class=\"no-tufte-underline\" title=\"Examined Life, Martha Nussbaum\">\n      <img src=\"image/yid-cbcGbflpFzI.jpg\" alt=\"Examined Life, Martha Nussbaum\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Examined Life, Martha Nussbaum</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=cbcGbflpFzI\" title=\"Examined Life, Martha Nussbaum\">Play Video</a></p>\n</section>",
+      "page": "<html><head><title>The Human</title></head><body><section>\n  <header>\n    <h2>Eleanor Roosevelt’s Fight for Human Rights</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=NtG9z2rwmUU\" class=\"no-tufte-underline\" title=\"Eleanor Roosevelt’s Fight for Human Rights\">\n      <img src=\"image/yid-NtG9z2rwmUU.jpg\" alt=\"Eleanor Roosevelt’s Fight for Human Rights\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Eleanor Roosevelt’s Fight for Human Rights</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=NtG9z2rwmUU\" title=\"Eleanor Roosevelt’s Fight for Human Rights\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Max Richter - All Human Beings (Official Music Video by Yulia Mahr)</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=QmrIDK03Hlg\" class=\"no-tufte-underline\" title=\"Max Richter - All Human Beings (Official Music Video by Yulia Mahr)\">\n      <img src=\"image/yid-QmrIDK03Hlg.jpg\" alt=\"Max Richter - All Human Beings (Official Music Video by Yulia Mahr)\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Max Richter - All Human Beings (Official Music Video by Yulia Mahr)</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=QmrIDK03Hlg\" title=\"Max Richter - All Human Beings (Official Music Video by Yulia Mahr)\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Viktor Frankl</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=0k4nO4_iHG8\" class=\"no-tufte-underline\" title=\"Viktor Frankl\">\n      <img src=\"image/yid-0k4nO4_iHG8.jpg\" alt=\"Viktor Frankl\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Viktor Frankl</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=0k4nO4_iHG8\" title=\"Viktor Frankl\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Little Girl</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=RBQ-IoHfimQ\" class=\"no-tufte-underline\" title=\"Little Girl\">\n      <img src=\"image/yid-RBQ-IoHfimQ.jpg\" alt=\"Little Girl\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Little Girl</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=RBQ-IoHfimQ\" title=\"Little Girl\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>UDHR</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=JaHwy5tdLOY\" class=\"no-tufte-underline\" title=\"UDHR\">\n      <img src=\"image/yid-JaHwy5tdLOY.jpg\" alt=\"UDHR\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>UDHR</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=JaHwy5tdLOY\" title=\"UDHR\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The Universal Declaration of Human Rights</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=hTlrSYbCbHE\" class=\"no-tufte-underline\" title=\"The Universal Declaration of Human Rights\">\n      <img src=\"image/yid-hTlrSYbCbHE.jpg\" alt=\"The Universal Declaration of Human Rights\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The Universal Declaration of Human Rights</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=hTlrSYbCbHE\" title=\"The Universal Declaration of Human Rights\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Life Lessons From 100-Year-Olds</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=9AThycGCakk\" class=\"no-tufte-underline\" title=\"Life Lessons From 100-Year-Olds\">\n      <img src=\"image/yid-9AThycGCakk.jpg\" alt=\"Life Lessons From 100-Year-Olds\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Life Lessons From 100-Year-Olds</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=9AThycGCakk\" title=\"Life Lessons From 100-Year-Olds\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Eckhart Tolle</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=hZeoyYOYgg4\" class=\"no-tufte-underline\" title=\"Eckhart Tolle\">\n      <img src=\"image/yid-hZeoyYOYgg4.jpg\" alt=\"Eckhart Tolle\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Eckhart Tolle</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=hZeoyYOYgg4\" title=\"Eckhart Tolle\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Emotional Intelligence</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=QGQQ7pJQqHk\" class=\"no-tufte-underline\" title=\"Emotional Intelligence\">\n      <img src=\"image/yid-QGQQ7pJQqHk.jpg\" alt=\"Emotional Intelligence\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Emotional Intelligence</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=QGQQ7pJQqHk\" title=\"Emotional Intelligence\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>The power of vulnerability</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=iCvmsMzlF7o\" class=\"no-tufte-underline\" title=\"The power of vulnerability\">\n      <img src=\"image/yid-iCvmsMzlF7o.jpg\" alt=\"The power of vulnerability\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>The power of vulnerability</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=iCvmsMzlF7o\" title=\"The power of vulnerability\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Listening to shame</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=psN1DORYYV0\" class=\"no-tufte-underline\" title=\"Listening to shame\">\n      <img src=\"image/yid-psN1DORYYV0.jpg\" alt=\"Listening to shame\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Listening to shame</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=psN1DORYYV0\" title=\"Listening to shame\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=vbM86eiczAg\" class=\"no-tufte-underline\" title=\"Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM\">\n      <img src=\"image/yid-vbM86eiczAg.jpg\" alt=\"Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=vbM86eiczAg\" title=\"Sir Harry Lauder &#x27;Keep Right On To The End Of The Road&#x27; 1926 78 RPM\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Sir Ken Robinson - Changing Paradigms</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=mCbdS4hSa0s\" class=\"no-tufte-underline\" title=\"Sir Ken Robinson - Changing Paradigms\">\n      <img src=\"image/yid-mCbdS4hSa0s.jpg\" alt=\"Sir Ken Robinson - Changing Paradigms\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Sir Ken Robinson - Changing Paradigms</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=mCbdS4hSa0s\" title=\"Sir Ken Robinson - Changing Paradigms\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Life is NOT a Journey - Alan Watts</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=rBpaUICxEhk\" class=\"no-tufte-underline\" title=\"Life is NOT a Journey - Alan Watts\">\n      <img src=\"image/yid-rBpaUICxEhk.jpg\" alt=\"Life is NOT a Journey - Alan Watts\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Life is NOT a Journey - Alan Watts</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=rBpaUICxEhk\" title=\"Life is NOT a Journey - Alan Watts\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=x7wni5hqSn4\" class=\"no-tufte-underline\" title=\"American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life\">\n      <img src=\"image/yid-x7wni5hqSn4.jpg\" alt=\"American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=x7wni5hqSn4\" title=\"American Tragedy, Sifting Through the Wreckage of a Rancher&#x27;s Life\">Play Video</a></p>\n</section>\n<section>\n  <header>\n    <h2>Examined Life, Martha Nussbaum</h2>\n  </header>\n  <figure>\n    <a href=\"https://www.youtube.com/watch?v=cbcGbflpFzI\" class=\"no-tufte-underline\" title=\"Examined Life, Martha Nussbaum\">\n      <img src=\"image/yid-cbcGbflpFzI.jpg\" alt=\"Examined Life, Martha Nussbaum\" style=\"width: 100%; height: auto;\">\n    </a>\n    <figcaption>Examined Life, Martha Nussbaum</figcaption>\n  </figure>\n  <p><a href=\"https://www.youtube.com/watch?v=cbcGbflpFzI\" title=\"Examined Life, Martha Nussbaum\">Play Video</a></p>\n</section></body></html>",
+      "text": "Eleanor Roosevelt’s Fight for Human Rights Max Richter - All Human Beings (Official Music Video by Yulia Mahr) Viktor Frankl Little Girl UDHR The Universal Declaration of Human Rights Life Lessons From 100-Year-Olds Eckhart Tolle Emotional Intelligence The power of vulnerability Listening to shame Sir Harry Lauder 'Keep Right On To The End Of The Road' 1926 78 RPM Sir Ken Robinson - Changing Paradigms Life is NOT a Journey - Alan Watts American Tragedy, Sifting Through the Wreckage of a Rancher's Life Examined Life, Martha Nussbaum "
+    },
+    "counter": 73,
+    "isNewest": true,
+    "isOldest": false,
+    "olderId": "warrior-the-believer",
     "newerId": "warrior-warrior-foreword",
-    "newestId": "warrior-the-believer",
+    "newestId": "warrior-the-human",
     "oldestId": "warrior-foreword"
   }
 ]
