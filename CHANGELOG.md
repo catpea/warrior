@@ -15,11 +15,9 @@ But I still feel we are nearing some milestone, a possible completion of this pr
 
 If so, I had an amazing time creating this. Thank You.
 
-Could you make a project similar to this? So that the world may see some more wonders.
-
 I hope for this work to become a set of lectures with an aim to help people see that we are all the same, that our differences are tiny, and we are each a Mighty Genius and a Great Adventurer.
 
-Could you help the world grow as well, Dear Reader.
+Could you make a project similar to this? Could you help the world grow as well, Dear Reader.
 
 I also publish and narrate poetry on [https://catpea.com/](https://catpea.com/) I am up to 194 poems at the time of this note.
 
