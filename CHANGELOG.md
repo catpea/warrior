@@ -2,12 +2,35 @@
 ## CHANGELOG
 
 
+### September 25th 2020, 11:02:02 pm EDT
+Created a new chapter [The Urban Explorer](the-urban-explorer.html).
+
+I am going to move adding a new chapter from Friday evening to Sunday evening.
+
+This is because I am a little bit more rested on Sundays.
+
+If anybody is watching this, I am sorry if I am ruining your weekly plans.
+
+But I still feel we are nearing some milestone, a possible completion of this project, maybe.
+
+If so, I had an amazing time creating this. Thank You.
+
+Could you make a project similar to this? So that the world may see some more wonders.
+
+I hope for this work to become a set of lectures with an aim to help people see that we are all the same, that our differences are tiny, and we are each a Mighty Genius and a Great Adventurer.
+
+Could you help the world grow as well, Dear Reader.
+
+I also publish and narrate poetry on [https://catpea.com/](https://catpea.com/) I am up to 194 poems at the time of this note.
+
+All good things come to a point where they must transform into something greater,  
+Thank You.
+
+
 ### September 18th 2020, 8:07:57 pm EDT
 Created a new chapter [The Human](the-human.html).
 
-There is currently 73 chapters, we are either nearing the completion of this book, or its first part.
-
-The chapters are becoming more powerful, more complex and multiplexed, perhaps this is the beginning of the book... not the end; perhaps this is the beginning of the second book...
+There are 73 chapters. We are either nearing the completion of this book, or its first part. The chapters are becoming more powerful, more complex and multiplexed. Perhaps this is the beginning of the book... not the end; perhaps this is the beginning of the second book...
 
 
 ### September 11th 2020, 10:54:50 pm EDT
