@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### October 4th 2020, 10:15:26 pm EDT
+Created a new chapter [The Writer](the-writer.html).
+
+
 ### September 25th 2020, 11:02:02 pm EDT
 Created a new chapter [The Urban Explorer](the-urban-explorer.html).
 
