@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### October 11th 2020, 10:42:26 pm EDT
+Created a new chapter [The Rocketeer](the-rocketeer.html).
+
+
 ### October 4th 2020, 10:15:26 pm EDT
 Created a new chapter [The Writer](the-writer.html).
 

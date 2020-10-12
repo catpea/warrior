@@ -2714,6 +2714,71 @@
     name: the-discoverer
     title: The Discoverer
   next:
+    name: the-rocketeer
+    title: The Rocketeer
+- title: The Rocketeer
+  name: the-rocketeer
+  data:
+    - type: youtube
+      id: bDoh8zQDT38
+      title: On a Rocket Launch to Space
+    - type: youtube
+      id: MTY1Kje0yLg
+      title: Gravity Visualized
+    - type: youtube
+      id: UmDoHDVuZfo
+      title: Introduction to Lunar Free-Return Trajectories
+    - type: youtube
+      id: 3y0nHhFGXDo
+      title: Balloon to Near Space
+    - type: youtube
+      id: Pk6qgWRG1c0
+      title: 'Rocket Science in 120, Orbital Mechanics'
+    - type: youtube
+      id: 2wIrKOYMyNg
+      title: 'Rocket Science in 120, Orbital Maneuvers'
+    - type: youtube
+      id: tJiAkBxuqfs
+      title: Orbital Mechanics by Nick Morgan
+    - type: youtube
+      id: Am7EwmxBAW8
+      title: 'Space Flight, The Application of Orbital Mechanics'
+    - type: youtube
+      id: YAnxt1YPWbk
+      title: How do spacecraft navigate in space?
+    - type: youtube
+      id: OTB27qWSIt4
+      title: 'Free Return Trajectory Tutorial (Kerbal Space Program, Computer Game)'
+    - type: youtube
+      id: MJ3QZvGq-po
+      title: 'Advanced Orbital Mechanics (Kerbal Space Program, Computer Game)'
+    - type: youtube
+      id: 82p-DYgGFjI
+      title: Earth's motion around the Sun
+    - type: youtube
+      id: vIJTwYOZrGU
+      title: >-
+        If the universe is only 14 billion years old, how can it be 92 billion
+        light years wide?
+    - type: youtube
+      id: w_PWL0oZzOc
+      title: Space Junk Around Earth
+    - type: youtube
+      id: pgysWWwESfU
+      title: STARLINK satellites train seen from earth - SpaceX Elon Musk
+    - type: youtube
+      id: T6v47CmRA7A
+      title: SpaceX Starlink satellite train at dusk
+    - type: youtube
+      id: 7RrWZJHkREI
+      title: 'Crazy Engineering, CubeSats'
+    - type: youtube
+      id: EzZGPCyrpSU
+      title: 5 REAL Possibilities for Interstellar Travel
+  previous:
+    name: the-astronomer
+    title: The Astronomer
+  next:
     name: the-mine-explorer
     title: The Mine Explorer
 - title: The Mine Explorer
@@ -2806,8 +2871,8 @@
       id: 5w0RzhT2wYQ
       title: 'Road Kill Cave Conquered : Lucky To Be Alive | Aquachigger'
   previous:
-    name: the-astronomer
-    title: The Astronomer
+    name: the-rocketeer
+    title: The Rocketeer
   next:
     name: the-metal-detectorist
     title: The Metal Detectorist
