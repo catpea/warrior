@@ -5449,6 +5449,130 @@
       "title": "The Poet"
     },
     "next": {
+      "name": "the-interactive-fiction-writer",
+      "title": "The Interactive Fiction Writer"
+    }
+  },
+  {
+    "title": "The Interactive Fiction Writer",
+    "name": "the-interactive-fiction-writer",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "dJoe9BQ6z6c",
+        "title": "Introduction to Interactive Fiction"
+      },
+      {
+        "type": "youtube",
+        "id": "EXW1ts6tZh4",
+        "title": "Harvesting Interactive Fiction (IF)"
+      },
+      {
+        "type": "youtube",
+        "id": "xefWN5qEY3A",
+        "title": "GDC Microtalk: Emily Short - Creating Great Protagonists"
+      },
+      {
+        "type": "youtube",
+        "id": "bx5ZLGBZAWs",
+        "title": "AdventureX 2016 - Emily Short: The Past, Present and Future of Interactive Fiction"
+      },
+      {
+        "type": "youtube",
+        "id": "EpR4Txswh6E",
+        "title": "Gaming Culture: What ever happened with Text Adventure Games ? (Interactive Fiction)"
+      },
+      {
+        "type": "youtube",
+        "id": "LRhbcDzbGSU",
+        "title": "GET LAMP: The Text Adventure Documentary"
+      },
+      {
+        "type": "youtube",
+        "id": "OXNLWy7rwH4",
+        "title": "Infocom: The Documentary"
+      },
+      {
+        "type": "youtube",
+        "id": "FXdmo2j_CiQ",
+        "title": "Classic Game Postmortem: Infocom's Zork"
+      },
+      {
+        "type": "youtube",
+        "id": "DVZfj9aR98o",
+        "title": "Text Adventures - Lost Treasures of Infocom"
+      },
+      {
+        "type": "youtube",
+        "id": "LaKTaAV5Lyg",
+        "title": "Colossal Cave Adventure"
+      },
+      {
+        "type": "youtube",
+        "id": "O3etkSoHrR8",
+        "title": "Colossal Cave Adventure play-through"
+      },
+      {
+        "type": "youtube",
+        "id": "-4k2QzT9yqg",
+        "title": "ZORK I Illustrated Part I: The Mysterious White House"
+      },
+      {
+        "type": "youtube",
+        "id": "f4ZVzl_H_2w",
+        "title": "Animated Text Adventures - ZORK - PART 1/2"
+      },
+      {
+        "type": "youtube",
+        "id": "exwXHX6PpuY",
+        "title": "Animated Text Adventures - ZORK - PART 2/2"
+      },
+      {
+        "type": "youtube",
+        "id": "FuJQqBVZGnw",
+        "title": "Let's play One Room (1983) — the first single-room text adventure game?"
+      },
+      {
+        "type": "youtube",
+        "id": "ZnARX2ToqYc",
+        "title": "Interactive Storytelling - Intro to Twine"
+      },
+      {
+        "type": "youtube",
+        "id": "sKdAjohLUtk",
+        "title": "Beginning Interactive Fiction with Twine and SugarCube - E1 - Getting Started"
+      },
+      {
+        "type": "youtube",
+        "id": "_pJHIao5lz4",
+        "title": "Beginning Interactive Fiction with Twine and SugarCube - E2 - Formatting"
+      },
+      {
+        "type": "youtube",
+        "id": "GvIznSekEM4",
+        "title": "Beginning Interactive Fiction with Twine and SugarCube - E3 - Variables"
+      },
+      {
+        "type": "youtube",
+        "id": "htytAxryZsA",
+        "title": "Beginning Interactive Fiction with Twine and SugarCube - E4 - If Statements, Part One"
+      },
+      {
+        "type": "youtube",
+        "id": "Bj2-je1f5Ms",
+        "title": "Beginning Interactive Fiction with Twine and SugarCube - E5 - If Statements, Part Two"
+      },
+      {
+        "type": "youtube",
+        "id": "S1R-mtX-2rs",
+        "title": "Games like Bandersnatch | The evolution of interactive fiction on PC"
+      }
+    ],
+    "previous": {
+      "name": "the-slam-poet",
+      "title": "The Slam Poet"
+    },
+    "next": {
       "name": "the-writer",
       "title": "The Writer"
     }
@@ -5539,8 +5663,8 @@
       }
     ],
     "previous": {
-      "name": "the-slam-poet",
-      "title": "The Slam Poet"
+      "name": "the-interactive-fiction-writer",
+      "title": "The Interactive Fiction Writer"
     },
     "next": {
       "name": "the-sculptor",

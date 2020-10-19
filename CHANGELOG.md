@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### October 18th 2020, 11:05:55 pm EDT
+Created a new chapter [The Interactive Fiction Writer](the-interactive-fiction-writer.html).
+
+
 ### October 11th 2020, 10:42:26 pm EDT
 Created a new chapter [The Rocketeer](the-rocketeer.html).
 
