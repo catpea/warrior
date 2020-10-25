@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### October 25th 2020, 1:34:12 pm EDT
+Created two new chapters [The Evolutionary Biologist](the-evolutionary-biologist.html), and [The Great Being](the-great-being.html).
+
+
 ### October 18th 2020, 11:05:55 pm EDT
 Created a new chapter [The Interactive Fiction Writer](the-interactive-fiction-writer.html).
 
