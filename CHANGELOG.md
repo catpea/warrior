@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### November 1st 2020, 10:53:45 pm EST
+Created two new chapters [The Engineer](the-engineer.html).
+
+
 ### October 25th 2020, 1:34:12 pm EDT
 Created two new chapters [The Evolutionary Biologist](the-evolutionary-biologist.html), and [The Great Being](the-great-being.html).
 

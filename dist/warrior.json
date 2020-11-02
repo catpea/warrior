@@ -7605,6 +7605,234 @@
       "title": "The Web Developer"
     },
     "next": {
+      "name": "the-engineer",
+      "title": "The Engineer"
+    }
+  },
+  {
+    "title": "The Engineer",
+    "name": "the-engineer",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "DOMs7mYm_zs",
+        "title": "7 MILLION VOLT TASER"
+      },
+      {
+        "type": "youtube",
+        "id": "IiOH5LUVkWo",
+        "title": "How to make a Wildlife Camera (using a Raspberry Pi!) | Maddie Moate"
+      },
+      {
+        "type": "youtube",
+        "id": "Gn0ZUJUjnf4",
+        "title": "DIY ARDUINO CAT FOOD DISPENSER"
+      },
+      {
+        "type": "youtube",
+        "id": "ZwU9SqO0udU",
+        "title": "HOW TO SOLDER"
+      },
+      {
+        "type": "youtube",
+        "id": "Nb78wF1Tkwc",
+        "title": "What is worth desoldering from old electronics?"
+      },
+      {
+        "type": "youtube",
+        "id": "DMwRPjqXCnI",
+        "title": "Let´s build - BARKING DOG ALARM!"
+      },
+      {
+        "type": "youtube",
+        "id": "G3zEjdOkGgE",
+        "title": "Building my first ROBOT ARM!"
+      },
+      {
+        "type": "youtube",
+        "id": "I7a2cbYHXDk",
+        "title": "My first ROBOT - say hello to mBot"
+      },
+      {
+        "type": "youtube",
+        "id": "1Zdq8cLC19s",
+        "title": "ODROID-GO DIY GameBoy"
+      },
+      {
+        "type": "youtube",
+        "id": "lM8ocJeryEg",
+        "title": "How to Make a Smart Security Camera With Movement Notification - Under 60$"
+      },
+      {
+        "type": "youtube",
+        "id": "wdaBi33nd3k",
+        "title": "My First Raspberry Pi Smart Mirror"
+      },
+      {
+        "type": "youtube",
+        "id": "CPyGChvNEaA",
+        "title": "ALEXA in my MagicMirror"
+      },
+      {
+        "type": "youtube",
+        "id": "dGiC3B_XZs8",
+        "title": "Pimoroni Pirate Audio Boards for Raspberry Pi"
+      },
+      {
+        "type": "youtube",
+        "id": "7vhvnaWUZjE",
+        "title": "Arduino vs. Raspberry Pi - Which is best?"
+      },
+      {
+        "type": "youtube",
+        "id": "MVgr302PNwY",
+        "title": "Raspberry Pi Cameras - The BIG Picture"
+      },
+      {
+        "type": "youtube",
+        "id": "RXpgLFpSBHY",
+        "title": "Sabre Builds a Raspberry Pi-Boy! (Gameboy Emulator)"
+      },
+      {
+        "type": "youtube",
+        "id": "kdsnmEEF3dw",
+        "title": "Porch Pirate Raspberry Pi HQ Camera | MotioneyeOS"
+      },
+      {
+        "type": "youtube",
+        "id": "LIggVgEc94c",
+        "title": "My Top 5 Raspberry Pi Projects"
+      },
+      {
+        "type": "youtube",
+        "id": "8m8fDGqDIv8",
+        "title": "How to 3D Print from your smartphone with Raspberry Pi, Octoprint and Astroprint"
+      },
+      {
+        "type": "youtube",
+        "id": "6nY-V_WG7oI",
+        "title": "Smart CCTV Camera (with Face Recognition) using Raspberry Pi 4 | Full Tutorial"
+      },
+      {
+        "type": "youtube",
+        "id": "M1yaenrGF1o",
+        "title": "Raspberry Pi HQ Camera Ep 1 - Intro"
+      },
+      {
+        "type": "youtube",
+        "id": "xpykWSymAhU",
+        "title": "5 Best Budget 3D Printers in 2020"
+      },
+      {
+        "type": "youtube",
+        "id": "LvGKfevdf_Q",
+        "title": "3D Printing - 13 Things I Wish I Knew When I Got Started"
+      },
+      {
+        "type": "youtube",
+        "id": "T-Z3GmM20JM"
+      },
+      {
+        "type": "youtube",
+        "id": "J5Sb21qbpEQ",
+        "title": "Soldering Tutorial Part 1 - Tools"
+      },
+      {
+        "type": "youtube",
+        "id": "fYz5nIHH0iY",
+        "title": "Soldering Tutorial Part 2 - Through Hole"
+      },
+      {
+        "type": "youtube",
+        "id": "b9FC9fAlfQE",
+        "title": "Soldering Tutorial Part 3 - Surface Mount"
+      },
+      {
+        "type": "youtube",
+        "id": "R_PbjbRaO2E",
+        "title": "How To Set Up An Electronics Lab"
+      },
+      {
+        "type": "youtube",
+        "id": "y0WEx0Gwk1E",
+        "title": "EEVblog #532 - Silicon Chip Wafer Fab Mailbag"
+      },
+      {
+        "type": "youtube",
+        "id": "t-vNo6H5gww",
+        "title": "EEVblog #951 - Mailbag"
+      },
+      {
+        "type": "youtube",
+        "id": "RRgjgs3NnnE",
+        "title": "EEVblog #686 - Mailbag"
+      },
+      {
+        "type": "youtube",
+        "id": "TwIvUbOhcKE",
+        "title": "How NOT to Make an Electric Guitar (The Hazards of Electricity)"
+      },
+      {
+        "type": "youtube",
+        "id": "lT3vGaOLWqE",
+        "title": "Making a Jacob's Ladder to Celebrate a Million Subs!"
+      },
+      {
+        "type": "youtube",
+        "id": "hFJeIt_JcEc",
+        "title": "Almost MELTING Metal with Induction Heater"
+      },
+      {
+        "type": "youtube",
+        "id": "5YBwDNfOaxU",
+        "title": "Graphite and Its Awesome Properties"
+      },
+      {
+        "type": "youtube",
+        "id": "im-PLK7ePhQ",
+        "title": "Building a Van De Graaff HIGH VOLTAGE Generator"
+      },
+      {
+        "type": "youtube",
+        "id": "Hyuk9dlRY8M",
+        "title": "Am I Too Old To Learn Coding?! | Mimo App (Python Language)"
+      },
+      {
+        "type": "youtube",
+        "id": "uzyiCpsS0qQ",
+        "title": "Coding For Kids in Python (Multipart Tutorial)"
+      },
+      {
+        "type": "youtube",
+        "id": "5owr-6suOl0",
+        "title": "Functions (Multipart Tutorial, Python)"
+      },
+      {
+        "type": "youtube",
+        "id": "KOdfpbnWLVo",
+        "title": "Hello World in Python"
+      },
+      {
+        "type": "youtube",
+        "id": "6avJHaC3C2U",
+        "title": "The Art of Code - Dylan Beattie (Multi-language)"
+      },
+      {
+        "type": "youtube",
+        "id": "TK1mBqKvIyU",
+        "title": "Programming as Performance | Sam Aaron (Ruby Language)"
+      },
+      {
+        "type": "youtube",
+        "id": "jjqgP9dpD1k",
+        "title": "CS50 - Welcome To Harvard"
+      }
+    ],
+    "previous": {
+      "name": "the-cryptographer",
+      "title": "The Cryptographer"
+    },
+    "next": {
       "name": "the-librarian",
       "title": "The Librarian"
     }
@@ -7695,8 +7923,8 @@
       }
     ],
     "previous": {
-      "name": "the-cryptographer",
-      "title": "The Cryptographer"
+      "name": "the-engineer",
+      "title": "The Engineer"
     },
     "next": {
       "name": "the-highschooler",
