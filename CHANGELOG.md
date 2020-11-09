@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### November 8th 2020, 10:50:38 pm EST
+Created a new chapter [The Fearless](the-fearless.html).
+
+
 ### November 1st 2020, 10:53:45 pm EST
 Created a new chapter [The Engineer](the-engineer.html).
 

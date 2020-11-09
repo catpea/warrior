@@ -1808,6 +1808,101 @@
     name: the-ultra
     title: The Ultra
   next:
+    name: the-fearless
+    title: The Fearless
+- title: The Fearless
+  name: the-fearless
+  data:
+    - type: youtube
+      id: LIVEsa2g4ag
+      title: Paxman interviews Christopher Hitchens - Newsnight archives (2010)
+    - type: youtube
+      id: EHHBE_ODKdE
+      title: A look back at the life of Christopher Hitchins
+    - type: youtube
+      id: NJG-lgmPvYA
+      title: Hells Angel (Mother Teresa) - Christopher Hitchens
+    - type: youtube
+      id: 9DKhc1pcDFM
+      title: >-
+        The Four Horsemen HD, Hour 1 of 2 - Discussions with Richard Dawkins, Ep
+        1
+    - type: youtube
+      id: TaeJf-Yia3A
+      title: 'The Four Horsemen, Hour 2 of 2 - Discussions with Richard Dawkins, Ep 1'
+    - type: youtube
+      id: X0VpfiMcPPA
+      title: 'Fight the REAL Enemy! Bob:Marley''s ''War'' performed by Sinéad o''Connor!'
+    - type: youtube
+      id: WUCmAk0w4lo
+      title: Sinead O'Connor responds to Miley Cyrus | The Late Late Show
+    - type: youtube
+      id: Hj9oB4zpHww
+      title: Science can answer moral questions | Sam Harris
+    - type: youtube
+      id: RBmlRihA9_s
+      title: Does Philosophy Still Matter? | The New School
+    - type: youtube
+      id: rzOvJdfz5gs
+      title: Defining Democracy with Astra Taylor | 112BK
+    - type: youtube
+      id: gBAcMilz6sY
+      title: 'Democratic Culture, A Contradiction In Terms? by Astra Taylor'
+    - type: youtube
+      id: vMwyZbS4JTU
+      title: >-
+        Utopian Potential of the Internet, Astra Taylor on How to Take Back
+        Power & Culture in Digital Age
+    - type: youtube
+      id: xk0-yebNA_o
+      title: 'We are all connected with nature, Nixiwaka Yawanawa at TEDxHackney'
+    - type: youtube
+      id: O1jGNd4Deys
+      title: SADB - Tracksuit and AK-47
+    - type: youtube
+      id: BHJxIwvFIGY
+      title: SADB Ep.17 - Sticker For the Lady
+    - type: youtube
+      id: '-hIDNgsc2-s'
+      title: 'SADB - Immigrant, Terminator and Calamity'
+    - type: youtube
+      id: uWRR22dldZ0
+      title: SADB - Chechen Derby
+    - type: youtube
+      id: rNDbo2ghEwo
+      title: SADB - Dr. Evil
+    - type: youtube
+      id: wWIbCtz_Xwk
+      title: Nicolae Ceausescu LAST SPEECH (english subtitles) 1/2
+    - type: youtube
+      id: hc2XGHA7NK4
+      title: The Revolutions Of 1989
+    - type: youtube
+      id: zadkWw702_M
+      title: The Fall Of The Soviet Union
+    - type: youtube
+      id: snsdDb7KDkg
+      title: 'Nov. 10, 1989, Celebration at the Berlin Wall'
+    - type: youtube
+      id: cJ2Sgd9sc0M
+      title: >-
+        David Hasselhoff - Looking For Freedom (ZDF Sylvester Trümpfe
+        31.12.1989)
+    - type: youtube
+      id: T33S1k1iGe0
+      title: Thousands protest in Poland after abortion is almost entirely banned
+    - type: youtube
+      id: kCvjeGZ_yZ8
+      title: 'July 17, 2020, Portland Protests - Fenced in Feds & "Naked Athena"'
+    - type: youtube
+      id: Z4voS6JAMGE
+      title: >-
+        David Hasselhoff - Looking for freedom | German TV ARD Schlagerbooom
+        10/21/2017
+  previous:
+    name: the-superhero
+    title: The Superhero
+  next:
     name: the-philosopher
     title: The Philosopher
 - title: The Philosopher
@@ -1950,8 +2045,8 @@
         href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR">47
         Video YouTube Playlist</a></p>
   previous:
-    name: the-superhero
-    title: The Superhero
+    name: the-fearless
+    title: The Fearless
   next:
     name: the-skeptic
     title: The Skeptic
