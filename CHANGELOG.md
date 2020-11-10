@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### November 9th 2020, 9:10:56 pm EST
+Added Pussy Riot's [THE PENAL COLONY](https://www.youtube.com/watch?v=SJl8O6cLN-w) and four of Nadya's interviews to the [The Fearless](the-fearless.html).
+
+
 ### November 8th 2020, 10:50:38 pm EST
 Created a new chapter [The Fearless](the-fearless.html).
 
