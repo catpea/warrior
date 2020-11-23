@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### November 22nd 2020, 9:49:58 pm EST
+Created a new chapter [The Privacy Advocate](the-privacy-advocate.html).
+
+
 ### November 15th 2020, 11:32:21 pm EST
 Created a new chapter [The Security Analyst](the-security-analyst.html).
 
