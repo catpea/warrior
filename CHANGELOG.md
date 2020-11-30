@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### November 29th 2020, 11:19:23 pm EST
+Created a new chapter [The Cyberpunk](the-cyberpunk.html).
+
+
 ### November 22nd 2020, 9:49:58 pm EST
 Created a new chapter [The Privacy Advocate](the-privacy-advocate.html).
 

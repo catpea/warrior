@@ -6739,6 +6739,144 @@
     name: the-designer
     title: The Designer
   next:
+    name: the-cyberpunk
+    title: The Cyberpunk
+- title: The Cyberpunk
+  name: the-cyberpunk
+  data:
+    - type: youtube
+      id: peBuMWtkw8s
+      title: Until The Day Of Your 18th Birthday
+    - type: youtube
+      id: 2efhrCxI4J0
+      title: Crash Override
+    - type: youtube
+      id: Bki_NGiXE_o
+      title: Neo vs Morpheus
+    - type: youtube
+      id: uXGE0vuuaDo
+      title: Neo vs Merovingian
+    - type: youtube
+      id: h-_8pMHiRnE
+      title: The Final Flight Of The Osiris
+    - type: youtube
+      id: PU53wIKa0CQ
+      title: Tron Guy
+    - type: youtube
+      id: SqSuRdkglxM
+      title: Lightbikes
+    - type: youtube
+      id: l-oaYxHHoao
+      title: Club Fight
+    - type: youtube
+      id: y8nXRQQ0bjA
+      title: Repairing Quorra
+    - type: youtube
+      id: nMs3qtWmwNs
+      title: The History of Daft Punk
+    - type: youtube
+      id: LKYPYj2XX80
+      title: DAFT PUNK – AROUND THE WORLD
+    - type: youtube
+      id: 53uKKlXmPiU
+      title: Murphy
+    - type: youtube
+      id: gvuZShYhzX8
+      title: You're Under Arrest Scene
+    - type: youtube
+      id: ti9jg0JOK2I
+      title: Illusion Of Free Will
+    - type: youtube
+      id: AIk94MJS_Sc
+      title: Operation Freedom
+    - type: youtube
+      id: O-2tpwW0kmU
+      title: Slaughterbots
+    - type: youtube
+      id: U2_h-EFlztY
+      title: 'War Games, A'
+    - type: youtube
+      id: KXzNo0vR_dU
+      title: 'War Games, Shall We Play a Game?'
+    - type: youtube
+      id: NHWjlCaIrQo
+      title: 'War Games, Ending'
+    - type: youtube
+      id: mCpVpIBqaJg
+      title: DEFCON 6-CPU Player Simulation
+    - type: youtube
+      id: GS3npSv8iuM
+      title: Sneakers "no more secrets"
+    - type: youtube
+      id: 74ocbvwam7c
+      title: The Team's Demands
+    - type: youtube
+      id: 9lnRVaJFVW4
+      title: Battle Angel
+    - type: youtube
+      id: msUF-nAe9uw
+      title: 'Ghost, Building Jump'
+    - type: youtube
+      id: fGPBfbeAh5w
+      title: Origa - Inner Universe
+    - type: youtube
+      id: c4tj7I2-q1s
+      title: Ghost in the Shell (1995)
+    - type: youtube
+      id: npkzgnKAgXU
+      title: Fighting Krang
+    - type: youtube
+      id: mqOMlpwiNU8
+      title: Rev-9 vs Grace Highway Chase
+    - type: youtube
+      id: qzZegCkbJAw
+      title: Dinobots Join the Fight
+    - type: youtube
+      id: xbK58CNNgiE
+      title: 'Megatron, I Want My Crew'
+    - type: youtube
+      id: cHUhjTo16i8
+      title: Prometheus
+    - type: youtube
+      id: '-B7HT26sJo0'
+      title: Cyberpunk 2077 Looks and Fashion
+    - type: youtube
+      id: UzRjtvMQds4
+      title: Johnny Mnemonic
+    - type: youtube
+      id: DeO_vuhMM9o
+      title: Laser Whip
+    - type: youtube
+      id: juzMKgI7by8
+      title: Custom Laser Wire
+    - type: youtube
+      id: y1a7U2aQM_w
+      title: 'Retro Cyberdeck, Powered By An Multicore Microcontroller'
+    - type: youtube
+      id: ANFFAjXacP8
+      title: Reviiser V.1 Cyberdeck Update
+    - type: youtube
+      id: OqACVpz1b8Q
+      title: Cyberdeck ZBS
+    - type: youtube
+      id: TerWmUAwmHg
+      title: DIY Raspberry Pi Laptop in a Pelican case 1150
+    - type: youtube
+      id: UJyR60wn1Ec
+      title: AdventurePi
+    - type: youtube
+      id: 8eaiNsFhtI8
+      title: PiPhone - A Raspberry Pi based Smartphone
+    - type: youtube
+      id: p12QaZUZDnM
+      title: Raspberry Pi 4 CRT-based VR Headset
+    - type: youtube
+      id: kPlBMJ86Z4E
+      title: Off Grid Ham Radio & Raspberry Pi Field Computer
+  previous:
+    name: the-graffitist
+    title: The Graffitist
+  next:
     name: the-hacker
     title: The Hacker
 - title: The Hacker
@@ -7018,8 +7156,8 @@
       id: jeghGhVdt9s
       title: Gallium vs. Titalium - Abus Padlock Meets a Gruesome End
   previous:
-    name: the-graffitist
-    title: The Graffitist
+    name: the-cyberpunk
+    title: The Cyberpunk
   next:
     name: the-wizard
     title: The Wizard
