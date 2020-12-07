@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### December 6th 2020, 11:40:10 pm EST
+Created a new chapter [The Martial Artist](the-martial-artist.html).
+
+
 ### November 29th 2020, 11:19:23 pm EST
 Created a new chapter [The Cyberpunk](the-cyberpunk.html).
 

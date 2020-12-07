@@ -4326,6 +4326,177 @@
     name: the-tracer
     title: The Tracer
   next:
+    name: the-martial-artist
+    title: The Martial Artist
+- title: The Martial Artist
+  name: the-martial-artist
+  data:
+    - type: youtube
+      id: sKIwNvoCvQU
+      title: How to Escape a Standing Rear Choke
+    - type: youtube
+      id: sMC_uLjzEZ0
+      title: Self defence How to escape from armlock
+    - type: youtube
+      id: SiFXcwfacaI
+      title: How to defend leg grab in fight
+    - type: youtube
+      id: 9owuJzhZdpY
+      title: 3 Top Aikido knock out moves
+    - type: youtube
+      id: MRNAIQXm-zM
+      title: 5 things you need to know that will save your life in a fight
+    - type: youtube
+      id: HvK7aaKlJFE
+      title: 5 most common attacks and how to stop them
+    - type: youtube
+      id: pd6znO543rI
+      title: Top 3 Aikido Locks
+    - type: youtube
+      id: GtuPNljbmpQ
+      title: How to Get Out of A Police Style Arm Lock Fast
+    - type: youtube
+      id: zMlzo-C16_k
+      title: Arm Hold Escapes using Silat and Wing Chun
+    - type: youtube
+      id: BIjCcXNz8so
+      title: Push knee "เข่ายัดไส้"
+    - type: youtube
+      id: ipxQB7cztEo
+      title: Anna
+    - type: youtube
+      id: KRIKBxCq-ao
+      title: All elbow strike and how to block
+    - type: youtube
+      id: RKWuQFLt6Oo
+      title: The Women of Tiger Muay Thai
+    - type: youtube
+      id: 4pHxy0iPyDY
+      title: Miss Kung Fu
+    - type: youtube
+      id: Gr4tOsVzjsE
+      title: Shaolin Kung Fu Girl
+    - type: youtube
+      id: vn0eN-a34pQ
+      title: Shaolin Kung Fu in Qufu
+    - type: youtube
+      id: xwKJZPdAw8w
+      title: Foreign students Shaolin Temple
+    - type: youtube
+      id: OP4Alxh9NZ0
+      title: Eight Year Old Girl Teaches Wing Chun Kung Fu Blocks
+    - type: youtube
+      id: XJ0fDUmm6rU
+      title: Wing chun vs Bodybuilder
+    - type: youtube
+      id: y7bDJIMI744
+      title: Wing Chun
+    - type: youtube
+      id: Uq9aKjkz2os
+      title: Russian Wushu
+    - type: youtube
+      id: 44XUvpUQO9Y
+      title: This is Wushu
+    - type: youtube
+      id: tJYoAS76gag
+      title: Agatha Wong wins GOLD in Wushu Taijiquan (2019)
+    - type: youtube
+      id: x7Dx0MaUZWY
+      title: Aikido
+    - type: youtube
+      id: hY3noOr1c7U
+      title: Hiromi Matsuoka (Aikido)
+    - type: youtube
+      id: 579u-aFg5N4
+      title: Yoko Okamoto (Aikido)
+    - type: youtube
+      id: 4ZYJ99x0uzE
+      title: Jiu-Jitsu Highlights
+    - type: youtube
+      id: pndPbpHLpos
+      title: Jiu-Jitsu
+    - type: youtube
+      id: X3VI4FZ7IW0
+      title: The Women of BJJ
+    - type: youtube
+      id: JxSfg90rLPI
+      title: Gezary Matuda BJJ Highlight
+    - type: youtube
+      id: xy4tYSyC2lU
+      title: JUDO
+    - type: youtube
+      id: KC7Rf9NRt5U
+      title: Daria Bilodid(UKR)-Funa Tonaki(JPN) Judo World Championships 2019 Final
+    - type: youtube
+      id: sAkjl9oB6Zo
+      title: Daria Bilodid Compilation
+    - type: youtube
+      id: gMP4pJl_emM
+      title: Taekwondo Kicks
+    - type: youtube
+      id: AvoNjJVQ-HU
+      title: Taekwondo Kicks/Skills
+    - type: youtube
+      id: UjfyjtAmecU
+      title: We Trained KALARIPAYATTU in India for 30 Days
+    - type: youtube
+      id: oI84oM_bJeg
+      title: 'Kalaripayattu, The First Martial Art'
+    - type: youtube
+      id: 2ipJREzi2Ds
+      title: Kalaripayattu Championship 2017
+    - type: youtube
+      id: CGFWDEuZoLU
+      title: Finger is a weapon of Okinawa Karate
+    - type: youtube
+      id: xHXJ_06ouDU
+      title: 'Female Kumite, RECCHIA (FRA) vs MIYAHARA (JPN)'
+    - type: youtube
+      id: JYbig5ir3Os
+      title: Karate and Taekwondo
+    - type: youtube
+      id: sfsyWPnzrWk
+      title: Shotokan & Kyokushin
+    - type: youtube
+      id: Zupgu_GJ0do
+      title: Miho Miyahara vs Alexandra Recchia
+    - type: youtube
+      id: Su13ehd_3WQ
+      title: Kung Fu Stretching
+    - type: youtube
+      id: GBKdtlQznOg
+      title: Flexible Legs Fast
+    - type: youtube
+      id: '--SAbvaYuJY'
+      title: Stretches & Drills
+    - type: youtube
+      id: pyFdo009N2c
+      title: 'Shao Lin Master, Wushu Team Trials'
+    - type: youtube
+      id: ir3YYoVztnY
+      title: Taekwondo Follow-Along Routine
+    - type: youtube
+      id: 8AHHY-N0QPs
+      title: Wushu Champion Team - 2017 Chinese New Year
+    - type: youtube
+      id: GAiCVekT10E
+      title: Training Day
+    - type: youtube
+      id: 5Yr2N2KK4Jg
+      title: Combat Fitness - Karate
+    - type: youtube
+      id: Qnot-xQhGsY
+      title: Wushu Jumps in SLow Motion
+    - type: youtube
+      id: OoLjjMGKHgg
+      title: York Circle - Physics and the martial arts
+    - type: youtube
+      id: sPp6gafspTM
+      title: Splits
+  previous:
+    name: the-gymnast
+    title: The Gymnast
+  next:
     name: the-luminary
     title: The Luminary
 - title: The Luminary
@@ -4420,8 +4591,8 @@
 
         <p>One minute after midnight, and it is already today.</p>
   previous:
-    name: the-gymnast
-    title: The Gymnast
+    name: the-martial-artist
+    title: The Martial Artist
   next:
     name: the-connoisseur
     title: The Connoisseur
