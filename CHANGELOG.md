@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### December 13th 2020, 10:00:06 pm EST
+Created a new chapter [The Freedom Fighter](the-freedom-fighter.html).
+
+Added [Amanda Coffman's Resignation](https://www.youtube.com/watch?v=8GNInLhL2zA) to the opening of [The Teacher](the-teacher.html)
+
+
 ### December 6th 2020, 11:40:10 pm EST
 Created a new chapter [The Martial Artist](the-martial-artist.html).
 
