@@ -5809,6 +5809,21 @@
       },
       {
         "type": "youtube",
+        "id": "9moJlqHFsbg",
+        "title": "Fire Rope Dart Flow"
+      },
+      {
+        "type": "youtube",
+        "id": "yq_ZzvzGnYQ",
+        "title": "Kill Bill Fire Rope Dart Choreography"
+      },
+      {
+        "type": "youtube",
+        "id": "YrosITrGpgo",
+        "title": "Flow Mayhem Fire Dance Reel 2020"
+      },
+      {
+        "type": "youtube",
         "id": "r3XNfLd78TM",
         "title": "The Diva Dance - The Fifth Element (Music Video)"
       },
@@ -9625,6 +9640,170 @@
       "title": "The Teacher"
     },
     "next": {
+      "name": "the-self-taught",
+      "title": "The Self Taught"
+    }
+  },
+  {
+    "title": "The Self Taught",
+    "name": "the-self-taught",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "okpg-lVWLbE",
+        "title": "6 Problems with our School System"
+      },
+      {
+        "type": "youtube",
+        "id": "M2fHQ9eULzk",
+        "title": "School Is Sus!"
+      },
+      {
+        "type": "youtube",
+        "id": "7oHwaSs0HsE",
+        "title": "Talking with Millennials"
+      },
+      {
+        "type": "youtube",
+        "id": "JXb7Oq13pjQ",
+        "title": "Harvard Graduates Explain Seasons"
+      },
+      {
+        "type": "youtube",
+        "id": "KUU7IyfR34o",
+        "title": "Bill Nye explains Seasons"
+      },
+      {
+        "type": "youtube",
+        "id": "QOaaUHUnIz0",
+        "title": "10 Things You have Heard and Re-told but are Completely False by Neil deGrasse Tyson"
+      },
+      {
+        "type": "youtube",
+        "id": "rPh3c8Sa37M",
+        "title": "Everything is Connected by Tom Chi (To Create A New Color)"
+      },
+      {
+        "type": "youtube",
+        "id": "XGK84Poeynk",
+        "title": "Symphony of Science, We Are All Connected"
+      },
+      {
+        "type": "youtube",
+        "id": "R-woAYtMP7o",
+        "title": "College doesn’t equate success... by Melanie Whitney"
+      },
+      {
+        "type": "youtube",
+        "id": "ba8y0Cg8Ga0",
+        "title": "Feynman on Pleasure of Finding the Thing Out"
+      },
+      {
+        "type": "youtube",
+        "id": "piSLobJfZ3c",
+        "title": "Can you get an MIT education for $2,000? by Scott Young"
+      },
+      {
+        "type": "youtube",
+        "id": "bX_dAC8Iso8",
+        "title": "Learning through self-teaching and experimentation by Connor Edsall"
+      },
+      {
+        "type": "youtube",
+        "id": "r-b0UDcd8xU",
+        "title": "Self Education and the Dropout Stigma by Andrew Morris"
+      },
+      {
+        "type": "youtube",
+        "id": "ok293iy7fA4",
+        "title": "What is Science by Richard Feynman"
+      },
+      {
+        "type": "youtube",
+        "id": "ARWBdfWpDyc",
+        "title": "Quantum Physics for 7 Year Olds by Dominic Walliman"
+      },
+      {
+        "type": "youtube",
+        "id": "Iuv6hY6zsd0",
+        "title": "The Original Double Slit Experiment"
+      },
+      {
+        "type": "youtube",
+        "id": "A9tKncAdlHQ",
+        "title": "Double Slit Experiment explained! by Jim Al-Khalili"
+      },
+      {
+        "type": "youtube",
+        "id": "TQKELOE9eY4",
+        "title": "What is the Heisenberg Uncertainty Principle?"
+      },
+      {
+        "type": "youtube",
+        "id": "Q2OlsMblugo",
+        "title": "Wave-Particle Duality and other Quantum Myths"
+      },
+      {
+        "type": "youtube",
+        "id": "p-MNSLsjjdo",
+        "title": "The Quantum Experiment that Broke Reality"
+      },
+      {
+        "type": "youtube",
+        "id": "f_4nYgrDJvc",
+        "title": "Einstein's Nightmare by Jim Al-Khalili"
+      },
+      {
+        "type": "youtube",
+        "id": "BFvJOZ51tmc",
+        "title": "Quantum Entanglement, Atomic Physics and Reality"
+      },
+      {
+        "type": "youtube",
+        "id": "rKPv8zApee0",
+        "title": "What is Nothing? by Jim Al-Khalili"
+      },
+      {
+        "type": "youtube",
+        "id": "CBrsWPCp_rs",
+        "title": "Quantum Theory"
+      },
+      {
+        "type": "youtube",
+        "id": "BFrBr8oUVXU",
+        "title": "Quantum Reality, Space, Time, and Entanglement"
+      },
+      {
+        "type": "youtube",
+        "id": "zNVQfWC_evg",
+        "title": "Quantum Fields, The Real Building Blocks of the Universe with David Tong"
+      },
+      {
+        "type": "youtube",
+        "id": "5hVmeOCJjOU",
+        "title": "A Brief History of Quantum Mechanics with Sean Carroll"
+      },
+      {
+        "type": "youtube",
+        "id": "rBpR0LBsUfM",
+        "title": "Mysteries of Modern Physics by Sean Carroll"
+      },
+      {
+        "type": "youtube",
+        "id": "O96fE1E-rf8",
+        "title": "Learning how to learn by Barbara Oakley"
+      },
+      {
+        "type": "youtube",
+        "id": "JC82Il2cjqA",
+        "title": "You Can Learn Anything <3"
+      }
+    ],
+    "previous": {
+      "name": "the-student",
+      "title": "The Student"
+    },
+    "next": {
       "name": "the-orator",
       "title": "The Orator"
     }
@@ -9700,8 +9879,8 @@
       }
     ],
     "previous": {
-      "name": "the-student",
-      "title": "The Student"
+      "name": "the-self-taught",
+      "title": "The Self Taught"
     },
     "next": {
       "name": "the-genius",

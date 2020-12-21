@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### December 20th 2020, 9:01:26 pm EST
+Created a new chapter [The Self Taught](the-self-taught.html).
+
+Added [Sam Tobey](https://www.youtube.com/channel/UCg8Q4itGVANc0qxutGu1dSg) to [The Maverick](the-maverick.html)
+
+
 ### December 13th 2020, 10:00:06 pm EST
 Created a new chapter [The Freedom Fighter](the-freedom-fighter.html).
 
