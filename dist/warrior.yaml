@@ -7179,6 +7179,9 @@
   name: the-hacker
   data:
     - type: youtube
+      id: 5vjMnUX6v4M
+      title: What is a Hacker? with Emmanuel Goldstein.
+    - type: youtube
       id: W76o_iG7Y7g
       title: Kids hack their Dad's computer on her Raspberry Pi
     - type: text
@@ -8388,6 +8391,59 @@
     name: the-web-developer
     title: The Web Developer
   next:
+    name: the-social-engineer
+    title: The Social Engineer
+- title: The Social Engineer
+  name: the-social-engineer
+  data:
+    - type: youtube
+      id: xuYoMs6CLEw
+      title: 'Social Engineering, Vishing Example'
+    - type: youtube
+      id: 1Gti2emO-uk
+      title: Why Companies Like Google And Facebook Pay Hackers Millions
+    - type: youtube
+      id: Vo1urF6S4u0
+      title: What is Social Engineering?
+    - type: youtube
+      id: PWVN3Rq4gzw
+      title: Watch this hacker break into a company
+    - type: youtube
+      id: CV39QzFpJx4
+      title: Watch This Russian Hacker Break Into Our Computer In Minutes
+    - type: youtube
+      id: FIruVf71dW4
+      title: Social Engineering Tricks
+    - type: youtube
+      id: Ck_r2GYLdCI
+      title: >-
+        How hackers take over your accounts using social engineering
+        (Marketplace)
+    - type: youtube
+      id: nknq9sUu8ko
+      title: Social Engineering Fraud
+    - type: youtube
+      id: yY-lMkeZVuY
+      title: Social Engineering by Brian Brushwood
+    - type: youtube
+      id: FvhkKwHjUVg
+      title: The Dark Arts of Social Engineering
+    - type: youtube
+      id: xiSYI7zdF5I
+      title: Who Am I
+    - type: youtube
+      id: YmGwdoS706M
+      title: 'Best of Kevin Mitnick, My First Social Engineering Hack'
+    - type: youtube
+      id: Qe73tRTksf0
+      title: 'Kevin Mitnick, A Hacker''s Story'
+    - type: youtube
+      id: WN4fCK23Srk
+      title: FREEDOM DOWNTIME - Kevin Mitnick Hacking Documentary
+  previous:
+    name: the-cryptographer
+    title: The Cryptographer
+  next:
     name: the-security-analyst
     title: The Security Analyst
 - title: The Security Analyst
@@ -8499,8 +8555,8 @@
       id: vsMydMDi3rI
       title: Catch Me If You Can | Frank Abagnale | Talks at Google
   previous:
-    name: the-cryptographer
-    title: The Cryptographer
+    name: the-social-engineer
+    title: The Social Engineer
   next:
     name: the-privacy-advocate
     title: The Privacy Advocate

@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### December 27th 2020, 9:42:31 pm EST
+Created a new chapter [The Social Engineer](the-social-engineer.html).
+
+Added [Emmanuel Goldstein](https://2600.com/) to the opening of [The Hacker](the-hacker.html)
+
+
 ### December 20th 2020, 9:01:26 pm EST
 Created a new chapter [The Self Taught](the-self-taught.html).
 
