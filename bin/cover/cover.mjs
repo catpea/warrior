@@ -57,7 +57,7 @@ async function main() {
     // console.log(images.length, images);
     if(images.length){
 
-      let filePath = path.join('docs/images', kebabCase(name) + '-cover.jpg')
+      let filePath = path.join('docs/images', 'warrior-' + kebabCase(name) + '-cover.jpg')
       let coverPath = path.join('docs/images', kebabCase(name) + '-illustration.jpg')
       const files = images.map(i=>`"${i}"`).join(" ")
       if(!fs.pathExistsSync(filePath)){
