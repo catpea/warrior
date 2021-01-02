@@ -17,7 +17,7 @@ md_dest="${dist}/md-${old_basename}";
 lg_dest="${dist}/lg-${old_basename}";
 xl_dest="${dist}/xl-${old_basename}";
 
-mkdir -p $dist;
+#mkdir -p $dist;
 
 # if [ ! -f "$bl_dest" ] || [ "$source" -nt "$bl_dest" ]; then
 #   echo Creating "$bl_dest"...
