@@ -1,88 +1,176 @@
-- foreword
-- introduction
-- the-hunter
-- the-adventurer
-- the-soldier
-- the-knight-of-virtue
-- the-lady-and-the-gentleman
-- the-officer
-- the-intellectual
-- the-humanitarian
-- the-ultra
-- the-superhero
-- the-fearless
-- the-freedom-fighter
-- the-philosopher
-- the-skeptic
-- the-evolutionary-biologist
-- the-scientist
-- the-naturalist
-- the-survivalist
-- the-backpacker
-- the-urban-explorer
-- the-explorer
-- the-discoverer
-- the-astronomer
-- the-rocketeer
-- the-mine-explorer
-- the-metal-detectorist
-- the-flintknapper
-- the-dancer
-- the-longboarder
-- the-trainer
-- the-jogger
-- the-trail-runner
-- the-athlete
-- the-bodybuilder
-- the-slackliner
-- the-tracer
-- the-gymnast
-- the-martial-artist
-- the-luminary
-- the-connoisseur
-- the-chef
-- the-restorer
-- the-blacksmith
-- the-maker
-- the-dj
-- the-musician
-- the-ukulele-player
-- the-maverick
-- the-composer
-- the-poet
-- the-slam-poet
-- the-interactive-fiction-writer
-- the-writer
-- the-sculptor
-- the-photographer
-- the-filmmaker
-- the-mudlark
-- the-artist
-- the-typographer
-- the-designer
-- the-graffitist
-- the-cyberpunk
-- the-hacker
-- the-wizard
-- the-guru
-- the-programmer
-- the-web-developer
-- the-cryptographer
-- the-social-engineer
-- the-security-analyst
-- the-privacy-advocate
-- the-engineer
-- the-librarian
-- the-highschooler
-- the-principal
-- the-teacher
-- the-student
-- the-self-taught
-- the-orator
-- the-genius
-- the-courageous
-- the-visionary
-- the-founder
-- the-believer
-- the-human
-- the-great-being
+- name: foreword
+  date: '2020-04-30T23:35:48.000Z'
+- name: introduction
+  date: '2019-05-08T04:50:46.835Z'
+- name: the-hunter
+  date: '2019-05-15T02:34:30.639Z'
+- name: the-adventurer
+  date: '2019-05-22T04:26:45.699Z'
+- name: the-soldier
+  date: '2019-05-29T04:41:25.712Z'
+- name: the-knight-of-virtue
+  date: '2019-06-05T04:40:54.658Z'
+- name: the-lady-and-the-gentleman
+  date: '2019-06-12T04:49:11.893Z'
+- name: the-officer
+  date: '2019-06-19T02:47:33.740Z'
+- name: the-intellectual
+  date: '2019-06-26T01:47:15.789Z'
+- name: the-humanitarian
+  date: '2019-07-03T03:26:11.435Z'
+- name: the-ultra
+  date: '2019-07-10T01:53:59.256Z'
+- name: the-superhero
+  date: '2019-07-17T01:25:27.801Z'
+- name: the-fearless
+  date: '2020-11-09T03:58:43.000Z'
+- name: the-freedom-fighter
+  date: '2020-12-14T03:22:14.000Z'
+- name: the-philosopher
+  date: '2019-07-24T02:14:47.914Z'
+- name: the-skeptic
+  date: '2019-07-31T03:51:28.289Z'
+- name: the-evolutionary-biologist
+  date: '2020-10-25T23:40:49.000Z'
+- name: the-scientist
+  date: '2019-08-07T02:50:25.742Z'
+- name: the-naturalist
+  date: '2019-08-14T01:21:12.429Z'
+- name: the-survivalist
+  date: '2019-08-21T03:59:12.442Z'
+- name: the-backpacker
+  date: '2020-05-16T04:01:27.000Z'
+- name: the-urban-explorer
+  date: '2020-09-26T03:05:06.000Z'
+- name: the-explorer
+  date: '2019-08-28T03:57:41.274Z'
+- name: the-discoverer
+  date: '2019-09-04T04:30:13.398Z'
+- name: the-astronomer
+  date: '2019-09-11T04:39:22.130Z'
+- name: the-rocketeer
+  date: '2020-10-12T03:55:55.000Z'
+- name: the-mine-explorer
+  date: '2019-09-18T01:44:51.547Z'
+- name: the-metal-detectorist
+  date: '2020-07-18T04:05:12.000Z'
+- name: the-flintknapper
+  date: '2020-07-25T05:36:25.000Z'
+- name: the-dancer
+  date: '2019-09-25T01:21:59.943Z'
+- name: the-longboarder
+  date: '2020-08-01T01:46:58.000Z'
+- name: the-trainer
+  date: '2020-06-06T03:23:50.000Z'
+- name: the-jogger
+  date: '2020-05-09T03:28:58.000Z'
+- name: the-trail-runner
+  date: '2020-08-15T00:59:53.000Z'
+- name: the-athlete
+  date: '2019-10-02T02:34:29.612Z'
+- name: the-bodybuilder
+  date: '2019-10-09T04:40:45.490Z'
+- name: the-slackliner
+  date: '2020-07-11T03:54:45.000Z'
+- name: the-tracer
+  date: '2020-06-20T04:02:25.000Z'
+- name: the-gymnast
+  date: '2020-05-30T03:49:48.000Z'
+- name: the-martial-artist
+  date: '2020-12-07T04:46:52.000Z'
+- name: the-luminary
+  date: '2019-10-16T02:40:59.591Z'
+- name: the-connoisseur
+  date: '2020-06-13T03:28:11.000Z'
+- name: the-chef
+  date: '2019-10-23T01:19:47.624Z'
+- name: the-restorer
+  date: '2020-05-23T03:01:34.000Z'
+- name: the-blacksmith
+  date: '2019-10-30T01:40:56.465Z'
+- name: the-maker
+  date: '2019-11-06T02:32:54.218Z'
+- name: the-dj
+  date: '2019-11-13T03:40:27.640Z'
+- name: the-musician
+  date: '2019-11-20T04:44:47.922Z'
+- name: the-ukulele-player
+  date: '2020-05-02T03:29:30.000Z'
+- name: the-maverick
+  date: '2020-06-27T04:47:44.000Z'
+- name: the-composer
+  date: '2019-11-27T03:18:56.765Z'
+- name: the-poet
+  date: '2019-12-04T01:39:49.768Z'
+- name: the-slam-poet
+  date: '2020-08-22T01:08:03.000Z'
+- name: the-interactive-fiction-writer
+  date: '2020-10-19T03:20:11.000Z'
+- name: the-writer
+  date: '2020-10-05T02:21:27.000Z'
+- name: the-sculptor
+  date: '2019-12-11T03:40:45.561Z'
+- name: the-photographer
+  date: '2019-12-18T01:50:25.395Z'
+- name: the-filmmaker
+  date: '2019-12-25T04:12:24.146Z'
+- name: the-mudlark
+  date: '2020-07-04T03:38:03.000Z'
+- name: the-artist
+  date: '2020-01-01T02:48:35.896Z'
+- name: the-typographer
+  date: '2020-08-07T23:28:25.000Z'
+- name: the-designer
+  date: '2020-01-08T01:21:52.719Z'
+- name: the-graffitist
+  date: '2020-01-15T02:57:34.957Z'
+- name: the-cyberpunk
+  date: '2020-11-30T04:25:54.000Z'
+- name: the-hacker
+  date: '2020-01-22T02:54:23.471Z'
+- name: the-wizard
+  date: '2020-01-29T03:38:24.772Z'
+- name: the-guru
+  date: '2020-02-05T03:29:57.836Z'
+- name: the-programmer
+  date: '2020-02-12T02:30:12.403Z'
+- name: the-web-developer
+  date: '2020-02-19T03:12:13.882Z'
+- name: the-cryptographer
+  date: '2020-02-26T04:25:36.347Z'
+- name: the-social-engineer
+  date: '2020-12-28T02:58:41.000Z'
+- name: the-security-analyst
+  date: '2020-11-16T04:36:57.000Z'
+- name: the-privacy-advocate
+  date: '2020-11-23T02:56:20.000Z'
+- name: the-engineer
+  date: '2020-11-02T03:59:28.000Z'
+- name: the-librarian
+  date: '2020-08-29T00:25:40.000Z'
+- name: the-highschooler
+  date: '2020-03-04T03:32:27.880Z'
+- name: the-principal
+  date: '2020-03-11T02:29:50.593Z'
+- name: the-teacher
+  date: '2020-03-18T02:27:27.363Z'
+- name: the-student
+  date: '2020-03-25T02:48:11.660Z'
+- name: the-self-taught
+  date: '2020-12-21T02:11:48.000Z'
+- name: the-orator
+  date: '2020-09-05T02:34:27.000Z'
+- name: the-genius
+  date: '2020-04-01T04:22:10.551Z'
+- name: the-courageous
+  date: '2020-04-08T04:34:35.584Z'
+- name: the-visionary
+  date: '2020-04-15T01:34:54.631Z'
+- name: the-founder
+  date: '2020-04-22T02:59:23.796Z'
+- name: the-believer
+  date: '2020-09-12T02:56:11.000Z'
+- name: the-human
+  date: '2020-09-19T00:13:53.000Z'
+- name: the-great-being
+  date: '2020-10-25T23:40:49.000Z'

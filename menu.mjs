@@ -31,6 +31,16 @@ const questions = [
         value: './bin/make/feed.mjs'
       },
       {
+        key: 'u',
+        name: '4) Make Server Object',
+        value: './bin/server-object/server-object.mjs'
+      },
+      {
+        key: 'u',
+        name: '5) Make Cover Images',
+        value: './bin/make/cover.mjs'
+      },
+      {
         key: 'p',
         name: 'Publish To Github',
         value: './bin/publish/index.sh'

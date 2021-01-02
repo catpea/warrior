@@ -33,8 +33,9 @@ async function main() {
   const toc = yaml.safeLoad(fs.readFileSync(path.resolve(path.join(options.directory, options.index))));
 
   let index = 0;
-  for (let name of toc) {
+  for (let {name, date} of toc) {
 
+  
     let title = startCase(name);
 
     let previousIndex = index - 1;
@@ -74,6 +75,7 @@ async function main() {
     const element = {
       title,
       name,
+      date,
       data: sections
     };
     if (previous) element.previous = previous;
