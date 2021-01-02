@@ -59,13 +59,13 @@ async function main() {
 
       let filePath = path.join('docs/images', 'warrior-' + kebabCase(name) + '-cover.jpg')
       let coverPath = path.join('docs/images', kebabCase(name) + '-illustration.jpg')
-      const files = images.map(i=>`"${i}"`).join(" ")
-      if(!fs.pathExistsSync(filePath)){
-        // console.log(`Creating Cover Image for ${name}`);
-        // console.log(`montage ${files} ${filePath}`);
-        const square = parseInt(Math.sqrt(images.length));
 
-        await execShellCommand(`montage -background '#212529' ${files} -geometry 320x230 +${square}+${square} ${filePath}`);
+      const files = images.filter(i=>'.gif'!==path.extname(i)).map(i=>`"${i}"`).join(" ")
+
+      if(!fs.pathExistsSync(filePath)){
+        console.log(`Creating Cover Image for ${name}`);
+        // console.log(`montage ${files} ${filePath}`);
+        await execShellCommand(`montage -background '#212529' ${files} -geometry 320x230 -tile 3x ${filePath}`);
         //await execShellCommand(`convert -define jpeg:size=1000x1000 ${filePath}  -thumbnail 500x500^ -gravity center -extent 1000x1000 -quality 80 ${coverPath};`);
         //break;
       }
