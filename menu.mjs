@@ -38,7 +38,7 @@ const questions = [
       {
         key: 'u',
         name: '5) Make Cover Images',
-        value: './bin/make/cover.mjs'
+        value: './bin/cover/index.sh'
       },
       {
         key: 'p',

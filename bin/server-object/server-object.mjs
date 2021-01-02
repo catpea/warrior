@@ -244,6 +244,7 @@ async function main(){
     entry.date = item.date;
     // no entry.timestamp = moment(entry.date).format('dddd, MMMM Do YYYY, h:mm:ss a');
 
+    entry.image = `${item.name}-cover.jpg`;
     entry.html = '';
     entry.text = '';
 
