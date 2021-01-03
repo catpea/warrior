@@ -65,7 +65,14 @@ async function main() {
       if(!fs.pathExistsSync(filePath)){
         console.log(`Creating Cover Image for ${name}`);
         // console.log(`montage ${files} ${filePath}`);
-        await execShellCommand(`montage -background '#212529' ${files} -geometry 320x230 -tile 3x ${filePath}`);
+        let tile = 3;
+        if(images.length > 17) tile = 3;
+        if(images.length > 25) tile = 4;
+        if(images.length > 35) tile = 5;
+        if(images.length < 9) tile = 2;
+        if(images.length < 4) tile = 1;
+
+        await execShellCommand(`montage -background '#212529' ${files} -geometry 320x230 -tile ${tile}x ${filePath}`);
         //await execShellCommand(`convert -define jpeg:size=1000x1000 ${filePath}  -thumbnail 500x500^ -gravity center -extent 1000x1000 -quality 80 ${coverPath};`);
         //break;
       }
