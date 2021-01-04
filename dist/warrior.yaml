@@ -213,6 +213,9 @@
   name: introduction
   date: '2019-05-08T04:50:46.835Z'
   data:
+    - type: youtube
+      id: s8nFACrLxr0
+      title: Finding Joe
     - type: quote
       author: Sun Tzu
       url: 'https://en.wikipedia.org/wiki/Sun_Tzu'
