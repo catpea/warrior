@@ -2212,11 +2212,6 @@
     - type: youtube
       id: R9OCA6UFE-0
       title: The philosophy of Stoicism by Massimo Pigliucci
-    - type: subtitle
-      title: Existentialism
-    - type: youtube
-      id: YaDvRdLMkHs
-      title: 'Existentialism: Crash Course Philosophy'
     - type: text
       title: Crash Course Philosophy
       text: >-
@@ -2228,6 +2223,68 @@
     title: Object Object
   next:
     name: &ref_14
+      name: the-existentialist
+      date: '2021-01-04T01:53:45.216Z'
+    title: Object Object
+- title: The Existentialist
+  name: the-existentialist
+  date: '2021-01-04T01:53:45.216Z'
+  data:
+    - type: youtube
+      id: tW-IrnwKBxs
+      title: Existentialism Is a Humanism
+    - type: youtube
+      id: H_tgqj9MU8M
+      title: What is existentialism?
+    - type: youtube
+      id: YaDvRdLMkHs
+      title: 'Existentialism: Crash Course Philosophy'
+    - type: youtube
+      id: I-eRTJzaFsg
+      title: Existentialism in 3 Minutes
+    - type: youtube
+      id: VYyxc1mmnrI
+      title: What Is Existentialism?
+    - type: youtube
+      id: vPtzpjC7TF4
+      title: Is life meaningless? And other absurd questions by Nina Medvinskaya
+    - type: youtube
+      id: ueBZZ8CRJCo
+      title: 'Friedrich Nietzsche, 10 Life Lessons'
+    - type: youtube
+      id: 0OIZMGEQ298
+      title: 'Friedrich Nietzsche, How To Find Yourself'
+    - type: youtube
+      id: _HF9npeC3uc
+      title: 'Friedrich Nietzsche, How To Become A Superhuman'
+    - type: youtube
+      id: 2Xzh1BjCA5Q
+      title: 'Friedrich Nietzsche, Amor Fati'
+    - type: youtube
+      id: ZwwiqQBFsJs
+      title: The Tragedy of Freedom by Jean-Paul Sartre
+    - type: youtube
+      id: qpXNRrtuo38
+      title: Jean-Paul Sartre and Existential Choice
+    - type: youtube
+      id: mLjgfMj2W6k
+      title: Soren Kierkegaard and The Psychology of Anxiety
+    - type: youtube
+      id: MAQoTlgT8_Q
+      title: 'Philosophy Feuds, Sartre vs Camus'
+    - type: youtube
+      id: 6YDygRClCRc
+      title: >-
+        How can Practical Everyday Existentialism help you live better by
+        Stephen Robert Morse
+    - type: youtube
+      id: zORUUqJd81M
+      title: Why does the universe exist? by Jim Holt
+  previous:
+    name: *ref_13
+    title: Object Object
+  next:
+    name: &ref_15
       name: the-skeptic
       date: '2019-07-31T03:51:28.289Z'
     title: Object Object
@@ -2345,10 +2402,10 @@
         href="https://en.wikipedia.org/wiki/Common_English_usage_misconceptions">Common
         English usage misconceptions</a> for more.</p>
   previous:
-    name: *ref_13
+    name: *ref_14
     title: Object Object
   next:
-    name: &ref_15
+    name: &ref_16
       name: the-evolutionary-biologist
       date: '2020-10-25T23:40:49.000Z'
     title: Object Object
@@ -2437,10 +2494,10 @@
       id: ThDYazipjSI
       title: 'LIFE BEYOND II, The Museum of Alien Life (4K)'
   previous:
-    name: *ref_14
+    name: *ref_15
     title: Object Object
   next:
-    name: &ref_16
+    name: &ref_17
       name: the-scientist
       date: '2019-08-07T02:50:25.742Z'
     title: Object Object
@@ -2523,10 +2580,10 @@
       id: dw4w1UsOafQ
       title: 'Richard Dawkins: Growing up in the Universe (1991)'
   previous:
-    name: *ref_15
+    name: *ref_16
     title: Object Object
   next:
-    name: &ref_17
+    name: &ref_18
       name: the-naturalist
       date: '2019-08-14T01:21:12.429Z'
     title: Object Object
@@ -2603,10 +2660,10 @@
       id: p3Qnlu9Nfj8
       title: Pennsylvania Polka
   previous:
-    name: *ref_16
+    name: *ref_17
     title: Object Object
   next:
-    name: &ref_18
+    name: &ref_19
       name: the-survivalist
       date: '2019-08-21T03:59:12.442Z'
     title: Object Object
@@ -2748,10 +2805,10 @@
       id: vAuO3bHxSpc
       title: Round Hut
   previous:
-    name: *ref_17
+    name: *ref_18
     title: Object Object
   next:
-    name: &ref_19
+    name: &ref_20
       name: the-backpacker
       date: '2020-05-16T04:01:27.000Z'
     title: Object Object
@@ -2820,10 +2877,10 @@
       id: rbE53XUtVw0
       title: Bear sits next to guy
   previous:
-    name: *ref_18
+    name: *ref_19
     title: Object Object
   next:
-    name: &ref_20
+    name: &ref_21
       name: the-urban-explorer
       date: '2020-09-26T03:05:06.000Z'
     title: Object Object
@@ -2880,10 +2937,10 @@
       id: JRuIUhK1vcc
       title: Sahara Freight
   previous:
-    name: *ref_19
+    name: *ref_20
     title: Object Object
   next:
-    name: &ref_21
+    name: &ref_22
       name: the-explorer
       date: '2019-08-28T03:57:41.274Z'
     title: Object Object
@@ -2940,10 +2997,10 @@
       id: KDPnWgVGuhc
       title: Forgotten bunker found and opened
   previous:
-    name: *ref_20
+    name: *ref_21
     title: Object Object
   next:
-    name: &ref_22
+    name: &ref_23
       name: the-discoverer
       date: '2019-09-04T04:30:13.398Z'
     title: Object Object
@@ -2967,10 +3024,10 @@
       id: P5ipVlY5p7w
       title: The Pluto Fact Song
   previous:
-    name: *ref_21
+    name: *ref_22
     title: Object Object
   next:
-    name: &ref_23
+    name: &ref_24
       name: the-astronomer
       date: '2019-09-11T04:39:22.130Z'
     title: Object Object
@@ -3104,10 +3161,10 @@
       id: c6Eq2sI1NDY
       title: How the Edge of Our Galaxy Defies Known Physics
   previous:
-    name: *ref_22
+    name: *ref_23
     title: Object Object
   next:
-    name: &ref_24
+    name: &ref_25
       name: the-rocketeer
       date: '2020-10-12T03:55:55.000Z'
     title: Object Object
@@ -3172,10 +3229,10 @@
       id: EzZGPCyrpSU
       title: 5 REAL Possibilities for Interstellar Travel
   previous:
-    name: *ref_23
+    name: *ref_24
     title: Object Object
   next:
-    name: &ref_25
+    name: &ref_26
       name: the-mine-explorer
       date: '2019-09-18T01:44:51.547Z'
     title: Object Object
@@ -3270,10 +3327,120 @@
       id: 5w0RzhT2wYQ
       title: 'Road Kill Cave Conquered : Lucky To Be Alive | Aquachigger'
   previous:
-    name: *ref_24
+    name: *ref_25
     title: Object Object
   next:
-    name: &ref_26
+    name: &ref_27
+      name: the-spelunker
+      date: '2021-01-04T02:53:11.839Z'
+    title: Object Object
+- title: The Spelunker
+  name: the-spelunker
+  date: '2021-01-04T02:53:11.839Z'
+  data:
+    - type: youtube
+      id: CFm9wakNChs
+      title: Claustrophobic Cave Experience
+    - type: youtube
+      id: sR-pKoikhYw
+      title: Kuna Cave Spelunking in Southern Idaho
+    - type: youtube
+      id: ZIC_ok9DWcM
+      title: Dome Pit in Natural Bridge Caverns
+    - type: youtube
+      id: 6oYPUAqIxZY
+      title: ESCAPING THE DEVILS PINCH
+    - type: youtube
+      id: MZXTv8WZ7yo
+      title: Hell Hole
+    - type: youtube
+      id: T_kUT9ynZNU
+      title: Hall of Faces (Hell Hole)
+    - type: youtube
+      id: rRsGm06t1yg
+      title: Spelunking the Santa Cruz Hell Hole
+    - type: youtube
+      id: K-pKKq0Y1XA
+      title: The Nutty Putty Caves (Part 1 of 5)
+    - type: youtube
+      id: QQ8UtzMmM2o
+      title: Lionel's Hole
+    - type: youtube
+      id: TskFhOtR_KM
+      title: Slingerland's Hellhole
+    - type: youtube
+      id: ova4opW7-Vo
+      title: The Hardest Cave Trip
+    - type: youtube
+      id: RVmN65I038M
+      title: Mendip Hills of the UK - 7 Caves in 1 Day
+    - type: youtube
+      id: T09e_lI-nq4
+      title: Largest Ice Cave in the World. The Eisriesenwelt in Austria
+    - type: youtube
+      id: 8ocxsF7CJO4
+      title: 'The Largest Ice cave in the World, Eisriesenwelt (Austria)'
+    - type: youtube
+      id: Z1vvAR2AtsI
+      title: 'Guilin, Reed Flute Cave (China)'
+    - type: youtube
+      id: fTNlZl7-s4w
+      title: Mammoth Cave National Park (US)
+    - type: youtube
+      id: KBLunwf55oc
+      title: Mammoth Cave (US)
+    - type: youtube
+      id: fXo60AuCSwc
+      title: Angry Planet - 311 - Crystal Cave (Mexico)
+    - type: youtube
+      id: ZsIebVCr0zk
+      title: Cave of Crystals "Giant Crystal Cave" (Mexico)
+    - type: youtube
+      id: IHgC7GOOF7Q
+      title: 'Underground River in Sabang, Puerto Princesa (Philippines)'
+    - type: youtube
+      id: eSmGSpoinI8
+      title: Mendenhall Glacier (Alaska)
+    - type: youtube
+      id: t4nM1FoUqYs
+      title: 'Antelope Canyon, Arizona, USA'
+    - type: youtube
+      id: EKDXwH38caE
+      title: Waitomo Glowworm Caves (New Zealand)
+    - type: youtube
+      id: yx2cNnlBzUU
+      title: Ruakuri Cave in Waitomo (New Zealand)
+    - type: youtube
+      id: UC7sL-f46Ig
+      title: Majlis al Jinn (Gathering place of the Jinn) (Oman)
+    - type: youtube
+      id: h6n5p0W1nLc
+      title: Hang Đong Son Đoong (Vietnam)
+    - type: youtube
+      id: EK1TEeGrrYk
+      title: Behold the Marble Caves (Patagonia)
+    - type: youtube
+      id: 3ZiARIwQV14
+      title: Amazing Postojna Cave System (Slovenia)
+    - type: youtube
+      id: 3lnKnYuyGHY
+      title: >-
+        Most Amazing Cave in the World, Škocjan Caves - UNESCO World Heritage
+        Site (Slovenia)
+    - type: youtube
+      id: UvxOy-6BWrs
+      title: 'Carlsbad Caverns National Park (New Mexico, US)'
+    - type: youtube
+      id: FMvl4bd_HNU
+      title: The Giant Caves of Mulu (Borneo)
+    - type: youtube
+      id: FAY-t32vyds
+      title: Tight squeeze at Deep Cave
+  previous:
+    name: *ref_26
+    title: Object Object
+  next:
+    name: &ref_28
       name: the-metal-detectorist
       date: '2020-07-18T04:05:12.000Z'
     title: Object Object
@@ -3348,10 +3515,10 @@
       id: xkmkrvkc8qg
       title: Apple picking then baking a pie from scratch
   previous:
-    name: *ref_25
+    name: *ref_27
     title: Object Object
   next:
-    name: &ref_27
+    name: &ref_29
       name: the-flintknapper
       date: '2020-07-25T05:36:25.000Z'
     title: Object Object
@@ -3416,10 +3583,10 @@
       id: ULVQuCbkFjQ
       title: Native American Horn Bow
   previous:
-    name: *ref_26
+    name: *ref_28
     title: Object Object
   next:
-    name: &ref_28
+    name: &ref_30
       name: the-dancer
       date: '2019-09-25T01:21:59.943Z'
     title: Object Object
@@ -3584,10 +3751,10 @@
       id: 1FLThlB_OWc
       title: PRISYADKA (Russian Squat Kick TUTORIAL) - Detailed
   previous:
-    name: *ref_27
+    name: *ref_29
     title: Object Object
   next:
-    name: &ref_29
+    name: &ref_31
       name: the-longboarder
       date: '2020-08-01T01:46:58.000Z'
     title: Object Object
@@ -3641,10 +3808,10 @@
       id: CKJ8aTp9-OY
       title: Sky Brown
   previous:
-    name: *ref_28
+    name: *ref_30
     title: Object Object
   next:
-    name: &ref_30
+    name: &ref_32
       name: the-trainer
       date: '2020-06-06T03:23:50.000Z'
     title: Object Object
@@ -3738,10 +3905,10 @@
         Personal Trainer Tips: 10 Things to do before starting or expanding your
         own training business
   previous:
-    name: *ref_29
+    name: *ref_31
     title: Object Object
   next:
-    name: &ref_31
+    name: &ref_33
       name: the-jogger
       date: '2020-05-09T03:28:58.000Z'
     title: Object Object
@@ -3865,10 +4032,10 @@
       id: g2JXGSPbHGE
       title: I Tried Running an ULTRA MARATHON without Training
   previous:
-    name: *ref_30
+    name: *ref_32
     title: Object Object
   next:
-    name: &ref_32
+    name: &ref_34
       name: the-trail-runner
       date: '2020-08-15T00:59:53.000Z'
     title: Object Object
@@ -3933,10 +4100,10 @@
       id: vRmNROEZvMQ
       title: Out In The Sierra with Kalen Thorien
   previous:
-    name: *ref_31
+    name: *ref_33
     title: Object Object
   next:
-    name: &ref_33
+    name: &ref_35
       name: the-athlete
       date: '2019-10-02T02:34:29.612Z'
     title: Object Object
@@ -4034,10 +4201,10 @@
       id: vs3WTVFChtw
       title: Rock Running - Real Olympics have few spectators.
   previous:
-    name: *ref_32
+    name: *ref_34
     title: Object Object
   next:
-    name: &ref_34
+    name: &ref_36
       name: the-bodybuilder
       date: '2019-10-09T04:40:45.490Z'
     title: Object Object
@@ -4347,10 +4514,10 @@
           files are available here:
           <a href="https://github.com/westland-valhalla/drums/releases">https://github.com/westland-valhalla/drums/releases</a></p>
   previous:
-    name: *ref_33
+    name: *ref_35
     title: Object Object
   next:
-    name: &ref_35
+    name: &ref_37
       name: the-slackliner
       date: '2020-07-11T03:54:45.000Z'
     title: Object Object
@@ -4421,10 +4588,10 @@
       id: MLiswII4Oag
       title: How to SIT on a Slackline
   previous:
-    name: *ref_34
+    name: *ref_36
     title: Object Object
   next:
-    name: &ref_36
+    name: &ref_38
       name: the-tracer
       date: '2020-06-20T04:02:25.000Z'
     title: Object Object
@@ -4487,10 +4654,10 @@
       id: ZgwcgQrEkRg
       title: Teaching Parkour To A Dancer
   previous:
-    name: *ref_35
+    name: *ref_37
     title: Object Object
   next:
-    name: &ref_37
+    name: &ref_39
       name: the-gymnast
       date: '2020-05-30T03:49:48.000Z'
     title: Object Object
@@ -4550,10 +4717,10 @@
         href="https://www.youtube.com/channel/UCWmIgfMkVvcXbvyTKEyRZIw">YouTube
         Channel</a></p>
   previous:
-    name: *ref_36
+    name: *ref_38
     title: Object Object
   next:
-    name: &ref_38
+    name: &ref_40
       name: the-martial-artist
       date: '2020-12-07T04:46:52.000Z'
     title: Object Object
@@ -4724,10 +4891,10 @@
       id: sPp6gafspTM
       title: Splits
   previous:
-    name: *ref_37
+    name: *ref_39
     title: Object Object
   next:
-    name: &ref_39
+    name: &ref_41
       name: the-luminary
       date: '2019-10-16T02:40:59.591Z'
     title: Object Object
@@ -4824,10 +4991,10 @@
 
         <p>One minute after midnight, and it is already today.</p>
   previous:
-    name: *ref_38
+    name: *ref_40
     title: Object Object
   next:
-    name: &ref_40
+    name: &ref_42
       name: the-connoisseur
       date: '2020-06-13T03:28:11.000Z'
     title: Object Object
@@ -4905,10 +5072,10 @@
       id: W7a8qyJ5W74
       title: Funniest One Chip Challenge Ever
   previous:
-    name: *ref_39
+    name: *ref_41
     title: Object Object
   next:
-    name: &ref_41
+    name: &ref_43
       name: the-chef
       date: '2019-10-23T01:19:47.624Z'
     title: Object Object
@@ -4975,10 +5142,10 @@
         href="https://realsalt.com/why-do-some-japanese-restaurants-keep-piles-of-salt-outside/">Why
         Do Some Japanese Restaurants Keep Piles of Salt Outside?</a></p>
   previous:
-    name: *ref_40
+    name: *ref_42
     title: Object Object
   next:
-    name: &ref_42
+    name: &ref_44
       name: the-restorer
       date: '2020-05-23T03:01:34.000Z'
     title: Object Object
@@ -5065,10 +5232,10 @@
       id: mUfK3iu7-N4
       title: 骨董品店で買った錆包丁を18時間手作業で研いだ結果
   previous:
-    name: *ref_41
+    name: *ref_43
     title: Object Object
   next:
-    name: &ref_43
+    name: &ref_45
       name: the-blacksmith
       date: '2019-10-30T01:40:56.465Z'
     title: Object Object
@@ -5173,10 +5340,10 @@
       id: c80mMzDknTI
       title: 'Chevron or Wheat twist, forge welding twists'
   previous:
-    name: *ref_42
+    name: *ref_44
     title: Object Object
   next:
-    name: &ref_44
+    name: &ref_46
       name: the-maker
       date: '2019-11-06T02:32:54.218Z'
     title: Object Object
@@ -5396,10 +5563,10 @@
       id: jn9Od4oP8D0
       title: 'Water Trapped in Quartz Rock vs 60,000 PSI Waterjet - Enhydro Agate'
   previous:
-    name: *ref_43
+    name: *ref_45
     title: Object Object
   next:
-    name: &ref_45
+    name: &ref_47
       name: the-dj
       date: '2019-11-13T03:40:27.640Z'
     title: Object Object
@@ -5506,10 +5673,10 @@
       id: JDJRg8sowP4
       title: 'Nina Kraviz: Dream Machine'
   previous:
-    name: *ref_44
+    name: *ref_46
     title: Object Object
   next:
-    name: &ref_46
+    name: &ref_48
       name: the-musician
       date: '2019-11-20T04:44:47.922Z'
     title: Object Object
@@ -5715,10 +5882,10 @@
         you get 180 minues of music space for
           free (per account).</p>
   previous:
-    name: *ref_45
+    name: *ref_47
     title: Object Object
   next:
-    name: &ref_47
+    name: &ref_49
       name: the-ukulele-player
       date: '2020-05-02T03:29:30.000Z'
     title: Object Object
@@ -5766,10 +5933,10 @@
       id: ILBWV9AFKDU
       title: Different Types of Ukulele Players
   previous:
-    name: *ref_46
+    name: *ref_48
     title: Object Object
   next:
-    name: &ref_48
+    name: &ref_50
       name: the-maverick
       date: '2020-06-27T04:47:44.000Z'
     title: Object Object
@@ -5840,10 +6007,10 @@
       id: YLSdhhQeXnc
       title: 'Kenji Kawai,2007 Concert, Full Cinema Symphony (2:30:46)'
   previous:
-    name: *ref_47
+    name: *ref_49
     title: Object Object
   next:
-    name: &ref_49
+    name: &ref_51
       name: the-composer
       date: '2019-11-27T03:18:56.765Z'
     title: Object Object
@@ -6038,10 +6205,10 @@
         <p>Let no one play you like a piano key.</p>
         <p>Be the change, you hope to see.</p>
   previous:
-    name: *ref_48
+    name: *ref_50
     title: Object Object
   next:
-    name: &ref_50
+    name: &ref_52
       name: the-poet
       date: '2019-12-04T01:39:49.768Z'
     title: Object Object
@@ -6164,10 +6331,10 @@
       id: AfsnHVaScjg
       title: Ravens can talk!
   previous:
-    name: *ref_49
+    name: *ref_51
     title: Object Object
   next:
-    name: &ref_51
+    name: &ref_53
       name: the-slam-poet
       date: '2020-08-22T01:08:03.000Z'
     title: Object Object
@@ -6221,10 +6388,10 @@
       id: CaVaF6TkSUU
       title: Desiderata - Max Ehrmann
   previous:
-    name: *ref_50
+    name: *ref_52
     title: Object Object
   next:
-    name: &ref_52
+    name: &ref_54
       name: the-interactive-fiction-writer
       date: '2020-10-19T03:20:11.000Z'
     title: Object Object
@@ -6309,10 +6476,10 @@
       id: S1R-mtX-2rs
       title: Games like Bandersnatch | The evolution of interactive fiction on PC
   previous:
-    name: *ref_51
+    name: *ref_53
     title: Object Object
   next:
-    name: &ref_53
+    name: &ref_55
       name: the-writer
       date: '2020-10-05T02:21:27.000Z'
     title: Object Object
@@ -6369,10 +6536,10 @@
       id: KL2T0XRzWUI
       title: Go all the way - Charles Bukowski Poem
   previous:
-    name: *ref_52
+    name: *ref_54
     title: Object Object
   next:
-    name: &ref_54
+    name: &ref_56
       name: the-sculptor
       date: '2019-12-11T03:40:45.561Z'
     title: Object Object
@@ -6490,10 +6657,10 @@
       id: 20b2JWz2TfE
       title: Best 3D Scanners 2019
   previous:
-    name: *ref_53
+    name: *ref_55
     title: Object Object
   next:
-    name: &ref_55
+    name: &ref_57
       name: the-photographer
       date: '2019-12-18T01:50:25.395Z'
     title: Object Object
@@ -6520,10 +6687,10 @@
       id: QpeUEK_5Tb0
       title: How to Create Tilt-Shift / Miniature World Time-lapses
   previous:
-    name: *ref_54
+    name: *ref_56
     title: Object Object
   next:
-    name: &ref_56
+    name: &ref_58
       name: the-filmmaker
       date: '2019-12-25T04:12:24.146Z'
     title: Object Object
@@ -6610,10 +6777,10 @@
       id: dSnosk4tWrg
       title: Like Jane
   previous:
-    name: *ref_55
+    name: *ref_57
     title: Object Object
   next:
-    name: &ref_57
+    name: &ref_59
       name: the-mudlark
       date: '2020-07-04T03:38:03.000Z'
     title: Object Object
@@ -6702,10 +6869,10 @@
       id: tUg8GzDlUjU
       title: 'London Mudlarking: Lara Maiklem – A Short Film About Mudlarking'
   previous:
-    name: *ref_56
+    name: *ref_58
     title: Object Object
   next:
-    name: &ref_58
+    name: &ref_60
       name: the-artist
       date: '2020-01-01T02:48:35.896Z'
     title: Object Object
@@ -6883,10 +7050,10 @@
       id: bluffx6sB04
       title: What's an Eraser Shield?
   previous:
-    name: *ref_57
+    name: *ref_59
     title: Object Object
   next:
-    name: &ref_59
+    name: &ref_61
       name: the-typographer
       date: '2020-08-07T23:28:25.000Z'
     title: Object Object
@@ -6935,10 +7102,10 @@
       id: s_iSpjsqM60
       title: Graphic Designer Earns $1 Million Selling Fonts and Graphics Online
   previous:
-    name: *ref_58
+    name: *ref_60
     title: Object Object
   next:
-    name: &ref_60
+    name: &ref_62
       name: the-designer
       date: '2020-01-08T01:21:52.719Z'
     title: Object Object
@@ -7116,10 +7283,10 @@
             video</a> that demonstrates the problem with sublimating pre-made garments
           in a bit more detail.</p>
   previous:
-    name: *ref_59
+    name: *ref_61
     title: Object Object
   next:
-    name: &ref_61
+    name: &ref_63
       name: the-graffitist
       date: '2020-01-15T02:57:34.957Z'
     title: Object Object
@@ -7215,10 +7382,10 @@
       id: RwK4NmQZe64
       title: Red graffiti
   previous:
-    name: *ref_60
+    name: *ref_62
     title: Object Object
   next:
-    name: &ref_62
+    name: &ref_64
       name: the-cyberpunk
       date: '2020-11-30T04:25:54.000Z'
     title: Object Object
@@ -7362,10 +7529,10 @@
       id: kPlBMJ86Z4E
       title: Off Grid Ham Radio & Raspberry Pi Field Computer
   previous:
-    name: *ref_61
+    name: *ref_63
     title: Object Object
   next:
-    name: &ref_63
+    name: &ref_65
       name: the-hacker
       date: '2020-01-22T02:54:23.471Z'
     title: Object Object
@@ -7650,10 +7817,10 @@
       id: jeghGhVdt9s
       title: Gallium vs. Titalium - Abus Padlock Meets a Gruesome End
   previous:
-    name: *ref_62
+    name: *ref_64
     title: Object Object
   next:
-    name: &ref_64
+    name: &ref_66
       name: the-wizard
       date: '2020-01-29T03:38:24.772Z'
     title: Object Object
@@ -7799,10 +7966,10 @@
         hairy; and
           armed with many a fancy spell to hoot.</p>
   previous:
-    name: *ref_63
+    name: *ref_65
     title: Object Object
   next:
-    name: &ref_65
+    name: &ref_67
       name: the-guru
       date: '2020-02-05T03:29:57.836Z'
     title: Object Object
@@ -8133,10 +8300,10 @@
           let people brew you one for a small <a href="https://stripe.com/">fee of $9.95</a> while you <a href="https://gohugo.io/getting-started/quick-start/">blog about
             the experience</a> on the PI it self.</p>
   previous:
-    name: *ref_64
+    name: *ref_66
     title: Object Object
   next:
-    name: &ref_66
+    name: &ref_68
       name: the-programmer
       date: '2020-02-12T02:30:12.403Z'
     title: Object Object
@@ -8227,10 +8394,10 @@
       id: nL34zDTPkcs
       title: You can learn Arduino in 15 minutes.
   previous:
-    name: *ref_65
+    name: *ref_67
     title: Object Object
   next:
-    name: &ref_67
+    name: &ref_69
       name: the-web-developer
       date: '2020-02-19T03:12:13.882Z'
     title: Object Object
@@ -8482,10 +8649,10 @@
           between $180 and $2,200,000, a resume and an outstanding portfolio, an
           employee and an employer, bugfixes and excitement.</p>
   previous:
-    name: *ref_66
+    name: *ref_68
     title: Object Object
   next:
-    name: &ref_68
+    name: &ref_70
       name: the-cryptographer
       date: '2020-02-26T04:25:36.347Z'
     title: Object Object
@@ -8598,10 +8765,10 @@
       id: nVVF8dgKC38
       title: 'Keeping Secrets: Cryptography In A Connected World'
   previous:
-    name: *ref_67
+    name: *ref_69
     title: Object Object
   next:
-    name: &ref_69
+    name: &ref_71
       name: the-social-engineer
       date: '2020-12-28T02:58:41.000Z'
     title: Object Object
@@ -8654,10 +8821,10 @@
       id: WN4fCK23Srk
       title: FREEDOM DOWNTIME - Kevin Mitnick Hacking Documentary
   previous:
-    name: *ref_68
+    name: *ref_70
     title: Object Object
   next:
-    name: &ref_70
+    name: &ref_72
       name: the-security-analyst
       date: '2020-11-16T04:36:57.000Z'
     title: Object Object
@@ -8771,10 +8938,10 @@
       id: vsMydMDi3rI
       title: Catch Me If You Can | Frank Abagnale | Talks at Google
   previous:
-    name: *ref_69
+    name: *ref_71
     title: Object Object
   next:
-    name: &ref_71
+    name: &ref_73
       name: the-privacy-advocate
       date: '2020-11-23T02:56:20.000Z'
     title: Object Object
@@ -8897,10 +9064,10 @@
       id: 8dQYhOXa-LY
       title: Elliot Harmon | The Electronic Frontier Foundation
   previous:
-    name: *ref_70
+    name: *ref_72
     title: Object Object
   next:
-    name: &ref_72
+    name: &ref_74
       name: the-engineer
       date: '2020-11-02T03:59:28.000Z'
     title: Object Object
@@ -9043,10 +9210,10 @@
       id: jjqgP9dpD1k
       title: CS50 - Welcome To Harvard
   previous:
-    name: *ref_71
+    name: *ref_73
     title: Object Object
   next:
-    name: &ref_73
+    name: &ref_75
       name: the-librarian
       date: '2020-08-29T00:25:40.000Z'
     title: Object Object
@@ -9103,10 +9270,10 @@
       id: i8yyTuzcp64
       title: My Favorite Audiobooks - by  Books on My Nightstand
   previous:
-    name: *ref_72
+    name: *ref_74
     title: Object Object
   next:
-    name: &ref_74
+    name: &ref_76
       name: the-highschooler
       date: '2020-03-04T03:32:27.880Z'
     title: Object Object
@@ -9521,10 +9688,10 @@
 
         <p>... and we did ...</p>
   previous:
-    name: *ref_73
+    name: *ref_75
     title: Object Object
   next:
-    name: &ref_75
+    name: &ref_77
       name: the-principal
       date: '2020-03-11T02:29:50.593Z'
     title: Object Object
@@ -9703,10 +9870,10 @@
           time is precious, life is so dear. There simply is no time for charades.</p>
         <p>Principal, stand up, and deliver.</p>
   previous:
-    name: *ref_74
+    name: *ref_76
     title: Object Object
   next:
-    name: &ref_76
+    name: &ref_78
       name: the-teacher
       date: '2020-03-18T02:27:27.363Z'
     title: Object Object
@@ -9917,10 +10084,10 @@
       id: TMrtLsQbaok
       title: Greta Thunberg
   previous:
-    name: *ref_75
+    name: *ref_77
     title: Object Object
   next:
-    name: &ref_77
+    name: &ref_79
       name: the-student
       date: '2020-03-25T02:48:11.660Z'
     title: Object Object
@@ -10013,10 +10180,10 @@
       id: vvlozhvQPJw
       title: 'We can end poverty, but this is why we haven''t by Teva Sienicki'
   previous:
-    name: *ref_76
+    name: *ref_78
     title: Object Object
   next:
-    name: &ref_78
+    name: &ref_80
       name: the-self-taught
       date: '2020-12-21T02:11:48.000Z'
     title: Object Object
@@ -10123,10 +10290,10 @@
       id: JC82Il2cjqA
       title: You Can Learn Anything <3
   previous:
-    name: *ref_77
+    name: *ref_79
     title: Object Object
   next:
-    name: &ref_79
+    name: &ref_81
       name: the-orator
       date: '2020-09-05T02:34:27.000Z'
     title: Object Object
@@ -10176,10 +10343,10 @@
       id: H2QxFM9y0tY
       title: The disarming case to act right now on climate change by Greta Thunberg
   previous:
-    name: *ref_78
+    name: *ref_80
     title: Object Object
   next:
-    name: &ref_80
+    name: &ref_82
       name: the-genius
       date: '2020-04-01T04:22:10.551Z'
     title: Object Object
@@ -10638,10 +10805,10 @@
 
         <p>You Are The Future.</p>
   previous:
-    name: *ref_79
+    name: *ref_81
     title: Object Object
   next:
-    name: &ref_81
+    name: &ref_83
       name: the-courageous
       date: '2020-04-08T04:34:35.584Z'
     title: Object Object
@@ -10866,10 +11033,10 @@
         <p><a href="https://apps.ankiweb.net/">Anki</a> Powerful, intelligent
         flash cards. Remembering things just became much easier.</p>
   previous:
-    name: *ref_80
+    name: *ref_82
     title: Object Object
   next:
-    name: &ref_82
+    name: &ref_84
       name: the-visionary
       date: '2020-04-15T01:34:54.631Z'
     title: Object Object
@@ -10925,10 +11092,10 @@
       id: Lp7BL-UI0Rw
       title: 'How NASA is answering the question: Are we alone?'
   previous:
-    name: *ref_81
+    name: *ref_83
     title: Object Object
   next:
-    name: &ref_83
+    name: &ref_85
       name: the-founder
       date: '2020-04-22T02:59:23.796Z'
     title: Object Object
@@ -11103,10 +11270,10 @@
         href="https://en.wikipedia.org/wiki/Product_Hunt">Product Hunt</a>) has
         many smaller ideas along with Monthly Recurring Revenue (MRR).</p>
   previous:
-    name: *ref_82
+    name: *ref_84
     title: Object Object
   next:
-    name: &ref_84
+    name: &ref_86
       name: the-believer
       date: '2020-09-12T02:56:11.000Z'
     title: Object Object
@@ -11158,10 +11325,10 @@
         Allow things to unfold and you will find your purpose in life by Peggy
         Oki
   previous:
-    name: *ref_83
+    name: *ref_85
     title: Object Object
   next:
-    name: &ref_85
+    name: &ref_87
       name: the-human
       date: '2020-09-19T00:13:53.000Z'
     title: Object Object
@@ -11218,7 +11385,7 @@
       id: cbcGbflpFzI
       title: 'Examined Life, Martha Nussbaum'
   previous:
-    name: *ref_84
+    name: *ref_86
     title: Object Object
   next:
     name:
@@ -11278,5 +11445,5 @@
       id: gXGfngjmwLA
       title: Francine's Interview
   previous:
-    name: *ref_85
+    name: *ref_87
     title: Object Object

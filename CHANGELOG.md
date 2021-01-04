@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### January 3rd 2021, 9:53:11 pm EST
+Created two new chapters [The Spelunker](the-spelunker.html) and the slightly smaller [The Existentialist](the-existentialist.html).
+
+Added [Finding Joe](https://www.youtube.com/watch?v=s8nFACrLxr0) to the opening of [introduction](introduction.html).
+
+
 ### December 27th 2020, 9:42:31 pm EST
 Created a new chapter [The Social Engineer](the-social-engineer.html).
 
