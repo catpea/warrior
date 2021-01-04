@@ -11,11 +11,8 @@
       }
     ],
     "next": {
-      "name": {
-        "name": "introduction",
-        "date": "2019-05-08T04:50:46.835Z"
-      },
-      "title": "Object Object"
+      "name": "introduction",
+      "title": "Introduction"
     }
   },
   {
@@ -63,18 +60,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "foreword",
-        "date": "2020-04-30T23:35:48.000Z"
-      },
-      "title": "Object Object"
+      "name": "foreword",
+      "title": "Foreword"
     },
     "next": {
-      "name": {
-        "name": "the-hunter",
-        "date": "2019-05-15T02:34:30.639Z"
-      },
-      "title": "Object Object"
+      "name": "the-hunter",
+      "title": "The Hunter"
     }
   },
   {
@@ -145,18 +136,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "introduction",
-        "date": "2019-05-08T04:50:46.835Z"
-      },
-      "title": "Object Object"
+      "name": "introduction",
+      "title": "Introduction"
     },
     "next": {
-      "name": {
-        "name": "the-adventurer",
-        "date": "2019-05-22T04:26:45.699Z"
-      },
-      "title": "Object Object"
+      "name": "the-adventurer",
+      "title": "The Adventurer"
     }
   },
   {
@@ -216,18 +201,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-hunter",
-        "date": "2019-05-15T02:34:30.639Z"
-      },
-      "title": "Object Object"
+      "name": "the-hunter",
+      "title": "The Hunter"
     },
     "next": {
-      "name": {
-        "name": "the-soldier",
-        "date": "2019-05-29T04:41:25.712Z"
-      },
-      "title": "Object Object"
+      "name": "the-soldier",
+      "title": "The Soldier"
     }
   },
   {
@@ -347,18 +326,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-adventurer",
-        "date": "2019-05-22T04:26:45.699Z"
-      },
-      "title": "Object Object"
+      "name": "the-adventurer",
+      "title": "The Adventurer"
     },
     "next": {
-      "name": {
-        "name": "the-knight-of-virtue",
-        "date": "2019-06-05T04:40:54.658Z"
-      },
-      "title": "Object Object"
+      "name": "the-knight-of-virtue",
+      "title": "The Knight Of Virtue"
     }
   },
   {
@@ -422,18 +395,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-soldier",
-        "date": "2019-05-29T04:41:25.712Z"
-      },
-      "title": "Object Object"
+      "name": "the-soldier",
+      "title": "The Soldier"
     },
     "next": {
-      "name": {
-        "name": "the-lady-and-the-gentleman",
-        "date": "2019-06-12T04:49:11.893Z"
-      },
-      "title": "Object Object"
+      "name": "the-lady-and-the-gentleman",
+      "title": "The Lady And The Gentleman"
     }
   },
   {
@@ -503,18 +470,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-knight-of-virtue",
-        "date": "2019-06-05T04:40:54.658Z"
-      },
-      "title": "Object Object"
+      "name": "the-knight-of-virtue",
+      "title": "The Knight Of Virtue"
     },
     "next": {
-      "name": {
-        "name": "the-officer",
-        "date": "2019-06-19T02:47:33.740Z"
-      },
-      "title": "Object Object"
+      "name": "the-officer",
+      "title": "The Officer"
     }
   },
   {
@@ -560,18 +521,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-lady-and-the-gentleman",
-        "date": "2019-06-12T04:49:11.893Z"
-      },
-      "title": "Object Object"
+      "name": "the-lady-and-the-gentleman",
+      "title": "The Lady And The Gentleman"
     },
     "next": {
-      "name": {
-        "name": "the-intellectual",
-        "date": "2019-06-26T01:47:15.789Z"
-      },
-      "title": "Object Object"
+      "name": "the-intellectual",
+      "title": "The Intellectual"
     }
   },
   {
@@ -627,18 +582,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-officer",
-        "date": "2019-06-19T02:47:33.740Z"
-      },
-      "title": "Object Object"
+      "name": "the-officer",
+      "title": "The Officer"
     },
     "next": {
-      "name": {
-        "name": "the-humanitarian",
-        "date": "2019-07-03T03:26:11.435Z"
-      },
-      "title": "Object Object"
+      "name": "the-humanitarian",
+      "title": "The Humanitarian"
     }
   },
   {
@@ -780,18 +729,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-intellectual",
-        "date": "2019-06-26T01:47:15.789Z"
-      },
-      "title": "Object Object"
+      "name": "the-intellectual",
+      "title": "The Intellectual"
     },
     "next": {
-      "name": {
-        "name": "the-ultra",
-        "date": "2019-07-10T01:53:59.256Z"
-      },
-      "title": "Object Object"
+      "name": "the-ultra",
+      "title": "The Ultra"
     }
   },
   {
@@ -896,18 +839,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-humanitarian",
-        "date": "2019-07-03T03:26:11.435Z"
-      },
-      "title": "Object Object"
+      "name": "the-humanitarian",
+      "title": "The Humanitarian"
     },
     "next": {
-      "name": {
-        "name": "the-superhero",
-        "date": "2019-07-17T01:25:27.801Z"
-      },
-      "title": "Object Object"
+      "name": "the-superhero",
+      "title": "The Superhero"
     }
   },
   {
@@ -1058,18 +995,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-ultra",
-        "date": "2019-07-10T01:53:59.256Z"
-      },
-      "title": "Object Object"
+      "name": "the-ultra",
+      "title": "The Ultra"
     },
     "next": {
-      "name": {
-        "name": "the-fearless",
-        "date": "2020-11-09T03:58:43.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-fearless",
+      "title": "The Fearless"
     }
   },
   {
@@ -1239,18 +1170,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-superhero",
-        "date": "2019-07-17T01:25:27.801Z"
-      },
-      "title": "Object Object"
+      "name": "the-superhero",
+      "title": "The Superhero"
     },
     "next": {
-      "name": {
-        "name": "the-freedom-fighter",
-        "date": "2020-12-14T03:22:14.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-freedom-fighter",
+      "title": "The Freedom Fighter"
     }
   },
   {
@@ -1415,18 +1340,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-fearless",
-        "date": "2020-11-09T03:58:43.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-fearless",
+      "title": "The Fearless"
     },
     "next": {
-      "name": {
-        "name": "the-philosopher",
-        "date": "2019-07-24T02:14:47.914Z"
-      },
-      "title": "Object Object"
+      "name": "the-philosopher",
+      "title": "The Philosopher"
     }
   },
   {
@@ -1539,18 +1458,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-freedom-fighter",
-        "date": "2020-12-14T03:22:14.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-freedom-fighter",
+      "title": "The Freedom Fighter"
     },
     "next": {
-      "name": {
-        "name": "the-existentialist",
-        "date": "2021-01-04T01:53:45.216Z"
-      },
-      "title": "Object Object"
+      "name": "the-existentialist",
+      "title": "The Existentialist"
     }
   },
   {
@@ -1640,18 +1553,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-philosopher",
-        "date": "2019-07-24T02:14:47.914Z"
-      },
-      "title": "Object Object"
+      "name": "the-philosopher",
+      "title": "The Philosopher"
     },
     "next": {
-      "name": {
-        "name": "the-skeptic",
-        "date": "2019-07-31T03:51:28.289Z"
-      },
-      "title": "Object Object"
+      "name": "the-skeptic",
+      "title": "The Skeptic"
     }
   },
   {
@@ -1756,18 +1663,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-existentialist",
-        "date": "2021-01-04T01:53:45.216Z"
-      },
-      "title": "Object Object"
+      "name": "the-existentialist",
+      "title": "The Existentialist"
     },
     "next": {
-      "name": {
-        "name": "the-evolutionary-biologist",
-        "date": "2020-10-25T23:40:49.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-evolutionary-biologist",
+      "title": "The Evolutionary Biologist"
     }
   },
   {
@@ -1907,18 +1808,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-skeptic",
-        "date": "2019-07-31T03:51:28.289Z"
-      },
-      "title": "Object Object"
+      "name": "the-skeptic",
+      "title": "The Skeptic"
     },
     "next": {
-      "name": {
-        "name": "the-scientist",
-        "date": "2019-08-07T02:50:25.742Z"
-      },
-      "title": "Object Object"
+      "name": "the-scientist",
+      "title": "The Scientist"
     }
   },
   {
@@ -2007,18 +1902,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-evolutionary-biologist",
-        "date": "2020-10-25T23:40:49.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-evolutionary-biologist",
+      "title": "The Evolutionary Biologist"
     },
     "next": {
-      "name": {
-        "name": "the-naturalist",
-        "date": "2019-08-14T01:21:12.429Z"
-      },
-      "title": "Object Object"
+      "name": "the-naturalist",
+      "title": "The Naturalist"
     }
   },
   {
@@ -2124,18 +2013,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-scientist",
-        "date": "2019-08-07T02:50:25.742Z"
-      },
-      "title": "Object Object"
+      "name": "the-scientist",
+      "title": "The Scientist"
     },
     "next": {
-      "name": {
-        "name": "the-survivalist",
-        "date": "2019-08-21T03:59:12.442Z"
-      },
-      "title": "Object Object"
+      "name": "the-survivalist",
+      "title": "The Survivalist"
     }
   },
   {
@@ -2301,18 +2184,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-naturalist",
-        "date": "2019-08-14T01:21:12.429Z"
-      },
-      "title": "Object Object"
+      "name": "the-naturalist",
+      "title": "The Naturalist"
     },
     "next": {
-      "name": {
-        "name": "the-backpacker",
-        "date": "2020-05-16T04:01:27.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-backpacker",
+      "title": "The Backpacker"
     }
   },
   {
@@ -2422,18 +2299,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-survivalist",
-        "date": "2019-08-21T03:59:12.442Z"
-      },
-      "title": "Object Object"
+      "name": "the-survivalist",
+      "title": "The Survivalist"
     },
     "next": {
-      "name": {
-        "name": "the-urban-explorer",
-        "date": "2020-09-26T03:05:06.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-urban-explorer",
+      "title": "The Urban Explorer"
     }
   },
   {
@@ -2523,18 +2394,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-backpacker",
-        "date": "2020-05-16T04:01:27.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-backpacker",
+      "title": "The Backpacker"
     },
     "next": {
-      "name": {
-        "name": "the-explorer",
-        "date": "2019-08-28T03:57:41.274Z"
-      },
-      "title": "Object Object"
+      "name": "the-explorer",
+      "title": "The Explorer"
     }
   },
   {
@@ -2600,18 +2465,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-urban-explorer",
-        "date": "2020-09-26T03:05:06.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-urban-explorer",
+      "title": "The Urban Explorer"
     },
     "next": {
-      "name": {
-        "name": "the-discoverer",
-        "date": "2019-09-04T04:30:13.398Z"
-      },
-      "title": "Object Object"
+      "name": "the-discoverer",
+      "title": "The Discoverer"
     }
   },
   {
@@ -2646,18 +2505,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-explorer",
-        "date": "2019-08-28T03:57:41.274Z"
-      },
-      "title": "Object Object"
+      "name": "the-explorer",
+      "title": "The Explorer"
     },
     "next": {
-      "name": {
-        "name": "the-astronomer",
-        "date": "2019-09-11T04:39:22.130Z"
-      },
-      "title": "Object Object"
+      "name": "the-astronomer",
+      "title": "The Astronomer"
     }
   },
   {
@@ -2840,18 +2693,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-discoverer",
-        "date": "2019-09-04T04:30:13.398Z"
-      },
-      "title": "Object Object"
+      "name": "the-discoverer",
+      "title": "The Discoverer"
     },
     "next": {
-      "name": {
-        "name": "the-rocketeer",
-        "date": "2020-10-12T03:55:55.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-rocketeer",
+      "title": "The Rocketeer"
     }
   },
   {
@@ -2951,18 +2798,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-astronomer",
-        "date": "2019-09-11T04:39:22.130Z"
-      },
-      "title": "Object Object"
+      "name": "the-astronomer",
+      "title": "The Astronomer"
     },
     "next": {
-      "name": {
-        "name": "the-mine-explorer",
-        "date": "2019-09-18T01:44:51.547Z"
-      },
-      "title": "Object Object"
+      "name": "the-mine-explorer",
+      "title": "The Mine Explorer"
     }
   },
   {
@@ -3097,18 +2938,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-rocketeer",
-        "date": "2020-10-12T03:55:55.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-rocketeer",
+      "title": "The Rocketeer"
     },
     "next": {
-      "name": {
-        "name": "the-spelunker",
-        "date": "2021-01-04T02:53:11.839Z"
-      },
-      "title": "Object Object"
+      "name": "the-spelunker",
+      "title": "The Spelunker"
     }
   },
   {
@@ -3278,18 +3113,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-mine-explorer",
-        "date": "2019-09-18T01:44:51.547Z"
-      },
-      "title": "Object Object"
+      "name": "the-mine-explorer",
+      "title": "The Mine Explorer"
     },
     "next": {
-      "name": {
-        "name": "the-metal-detectorist",
-        "date": "2020-07-18T04:05:12.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-metal-detectorist",
+      "title": "The Metal Detectorist"
     }
   },
   {
@@ -3409,18 +3238,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-spelunker",
-        "date": "2021-01-04T02:53:11.839Z"
-      },
-      "title": "Object Object"
+      "name": "the-spelunker",
+      "title": "The Spelunker"
     },
     "next": {
-      "name": {
-        "name": "the-flintknapper",
-        "date": "2020-07-25T05:36:25.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-flintknapper",
+      "title": "The Flintknapper"
     }
   },
   {
@@ -3520,18 +3343,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-metal-detectorist",
-        "date": "2020-07-18T04:05:12.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-metal-detectorist",
+      "title": "The Metal Detectorist"
     },
     "next": {
-      "name": {
-        "name": "the-dancer",
-        "date": "2019-09-25T01:21:59.943Z"
-      },
-      "title": "Object Object"
+      "name": "the-dancer",
+      "title": "The Dancer"
     }
   },
   {
@@ -3676,18 +3493,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-flintknapper",
-        "date": "2020-07-25T05:36:25.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-flintknapper",
+      "title": "The Flintknapper"
     },
     "next": {
-      "name": {
-        "name": "the-longboarder",
-        "date": "2020-08-01T01:46:58.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-longboarder",
+      "title": "The Longboarder"
     }
   },
   {
@@ -3772,18 +3583,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-dancer",
-        "date": "2019-09-25T01:21:59.943Z"
-      },
-      "title": "Object Object"
+      "name": "the-dancer",
+      "title": "The Dancer"
     },
     "next": {
-      "name": {
-        "name": "the-trainer",
-        "date": "2020-06-06T03:23:50.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-trainer",
+      "title": "The Trainer"
     }
   },
   {
@@ -3903,18 +3708,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-longboarder",
-        "date": "2020-08-01T01:46:58.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-longboarder",
+      "title": "The Longboarder"
     },
     "next": {
-      "name": {
-        "name": "the-jogger",
-        "date": "2020-05-09T03:28:58.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-jogger",
+      "title": "The Jogger"
     }
   },
   {
@@ -4069,18 +3868,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-trainer",
-        "date": "2020-06-06T03:23:50.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-trainer",
+      "title": "The Trainer"
     },
     "next": {
-      "name": {
-        "name": "the-trail-runner",
-        "date": "2020-08-15T00:59:53.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-trail-runner",
+      "title": "The Trail Runner"
     }
   },
   {
@@ -4170,18 +3963,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-jogger",
-        "date": "2020-05-09T03:28:58.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-jogger",
+      "title": "The Jogger"
     },
     "next": {
-      "name": {
-        "name": "the-athlete",
-        "date": "2019-10-02T02:34:29.612Z"
-      },
-      "title": "Object Object"
+      "name": "the-athlete",
+      "title": "The Athlete"
     }
   },
   {
@@ -4310,18 +4097,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-trail-runner",
-        "date": "2020-08-15T00:59:53.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-trail-runner",
+      "title": "The Trail Runner"
     },
     "next": {
-      "name": {
-        "name": "the-bodybuilder",
-        "date": "2019-10-09T04:40:45.490Z"
-      },
-      "title": "Object Object"
+      "name": "the-bodybuilder",
+      "title": "The Bodybuilder"
     }
   },
   {
@@ -4439,18 +4220,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-athlete",
-        "date": "2019-10-02T02:34:29.612Z"
-      },
-      "title": "Object Object"
+      "name": "the-athlete",
+      "title": "The Athlete"
     },
     "next": {
-      "name": {
-        "name": "the-slackliner",
-        "date": "2020-07-11T03:54:45.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-slackliner",
+      "title": "The Slackliner"
     }
   },
   {
@@ -4551,18 +4326,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-bodybuilder",
-        "date": "2019-10-09T04:40:45.490Z"
-      },
-      "title": "Object Object"
+      "name": "the-bodybuilder",
+      "title": "The Bodybuilder"
     },
     "next": {
-      "name": {
-        "name": "the-tracer",
-        "date": "2020-06-20T04:02:25.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-tracer",
+      "title": "The Tracer"
     }
   },
   {
@@ -4662,18 +4431,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-slackliner",
-        "date": "2020-07-11T03:54:45.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-slackliner",
+      "title": "The Slackliner"
     },
     "next": {
-      "name": {
-        "name": "the-gymnast",
-        "date": "2020-05-30T03:49:48.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-gymnast",
+      "title": "The Gymnast"
     }
   },
   {
@@ -4763,18 +4526,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-tracer",
-        "date": "2020-06-20T04:02:25.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-tracer",
+      "title": "The Tracer"
     },
     "next": {
-      "name": {
-        "name": "the-martial-artist",
-        "date": "2020-12-07T04:46:52.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-martial-artist",
+      "title": "The Martial Artist"
     }
   },
   {
@@ -5054,18 +4811,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-gymnast",
-        "date": "2020-05-30T03:49:48.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-gymnast",
+      "title": "The Gymnast"
     },
     "next": {
-      "name": {
-        "name": "the-luminary",
-        "date": "2019-10-16T02:40:59.591Z"
-      },
-      "title": "Object Object"
+      "name": "the-luminary",
+      "title": "The Luminary"
     }
   },
   {
@@ -5209,18 +4960,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-martial-artist",
-        "date": "2020-12-07T04:46:52.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-martial-artist",
+      "title": "The Martial Artist"
     },
     "next": {
-      "name": {
-        "name": "the-connoisseur",
-        "date": "2020-06-13T03:28:11.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-connoisseur",
+      "title": "The Connoisseur"
     }
   },
   {
@@ -5345,18 +5090,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-luminary",
-        "date": "2019-10-16T02:40:59.591Z"
-      },
-      "title": "Object Object"
+      "name": "the-luminary",
+      "title": "The Luminary"
     },
     "next": {
-      "name": {
-        "name": "the-chef",
-        "date": "2019-10-23T01:19:47.624Z"
-      },
-      "title": "Object Object"
+      "name": "the-chef",
+      "title": "The Chef"
     }
   },
   {
@@ -5446,18 +5185,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-connoisseur",
-        "date": "2020-06-13T03:28:11.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-connoisseur",
+      "title": "The Connoisseur"
     },
     "next": {
-      "name": {
-        "name": "the-restorer",
-        "date": "2020-05-23T03:01:34.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-restorer",
+      "title": "The Restorer"
     }
   },
   {
@@ -5597,18 +5330,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-chef",
-        "date": "2019-10-23T01:19:47.624Z"
-      },
-      "title": "Object Object"
+      "name": "the-chef",
+      "title": "The Chef"
     },
     "next": {
-      "name": {
-        "name": "the-blacksmith",
-        "date": "2019-10-30T01:40:56.465Z"
-      },
-      "title": "Object Object"
+      "name": "the-blacksmith",
+      "title": "The Blacksmith"
     }
   },
   {
@@ -5728,18 +5455,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-restorer",
-        "date": "2020-05-23T03:01:34.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-restorer",
+      "title": "The Restorer"
     },
     "next": {
-      "name": {
-        "name": "the-maker",
-        "date": "2019-11-06T02:32:54.218Z"
-      },
-      "title": "Object Object"
+      "name": "the-maker",
+      "title": "The Maker"
     }
   },
   {
@@ -5955,18 +5676,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-blacksmith",
-        "date": "2019-10-30T01:40:56.465Z"
-      },
-      "title": "Object Object"
+      "name": "the-blacksmith",
+      "title": "The Blacksmith"
     },
     "next": {
-      "name": {
-        "name": "the-dj",
-        "date": "2019-11-13T03:40:27.640Z"
-      },
-      "title": "Object Object"
+      "name": "the-dj",
+      "title": "The Dj"
     }
   },
   {
@@ -6096,18 +5811,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-maker",
-        "date": "2019-11-06T02:32:54.218Z"
-      },
-      "title": "Object Object"
+      "name": "the-maker",
+      "title": "The Maker"
     },
     "next": {
-      "name": {
-        "name": "the-musician",
-        "date": "2019-11-20T04:44:47.922Z"
-      },
-      "title": "Object Object"
+      "name": "the-musician",
+      "title": "The Musician"
     }
   },
   {
@@ -6296,18 +6005,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-dj",
-        "date": "2019-11-13T03:40:27.640Z"
-      },
-      "title": "Object Object"
+      "name": "the-dj",
+      "title": "The Dj"
     },
     "next": {
-      "name": {
-        "name": "the-ukulele-player",
-        "date": "2020-05-02T03:29:30.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-ukulele-player",
+      "title": "The Ukulele Player"
     }
   },
   {
@@ -6382,18 +6085,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-musician",
-        "date": "2019-11-20T04:44:47.922Z"
-      },
-      "title": "Object Object"
+      "name": "the-musician",
+      "title": "The Musician"
     },
     "next": {
-      "name": {
-        "name": "the-maverick",
-        "date": "2020-06-27T04:47:44.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-maverick",
+      "title": "The Maverick"
     }
   },
   {
@@ -6498,18 +6195,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-ukulele-player",
-        "date": "2020-05-02T03:29:30.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-ukulele-player",
+      "title": "The Ukulele Player"
     },
     "next": {
-      "name": {
-        "name": "the-composer",
-        "date": "2019-11-27T03:18:56.765Z"
-      },
-      "title": "Object Object"
+      "name": "the-composer",
+      "title": "The Composer"
     }
   },
   {
@@ -6611,18 +6302,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-maverick",
-        "date": "2020-06-27T04:47:44.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-maverick",
+      "title": "The Maverick"
     },
     "next": {
-      "name": {
-        "name": "the-poet",
-        "date": "2019-12-04T01:39:49.768Z"
-      },
-      "title": "Object Object"
+      "name": "the-poet",
+      "title": "The Poet"
     }
   },
   {
@@ -6775,18 +6460,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-composer",
-        "date": "2019-11-27T03:18:56.765Z"
-      },
-      "title": "Object Object"
+      "name": "the-composer",
+      "title": "The Composer"
     },
     "next": {
-      "name": {
-        "name": "the-slam-poet",
-        "date": "2020-08-22T01:08:03.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-slam-poet",
+      "title": "The Slam Poet"
     }
   },
   {
@@ -6871,18 +6550,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-poet",
-        "date": "2019-12-04T01:39:49.768Z"
-      },
-      "title": "Object Object"
+      "name": "the-poet",
+      "title": "The Poet"
     },
     "next": {
-      "name": {
-        "name": "the-interactive-fiction-writer",
-        "date": "2020-10-19T03:20:11.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-interactive-fiction-writer",
+      "title": "The Interactive Fiction Writer"
     }
   },
   {
@@ -7002,18 +6675,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-slam-poet",
-        "date": "2020-08-22T01:08:03.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-slam-poet",
+      "title": "The Slam Poet"
     },
     "next": {
-      "name": {
-        "name": "the-writer",
-        "date": "2020-10-05T02:21:27.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-writer",
+      "title": "The Writer"
     }
   },
   {
@@ -7103,18 +6770,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-interactive-fiction-writer",
-        "date": "2020-10-19T03:20:11.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-interactive-fiction-writer",
+      "title": "The Interactive Fiction Writer"
     },
     "next": {
-      "name": {
-        "name": "the-sculptor",
-        "date": "2019-12-11T03:40:45.561Z"
-      },
-      "title": "Object Object"
+      "name": "the-sculptor",
+      "title": "The Sculptor"
     }
   },
   {
@@ -7257,18 +6918,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-writer",
-        "date": "2020-10-05T02:21:27.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-writer",
+      "title": "The Writer"
     },
     "next": {
-      "name": {
-        "name": "the-photographer",
-        "date": "2019-12-18T01:50:25.395Z"
-      },
-      "title": "Object Object"
+      "name": "the-photographer",
+      "title": "The Photographer"
     }
   },
   {
@@ -7308,18 +6963,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-sculptor",
-        "date": "2019-12-11T03:40:45.561Z"
-      },
-      "title": "Object Object"
+      "name": "the-sculptor",
+      "title": "The Sculptor"
     },
     "next": {
-      "name": {
-        "name": "the-filmmaker",
-        "date": "2019-12-25T04:12:24.146Z"
-      },
-      "title": "Object Object"
+      "name": "the-filmmaker",
+      "title": "The Filmmaker"
     }
   },
   {
@@ -7459,18 +7108,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-photographer",
-        "date": "2019-12-18T01:50:25.395Z"
-      },
-      "title": "Object Object"
+      "name": "the-photographer",
+      "title": "The Photographer"
     },
     "next": {
-      "name": {
-        "name": "the-mudlark",
-        "date": "2020-07-04T03:38:03.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-mudlark",
+      "title": "The Mudlark"
     }
   },
   {
@@ -7585,18 +7228,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-filmmaker",
-        "date": "2019-12-25T04:12:24.146Z"
-      },
-      "title": "Object Object"
+      "name": "the-filmmaker",
+      "title": "The Filmmaker"
     },
     "next": {
-      "name": {
-        "name": "the-artist",
-        "date": "2020-01-01T02:48:35.896Z"
-      },
-      "title": "Object Object"
+      "name": "the-artist",
+      "title": "The Artist"
     }
   },
   {
@@ -7757,18 +7394,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-mudlark",
-        "date": "2020-07-04T03:38:03.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-mudlark",
+      "title": "The Mudlark"
     },
     "next": {
-      "name": {
-        "name": "the-typographer",
-        "date": "2020-08-07T23:28:25.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-typographer",
+      "title": "The Typographer"
     }
   },
   {
@@ -7838,18 +7469,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-artist",
-        "date": "2020-01-01T02:48:35.896Z"
-      },
-      "title": "Object Object"
+      "name": "the-artist",
+      "title": "The Artist"
     },
     "next": {
-      "name": {
-        "name": "the-designer",
-        "date": "2020-01-08T01:21:52.719Z"
-      },
-      "title": "Object Object"
+      "name": "the-designer",
+      "title": "The Designer"
     }
   },
   {
@@ -8052,18 +7677,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-typographer",
-        "date": "2020-08-07T23:28:25.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-typographer",
+      "title": "The Typographer"
     },
     "next": {
-      "name": {
-        "name": "the-graffitist",
-        "date": "2020-01-15T02:57:34.957Z"
-      },
-      "title": "Object Object"
+      "name": "the-graffitist",
+      "title": "The Graffitist"
     }
   },
   {
@@ -8201,18 +7820,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-designer",
-        "date": "2020-01-08T01:21:52.719Z"
-      },
-      "title": "Object Object"
+      "name": "the-designer",
+      "title": "The Designer"
     },
     "next": {
-      "name": {
-        "name": "the-cyberpunk",
-        "date": "2020-11-30T04:25:54.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-cyberpunk",
+      "title": "The Cyberpunk"
     }
   },
   {
@@ -8447,18 +8060,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-graffitist",
-        "date": "2020-01-15T02:57:34.957Z"
-      },
-      "title": "Object Object"
+      "name": "the-graffitist",
+      "title": "The Graffitist"
     },
     "next": {
-      "name": {
-        "name": "the-hacker",
-        "date": "2020-01-22T02:54:23.471Z"
-      },
-      "title": "Object Object"
+      "name": "the-hacker",
+      "title": "The Hacker"
     }
   },
   {
@@ -8615,18 +8222,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-cyberpunk",
-        "date": "2020-11-30T04:25:54.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-cyberpunk",
+      "title": "The Cyberpunk"
     },
     "next": {
-      "name": {
-        "name": "the-wizard",
-        "date": "2020-01-29T03:38:24.772Z"
-      },
-      "title": "Object Object"
+      "name": "the-wizard",
+      "title": "The Wizard"
     }
   },
   {
@@ -8754,18 +8355,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-hacker",
-        "date": "2020-01-22T02:54:23.471Z"
-      },
-      "title": "Object Object"
+      "name": "the-hacker",
+      "title": "The Hacker"
     },
     "next": {
-      "name": {
-        "name": "the-guru",
-        "date": "2020-02-05T03:29:57.836Z"
-      },
-      "title": "Object Object"
+      "name": "the-guru",
+      "title": "The Guru"
     }
   },
   {
@@ -8922,18 +8517,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-wizard",
-        "date": "2020-01-29T03:38:24.772Z"
-      },
-      "title": "Object Object"
+      "name": "the-wizard",
+      "title": "The Wizard"
     },
     "next": {
-      "name": {
-        "name": "the-programmer",
-        "date": "2020-02-12T02:30:12.403Z"
-      },
-      "title": "Object Object"
+      "name": "the-programmer",
+      "title": "The Programmer"
     }
   },
   {
@@ -9039,18 +8628,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-guru",
-        "date": "2020-02-05T03:29:57.836Z"
-      },
-      "title": "Object Object"
+      "name": "the-guru",
+      "title": "The Guru"
     },
     "next": {
-      "name": {
-        "name": "the-web-developer",
-        "date": "2020-02-19T03:12:13.882Z"
-      },
-      "title": "Object Object"
+      "name": "the-web-developer",
+      "title": "The Web Developer"
     }
   },
   {
@@ -9105,18 +8688,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-programmer",
-        "date": "2020-02-12T02:30:12.403Z"
-      },
-      "title": "Object Object"
+      "name": "the-programmer",
+      "title": "The Programmer"
     },
     "next": {
-      "name": {
-        "name": "the-cryptographer",
-        "date": "2020-02-26T04:25:36.347Z"
-      },
-      "title": "Object Object"
+      "name": "the-cryptographer",
+      "title": "The Cryptographer"
     }
   },
   {
@@ -9246,18 +8823,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-web-developer",
-        "date": "2020-02-19T03:12:13.882Z"
-      },
-      "title": "Object Object"
+      "name": "the-web-developer",
+      "title": "The Web Developer"
     },
     "next": {
-      "name": {
-        "name": "the-social-engineer",
-        "date": "2020-12-28T02:58:41.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-social-engineer",
+      "title": "The Social Engineer"
     }
   },
   {
@@ -9337,18 +8908,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-cryptographer",
-        "date": "2020-02-26T04:25:36.347Z"
-      },
-      "title": "Object Object"
+      "name": "the-cryptographer",
+      "title": "The Cryptographer"
     },
     "next": {
-      "name": {
-        "name": "the-security-analyst",
-        "date": "2020-11-16T04:36:57.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-security-analyst",
+      "title": "The Security Analyst"
     }
   },
   {
@@ -9513,18 +9078,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-social-engineer",
-        "date": "2020-12-28T02:58:41.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-social-engineer",
+      "title": "The Social Engineer"
     },
     "next": {
-      "name": {
-        "name": "the-privacy-advocate",
-        "date": "2020-11-23T02:56:20.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-privacy-advocate",
+      "title": "The Privacy Advocate"
     }
   },
   {
@@ -9694,18 +9253,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-security-analyst",
-        "date": "2020-11-16T04:36:57.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-security-analyst",
+      "title": "The Security Analyst"
     },
     "next": {
-      "name": {
-        "name": "the-engineer",
-        "date": "2020-11-02T03:59:28.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-engineer",
+      "title": "The Engineer"
     }
   },
   {
@@ -9929,18 +9482,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-privacy-advocate",
-        "date": "2020-11-23T02:56:20.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-privacy-advocate",
+      "title": "The Privacy Advocate"
     },
     "next": {
-      "name": {
-        "name": "the-librarian",
-        "date": "2020-08-29T00:25:40.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-librarian",
+      "title": "The Librarian"
     }
   },
   {
@@ -10030,18 +9577,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-engineer",
-        "date": "2020-11-02T03:59:28.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-engineer",
+      "title": "The Engineer"
     },
     "next": {
-      "name": {
-        "name": "the-highschooler",
-        "date": "2020-03-04T03:32:27.880Z"
-      },
-      "title": "Object Object"
+      "name": "the-highschooler",
+      "title": "The Highschooler"
     }
   },
   {
@@ -10221,18 +9762,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-librarian",
-        "date": "2020-08-29T00:25:40.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-librarian",
+      "title": "The Librarian"
     },
     "next": {
-      "name": {
-        "name": "the-principal",
-        "date": "2020-03-11T02:29:50.593Z"
-      },
-      "title": "Object Object"
+      "name": "the-principal",
+      "title": "The Principal"
     }
   },
   {
@@ -10317,18 +9852,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-highschooler",
-        "date": "2020-03-04T03:32:27.880Z"
-      },
-      "title": "Object Object"
+      "name": "the-highschooler",
+      "title": "The Highschooler"
     },
     "next": {
-      "name": {
-        "name": "the-teacher",
-        "date": "2020-03-18T02:27:27.363Z"
-      },
-      "title": "Object Object"
+      "name": "the-teacher",
+      "title": "The Teacher"
     }
   },
   {
@@ -10444,18 +9973,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-principal",
-        "date": "2020-03-11T02:29:50.593Z"
-      },
-      "title": "Object Object"
+      "name": "the-principal",
+      "title": "The Principal"
     },
     "next": {
-      "name": {
-        "name": "the-student",
-        "date": "2020-03-25T02:48:11.660Z"
-      },
-      "title": "Object Object"
+      "name": "the-student",
+      "title": "The Student"
     }
   },
   {
@@ -10547,18 +10070,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-teacher",
-        "date": "2020-03-18T02:27:27.363Z"
-      },
-      "title": "Object Object"
+      "name": "the-teacher",
+      "title": "The Teacher"
     },
     "next": {
-      "name": {
-        "name": "the-self-taught",
-        "date": "2020-12-21T02:11:48.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-self-taught",
+      "title": "The Self Taught"
     }
   },
   {
@@ -10728,18 +10245,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-student",
-        "date": "2020-03-25T02:48:11.660Z"
-      },
-      "title": "Object Object"
+      "name": "the-student",
+      "title": "The Student"
     },
     "next": {
-      "name": {
-        "name": "the-orator",
-        "date": "2020-09-05T02:34:27.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-orator",
+      "title": "The Orator"
     }
   },
   {
@@ -10814,18 +10325,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-self-taught",
-        "date": "2020-12-21T02:11:48.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-self-taught",
+      "title": "The Self Taught"
     },
     "next": {
-      "name": {
-        "name": "the-genius",
-        "date": "2020-04-01T04:22:10.551Z"
-      },
-      "title": "Object Object"
+      "name": "the-genius",
+      "title": "The Genius"
     }
   },
   {
@@ -11021,18 +10526,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-orator",
-        "date": "2020-09-05T02:34:27.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-orator",
+      "title": "The Orator"
     },
     "next": {
-      "name": {
-        "name": "the-courageous",
-        "date": "2020-04-08T04:34:35.584Z"
-      },
-      "title": "Object Object"
+      "name": "the-courageous",
+      "title": "The Courageous"
     }
   },
   {
@@ -11175,18 +10674,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-genius",
-        "date": "2020-04-01T04:22:10.551Z"
-      },
-      "title": "Object Object"
+      "name": "the-genius",
+      "title": "The Genius"
     },
     "next": {
-      "name": {
-        "name": "the-visionary",
-        "date": "2020-04-15T01:34:54.631Z"
-      },
-      "title": "Object Object"
+      "name": "the-visionary",
+      "title": "The Visionary"
     }
   },
   {
@@ -11261,18 +10754,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-courageous",
-        "date": "2020-04-08T04:34:35.584Z"
-      },
-      "title": "Object Object"
+      "name": "the-courageous",
+      "title": "The Courageous"
     },
     "next": {
-      "name": {
-        "name": "the-founder",
-        "date": "2020-04-22T02:59:23.796Z"
-      },
-      "title": "Object Object"
+      "name": "the-founder",
+      "title": "The Founder"
     }
   },
   {
@@ -11388,18 +10875,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-visionary",
-        "date": "2020-04-15T01:34:54.631Z"
-      },
-      "title": "Object Object"
+      "name": "the-visionary",
+      "title": "The Visionary"
     },
     "next": {
-      "name": {
-        "name": "the-believer",
-        "date": "2020-09-12T02:56:11.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-believer",
+      "title": "The Believer"
     }
   },
   {
@@ -11474,18 +10955,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-founder",
-        "date": "2020-04-22T02:59:23.796Z"
-      },
-      "title": "Object Object"
+      "name": "the-founder",
+      "title": "The Founder"
     },
     "next": {
-      "name": {
-        "name": "the-human",
-        "date": "2020-09-19T00:13:53.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-human",
+      "title": "The Human"
     }
   },
   {
@@ -11575,18 +11050,12 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-believer",
-        "date": "2020-09-12T02:56:11.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-believer",
+      "title": "The Believer"
     },
     "next": {
-      "name": {
-        "name": "the-great-being",
-        "date": "2020-10-25T23:40:49.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-great-being",
+      "title": "The Great Being"
     }
   },
   {
@@ -11652,11 +11121,8 @@
       }
     ],
     "previous": {
-      "name": {
-        "name": "the-human",
-        "date": "2020-09-19T00:13:53.000Z"
-      },
-      "title": "Object Object"
+      "name": "the-human",
+      "title": "The Human"
     }
   }
 ]

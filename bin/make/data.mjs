@@ -35,7 +35,7 @@ async function main() {
   let index = 0;
   for (let {name, date} of toc) {
 
-  
+
     let title = startCase(name);
 
     let previousIndex = index - 1;
@@ -48,8 +48,8 @@ async function main() {
       previous = undefined; //{name:'index', title:'Table of Contents'};
     } else {
       previous = {
-        name: toc[previousIndex],
-        title: startCase(toc[previousIndex])
+        name: toc[previousIndex].name,
+        title: startCase(toc[previousIndex].name)
       }
     }
 
@@ -57,8 +57,8 @@ async function main() {
       next = undefined; //{name:'index', title:'Table of Contents'};
     } else {
       next = {
-        name: toc[nextIndex],
-        title: startCase(toc[nextIndex])
+        name: toc[nextIndex].name,
+        title: startCase(toc[nextIndex].name)
       }
     }
 
