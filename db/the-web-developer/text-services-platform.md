@@ -14,9 +14,9 @@ above the platforms, and sell a service where a person can rent a platform
 like [wrapbootstrap.com][5] or [themes.shopify.com][6] for a monthly
 membership fee and a reasonable percentage of sales.
 
-[1]: wrapbootstrap.com
+[1]: https://wrapbootstrap.com
 [2]: https://themes.shopify.com/
 [3]: https://shopify.com/
 [4]: https://support.wrapbootstrap.com/help/fee-structure
-[5]: wrapbootstrap.com
+[5]: https://wrapbootstrap.com
 [6]: https://themes.shopify.com/

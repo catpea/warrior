@@ -19,8 +19,7 @@ to a Warrior, a Legend, a Great Being.
 
 Lucy Hone is yet another Great Being who employs this type of thinking
 especially when asking "Is what I'm doing helping or harming me?" see
-[Superhero Chapter][2] for her advice on the subject of Unbrekability and
+Superhero Chapter for her advice on the subject of Unbrekability and
 Resilience.
 
 [1]: https://www.iapf.org/
-[2]: superhero.html
