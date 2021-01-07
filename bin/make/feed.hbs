@@ -1,5 +1,5 @@
 {{#is this.type 'quote'}}
-  <section>
+  <div class="section">
     <header>
       <h2>Quote {{#if author}}by {{author}}{{/if}}</h2>
     </header>
@@ -14,11 +14,11 @@
         {{/unless}}
       </footer>
     </blockquote>
-  </section>
+  </div>
 {{/is}}
 
 {{#is this.type 'youtube'}}
-  <section>
+  <div class="section">
     <header>
       <h2>{{title}}</h2>
     </header>
@@ -29,31 +29,31 @@
       <figcaption>{{title}}</figcaption>
     </figure>
     <p><a href="https://www.youtube.com/watch?v={{id}}" title="{{title}}">Play Video</a></p>
-  </section>
+  </div>
 {{/is}}
 
 {{#is this.type 'text'}}
-  <section>
+  <div class="section">
     <header>
       <h2>{{title}}</h2>
     </header>
     {{{text}}}
-  </section>
+  </div>
 {{/is}}
 
 {{#is this.type 'poem'}}
-  <section>
+  <div class="section">
     <header>
       <h2>{{title}}</h2>
       <h3>{{author}}</h3>
     </header>
     {{{text}}}
-  </section>
+  </div>
 {{/is}}
 
 
 {{#is this.type 'image'}}
-<section>
+<div class="section">
   <header>
     <h2>{{title}}</h2>
   </header>
@@ -61,30 +61,30 @@
       <img src="image/{{url}}" alt="{{title}}" style="width: 100%; height: auto;">
     </figure>
     {{{text}}}
-</section>
+</div>
 {{/is}}
 
 {{#is this.type 'subtitle'}}
-  <section>
+  <div class="section">
     <header>
       <h2>{{title}}</h2>
     </header>
-  </section>
+  </div>
 {{/is}}
 
 {{#is this.type 'link'}}
-  <section>
+  <div class="section">
     <header>
       <h2>{{title}}</h2>
     </header>
     <p>
       <a href="{{url}}">{{title}} &raquo;</a>
     </p>
-  </section>
+  </div>
 {{/is}}
 
 {{#is this.type 'business'}}
-  <section>
+  <div class="section">
     <header>
       <h2>Business Practice: {{title}}</h2>
     </header>
@@ -92,5 +92,5 @@
       <img src="image/{{url}}" alt="{{title}}" style="width: 100%; height: auto;">
     </figure>
     {{{text}}}
-  </section>
+  </div>
 {{/is}}
