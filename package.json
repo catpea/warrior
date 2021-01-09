@@ -1,6 +1,6 @@
 {
   "name": "warrior",
-  "version": "1.0.67",
+  "version": "1.0.68",
   "description": "A Book About Growing Up",
   "main": "index.js",
   "scripts": {
