@@ -228,7 +228,7 @@ async function main(){
       "Mirror":"https://westland-valhalla.github.io/warrior/",
       "Bugs":"https://github.com/westland-valhalla/warrior/issues"
     },
-    order: "story",
+    order: "latest",
   };
 
   // convert feed to server friendly format
