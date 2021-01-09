@@ -244,6 +244,10 @@ async function main(){
     entry.date = item.date;
     // no entry.timestamp = moment(entry.date).format('dddd, MMMM Do YYYY, h:mm:ss a');
 
+    entry.images = [];
+    entry.links = [];
+
+
     entry.image = `warrior-${item.name}-cover.jpg`;
     entry.html = '';
     entry.text = '';

@@ -43,9 +43,16 @@ async function main(){
         $('a').each(function (i, elem) {
           let href = $(this).attr('href');
           if(href.match(/^https*:\/\//)){
-
           }else{
-            console.log('%s (%s)', href, location );
+            console.log('a: %s (%s)', href, location );
+          }
+        });
+
+        $('img').each(function (i, elem) {
+          let src = $(this).attr('src');
+          if(src.match(/^https*:\/\//)){
+          }else{
+            console.log('img: %s (%s)', src, location );
           }
         });
 
