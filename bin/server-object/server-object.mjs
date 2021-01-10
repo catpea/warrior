@@ -99,6 +99,15 @@ async function main(){
     const $ = cheerio.load(baseline);
     return $.text().replace(/\n+/g, ' ') + ", ";
   }
+  function links(element){
+    let plain = "";
+    const baseline = texting[element.type](element);
+    const $ = cheerio.load(baseline);
+    const list = $('a')
+    .filter(function (i, el){ return $(this).attr('href').startsWith('http')})
+    .map(function (i, el) { return {title: ($(this).attr('title')||$(this).text()).replace(/\s+/g, ' '), url: $(this).attr('href'), hostname:new URL($(this).attr('href')).hostname} }).get();
+    return list;
+  }
 
 
 
@@ -142,6 +151,7 @@ async function main(){
     for( let element of item.data ){
       entry.html += template(element);
       entry.text += redable(element);
+      entry.links = entry.links.concat(links(element));
     }
 
     entry.html = pretty(entry.html, {ocd: true});
