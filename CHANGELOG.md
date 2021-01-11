@@ -2,6 +2,14 @@
 ## CHANGELOG
 
 
+### January 4th 2021, 11:23:18 pm EST
+Created new chapter [The Jeweler](the-jeweler.html).
+
+Added seven Spelunking Expedition videos to the bottom of [The Spelunker](the-spelunker.html): [Deep, The Story of Stormy Pot](https://www.youtube.com/watch?v=MtFFqB7xrOk), [10 days underground - extreme cave exploration](https://www.youtube.com/watch?v=AdPhz0-NeNE), [The Queen of the Depth](https://www.youtube.com/watch?v=m88Pf_9ACus), [Beneath the Mountains doco small file version](https://www.youtube.com/watch?v=fN6k5Gxaghc), [Once again Beneath the Mountains](https://www.youtube.com/watch?v=zRD3OPc3i0c), [Castleguard Cave - 6 days in the cave](https://www.youtube.com/watch?v=905S37j8fvQ), [Exploring the Great Indoors.](https://www.youtube.com/watch?v=AOPhmfi3yFs).
+
+Added Richard Feynman and Growing Up Feynman by Michelle Feynman next to Jaime Escalante under [The Teacher](the-teacher.html).
+
+
 ### January 3rd 2021, 9:53:11 pm EST
 Created two new chapters [The Spelunker](the-spelunker.html) and the slightly smaller [The Existentialist](the-existentialist.html).
 
