@@ -2,7 +2,7 @@
 ## CHANGELOG
 
 
-### January 4th 2021, 11:23:18 pm EST
+### January 10th 2021, 11:43:44 pm EST
 Created new chapter [The Jeweler](the-jeweler.html).
 
 Added seven Spelunking Expedition videos to the bottom of [The Spelunker](the-spelunker.html): [Deep, The Story of Stormy Pot](https://www.youtube.com/watch?v=MtFFqB7xrOk), [10 days underground - extreme cave exploration](https://www.youtube.com/watch?v=AdPhz0-NeNE), [The Queen of the Depth](https://www.youtube.com/watch?v=m88Pf_9ACus), [Beneath the Mountains doco small file version](https://www.youtube.com/watch?v=fN6k5Gxaghc), [Once again Beneath the Mountains](https://www.youtube.com/watch?v=zRD3OPc3i0c), [Castleguard Cave - 6 days in the cave](https://www.youtube.com/watch?v=905S37j8fvQ), [Exploring the Great Indoors.](https://www.youtube.com/watch?v=AOPhmfi3yFs).
