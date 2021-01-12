@@ -79,7 +79,7 @@ async function main(){
 
 
 
-  const template = handlebars.compile(fs.readFileSync(path.join(__dirname,'html-template.hbs')).toString());
+  const template = handlebars.compile(fs.readFileSync(path.join(__dirname,'bootstrap-template.hbs')).toString());
 
 
 
