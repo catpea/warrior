@@ -1,5 +1,5 @@
 {{#is this.type 'quote'}}
-  <div class="card card-section bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning shadow">
     <div class="card-header">
       Quote {{#if author}}by {{author}}{{/if}}
     </div>
@@ -16,7 +16,7 @@
 {{/is}}
 
 {{#is this.type 'youtube'}}
-  <div class="card card-section bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning shadow">
     <a href="https://www.youtube.com/watch?v={{id}}" title="{{title}}" alt="{{title}}"><img src="/image/yid-{{id}}.jpg" alt="{{title}}" class="card-img-top"></a>
     <div class="card-body">
       <p class="card-text">{{title}}</p>
@@ -26,7 +26,7 @@
 {{/is}}
 
 {{#is this.type 'text'}}
-  <div class="card card-section bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning shadow">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
       <div class="card-text">{{{text}}}</div>
@@ -35,7 +35,7 @@
 {{/is}}
 
 {{#is this.type 'poem'}}
-  <div class="card card-section bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning shadow">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
       <h6 class="card-subtitle mb-2 text-muted">{{author}}</h6>
@@ -46,7 +46,7 @@
 
 
 {{#is this.type 'image'}}
-  <div class="card card-section bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning shadow">
     <img src="/image/{{url}}" alt="{{title}}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
@@ -56,7 +56,7 @@
 {{/is}}
 
 {{#is this.type 'subtitle'}}
-  <div class="card card-section bg-dark text-warning text-center mb-3">
+  <div class="card card-section bg-dark text-warning text-center shadow">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
     </div>
@@ -64,7 +64,7 @@
 {{/is}}
 
 {{#is this.type 'link'}}
-  <div class="card card-section bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning shadow">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
       <a href="{{url}}" class="card-link">{{title}}</a>
@@ -73,7 +73,7 @@
 {{/is}}
 
 {{#is this.type 'business'}}
-  <div class="card card-section bg-dark text-warning border-warning mb-3">
+  <div class="card card-section bg-dark text-warning border-warning shadow">
     <img src="/image/{{url}}" alt="{{title}}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Business Practice: {{title}}</h5>
