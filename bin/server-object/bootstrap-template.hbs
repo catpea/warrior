@@ -1,12 +1,12 @@
 {{#is this.type 'quote'}}
-  <div class="card bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning mb-3">
     <div class="card-header">
       Quote {{#if author}}by {{author}}{{/if}}
     </div>
     <div class="card-body">
-      <p class="card-text">{{{text}}}</p>
+      <div class="card-text">{{{text}}}</div>
       {{#if url}}
-        <cite title="{{author}}"><a href="{{url}}" class="card-link">{{author}}</a></cite>
+        <cite title="{{author}}"><a href="{{url}}" class="card-link text-reset">{{author}}</a></cite>
       {{/if}}
       {{#unless url}}
         <cite title="{{author}}">{{author}}</cite>
@@ -16,7 +16,7 @@
 {{/is}}
 
 {{#is this.type 'youtube'}}
-  <div class="card bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning mb-3">
     <a href="https://www.youtube.com/watch?v={{id}}" title="{{title}}" alt="{{title}}"><img src="/image/yid-{{id}}.jpg" alt="{{title}}" class="card-img-top"></a>
     <div class="card-body">
       <p class="card-text">{{title}}</p>
@@ -26,37 +26,37 @@
 {{/is}}
 
 {{#is this.type 'text'}}
-  <div class="card bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning mb-3">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
-      <p class="card-text">{{{text}}}</p>
+      <div class="card-text">{{{text}}}</div>
     </div>
   </div>
 {{/is}}
 
 {{#is this.type 'poem'}}
-  <div class="card bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning mb-3">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
       <h6 class="card-subtitle mb-2 text-muted">{{author}}</h6>
-      <p class="card-text">{{{text}}}</p>
+      <div class="card-text">{{{text}}}</div>
     </div>
   </div>
 {{/is}}
 
 
 {{#is this.type 'image'}}
-  <div class="card bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning mb-3">
     <img src="/image/{{url}}" alt="{{title}}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
-      <p class="card-text">{{{text}}}</p>
+      <div class="card-text">{{{text}}}</div>
     </div>
   </div>
 {{/is}}
 
 {{#is this.type 'subtitle'}}
-  <div class="card bg-dark text-warning text-center mb-3">
+  <div class="card card-section bg-dark text-warning text-center mb-3">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
     </div>
@@ -64,7 +64,7 @@
 {{/is}}
 
 {{#is this.type 'link'}}
-  <div class="card bg-dark text-warning mb-3">
+  <div class="card card-section bg-dark text-warning mb-3">
     <div class="card-body">
       <h5 class="card-title">{{title}}</h5>
       <a href="{{url}}" class="card-link">{{title}}</a>
@@ -73,11 +73,11 @@
 {{/is}}
 
 {{#is this.type 'business'}}
-  <div class="card bg-dark text-warning border-warning mb-3">
+  <div class="card card-section bg-dark text-warning border-warning mb-3">
     <img src="/image/{{url}}" alt="{{title}}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">Business Practice: {{title}}</h5>
-      <p class="card-text">{{{text}}}</p>
+      <div class="card-text">{{{text}}}</div>
     </div>
   </div>
 {{/is}}
