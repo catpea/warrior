@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### January 17th 2021, 7:50:28 pm EST
+Created a new chapter [The Gun Enthusiast](the-gun-enthusiast.html).
+
+
 ### January 10th 2021, 11:43:44 pm EST
 Created new chapter [The Jeweler](the-jeweler.html).
 
