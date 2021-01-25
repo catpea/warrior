@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### January 24th 2021, 6:57:53 pm EST
+Created a new chapter [The Street Performer](the-street-performer.html).
+
+
 ### January 17th 2021, 7:50:28 pm EST
 Created a new chapter [The Gun Enthusiast](the-gun-enthusiast.html).
 

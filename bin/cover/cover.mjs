@@ -69,6 +69,7 @@ async function main() {
         if(images.length > 17) tile = 3;
         if(images.length > 25) tile = 4;
         if(images.length > 35) tile = 5;
+        if(images.length > 45) tile = 7;
         if(images.length < 9) tile = 2;
         if(images.length < 4) tile = 1;
 
