@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### January 31st 2021, 9:22:03 pm EST
+Created two new chapters [The Generative Artist](the-generative-artist.html) and [The Graphician](the-graphician.html).
+
+I modified [The Designer](the-designer.html) to move the Demo Scene section into the opening of [The Graphician](the-graphician.html).
+
+
 ### January 24th 2021, 6:57:53 pm EST
 Created a new chapter [The Street Performer](the-street-performer.html).
 

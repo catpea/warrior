@@ -7370,235 +7370,6 @@
     name: the-mudlark
     title: The Mudlark
   next:
-    name: the-typographer
-    title: The Typographer
-- title: The Typographer
-  name: the-typographer
-  date: '2020-08-07T23:28:25.000Z'
-  data:
-    - type: youtube
-      id: Z7Z2ZD7HiXs
-      title: >-
-        Gemma O'Brien - Blurring the boundaries of typography, illustration and
-        art
-    - type: youtube
-      id: OXc-VZ4Vwbo
-      title: Wake up & smell the fonts | Sarah Hyndman
-    - type: youtube
-      id: C_RzDqgGcao
-      title: 'The power of typography | Mia Cinelli '
-    - type: youtube
-      id: SBgBO28ev3M
-      title: 'Typography - now you see it: Shelley Gruendler'
-    - type: youtube
-      id: XTp_MDTRjlI
-      title: 'Hilary Kenna - Screen Typography: Words Made Usable'
-    - type: youtube
-      id: ix2VDSIrE84
-      title: Lettering Artistry with Jessica Hische
-    - type: youtube
-      id: o4enWrwSzjI
-      title: >-
-        Jessica Hische Shares her Original Student Portfolio & Dealing with a
-        Famous Filmmaker at 4am
-    - type: youtube
-      id: aPL7wV5GxEY
-      title: Redoing My Entire Graphic Design Portfolio
-    - type: youtube
-      id: yZmkwuwjaNw
-      title: Redesigning Popular Fast Food Logos
-    - type: youtube
-      id: GGPkJo4VXcw
-      title: Top 5 Typography and Hand Lettering Books | Holly Dunn Design
-    - type: youtube
-      id: 2q4G5rhbIUM
-      title: Helvetica Now (extended version)
-    - type: youtube
-      id: s_iSpjsqM60
-      title: Graphic Designer Earns $1 Million Selling Fonts and Graphics Online
-  previous:
-    name: the-artist
-    title: The Artist
-  next:
-    name: the-designer
-    title: The Designer
-- title: The Designer
-  name: the-designer
-  date: '2020-01-08T01:21:52.719Z'
-  data:
-    - type: text
-      title: Pixel Art
-      text: >-
-        <p><a href="https://en.wikipedia.org/wiki/Pixel_art">Pixel Art</a> is a
-        form of digital art, created through the use of software, where images
-        are edited on the pixel level. Visit <a
-        href="https://weloveitbut.com/best-pixel-artists/">22 Pixel Artists
-        Creating Beautiful Retro Masterpieces</a> for more.</p>
-    - type: image
-      url: pixelart0.gif
-      title: Dušan Čežek
-      text: >-
-        <p>Inspired by the breathtaking <a
-        href="https://www.youtube.com/watch?v=u44D3qKKGPU">Ashes Scene in The
-        Big Lebowski</a></p>
-
-        <p><a
-        href="https://www.behance.net/gallery/12753749/Pixelwood">Website</a></p>
-    - type: image
-      url: pixelart1.png
-      title: Octavi Navarro
-      text: '<p><a href="https://pixelshuh.com/">Website</a></p>'
-    - type: image
-      url: pixelart2.png
-      title: eBoy Group
-      text: '<p><a href="http://hello.eboy.com/eboy/">Website</a></p>'
-    - type: image
-      url: pixelart3.gif
-      title: Paul Robertson
-      text: '<p><a href="https://probertson.tumblr.com/">Website</a></p>'
-    - type: youtube
-      id: LZZXJ3zCRDQ
-      title: Indiana Jones and the Fate Of Atlantis (1992)
-    - type: youtube
-      id: Xz3Aw5qLcOs
-      title: Maniac Mansion Day of The Tentacle (1993)
-    - type: youtube
-      id: pdU0Njkek5s
-      title: 'Sam & Max: Hit the Road (1993)'
-    - type: youtube
-      id: wNTnRM77XuE
-      title: Flashback (1992)
-    - type: youtube
-      id: utrxk5_PeEY
-      title: Another World (1991)
-    - type: youtube
-      id: vEVR2FUB3ic
-      title: Undertale (2015)
-    - type: youtube
-      id: c1F6EsGGa4U
-      title: eBoy and the perfection of pixels
-    - type: business
-      url: pixelart-product-1.jpg
-      title: Pixelart Watch
-      text: >-
-        <p><a href="http://hello.eboy.com/eboy/">eBoy</a> are an inspiration for
-        business ideas.</p>
-    - type: business
-      url: pixelart-product-2.jpg
-      title: Huge Pixelart Posters
-      text: '<p>They sell paper and digital posters, notebooks and calendars.</p>'
-    - type: business
-      url: pixelart-product-4.jpg
-      title: Blinkenlighten Frame
-      text: <p>They sell paper and digital posters.</p>
-    - type: business
-      url: pixelart-product-3.jpg
-      title: Pixelart is Life
-      text: <p>Unique notebooks and calendars.</p>
-    - type: image
-      url: demoscene.jpg
-      title: Demoscene
-      text: >-
-        <p><a href="https://en.wikipedia.org/wiki/Demoscene">Demoscene</a> has
-        been closely related to the world of pixel art, demos for computers like
-        the <a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore
-        64</a> (1982) still feature in the Demoscene today. The demoscene is an
-        international computer art subculture focused on producing demos:
-        self-contained, sometimes extremely small, computer programs that
-        produce audio-visual presentations. The purpose of a demo is to show off
-        programming, visual art, and musical skills. Demos and other demoscene
-        productions are shared at festivals known as demoparties, voted on by
-        those who attend, and released online. Take a look at <a
-        href="https://www.youtube.com/watch?v=AmldRs7P8wI&amp;list=PL9HVvEQXdWVY3_QkiBh-aWRfxKW7DJezG">Best
-        Of Demoscene 2019 on YouTube</a></p>
-    - type: youtube
-      id: 9dZj33gr-yw
-      title: Commodore 64 Demoscene - February 2019
-    - type: youtube
-      id: JZ6ZzJeWgpY
-      title: Demoscene - fermi paradox - mercury
-    - type: text
-      title: Pixel Art
-      text: >-
-        <p>Visit <a href="https://www.pushing-pixels.org/fui/">Fantasy UI at
-        Pushing Pixels</a> for more.</p>
-    - type: image
-      url: fui1.jpg
-      title: Fantasy User Interface
-    - type: image
-      url: fui2.jpg
-      title: Fantasy User Interface
-    - type: image
-      url: fui3.jpg
-      title: Fantasy User Interface
-    - type: image
-      url: fui4.jpg
-      title: Fantasy User Interface
-    - type: image
-      url: fui5.png
-      title: Fantasy User Interface
-    - type: youtube
-      id: 6WrhZsttinA
-      title: 'TRON Legacy: Encom Tower'
-    - type: youtube
-      id: dxIPcbmo1_U
-      title: It's a unix system
-    - type: image
-      url: skeuomorphism.png
-      title: Skeuomorphism
-      text: >-
-        <p><a href="https://en.wikipedia.org/wiki/Skeuomorph">Skeuomorphism</a>
-        brings things that almost feel touchable, to the flat touchscreens of
-        today. Visit <a
-        href="https://www.dtelepathy.com/blog/inspiration/50-skeuomorphic-designs">A
-        Showcase of 50 Skeuomorphic Designs</a> for more.</p>
-    - type: image
-      url: minimalism.png
-      title: Minimalism and Typography
-      text: >-
-        <p><a href="https://en.wikipedia.org/wiki/Typography">Typography</a> is
-        an example of minimalism. When things get too complicated, and there are
-        too many colors, just delete everything and remember Minimalism. Visit
-        <a href="http://hellohappy.org/beautiful-web-type/">Beautiful Web
-        Type</a>.</p>
-    - type: business
-      url: dyesub1.jpg
-      title: Dye Sublimation Printing
-      text: >-
-        <p>Allover Cut &amp; Sew Dye Sublimation Workout Outfits.</p>
-
-        <p>Visit <a href="https://sellfy.com/spiderbitedesigns/">Spider Bite
-        Designs</a> for patterns and ideas.</p>
-    - type: business
-      url: dyesub2.jpg
-      title: Product Ideas
-    - type: business
-      url: dyesub2b.jpg
-      title: Product Ideas
-    - type: business
-      url: dyesub3.jpg
-      title: Product Ideas
-    - type: youtube
-      id: E2OL19GbtbY
-      title: How To Design Sublimation T-shirts
-    - type: youtube
-      id: o2xOymSeH6I
-      title: Sportswear Printing - All over Print - Cut - Sew ( basketball uniforms)
-    - type: business
-      url: dyesub0.jpg
-      title: Problems with non Cut & Sew
-      text: >-
-        <p>Below is a picture of why you must choose the Cut &amp; Sew method.
-        The
-          printing process on pre-made garments is flawed, the gas will not permeate
-          wrinkles that are sure to occur on pre-made garments. You must first create
-          the fabric, and then Cut &amp; Sew the garment. Take a look at the <a href="https://www.youtube.com/watch?v=IQdPP04qEwU">source
-            video</a> that demonstrates the problem with sublimating pre-made garments
-          in a bit more detail.</p>
-  previous:
-    name: the-typographer
-    title: The Typographer
-  next:
     name: the-graffitist
     title: The Graffitist
 - title: The Graffitist
@@ -7693,8 +7464,380 @@
       id: RwK4NmQZe64
       title: Red graffiti
   previous:
+    name: the-artist
+    title: The Artist
+  next:
+    name: the-typographer
+    title: The Typographer
+- title: The Typographer
+  name: the-typographer
+  date: '2020-08-07T23:28:25.000Z'
+  data:
+    - type: youtube
+      id: Z7Z2ZD7HiXs
+      title: >-
+        Gemma O'Brien - Blurring the boundaries of typography, illustration and
+        art
+    - type: youtube
+      id: OXc-VZ4Vwbo
+      title: Wake up & smell the fonts | Sarah Hyndman
+    - type: youtube
+      id: C_RzDqgGcao
+      title: 'The power of typography | Mia Cinelli '
+    - type: youtube
+      id: SBgBO28ev3M
+      title: 'Typography - now you see it: Shelley Gruendler'
+    - type: youtube
+      id: XTp_MDTRjlI
+      title: 'Hilary Kenna - Screen Typography: Words Made Usable'
+    - type: youtube
+      id: ix2VDSIrE84
+      title: Lettering Artistry with Jessica Hische
+    - type: youtube
+      id: o4enWrwSzjI
+      title: >-
+        Jessica Hische Shares her Original Student Portfolio & Dealing with a
+        Famous Filmmaker at 4am
+    - type: youtube
+      id: aPL7wV5GxEY
+      title: Redoing My Entire Graphic Design Portfolio
+    - type: youtube
+      id: yZmkwuwjaNw
+      title: Redesigning Popular Fast Food Logos
+    - type: youtube
+      id: GGPkJo4VXcw
+      title: Top 5 Typography and Hand Lettering Books | Holly Dunn Design
+    - type: youtube
+      id: 2q4G5rhbIUM
+      title: Helvetica Now (extended version)
+    - type: youtube
+      id: s_iSpjsqM60
+      title: Graphic Designer Earns $1 Million Selling Fonts and Graphics Online
+  previous:
+    name: the-graffitist
+    title: The Graffitist
+  next:
     name: the-designer
     title: The Designer
+- title: The Designer
+  name: the-designer
+  date: '2020-01-08T01:21:52.719Z'
+  data:
+    - type: text
+      title: Pixel Art
+      text: >-
+        <p><a href="https://en.wikipedia.org/wiki/Pixel_art">Pixel Art</a> is a
+        form of digital art, created through the use of software, where images
+        are edited on the pixel level. Visit <a
+        href="https://weloveitbut.com/best-pixel-artists/">22 Pixel Artists
+        Creating Beautiful Retro Masterpieces</a> for more.</p>
+    - type: image
+      url: pixelart0.gif
+      title: Dušan Čežek
+      text: >-
+        <p>Inspired by the breathtaking <a
+        href="https://www.youtube.com/watch?v=u44D3qKKGPU">Ashes Scene in The
+        Big Lebowski</a></p>
+
+        <p><a
+        href="https://www.behance.net/gallery/12753749/Pixelwood">Website</a></p>
+    - type: image
+      url: pixelart1.png
+      title: Octavi Navarro
+      text: '<p><a href="https://pixelshuh.com/">Website</a></p>'
+    - type: image
+      url: pixelart2.png
+      title: eBoy Group
+      text: '<p><a href="http://hello.eboy.com/eboy/">Website</a></p>'
+    - type: image
+      url: pixelart3.gif
+      title: Paul Robertson
+      text: '<p><a href="https://probertson.tumblr.com/">Website</a></p>'
+    - type: youtube
+      id: LZZXJ3zCRDQ
+      title: Indiana Jones and the Fate Of Atlantis (1992)
+    - type: youtube
+      id: Xz3Aw5qLcOs
+      title: Maniac Mansion Day of The Tentacle (1993)
+    - type: youtube
+      id: pdU0Njkek5s
+      title: 'Sam & Max: Hit the Road (1993)'
+    - type: youtube
+      id: wNTnRM77XuE
+      title: Flashback (1992)
+    - type: youtube
+      id: utrxk5_PeEY
+      title: Another World (1991)
+    - type: youtube
+      id: vEVR2FUB3ic
+      title: Undertale (2015)
+    - type: youtube
+      id: c1F6EsGGa4U
+      title: eBoy and the perfection of pixels
+    - type: business
+      url: pixelart-product-1.jpg
+      title: Pixelart Watch
+      text: >-
+        <p><a href="http://hello.eboy.com/eboy/">eBoy</a> are an inspiration for
+        business ideas.</p>
+    - type: business
+      url: pixelart-product-2.jpg
+      title: Huge Pixelart Posters
+      text: '<p>They sell paper and digital posters, notebooks and calendars.</p>'
+    - type: business
+      url: pixelart-product-4.jpg
+      title: Blinkenlighten Frame
+      text: <p>They sell paper and digital posters.</p>
+    - type: business
+      url: pixelart-product-3.jpg
+      title: Pixelart is Life
+      text: <p>Unique notebooks and calendars.</p>
+    - type: text
+      title: Pixel Art
+      text: >-
+        <p>Visit <a href="https://www.pushing-pixels.org/fui/">Fantasy UI at
+        Pushing Pixels</a> for more.</p>
+    - type: image
+      url: fui1.jpg
+      title: Fantasy User Interface
+    - type: image
+      url: fui2.jpg
+      title: Fantasy User Interface
+    - type: image
+      url: fui3.jpg
+      title: Fantasy User Interface
+    - type: image
+      url: fui4.jpg
+      title: Fantasy User Interface
+    - type: image
+      url: fui5.png
+      title: Fantasy User Interface
+    - type: youtube
+      id: 6WrhZsttinA
+      title: 'TRON Legacy: Encom Tower'
+    - type: youtube
+      id: dxIPcbmo1_U
+      title: It's a unix system
+    - type: image
+      url: skeuomorphism.png
+      title: Skeuomorphism
+      text: >-
+        <p><a href="https://en.wikipedia.org/wiki/Skeuomorph">Skeuomorphism</a>
+        brings things that almost feel touchable, to the flat touchscreens of
+        today. Visit <a
+        href="https://www.dtelepathy.com/blog/inspiration/50-skeuomorphic-designs">A
+        Showcase of 50 Skeuomorphic Designs</a> for more.</p>
+    - type: image
+      url: minimalism.png
+      title: Minimalism and Typography
+      text: >-
+        <p><a href="https://en.wikipedia.org/wiki/Typography">Typography</a> is
+        an example of minimalism. When things get too complicated, and there are
+        too many colors, just delete everything and remember Minimalism. Visit
+        <a href="http://hellohappy.org/beautiful-web-type/">Beautiful Web
+        Type</a>.</p>
+    - type: business
+      url: dyesub1.jpg
+      title: Dye Sublimation Printing
+      text: >-
+        <p>Allover Cut &amp; Sew Dye Sublimation Workout Outfits.</p>
+
+        <p>Visit <a href="https://sellfy.com/spiderbitedesigns/">Spider Bite
+        Designs</a> for patterns and ideas.</p>
+    - type: business
+      url: dyesub2.jpg
+      title: Product Ideas
+    - type: business
+      url: dyesub2b.jpg
+      title: Product Ideas
+    - type: business
+      url: dyesub3.jpg
+      title: Product Ideas
+    - type: youtube
+      id: E2OL19GbtbY
+      title: How To Design Sublimation T-shirts
+    - type: youtube
+      id: o2xOymSeH6I
+      title: Sportswear Printing - All over Print - Cut - Sew ( basketball uniforms)
+    - type: business
+      url: dyesub0.jpg
+      title: Problems with non Cut & Sew
+      text: >-
+        <p>Below is a picture of why you must choose the Cut &amp; Sew method.
+        The
+          printing process on pre-made garments is flawed, the gas will not permeate
+          wrinkles that are sure to occur on pre-made garments. You must first create
+          the fabric, and then Cut &amp; Sew the garment. Take a look at the <a href="https://www.youtube.com/watch?v=IQdPP04qEwU">source
+            video</a> that demonstrates the problem with sublimating pre-made garments
+          in a bit more detail.</p>
+  previous:
+    name: the-typographer
+    title: The Typographer
+  next:
+    name: the-generative-artist
+    title: The Generative Artist
+- title: The Generative Artist
+  name: the-generative-artist
+  date: '2021-02-01T02:22:03.285Z'
+  data:
+    - type: youtube
+      id: 60P7717-XOQ
+      title: Computing a theory of everything | Stephen Wolfram
+    - type: youtube
+      id: 2RWop0Gln24
+      title: What is Digital Art?
+    - type: youtube
+      id: Nxh-5EXXGaM
+      title: How Artists Are Using Technology
+    - type: youtube
+      id: aR5N2Jl8k14
+      title: The incredible inventions of intuitive AI | Maurice Conti
+    - type: youtube
+      id: UxQDG6WQT5s
+      title: Art in the age of machine intelligence | Refik Anadol
+    - type: youtube
+      id: I-EIVlHvHRM
+      title: How This Guy Uses A.I. to Create Art | Obsessed | WIRED
+    - type: youtube
+      id: KZ7BnJb30Cc
+      title: When A.I. Becomes Creative
+    - type: youtube
+      id: mUfJOQKdtAk
+      title: Everybody Can Make Deepfakes Now!
+    - type: youtube
+      id: tJ49bTJ6fbs
+      title: >-
+        Kate Compton, Creating generative art with Javascript | JSConf Iceland
+        2018
+    - type: youtube
+      id: meqHPIOzk-U
+      title: >-
+        Exploring generative spaces, a quickstart to generative art - GitHub
+        Universe 2020
+    - type: youtube
+      id: qtPi0JvmWbs
+      title: Generative Art
+    - type: youtube
+      id: 5R9eywArFTE
+      title: How to Hack a Painting by Tyler Hobbs
+    - type: youtube
+      id: LBpqoj2nOQo
+      title: 'Code goes in, Art comes out - Tyler Hobbs'
+    - type: youtube
+      id: kZNTozzsNqk
+      title: 'A Box of Chaos, The Generative Artist''s Toolkit by Benjamin Kovach'
+    - type: youtube
+      id: 8Uo6zFwSO78
+      title: Generative Machines with Matt DesLauriers
+    - type: youtube
+      id: 4Se0_w0ISYk
+      title: Tim Holman - Generative Art Speedrun
+    - type: youtube
+      id: 0qhiCgTUixU
+      title: 'Tech Talk, Douglas Welton on Generative Art'
+    - type: youtube
+      id: vLlbEZt-3j0
+      title: Dan Lidral Porter - Generating Art In Many Worlds
+    - type: youtube
+      id: M88-GpXGqhM
+      title: 'Data, Design, Code with Shirley Wu'
+    - type: youtube
+      id: LaarVR1AOvs
+      title: Recreating Vintage Computer Art with Processing
+    - type: youtube
+      id: Y1bPsh1mFUI
+      title: exploring the beauty of algorithms with generative art - talk
+    - type: youtube
+      id: EMJ9T7zStYY
+      title: HTML Canvas Mouse Move Animation
+    - type: youtube
+      id: vDnsnsozSBo
+      title: Generative Art for Beginners | Particle System
+    - type: youtube
+      id: JUDYkxU6J0o
+      title: Coding Challenge 47 Pixel Sorting in Processing
+    - type: youtube
+      id: mhjuuHl6qHM
+      title: Coding Challenge 124 Flocking Simulation
+    - type: youtube
+      id: XO8u0Y75FRk
+      title: 'Processing-tutorial, Image-Rasterizer'
+    - type: youtube
+      id: PqbB07n_uQ4
+      title: 'What It''s Like To be a Computer, An Interview with GPT-3'
+    - type: youtube
+      id: wD6hyGXRcgk
+      title: 'TIMELAPSE OF FUTURE TECHNOLOGY, 2022 - 4000+'
+  previous:
+    name: the-designer
+    title: The Designer
+  next:
+    name: the-graphician
+    title: The Graphician
+- title: The Graphician
+  name: the-graphician
+  date: '2021-02-01T02:29:55.820Z'
+  data:
+    - type: image
+      url: demoscene.jpg
+      title: Demoscene
+      text: >-
+        <p><a href="https://en.wikipedia.org/wiki/Demoscene">Demoscene</a> has
+        been closely related to the world of pixel art, demos for computers like
+        the <a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore
+        64</a> (1982) still feature in the Demoscene today. The demoscene is an
+        international computer art subculture focused on producing demos:
+        self-contained, sometimes extremely small, computer programs that
+        produce audio-visual presentations. The purpose of a demo is to show off
+        programming, visual art, and musical skills. Demos and other demoscene
+        productions are shared at festivals known as demoparties, voted on by
+        those who attend, and released online. Take a look at <a
+        href="https://www.youtube.com/watch?v=AmldRs7P8wI&amp;list=PL9HVvEQXdWVY3_QkiBh-aWRfxKW7DJezG">Best
+        Of Demoscene 2019 on YouTube</a></p>
+    - type: youtube
+      id: 9dZj33gr-yw
+      title: Commodore 64 Demoscene - February 2019
+    - type: youtube
+      id: JZ6ZzJeWgpY
+      title: Demoscene - fermi paradox - mercury
+    - type: youtube
+      id: VENFVhQqGls
+      title: >-
+        Demoscene, The Strangest (and Coolest) Computer Subculture - Inside
+        Gaming Explains
+    - type: youtube
+      id: JwNCNO615qQ
+      title: Commodore 64 Black Box 4 Super Cartrige PL
+    - type: youtube
+      id: 78D9MwLPidw
+      title: Intro by Fairlight
+    - type: youtube
+      id: dwHUWC4P0rw
+      title: Triad Intro Collection! Commodore 64 (C64) !
+    - type: youtube
+      id: dTLswakQHKo
+      title: Ikari Intro Collection ! Commodore 64 (C64)
+    - type: youtube
+      id: SFqBkSJOYOQ
+      title: 64 Legendary C64 Crack Intros
+    - type: youtube
+      id: 2wbwKdV89pE
+      title: C64 SID Music Compilation
+    - type: youtube
+      id: MiSlPuCqEoM
+      title: 'SID music, Jeff revisited in stereo Dolby Headphone'
+    - type: youtube
+      id: eclMFa0mD1c
+      title: 'Amiga Music, Jogeir Liljedahl Compilation #1'
+    - type: youtube
+      id: uAjEUEbmCJw
+      title: The Black Lotus - Eon - Amiga Demo (50 FPS)
+    - type: youtube
+      id: 7heuX6tY9AM
+      title: 25 Years by Nah-Kolor / OCS Amiga 500 Dentro / Edision 2020 release
+  previous:
+    name: the-generative-artist
+    title: The Generative Artist
   next:
     name: the-cyberpunk
     title: The Cyberpunk
@@ -7838,8 +7981,8 @@
       id: kPlBMJ86Z4E
       title: Off Grid Ham Radio & Raspberry Pi Field Computer
   previous:
-    name: the-graffitist
-    title: The Graffitist
+    name: the-graphician
+    title: The Graphician
   next:
     name: the-hacker
     title: The Hacker

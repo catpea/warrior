@@ -128,12 +128,16 @@
   date: '2020-07-04T03:38:03.000Z'
 - name: the-artist
   date: '2020-01-01T02:48:35.896Z'
+- name: the-graffitist
+  date: '2020-01-15T02:57:34.957Z'
 - name: the-typographer
   date: '2020-08-07T23:28:25.000Z'
 - name: the-designer
   date: '2020-01-08T01:21:52.719Z'
-- name: the-graffitist
-  date: '2020-01-15T02:57:34.957Z'
+- name: the-generative-artist
+  date: '2021-02-01T02:22:03.285Z'
+- name: the-graphician
+  date: '2021-02-01T02:29:55.820Z'
 - name: the-cyberpunk
   date: '2020-11-30T04:25:54.000Z'
 - name: the-hacker

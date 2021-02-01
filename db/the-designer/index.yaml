@@ -70,19 +70,6 @@
   title: Pixelart is Life
   text: business-pixelart-is-life.md
 
-- type: image
-  url: demoscene.jpg
-  title: Demoscene
-  text: image-demoscene.md
-
-- type: youtube
-  id: 9dZj33gr-yw
-  title: Commodore 64 Demoscene - February 2019
-
-- type: youtube
-  id: JZ6ZzJeWgpY
-  title: Demoscene - fermi paradox - mercury
-
 - type: text
   title: Pixel Art
   text: text-pixel-art-part-2.md
