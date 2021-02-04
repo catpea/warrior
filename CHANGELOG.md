@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### February 3rd 2021, 7:08:31 pm EST
+Added Hans Zimmer to the opening of [The Highschooler](the-highschooler.html)
+
+
 ### January 31st 2021, 9:22:03 pm EST
 Created two new chapters [The Generative Artist](the-generative-artist.html) and [The Graphician](the-graphician.html).
 
