@@ -2,8 +2,14 @@
 ## CHANGELOG
 
 
+### February 7th 2021, 11:43:55 pm EST
+Created a new Chapter [The Meteorite Hunter](the-meteorite-hunter.html).
+
+Beauty and truth in physics (On Emergence) to [The Generative Artist](the-generative-artist.html) and Delayed Choice Quantum Eraser to [The Self Taught](the-self-taught.html)
+
+
 ### February 3rd 2021, 7:08:31 pm EST
-Added Hans Zimmer to the opening of [The Highschooler](the-highschooler.html)
+Added Hans Zimmer to the opening of [The Highschooler](the-highschooler.html).
 
 
 ### January 31st 2021, 9:22:03 pm EST

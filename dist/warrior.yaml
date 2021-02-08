@@ -3482,6 +3482,114 @@
     name: the-spelunker
     title: The Spelunker
   next:
+    name: the-meteorite-hunter
+    title: The Meteorite Hunter
+- title: The Meteorite Hunter
+  name: the-meteorite-hunter
+  date: '2021-02-08T04:43:55.443Z'
+  data:
+    - type: youtube
+      id: dpmXyJrs7iU
+      title: 'Meteor Hits Russia Feb 15, 2013'
+    - type: youtube
+      id: nnhkcqeGtSI
+      title: The Tunguska Event
+    - type: youtube
+      id: 6ZEqCzg5rzg
+      title: TOP 15 BIGGEST Asteroid Impacts in History
+    - type: youtube
+      id: YRDpPeKc-ZE
+      title: How We Proved An Asteroid Wiped Out The Dinosaurs
+    - type: youtube
+      id: v1ZntBvqJxM
+      title: Top 5 Meteorite Fragments People Found
+    - type: youtube
+      id: 0HbDqHLOOjk
+      title: The Meteorite Museum
+    - type: youtube
+      id: VQO335Y3zXo
+      title: Meteorites and Meteor-wrongs
+    - type: youtube
+      id: ClW3EB8Ptuw
+      title: Meteorite or MeteorWRONG?
+    - type: youtube
+      id: Ns-fEHPSJK8
+      title: The Physics of Meteorites
+    - type: youtube
+      id: '-23gzBBVMc8'
+      title: Meteorite is VERY OLD and VERY EXPENSIVE
+    - type: youtube
+      id: 9q3uNcJh4pc
+      title: Tiny meteorites are everywhere. Here’s how to find them.
+    - type: youtube
+      id: PbZIiEjYuJE
+      title: Using a Giant Neodymium Magnet To Find Real Meteorites!
+    - type: youtube
+      id: IohwptOcf2k
+      title: This Fallen Meteorite Is Worth $1.85 Million
+    - type: youtube
+      id: MqAfwfCH9yc
+      title: Southwest Meteorite Center - Overview
+    - type: youtube
+      id: Ml8SEt59-VA
+      title: How to find a meteorite in Antarctica
+    - type: youtube
+      id: Bhlbntm3-tE
+      title: How to ID / Identify a Meteorite - Stone
+    - type: youtube
+      id: XLfYtMa62SQ
+      title: Meteorite Hunting In Skull Valley Utah
+    - type: youtube
+      id: DFi1wY7qj5c
+      title: So Is It a Meteor?
+    - type: youtube
+      id: Yr_5tIPP3dM
+      title: CAN YOU FORGE A METEORITE!?
+    - type: youtube
+      id: 7-QWol38NA0
+      title: CAN YOU FORGE A METEORITE!? PART 2
+    - type: youtube
+      id: '-JSZ8KdN9p8'
+      title: CAN YOU MAKE METEORITE DAMASCUS?
+    - type: youtube
+      id: K_PS2l31EhM
+      title: Meteorite Sword
+    - type: youtube
+      id: YWvpie25uAA
+      title: 'Making Meteorite Rings With A 60,002 PSI Waterjet - DIY'
+    - type: youtube
+      id: 8rrfFnVOsx8
+      title: Making a Meteorite Ring with Obsidian Facets
+    - type: youtube
+      id: F_rbqJ1eXV8
+      title: Making a Pure Meteorite Ring
+    - type: youtube
+      id: vff68_q-beg
+      title: 'my 4,566,300,000 Year Old Ring - crafted from a Swedish Meteorite'
+    - type: youtube
+      id: rIkynrqtILQ
+      title: >-
+        DIY Jurassic Park Ring, Made From Dinosaur Bone, Meteorite, Petrified
+        Wood, and Titanium
+    - type: youtube
+      id: bSkPNMjRRio
+      title: ASTEROIDS Size Comparison
+    - type: youtube
+      id: bdOledzfaXk
+      title: The delicate balance between Chicxulub impact and/or Deccan traps
+    - type: youtube
+      id: fmadZF2hRcY
+      title: 'When a Golf Ball Hits Moon at the Speed 299,000,000 m/s'
+    - type: youtube
+      id: hqt4US72yec
+      title: Catastrophe - Episode 4 - Asteroid Impact
+    - type: youtube
+      id: 2OpbdMjvni0
+      title: Naked Science - Birth of the Universe
+  previous:
+    name: the-metal-detectorist
+    title: The Metal Detectorist
+  next:
     name: the-flintknapper
     title: The Flintknapper
 - title: The Flintknapper
@@ -3545,8 +3653,8 @@
       id: ULVQuCbkFjQ
       title: Native American Horn Bow
   previous:
-    name: the-metal-detectorist
-    title: The Metal Detectorist
+    name: the-meteorite-hunter
+    title: The Meteorite Hunter
   next:
     name: the-dancer
     title: The Dancer
@@ -7766,6 +7874,9 @@
       id: PqbB07n_uQ4
       title: 'What It''s Like To be a Computer, An Interview with GPT-3'
     - type: youtube
+      id: UuRxRGR3VpM
+      title: Beauty and truth in physics (On Emergence)
+    - type: youtube
       id: wD6hyGXRcgk
       title: 'TIMELAPSE OF FUTURE TECHNOLOGY, 2022 - 4000+'
   previous:
@@ -10688,6 +10799,11 @@
     - type: youtube
       id: p-MNSLsjjdo
       title: The Quantum Experiment that Broke Reality
+    - type: youtube
+      id: 0ui9ovrQuKE
+      title: >-
+        Delayed Choice Quantum Eraser, Shocking Results may show Future Affects
+        Past
     - type: youtube
       id: f_4nYgrDJvc
       title: Einstein's Nightmare by Jim Al-Khalili
