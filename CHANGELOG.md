@@ -5,7 +5,7 @@
 ### February 7th 2021, 11:43:55 pm EST
 Created a new Chapter [The Meteorite Hunter](the-meteorite-hunter.html).
 
-Beauty and truth in physics (On Emergence) to [The Generative Artist](the-generative-artist.html) and Delayed Choice Quantum Eraser to [The Self Taught](the-self-taught.html)
+Added Beauty and truth in physics (On Emergence) to [The Generative Artist](the-generative-artist.html), and Delayed Choice Quantum Eraser to [The Self Taught](the-self-taught.html)
 
 
 ### February 3rd 2021, 7:08:31 pm EST
