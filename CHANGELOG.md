@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### February 14th 2021, 8:11:01 pm EST
+Created a new Chapter [The Music Theorist](the-music-theorist.html).
+
+
 ### February 7th 2021, 11:43:55 pm EST
 Created a new Chapter [The Meteorite Hunter](the-meteorite-hunter.html).
 
