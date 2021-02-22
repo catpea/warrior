@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### February 21st 2021, 9:20:15 pm EST
+Created a new Chapter [The Microbiologist](the-microbiologist.html).
+
+
 ### February 14th 2021, 8:11:01 pm EST
 Created a new Chapter [The Music Theorist](the-music-theorist.html).
 
