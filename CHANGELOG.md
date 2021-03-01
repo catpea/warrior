@@ -2,6 +2,14 @@
 ## CHANGELOG
 
 
+### February 28th 2021, 10:14:50 pm EST
+Created a new Chapter [The Prop Maker](the-prop-maker.html).
+
+Added [Richard Feynman's Criticism on School Systems](https://www.youtube.com/watch?v=nJ8_CbiV4vw) to [The Highschooler](the-highschooler.html).
+
+Added [Hulk Escapes Military Base](https://www.youtube.com/watch?v=qmG-UmiY0vQ) and [Hulk vs Tanks](https://www.youtube.com/watch?v=G_TuUr6-dC0) to [The Filmmaker](the-filmmaker.html).
+
+
 ### February 21st 2021, 9:20:15 pm EST
 Created a new Chapter [The Microbiologist](the-microbiologist.html).
 
