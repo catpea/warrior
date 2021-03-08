@@ -11021,6 +11021,11 @@
       id: LwIyy1Fi-4Q
       title: Astra Taylor on the Unschooled Life
     - type: youtube
+      id: Gp6KYTCsrwo
+      title: >-
+        Texas teacher doesn’t assign homework, and she has amazing reasons why l
+        GMA Digital
+    - type: youtube
       id: 23jVmKXk2I0
       title: Skipping School by Lua Martin Wells
     - type: youtube
@@ -11729,6 +11734,114 @@
     name: the-orator
     title: The Orator
   next:
+    name: the-polymath
+    title: The Polymath
+- title: The Polymath
+  name: the-polymath
+  date: '2021-03-08T02:54:48.176Z'
+  data:
+    - type: youtube
+      id: 5MgBikgcWnY
+      title: 'The first 20 hours, how to learn anything by Josh Kaufman'
+    - type: youtube
+      id: dFpryVMgni0
+      title: 4 Chords by The Axis Of Awesome
+    - type: youtube
+      id: 0wY0oTsQ9Lc
+      title: How to become a Jack of all trades and Master of Some by Nicholas Grundy
+    - type: youtube
+      id: 8R-ucUNm64M
+      title: Being a Renaissance Person in the 21st Century by Randy LaFoy
+    - type: youtube
+      id: kEk-BDckjW4
+      title: Paths to Polymathy | Ben Vandgrift
+    - type: youtube
+      id: QJORi5VO1F8
+      title: Why Some of us Don't Have One True Calling | Emilie Wapnick
+    - type: youtube
+      id: 4IPweV8NJ38
+      title: What is a Polymath?
+    - type: youtube
+      id: fLsSyZXYWjo
+      title: Polymaths Have Difficult Career Choices
+    - type: youtube
+      id: ZoqgAy3h4OM
+      title: How and Why to Start A Startup - Sam Altman & Dustin Moskovitz
+    - type: youtube
+      id: 036inh1-jHA
+      title: Who are the Renaissance men and women today? | Haig Armen
+    - type: youtube
+      id: ViwkkpROxp4
+      title: 'All power to the polymath, Ella Saltmarshe'
+    - type: youtube
+      id: LwIyy1Fi-4Q
+      title: Astra Taylor on the Unschooled Life
+    - type: youtube
+      id: mQPEZdBTOeE
+      title: Can anyone become a genius | Mark Diaz
+    - type: youtube
+      id: ia_gTU6IxWA
+      title: The Rise of the Generalist | Tim Piazza
+    - type: youtube
+      id: 3MCLXHf_opE
+      title: Polymath Introductions
+    - type: youtube
+      id: dO-SKzGM7nU
+      title: 'Polymath, A Definition'
+    - type: youtube
+      id: UGFsfs0G1Gg
+      title: 'Millennial polymathy, Mili Ghosh'
+    - type: youtube
+      id: PVAs3aJHBmA
+      title: How To Become A Modern Polymath
+    - type: youtube
+      id: LUO3jqMlWkE
+      title: Channeling Your Inner Renaissance | Sriharshita "Harshu" Musunuri
+    - type: youtube
+      id: WWYLM9opelw
+      title: Pink Da Vinci
+    - type: youtube
+      id: 5yT4IkPtTRo
+      title: Leonardo DaVinci
+    - type: youtube
+      id: bXrNYo-_H1Y
+      title: Ben & Me (1953)
+    - type: youtube
+      id: CEJ3S9fAY80
+      title: >-
+        Benjamin Franklin, 7 Interesting Facts from the Biography of the
+        American Polymath
+    - type: youtube
+      id: VSK_qObahWY
+      title: Mr Rogers Plays The Glass Armonica!
+    - type: youtube
+      id: QkTUL7DjTow
+      title: >-
+        Adagio for Glass Harmonica, K 356, Wolfgang Amadeus Mozart (1756-1791) -
+        Ben's Glass Armonica
+    - type: youtube
+      id: eQemvyyJ--g
+      title: Dance of the Sugar Plum Fairy on the Glass Armonica
+    - type: youtube
+      id: 4LP8QFR9Qvc
+      title: The Last Transit of Venus on the Glass Armonica
+    - type: youtube
+      id: B0vGDfuWhfI
+      title: 'Mae Jemison, I Wanted To Go Into Space'
+    - type: youtube
+      id: fn_9f5x0f1Q
+      title: The world needs all kinds of minds | Temple Grandin
+    - type: youtube
+      id: rsJVuyWmbhE
+      title: What’s wrong with being a “Jack-of-All-Trades”? | John Halpin
+    - type: quote
+      author: Mili Ghosh
+      url: UGFsfs0G1Gg
+      text: <p>Find Nemo!</p>
+  previous:
+    name: the-genius
+    title: The Genius
+  next:
     name: the-courageous
     title: The Courageous
 - title: The Courageous
@@ -11952,8 +12065,8 @@
         <p><a href="https://apps.ankiweb.net/">Anki</a> Powerful, intelligent
         flash cards. Remembering things just became much easier.</p>
   previous:
-    name: the-genius
-    title: The Genius
+    name: the-polymath
+    title: The Polymath
   next:
     name: the-visionary
     title: The Visionary

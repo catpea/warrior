@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### March 7th 2021, 9:54:48 pm EST
+Created a new chapter [The Polymath](the-polymath.html), we now have 100 chapters :)
+
+Added [Texas teacher doesn’t assign homework, and she has amazing reasons why](https://www.youtube.com/watch?v=Gp6KYTCsrwo) to [The Student](the-student.html)
+
+
 ### February 28th 2021, 10:14:50 pm EST
 Created a new Chapter [The Prop Maker](the-prop-maker.html).
 
