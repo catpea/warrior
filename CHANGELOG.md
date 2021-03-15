@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### March 14th 2021, 11:57:17 pm EDT
+Created a new Chapter [The Reverse Engineer](the-reverse-engineer.html).
+
+
 ### March 7th 2021, 9:54:48 pm EST
 Created a new chapter [The Polymath](the-polymath.html), we now have 100 chapters :)
 

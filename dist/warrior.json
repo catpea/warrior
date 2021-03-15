@@ -10792,6 +10792,246 @@
       "title": "The Social Engineer"
     },
     "next": {
+      "name": "the-reverse-engineer",
+      "title": "The Reverse Engineer"
+    }
+  },
+  {
+    "title": "The Reverse Engineer",
+    "name": "the-reverse-engineer",
+    "date": "2021-03-15T03:57:17.068Z",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "j0orpECOYN4",
+        "title": "Hacker Boy"
+      },
+      {
+        "type": "youtube",
+        "id": "SZQz9tkEHIg",
+        "title": "Hacker Breaks Down 26 Hacking Scenes From Movies & TV | WIRED"
+      },
+      {
+        "type": "youtube",
+        "id": "fnYp2DN_XZc",
+        "title": "Introduction to Reverse Engineering for Penetration Testers – SANS Pen Test HackFest Summit 2017"
+      },
+      {
+        "type": "youtube",
+        "id": "7v7UaMsgg_c",
+        "title": "Introduction to Reverse Engineering - Mike Anderson,"
+      },
+      {
+        "type": "youtube",
+        "id": "GIU4yJn2-2A",
+        "title": "Introduction to Firmware Reversing"
+      },
+      {
+        "type": "youtube",
+        "id": "ZmZuKA-Rst0",
+        "title": "Intro to Hardware Reversing, Finding a UART and getting a shell"
+      },
+      {
+        "type": "youtube",
+        "id": "Kxvpbu9STU4",
+        "title": "DEF CON 24 - Hardware Hacking Village - Matt DuHarte - Basic Firmware Extraction"
+      },
+      {
+        "type": "youtube",
+        "id": "h5PRvBpLuJs",
+        "title": "Hack All The Things, 20 Devices in 45 Minutes"
+      },
+      {
+        "type": "youtube",
+        "id": "HuCbr2588-w",
+        "title": "Philippe Laulheret - Intro to Hardware Hacking - DEF CON 27 Conference"
+      },
+      {
+        "type": "youtube",
+        "id": "ZuNOD3XWp4A",
+        "title": "Defcon 21 - All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio"
+      },
+      {
+        "type": "youtube",
+        "id": "I3pNLB3Cq24",
+        "title": "Defcon 21 - Defense by numbers, Making Problems for Script Kiddies and Scanner Monkeys"
+      },
+      {
+        "type": "youtube",
+        "id": "49KoUmiJuts",
+        "title": "SirenJack, Cracking a 'Secure' Emergency Warning Siren System"
+      },
+      {
+        "type": "youtube",
+        "id": "fv4l9yAL2sU",
+        "title": "Writing Bad @$$ Malware For OS X"
+      },
+      {
+        "type": "youtube",
+        "id": "GvrB6S_O0BE",
+        "title": "The Machines That Betrayed Their Masters by Glenn Wilkinson"
+      },
+      {
+        "type": "youtube",
+        "id": "ET0MFkRorbo",
+        "title": "How Smartcard Payment Systems Fail"
+      },
+      {
+        "type": "youtube",
+        "id": "9fAnRkJ6N3s",
+        "title": "AirBnBeware, Short Term Rentals Long Term Pwnage"
+      },
+      {
+        "type": "youtube",
+        "id": "qLCE8spVX9Q",
+        "title": "DEF CON 26 - Eyal Itkin, Yaniv Balmas - What the Fax?!"
+      },
+      {
+        "type": "youtube",
+        "id": "_eSAF_qT_FY",
+        "title": "GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs"
+      },
+      {
+        "type": "youtube",
+        "id": "lG7U3fuNw3A",
+        "title": "XSS on Google Search - Sanitizing HTML in The Client?"
+      },
+      {
+        "type": "youtube",
+        "id": "UHwpusw6mPc",
+        "title": "Game of Chromes, Owning the Web with Zombie Chrome Extensions"
+      },
+      {
+        "type": "youtube",
+        "id": "YakeUg_Gcno",
+        "title": "What is a Compiler and a Decompiler?"
+      },
+      {
+        "type": "youtube",
+        "id": "uYZZbteb8Gc",
+        "title": "How to Build A Decompiler by Tsviatko Yovtchev"
+      },
+      {
+        "type": "youtube",
+        "id": "VR8YmxDIYNQ",
+        "title": "UNDERWORLD - Cowgirl - [over Hackers (1995)]"
+      },
+      {
+        "type": "youtube",
+        "id": "B2MvoBRzrm4",
+        "title": "Samy Kamkar, Getting Started with Reverse Engineering"
+      },
+      {
+        "type": "youtube",
+        "id": "tlwXmNnXeSY",
+        "title": "Samy Kamkar's Crash Course in How to Be a Hardware Hacker"
+      },
+      {
+        "type": "youtube",
+        "id": "BnwBdeQB7vQ",
+        "title": "Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino and RTL-SDR"
+      },
+      {
+        "type": "youtube",
+        "id": "1RipwqJG50c",
+        "title": "Radio Hacking, Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016"
+      },
+      {
+        "type": "youtube",
+        "id": "iC1bGdxcNMg",
+        "title": "Cracking Paid Software with Reverse Engineering 😳 (GUI based)"
+      },
+      {
+        "type": "youtube",
+        "id": "VroEiMOJPm8",
+        "title": "Reversing and Cracking first simple Program - bin 0x05 (Linux Based)"
+      },
+      {
+        "type": "youtube",
+        "id": "W5fM6WpC_nE",
+        "title": "Hackers PRODIGY - voodoo people"
+      },
+      {
+        "type": "youtube",
+        "id": "d4Pgi5XML8E",
+        "title": "Reverse Engineering with Ghidra Class 1"
+      },
+      {
+        "type": "youtube",
+        "id": "uyWVztMHWtk",
+        "title": "Reverse Engineering with Ghidra Class 2"
+      },
+      {
+        "type": "youtube",
+        "id": "RFG5FuqY0CE",
+        "title": "Reverse Engineering with Ghidra Class 3"
+      },
+      {
+        "type": "youtube",
+        "id": "5QBXNF7FKxM",
+        "title": "Reverse Engineering with Ghidra Class 4"
+      },
+      {
+        "type": "youtube",
+        "id": "33WuGp6fs3s",
+        "title": "Trance Orbital - Halcyon and On and On ( Hakers / 1995 )"
+      },
+      {
+        "type": "youtube",
+        "id": "vveLaA-z3-o",
+        "title": "Wannacry The Marcus Hutchins Story - All 3 Chapters"
+      },
+      {
+        "type": "youtube",
+        "id": "88jkB1V6N9w",
+        "title": "Wana Decrypt0r (Wanacry Ransomware) - Computerphile"
+      },
+      {
+        "type": "youtube",
+        "id": "pLluFxHrc30",
+        "title": "How WanaCrypt Encrypts Your Files - Computerphile"
+      },
+      {
+        "type": "youtube",
+        "id": "Sv8yu12y5zM",
+        "title": "Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in"
+      },
+      {
+        "type": "youtube",
+        "id": "Q90uZS3taG0",
+        "title": "Reversing WannaCry Part 2 - Diving into the malware with Ghidra​"
+      },
+      {
+        "type": "youtube",
+        "id": "ru5VzUigKqw",
+        "title": "Reversing WannaCry Part 3 - The encryption component"
+      },
+      {
+        "type": "youtube",
+        "id": "bqaZBeZ4zf0",
+        "title": "Simple reversing challenge and gaming the system - BruCON CTF part 1"
+      },
+      {
+        "type": "youtube",
+        "id": "3EB4g4_6ZjI",
+        "title": "int0x80 from DualCore lent me his lockpicking set and I'm a horse - BruCON CTF part 2"
+      },
+      {
+        "type": "youtube",
+        "id": "sMla6_4Z-CQ",
+        "title": "MD5 length extension and Blind SQL Injection - BruCON CTF part 3"
+      },
+      {
+        "type": "youtube",
+        "id": "QmR4zLcORNc",
+        "title": "Daft Punk - Alive"
+      }
+    ],
+    "previous": {
+      "name": "the-security-analyst",
+      "title": "The Security Analyst"
+    },
+    "next": {
       "name": "the-privacy-advocate",
       "title": "The Privacy Advocate"
     }
@@ -10963,8 +11203,8 @@
       }
     ],
     "previous": {
-      "name": "the-security-analyst",
-      "title": "The Security Analyst"
+      "name": "the-reverse-engineer",
+      "title": "The Reverse Engineer"
     },
     "next": {
       "name": "the-engineer",
