@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### March 21st 2021, 9:18:11 pm EDT
+Created a new Chapter [The Classical Music Aficionado](the-classical-music-aficionado.html).
+
+Added [A Mathematician's Lament](https://www.youtube.com/watch?v=Ws6qmXDJgwU) to [The Student](the-student.html)
+
+
 ### March 14th 2021, 11:57:17 pm EDT
 Created a new Chapter [The Reverse Engineer](the-reverse-engineer.html).
 
