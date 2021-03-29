@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### March 28th 2021, 10:06:59 pm EDT
+Created a new Chapter [The Futurist](the-futurist.html).
+
+
 ### March 21st 2021, 9:18:11 pm EDT
 Created a new Chapter [The Classical Music Aficionado](the-classical-music-aficionado.html).
 

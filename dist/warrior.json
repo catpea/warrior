@@ -9809,6 +9809,151 @@
       "title": "The Graphician"
     },
     "next": {
+      "name": "the-futurist",
+      "title": "The Futurist"
+    }
+  },
+  {
+    "title": "The Futurist",
+    "name": "the-futurist",
+    "date": "2021-03-29T02:06:59.497Z",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "A1dfjX0STEk",
+        "title": "Martin Rees, Humanity's future – predictions for the next century"
+      },
+      {
+        "type": "youtube",
+        "id": "tL47-RIyj8E",
+        "title": "Futurism Of The 1920s"
+      },
+      {
+        "type": "youtube",
+        "id": "3vFQLDJJ2rg",
+        "title": "Retro Futurism Concept Art"
+      },
+      {
+        "type": "youtube",
+        "id": "UOtb5jUogXw",
+        "title": "Past Predictions of the Future Every Decade"
+      },
+      {
+        "type": "youtube",
+        "id": "qgqqTqeVHqw",
+        "title": "10 Future Predictions to Blow Your Mind from World's Best Futurists"
+      },
+      {
+        "type": "youtube",
+        "id": "Yv3Q-Y__jj4",
+        "title": "Top 10 Predictions for the Next Decade"
+      },
+      {
+        "type": "youtube",
+        "id": "hOFRbjjjwCE",
+        "title": "These Are the Events That Will Happen Before 2050"
+      },
+      {
+        "type": "youtube",
+        "id": "J2vHbuGsxxs",
+        "title": "What Will Happen to Us Before 2025"
+      },
+      {
+        "type": "youtube",
+        "id": "453ibZYZdGE",
+        "title": "5 Futuristic Technologies THAT WILL EXIST BY 2030"
+      },
+      {
+        "type": "youtube",
+        "id": "TxRIdL2CDBk",
+        "title": "TOP 7 Emerging Technologies That Will Change Our World!"
+      },
+      {
+        "type": "youtube",
+        "id": "RNVh_HMX2IY",
+        "title": "The World in 2050"
+      },
+      {
+        "type": "youtube",
+        "id": "nho3r9SjL7Y",
+        "title": "The World In 2050, A Peek Into The Future"
+      },
+      {
+        "type": "youtube",
+        "id": "tuVuxKTJeBI",
+        "title": "3 mind-blowing predictions about the future by Michio Kaku"
+      },
+      {
+        "type": "youtube",
+        "id": "eMxmDPDyQ7o",
+        "title": "The Future of Humanity | Michio Kaku | Talks at Google"
+      },
+      {
+        "type": "youtube",
+        "id": "Gglcx_xAryg",
+        "title": "Ray Kurzweil Predicts End of Disease, AI Leaps"
+      },
+      {
+        "type": "youtube",
+        "id": "1DW6thQ-bZw",
+        "title": "Ray Kurzweil @ SuperNova Conference 2018"
+      },
+      {
+        "type": "youtube",
+        "id": "zihTWh5i2C4",
+        "title": "How to Create a Mind | Ray Kurzweil | Talks at Google"
+      },
+      {
+        "type": "youtube",
+        "id": "Kd17c5m4kdM",
+        "title": "The Future of Intelligence, Artificial and Natural"
+      },
+      {
+        "type": "youtube",
+        "id": "SaOfLtoaKqw",
+        "title": "Ray Kurzweil + Disruptive Technologies and Dangerous Ideas"
+      },
+      {
+        "type": "youtube",
+        "id": "qlRTbl_IB-s",
+        "title": "Ray Kurzweil — Immortality By 2045"
+      },
+      {
+        "type": "youtube",
+        "id": "GbeWMeYMTd4",
+        "title": "Inventor Ray Kurzweil sees immortality in our future"
+      },
+      {
+        "type": "youtube",
+        "id": "XZfUJuSmBAs",
+        "title": "Biotechnology/Nanotechnology by Andrew Hessel"
+      },
+      {
+        "type": "youtube",
+        "id": "fzweIEvN8sc",
+        "title": "Warp Drive and Aliens, Bryan Gaensler Public Lecture"
+      },
+      {
+        "type": "youtube",
+        "id": "NQ4CUw9RcuA",
+        "title": "The Whole History of the Earth and Life"
+      },
+      {
+        "type": "youtube",
+        "id": "b_TkFhj9mgk",
+        "title": "A Journey to the End of the Universe"
+      },
+      {
+        "type": "youtube",
+        "id": "uD4izuDMUQA",
+        "title": "A Journey to the End of Time"
+      }
+    ],
+    "previous": {
+      "name": "the-prop-maker",
+      "title": "The Prop Maker"
+    },
+    "next": {
       "name": "the-cyberpunk",
       "title": "The Cyberpunk"
     }
@@ -10045,8 +10190,8 @@
       }
     ],
     "previous": {
-      "name": "the-prop-maker",
-      "title": "The Prop Maker"
+      "name": "the-futurist",
+      "title": "The Futurist"
     },
     "next": {
       "name": "the-hacker",
