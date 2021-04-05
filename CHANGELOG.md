@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### April 4th 2021, 11:56:08 pm EDT
+Created a new Chapter [The Bottle Digger](the-bottle-digger.html).
+
+
 ### March 28th 2021, 10:06:59 pm EDT
 Created a new Chapter [The Futurist](the-futurist.html).
 
