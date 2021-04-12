@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### April 11th 2021, 9:47:02 pm EDT
+Created a new Chapter [The Archer](the-archer.html).
+
+
 ### April 4th 2021, 11:56:08 pm EDT
 Created a new Chapter [The Bottle Digger](the-bottle-digger.html).
 
