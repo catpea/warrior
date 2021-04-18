@@ -108,12 +108,42 @@ async function main(){
     .map(function (i, el) { return {title: ($(this).attr('title')||$(this).text()).replace(/\s+/g, ' '), url: $(this).attr('href'), hostname:new URL($(this).attr('href')).hostname} }).get();
     return list;
   }
+  function links2(html){
+    let plain = "";
+    const $ = cheerio.load(html);
+    const list = $('a')
+    .filter(function (i, el){ return $(this).attr('href').startsWith('http')})
+    .map(function (i, el) { return {title: ($(this).attr('title')||$(this).text()).replace(/\s+/g, ' '), url: $(this).attr('href'), hostname:new URL($(this).attr('href')).hostname} }).get();
+    return list;
+  }
 
 
-
+  function listLinks(html) {
+    const $ = cheerio.load(html);
+    const list = $("a")
+      .map(function (i, el) {
+        //console.log($(el).html());
+        return {
+          title: $(this).attr("title") || $(this).text(),
+          url: $(this).attr("href"),
+        };
+      })
+      .get()
+      .map((i) => {
+        i.hostname = "local";
+        try {
+          i.hostname = new URL(i.url).hostname;
+        } catch (e) {
+          // borked.
+        }
+        return i;
+      });
+    return list;
+  }
 
 
   const object = {
+    format: 'v1',
     name: "westland-warrior",
     title: "Westland Warrior",
     subtitle: "A Path To Greatness",
@@ -124,6 +154,13 @@ async function main(){
       "Mirror":"https://westland-valhalla.github.io/warrior/",
       "Bugs":"https://github.com/westland-valhalla/warrior/issues"
     },
+
+    coverImages: false,
+    contactSheet: true,
+    audioVersion: false,
+    localAssets: true,
+    yamlDatabase: true,
+
     order: "latest",
   };
 
@@ -151,7 +188,8 @@ async function main(){
     for( let element of item.data ){
       entry.html += template(element);
       entry.text += redable(element);
-      entry.links = entry.links.concat(links(element));
+      entry.links = listLinks(entry.html);
+      //entry.yaml = yamlExport(element)
     }
 
     entry.html = pretty(entry.html, {ocd: true});
