@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### April 18th 2021, 11:21:24 pm EDT
+Created a new Chapter [The Builder](the-builder.html).
+
+
 ### April 11th 2021, 9:47:02 pm EDT
 Created a new Chapter [The Archer](the-archer.html).
 
