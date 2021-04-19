@@ -188,7 +188,7 @@ async function main(){
     for( let element of item.data ){
       entry.html += template(element);
       entry.text += redable(element);
-      entry.links = listLinks(entry.html);
+      entry.links = []; // listLinks(entry.html); //TODO
       //entry.yaml = yamlExport(element)
     }
 
