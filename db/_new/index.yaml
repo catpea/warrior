@@ -1,3 +1,5 @@
 - type: youtube
   id: GEPhLqwKo6g
   title: Think Different
+
+# clear; cat ~/Universe/Development/warrior/db/the-wild-camper/index.yaml | grep http | sort | uniq  -c

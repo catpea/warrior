@@ -141,6 +141,63 @@ async function main(){
     return list;
   }
 
+  function dependencies(html) {
+
+    const localFiles = listLinks_2(html).filter(i=>i.hostname == 'local');
+
+
+    const list = [].concat(localFiles);
+    return list;
+  }
+
+  function listLinks_2(html) {
+    const $ = cheerio.load(html);
+    let unique = new Set();
+
+    const list = $("a")
+      .map(function (i, el) {
+
+        const title = ($(this).attr("title") || $(this).text() || '').trim().replace(/\s+/g, ' ');
+        const url = ($(this).attr("href") || '').trim();
+
+
+
+        const id = title + url;
+
+        if(title && url){
+          if(unique.has(id)){
+            //console.log(id);
+            // already tracking
+          }else{
+            unique.add(id);
+            return { title, url };
+          }
+        }
+
+      })
+      .get()
+      .filter(i=>i)
+
+      .map((i) => {
+        i.hostname = "local";
+        try {
+          let hostname = new URL(i.url).hostname;
+          i.hostname = hostname;
+          //console.log(hostname);
+        } catch (e) {
+          // borked.
+        }
+        return i;
+      })
+      //.filter(i=>!i.hostname.includes('youtube'))
+      .filter(i=>i);
+
+
+
+
+    return list;
+  }
+
 
   const object = {
     format: 'v1',
@@ -155,11 +212,23 @@ async function main(){
       "Bugs":"https://github.com/westland-valhalla/warrior/issues"
     },
 
-    coverImages: false,
-    contactSheet: true,
-    audioVersion: false,
-    localAssets: true,
-    yamlDatabase: true,
+    // coverImages: false,
+    // contactSheet: true,
+    // audioVersion: false,
+    // localAssets: true,
+    // yamlDatabase: true,
+
+    plugins: {
+      coverImages: {},
+      resizeCoverImage: {},
+      //convertAudioToVideo: {},
+      createMirror: {},
+      createWebsite: {},
+      localAssets: {},
+      yamlDatabase: {},
+      createContactSheetImage: {},
+      downloadVideoThumbnails: {},
+    },
 
     order: "latest",
   };
@@ -188,7 +257,10 @@ async function main(){
     for( let element of item.data ){
       entry.html += template(element);
       entry.text += redable(element);
-      entry.links = []; // listLinks(entry.html); //TODO
+      // entry.links = []; // listLinks(entry.html);
+      //console.log('Making links');
+      entry.links = listLinks_2(entry.html);
+      //entry.dependencies = dependencies(entry.html);
       //entry.yaml = yamlExport(element)
     }
 

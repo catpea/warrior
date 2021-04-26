@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### April 25th 2021, 8:29:57 pm EDT
+Created a new Chapter [The Stealth Camper](the-stealth-camper.html).
+
+
 ### April 18th 2021, 11:21:24 pm EDT
 Created a new Chapter [The Builder](the-builder.html).
 

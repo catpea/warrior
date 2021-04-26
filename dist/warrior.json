@@ -77,7 +77,7 @@
         "type": "image",
         "url": "bears.jpg",
         "title": "The Bear Hunt",
-        "text": "<p>This artwork has been with me for as long as I can remember, I found it in\n  a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and\n  one of my favorite writers Bill Bryson wrote something just as good <a href=\"https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything\">A\n    Short History of Nearly Everything</a> which is available as an\n  <a href=\"https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW\">Audiobook</a> where he gently talks about learning, and what he learned\n  about our universe.</p>"
+        "text": "<p>This artwork has been with me for as long as I can remember, I found it in\n  a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and\n  one of my favorite writers Bill Bryson wrote something just as good\n  <a href=\"https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything\">A Short History of Nearly Everything</a> which is available as an\n  <a href=\"https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW\">Audiobook</a> where he gently talks about learning, and what he learned\n  about our universe.</p>"
       },
       {
         "type": "text",
@@ -2152,6 +2152,301 @@
       "title": "The Microbiologist"
     },
     "next": {
+      "name": "the-stealth-camper",
+      "title": "The Stealth Camper"
+    }
+  },
+  {
+    "title": "The Stealth Camper",
+    "name": "the-stealth-camper",
+    "date": "2021-04-26T00:29:57.597Z",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "nWh82qkr6Ss",
+        "title": "Scared of SOLO Wild Camping? Tips for conquering the fear of Wild Camping ALONE in the UK"
+      },
+      {
+        "type": "youtube",
+        "id": "C8_cQSFKH2E",
+        "title": "Solo Hiking & Wild Camping in Storm Alex | Ridgeway Link - The Chilterns"
+      },
+      {
+        "type": "youtube",
+        "id": "45P8RFItda4",
+        "title": "Exmoor Wild Camp | Facing My Fears"
+      },
+      {
+        "type": "youtube",
+        "id": "5LZ7NIczQhg",
+        "title": "How To Overcome Fear Of Wild Camping Alone | Solo Female Hiker"
+      },
+      {
+        "type": "youtube",
+        "id": "C2TudQHebow",
+        "title": "Afraid of wild camping? Fear not!"
+      },
+      {
+        "type": "youtube",
+        "id": "iUaKkfF83ZQ",
+        "title": "Interview with East Midlands Today 3 Jan 2017"
+      },
+      {
+        "type": "youtube",
+        "id": "tjtIRTwDokE",
+        "title": "Stealth Tarp Wild Camping On A Hill Solo | + Bonus Hill-Sliding & Gear-Wrecking Fun | Rab Ascent 900"
+      },
+      {
+        "type": "youtube",
+        "id": "nDdJaq-F-yA",
+        "title": "Stealth Camping | Inspired by GREAT Steve Wallis"
+      },
+      {
+        "type": "youtube",
+        "id": "zyVtDrIwlVc",
+        "title": "Fox Walk - How To Walk Silently Through The Woods"
+      },
+      {
+        "type": "youtube",
+        "id": "13EynVd4B1g",
+        "title": "Overnighter​ in a stealth shelter"
+      },
+      {
+        "type": "youtube",
+        "id": "JnBSPzwZR6Q",
+        "title": "STEALTH Fire - Building A Rocket Stove UNDERGROUND"
+      },
+      {
+        "type": "youtube",
+        "id": "c2kfqnE3rgQ",
+        "title": "Stealth camping in the woods"
+      },
+      {
+        "type": "youtube",
+        "id": "9aUUl8JmTXU",
+        "title": "Building A Primitive STEALTH Shelter - Part 1"
+      },
+      {
+        "type": "youtube",
+        "id": "N5bzCnTa20k",
+        "title": "Building a primitive STEALTH Shelter Part 2"
+      },
+      {
+        "type": "youtube",
+        "id": "KJ7F3xpGFfo",
+        "title": "Stealth Camping In Storm Drain"
+      },
+      {
+        "type": "youtube",
+        "id": "n2Acm9McX0Q",
+        "title": "Secret Highway Stealth Shelter Camping"
+      },
+      {
+        "type": "youtube",
+        "id": "SGEcHes5akk",
+        "title": "Urban Stealth Camping With Hammock In Residential Area"
+      },
+      {
+        "type": "youtube",
+        "id": "9tPmEC8O78o",
+        "title": "Stealth Camping In Unfamiliar City"
+      },
+      {
+        "type": "youtube",
+        "id": "eOo0jMfXI_E",
+        "title": "Stealth Camping In Abandoned Gas Station"
+      },
+      {
+        "type": "youtube",
+        "id": "lKZahL_VcHo",
+        "title": "Solo Overnight Building a Stealth Shelter In The Woods with Bacon Mac and Cheese Bison Burgers"
+      },
+      {
+        "type": "youtube",
+        "id": "DqlawqqWT3s",
+        "title": "Solo Overnight in a Broken Tree During a Rainstorm and a Campfire Double Loaded Bacon Potato"
+      },
+      {
+        "type": "youtube",
+        "id": "-9Ix1v9nWQA",
+        "title": "Stealth Camping and Low Profile Shelters"
+      },
+      {
+        "type": "youtube",
+        "id": "ps4pfPOv_wo",
+        "title": "Solo Overnight Stealth Camping In The Woods and Krispy Kream Bacon Cheese Burgers"
+      },
+      {
+        "type": "youtube",
+        "id": "Xxb6lGWQ4oo",
+        "title": "Urban stealth camping. uk wild camp"
+      },
+      {
+        "type": "youtube",
+        "id": "WRtHed5uzT0",
+        "title": "Stealth camping-on a roundabout-uk-wild camping"
+      },
+      {
+        "type": "youtube",
+        "id": "Q7gvF9HlNNE",
+        "title": "my first bivi camp- lazy stealth camping"
+      },
+      {
+        "type": "youtube",
+        "id": "-EfWe7G15Ic",
+        "title": "3 Days Winter Wild Camping - Sleeping under Tree - Cold Weather Hike"
+      },
+      {
+        "type": "youtube",
+        "id": "Dw4i0Im59Kw",
+        "title": "Winter WILD CAMPING in a £60 tent"
+      },
+      {
+        "type": "youtube",
+        "id": "oIMvDBsa8hk",
+        "title": "WILD CAMPING in my dream TENT"
+      },
+      {
+        "type": "youtube",
+        "id": "wlA5-GT3zkU",
+        "title": "Wildcamping U.k in bad weather, Wetter than an otters todger"
+      },
+      {
+        "type": "youtube",
+        "id": "NMbSo1hA8F0",
+        "title": "COLD WILD CAMP ON A HILL | AM I ALONE?? | Wild Country Helm Compact 1 | 4K"
+      },
+      {
+        "type": "youtube",
+        "id": "Ly5iNDovvqs",
+        "title": "FREEDOM ! First Wild Camp of 2021 - Forest of Bowland AONB - 4K Drone Footage & Naturehike Spire"
+      },
+      {
+        "type": "youtube",
+        "id": "9Zu4FiBHbrI",
+        "title": "Dartmoor Wild Camping | Rigging for a Storm | Extreme Weather Wild Camp | Dartmoor Prison History"
+      },
+      {
+        "type": "youtube",
+        "id": "3U2lr55hBgg",
+        "title": "Whisky Wildcamp in the Garden"
+      },
+      {
+        "type": "youtube",
+        "id": "FkzRgTrq5c8",
+        "title": "Beer and Pizza Wildcamp....... Oh and Midges"
+      },
+      {
+        "type": "youtube",
+        "id": "g_nOavzp0J8",
+        "title": "Stealth Camping"
+      },
+      {
+        "type": "youtube",
+        "id": "TluhXPqMKUY",
+        "title": "Stealth Hammock Camping"
+      },
+      {
+        "type": "youtube",
+        "id": "3ie0FkreGds",
+        "title": "Stealth Camping Above Highway"
+      },
+      {
+        "type": "youtube",
+        "id": "ufAQBs0qhvU",
+        "title": "This is why you should do a recce before you wild camp"
+      },
+      {
+        "type": "youtube",
+        "id": "b-vZmfmeNbY",
+        "title": "Making a Camping Cabin for $ 5!"
+      },
+      {
+        "type": "youtube",
+        "id": "0lYPrwQgDUc",
+        "title": "Amazing Bushcraft Tent made from Plastic Wrap!"
+      },
+      {
+        "type": "youtube",
+        "id": "mcJt0w8kvQ0",
+        "title": "Solo Overnight Bushcraft Tent Using Plastic Wrap - Survival Alone in Forest - Natural Sound at Night"
+      },
+      {
+        "type": "youtube",
+        "id": "pUx_qqRfW-o",
+        "title": "Bear Safe Hammocking 20 feet High Up A Tree Solo Overnight Camping (87 Days Ep. 32)"
+      },
+      {
+        "type": "youtube",
+        "id": "2mDdkBhjRwQ",
+        "title": "Urban Stealth Tree Camping is Awesome!??"
+      },
+      {
+        "type": "youtube",
+        "id": "hdWsd-_4Ur0",
+        "title": "Tree Camping - CAMPING OVER 100 FEET UP!!! (4K)"
+      },
+      {
+        "type": "youtube",
+        "id": "JjLoG3vylto",
+        "title": "Tree Camping High Up In The Canopy"
+      },
+      {
+        "type": "youtube",
+        "id": "hCenJp-cVso",
+        "title": "I Took My Sister Tree Hammocking!"
+      },
+      {
+        "type": "youtube",
+        "id": "X62aFQfaNsk",
+        "title": "Camping in a 100' Maple tree"
+      },
+      {
+        "type": "youtube",
+        "id": "S6PA2wjcy3o",
+        "title": "Tree Camping in the Rain"
+      },
+      {
+        "type": "youtube",
+        "id": "hxOxpELLek0",
+        "title": "Aerial Stealth Camping in a Public Park ----- Hammocking in MN"
+      },
+      {
+        "type": "youtube",
+        "id": "8FZCbRQFe-s",
+        "title": "A Portaledge In A Tree Can Be... FRUSTRATING!"
+      },
+      {
+        "type": "youtube",
+        "id": "2wZqEZZUA14",
+        "title": "Aerial Camping HIGH Above a River"
+      },
+      {
+        "type": "youtube",
+        "id": "hyZJvpogWKQ",
+        "title": "How to Tree Camp ----- A funny tree camping tutorial!"
+      },
+      {
+        "type": "youtube",
+        "id": "jn77x1rstkQ",
+        "title": "A Stormy Trip To Anakeesta Gatlinburg, TN | Tower, Treetop Skywalk & More"
+      },
+      {
+        "type": "youtube",
+        "id": "Zm5fQs25skQ",
+        "title": "Destination WA - Valley of the Giants Treetop Walk"
+      },
+      {
+        "type": "youtube",
+        "id": "yjjFlcm3tM8",
+        "title": "15 BIGGEST Trees in the World"
+      }
+    ],
+    "previous": {
+      "name": "the-naturalist",
+      "title": "The Naturalist"
+    },
+    "next": {
       "name": "the-survivalist",
       "title": "The Survivalist"
     }
@@ -2319,8 +2614,8 @@
       }
     ],
     "previous": {
-      "name": "the-naturalist",
-      "title": "The Naturalist"
+      "name": "the-stealth-camper",
+      "title": "The Stealth Camper"
     },
     "next": {
       "name": "the-backpacker",
