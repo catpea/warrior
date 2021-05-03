@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 2nd 2021, 9:20:59 pm EDT
+Created a new Chapter [The Tracker Musician](the-tracker-musician.html).
+
+
 ### April 25th 2021, 8:29:57 pm EDT
 Created a new Chapter [The Stealth Camper](the-stealth-camper.html).
 
