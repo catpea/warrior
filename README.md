@@ -1,7 +1,13 @@
 # warrior
 A Book About Growing Up
 
-<!-- [Browse Book](./database/) -->
+## Upgrade/Depreciation Notice
+poetry will be replaced by https://github.com/catpea/furkies-purrkies and removed.
+warrior will be replaced by https://github.com/catpea/westland-warrior and removed.
+server will be removed
+website will be built by https://github.com/catpea/eternia
+
+Note to github: please allow me to run website and homepage at the same time so that I may make the switch to a leaner system that will take up less space on your system.
 
 ## Usage
 
