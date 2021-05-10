@@ -2,6 +2,12 @@
 ## CHANGELOG
 
 
+### May 9th 2021, 10:47:45 pm EDT
+Created a new Chapter [The Bicyclist](the-bicyclist.html).
+
+GUI changes are coming. The website will soon look a little bit more like [https://catpea.com/](https://catpea.com/) (it will still carry warrior only content) and in the next months I will make it dark again. The reason for this is a new build system which is much more efficient and can run on low power devices.
+
+
 ### May 2nd 2021, 9:20:59 pm EDT
 Created a new Chapter [The Tracker Musician](the-tracker-musician.html).
 
