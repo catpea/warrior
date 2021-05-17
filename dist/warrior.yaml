@@ -6450,6 +6450,141 @@
     name: the-maker
     title: The Maker
   next:
+    name: the-knickknack-artist
+    title: The Knickknack Artist
+- title: The Knickknack Artist
+  name: the-knickknack-artist
+  date: '2021-05-17T03:22:25.235Z'
+  data:
+    - type: youtube
+      id: k_rwgbvVicE
+      title: SMALL canvas and BIG brush Painting
+    - type: youtube
+      id: _Q1vw4knbAU
+      title: FORCING FRIENDS TO RE-CREATE MY ART - Chloe Rose Art
+    - type: youtube
+      id: bKrvDQf_Gg8
+      title: EVERY Miniature Painting Technique you must know and WHEN to use them
+    - type: youtube
+      id: 8oJcj9hbz8A
+      title: >-
+        Painting Secrets Revealed, Thinning your paint, Layering, Wet Blending +
+        more
+    - type: youtube
+      id: CNdMFXAZK_A
+      title: Acrylic Pouring Compilation 2021
+    - type: youtube
+      id: WXa5guVKG04
+      title: Abstract Fluid Art 2020
+    - type: youtube
+      id: 9eEZmcjY1Uo
+      title: 20 Different Acrylic Pouring Techniques - Abstract Fluid Art + Music
+    - type: youtube
+      id: QWpp9qdHBNk
+      title: Back in the studio again...pendulum painting.
+    - type: youtube
+      id: '-Jf1L62nWq4'
+      title: Pendulum Painting
+    - type: youtube
+      id: pJobZnHa7zs
+      title: How to Create Pendulum Paintings at Home
+    - type: youtube
+      id: glsRHkLHvXs
+      title: Painting my First Layered Resin Painting (it's 3D!)
+    - type: youtube
+      id: nxmP_I9gEvM
+      title: How to Make Layered Resin Art
+    - type: youtube
+      id: NPaaZ7zu-nU
+      title: Translucent Blue and Purple Resin Shaker Charms
+    - type: youtube
+      id: WSBWH_tA-vY
+      title: FAIRY PENDANTS
+    - type: youtube
+      id: E2wtO-GmpqI
+      title: Caribbean Wave Resin Bowl
+    - type: youtube
+      id: e_j3VuB-uiY
+      title: Resin 'SPLASH' Free Form Drip Bowl Sculpture
+    - type: youtube
+      id: 0j5-sQylQhs
+      title: 3D Resin Flower With Layered Petals
+    - type: youtube
+      id: r0_mbtMzpAE
+      title: Ocean Epoxy Resin Tutorial - Step by Step Voiceover
+    - type: youtube
+      id: 9tY2GoTHkf8
+      title: Thousands of Pencils Floating Down a River Table..
+    - type: youtube
+      id: zARdMA8NWto
+      title: Resin Safety Precautions
+    - type: youtube
+      id: EN6-1rctQuo
+      title: Woodturning - Rainbow night light
+    - type: youtube
+      id: IexF15h6NYI
+      title: Making pendants from red wood and blue wood
+    - type: youtube
+      id: 1cXy7gxUtbU
+      title: Magic of Making - Glass Marbles
+    - type: youtube
+      id: s90shHaj75E
+      title: Galaxy marble
+    - type: youtube
+      id: Nb--Fktv1_E
+      title: Reticello Marble
+    - type: youtube
+      id: 1i_n9ELZwbo
+      title: CAPTURING MAGIC INTO GLASS MARBLES
+    - type: youtube
+      id: BgzzJzUA_Fc
+      title: Vortex Marble Tutorial Lampworking - Glass Blowing Techniques
+    - type: youtube
+      id: UU9g4A_A10M
+      title: Opal Marbles
+    - type: youtube
+      id: c8H_Qu-uuo8
+      title: Dichroic Nebula Marble
+    - type: youtube
+      id: k8PXeV58llg
+      title: I Tried SCULPTING For The VERY FIRST Time?!
+    - type: youtube
+      id: G5CVUJs_W8g
+      title: Billie Eilish
+    - type: youtube
+      id: 2wDuPJcnazk
+      title: Sculpting Arthur Morgan Riding
+    - type: youtube
+      id: IvIxLrIspDA
+      title: Sculpting DAFT PUNK
+    - type: youtube
+      id: yuDVitng9hM
+      title: King Kong
+    - type: youtube
+      id: 8Wn3uBKeeZw
+      title: Painting the Harley Quinn Premium Format Figure
+    - type: youtube
+      id: MrFbu3FyTc4
+      title: Painting Venom
+    - type: youtube
+      id: OB63nCcartY
+      title: The making of Grunkle Stan
+    - type: youtube
+      id: Df5vGAcaWDA
+      title: Zombie Shark
+    - type: youtube
+      id: U8Y6gRG9EYI
+      title: Captain America Sculpture Timelapse - Civil War
+    - type: youtube
+      id: o0N-UIp-Cnw
+      title: The Scarecrow - Jim McKenzie
+    - type: youtube
+      id: qNceVquu02o
+      title: How to Make 3D Hologram Projector with Resin
+  previous:
+    name: the-builder
+    title: The Builder
+  next:
     name: the-jeweler
     title: The Jeweler
 - title: The Jeweler
@@ -6585,8 +6720,8 @@
       id: NE-oCNR66_Q
       title: Interesting work- Roman Butin - Rolex of the 60s
   previous:
-    name: the-builder
-    title: The Builder
+    name: the-knickknack-artist
+    title: The Knickknack Artist
   next:
     name: the-classical-music-aficionado
     title: The Classical Music Aficionado

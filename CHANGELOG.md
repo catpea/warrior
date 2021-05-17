@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 16th 2021, 11:22:25 pm EDT
+Created a new Chapter [The Knickknack Artist](the-knickknack-artist.html).
+
+
 ### May 9th 2021, 10:47:45 pm EDT
 Created a new Chapter [The Bicyclist](the-bicyclist.html).
 
