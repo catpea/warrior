@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 23rd 2021, 9:29:29 pm EDT
+Created a new Chapter [The Packrafter](the-packrafter.html).
+
+
 ### May 16th 2021, 11:22:25 pm EDT
 Created a new Chapter [The Knickknack Artist](the-knickknack-artist.html).
 

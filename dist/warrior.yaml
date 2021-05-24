@@ -4399,6 +4399,124 @@
     name: the-longboarder
     title: The Longboarder
   next:
+    name: the-packrafter
+    title: The Packrafter
+- title: The Packrafter
+  name: the-packrafter
+  date: '2021-05-24T01:29:29.220Z'
+  data:
+    - type: youtube
+      id: OioTTh0RfMk
+      title: 'Vildmarksäventyr i Jougdadalen - Vandring, packrafting & Öringfiske'
+    - type: youtube
+      id: gO_T4wj4dEE
+      title: Packrafting Alaska While it's Still Wild | INDIE ALASKA
+    - type: youtube
+      id: 1ZbBu242X8s
+      title: 'Packrafting, The Mainstee River, MI'
+    - type: youtube
+      id: QIQqehWYaKw
+      title: 5 Days Camping and Kayaking in Canada - Bear encounter!
+    - type: youtube
+      id: 9MFN2tXnd0Y
+      title: $1 Bushcraft Kayak
+    - type: youtube
+      id: 1l-e8dB7TWg
+      title: Making a Tarp Kayak
+    - type: youtube
+      id: 6Ie6YnXsU8E
+      title: My Log Cabin Camp's Surroundings | The Secret of the Fifth Forest Lake
+    - type: youtube
+      id: 26Awvjyh8zU
+      title: Expedition in the Amazon Jungle
+    - type: youtube
+      id: QjtY6ooB0iQ
+      title: An Epic Packrafting Journey | Grand Staircase + Lake Powell
+    - type: youtube
+      id: asknTDCk-5I
+      title: 'The BEST PACKRAFTING trip in the US? ESCALANTE RIVER, UTAH'
+    - type: youtube
+      id: Cv-V1X7c5h0
+      title: >-
+        Packrafting First Descent in the Heart of New Zealand's Wild Southern
+        Alps
+    - type: youtube
+      id: j_ujWN1Xa9k
+      title: Pack rafting the Colorado River in Black Canyon visiting Hot Springs
+    - type: youtube
+      id: 48YrUkwyFho
+      title: South Fork of the Flathead River - July 2018 Packrafting Trip
+    - type: youtube
+      id: gvL5LLTKlgQ
+      title: Packraft Canoe in Action — Alpacka Raft Oryx
+    - type: youtube
+      id: sacUViuY9mw
+      title: Packrafting
+    - type: youtube
+      id: ix8A-cnpd-4
+      title: 'Packrafting in the Brooks Range, Alaska'
+    - type: youtube
+      id: zcxOImtzEFA
+      title: Packrafting Alaska Summer 2017
+    - type: youtube
+      id: bhanLcrjKAU
+      title: Alaska Packrafting Trip episode 1/3
+    - type: youtube
+      id: mugLq7EEiM4
+      title: Alaska Packrafting Trip episode 2/3
+    - type: youtube
+      id: VI6_imSdsGI
+      title: Alaska Packrafting Trip episode 3 of 3
+    - type: youtube
+      id: WvosdNO_vI4
+      title: Highland Summertime Bikepacking & Packrafting Trip
+    - type: youtube
+      id: Nj0lXUwK6ec
+      title: Packraft Europe & River Conservation
+    - type: youtube
+      id: HlnYrqr6BjA
+      title: >-
+        Class V Packrafting, Colorado's Greatest Wilderness run on Los Pinos
+        River
+    - type: youtube
+      id: kAttAER_GIk
+      title: Packraft Heivann Snappen
+    - type: youtube
+      id: yjyt1He2YfU
+      title: 3-06-2021 Fossil Creek Packrafting
+    - type: youtube
+      id: TtT40oGr1LA
+      title: 'Rafting the Middle Fork, Salmon River, June 2020'
+    - type: youtube
+      id: V5V9Bb1uOVY
+      title: Packrafting Rondane Norway (4k)
+    - type: youtube
+      id: qhudgA6C8yU
+      title: >-
+        How to Bikeraft - 7 Tips Learned the Hard Way (BIKERAFTING! Bikepacking
+        + Packrafting)
+    - type: youtube
+      id: 62TV9HIKkIM
+      title: Bikerafting French Broad River at Brevard
+    - type: youtube
+      id: gdIMyKLcckE
+      title: Solo bikerafting 3/25/20
+    - type: youtube
+      id: v4SECG5neSM
+      title: '''Helen''s Journey''- Bikerafting 101'
+    - type: youtube
+      id: Bb9sUu6ErMI
+      title: Chinese woman shows off impressive dance moves on floating bamboo pole
+    - type: youtube
+      id: LBzdwpMzDeA
+      title: '''Duzhu Drift'' | Chinese artist performs on floating bamboo pole'
+    - type: youtube
+      id: Gh1Dd3A18WY
+      title: Naufrage lors d'une Traversée Moorea - Huahine en holopuni
+  previous:
+    name: the-bicyclist
+    title: The Bicyclist
+  next:
     name: the-jogger
     title: The Jogger
 - title: The Jogger
@@ -4521,8 +4639,8 @@
       id: g2JXGSPbHGE
       title: I Tried Running an ULTRA MARATHON without Training
   previous:
-    name: the-bicyclist
-    title: The Bicyclist
+    name: the-packrafter
+    title: The Packrafter
   next:
     name: the-trail-runner
     title: The Trail Runner
