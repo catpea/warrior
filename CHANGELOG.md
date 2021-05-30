@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### May 30th 2021, 7:36:35 pm EDT
+Created a new Chapter [The Archeologist](the-archeologist.html).
+
+
 ### May 23rd 2021, 9:29:29 pm EDT
 Created a new Chapter [The Packrafter](the-packrafter.html).
 
