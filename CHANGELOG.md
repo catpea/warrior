@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### June 7th 2021, 12:01:51 am EDT
+Created a new Chapter [The Paddler](the-paddler.html).
+
+
 ### May 30th 2021, 7:36:35 pm EDT
 Created a new Chapter [The Archeologist](the-archeologist.html).
 
