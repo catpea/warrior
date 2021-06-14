@@ -14297,6 +14297,206 @@
       "title": "The Reverse Engineer"
     },
     "next": {
+      "name": "the-electrical-engineer",
+      "title": "The Electrical Engineer"
+    }
+  },
+  {
+    "title": "The Electrical Engineer",
+    "name": "the-electrical-engineer",
+    "date": "2021-06-14T01:23:46.163Z",
+    "data": [
+      {
+        "type": "youtube",
+        "id": "fq6U5Y14oM4",
+        "title": "How to use a BreadBoard - Electronics Basics 10"
+      },
+      {
+        "type": "youtube",
+        "id": "XpMZoR3fgd0",
+        "title": "Complete beginner's guide to using a breadboard"
+      },
+      {
+        "type": "youtube",
+        "id": "6WReFkfrUIk",
+        "title": "How to Use a Breadboard"
+      },
+      {
+        "type": "youtube",
+        "id": "R1OKljx5b9k",
+        "title": "Electronics Tutorials For Noobs - How to power an LED properly"
+      },
+      {
+        "type": "youtube",
+        "id": "EeCh68a1GEg",
+        "title": "LED Resistor Calculation"
+      },
+      {
+        "type": "youtube",
+        "id": "mvuHsu8S6v8",
+        "title": "Volts, Amps, and Watts Explained"
+      },
+      {
+        "type": "youtube",
+        "id": "7d4ymjU9NqM",
+        "title": "LED Circuit Design - How to design LED circuits"
+      },
+      {
+        "type": "youtube",
+        "id": "la0rr9jvH4M",
+        "title": "How to use a Digital Multimeter - Best Multimeter for Beginners"
+      },
+      {
+        "type": "youtube",
+        "id": "hduuUDiku80",
+        "title": "How to select resistor value for LEDs"
+      },
+      {
+        "type": "youtube",
+        "id": "yQ2-yVXFMeE",
+        "title": "How to Build a Simple LED Circuit - Electronics for Absolute Beginners"
+      },
+      {
+        "type": "youtube",
+        "id": "zmLCQOB4OVo",
+        "title": "Top 3 LED Projects for Beginners"
+      },
+      {
+        "type": "youtube",
+        "id": "GzoosBSMwTY",
+        "title": "TOP 3 LED PROJECTS FOR BEGINNERS"
+      },
+      {
+        "type": "youtube",
+        "id": "77FkWW75dX4",
+        "title": "Top 5 Simple Electronic projects"
+      },
+      {
+        "type": "youtube",
+        "id": "tpKssr9p2rc",
+        "title": "How to make world's simplest LED flasher"
+      },
+      {
+        "type": "youtube",
+        "id": "0y12m1_HGhs",
+        "title": "Top 3 Simple LED Flasher Circuits"
+      },
+      {
+        "type": "youtube",
+        "id": "Yo6JI_bzUzo",
+        "title": "LED Basics"
+      },
+      {
+        "type": "youtube",
+        "id": "idwKHQEw78g",
+        "title": "How Blue LEDs Changed the World"
+      },
+      {
+        "type": "youtube",
+        "id": "4y7p9R2No-4",
+        "title": "The LED - How LEDs work? - English version"
+      },
+      {
+        "type": "youtube",
+        "id": "a0_TpENvYBw",
+        "title": "History of LED Lights (light emitting diodes) | Basic Electronics"
+      },
+      {
+        "type": "youtube",
+        "id": "cvIHUt0HhZA",
+        "title": "A Brilliant Idea, Nick Holonyak, Jr. and the LED"
+      },
+      {
+        "type": "youtube",
+        "id": "Gc1wVdbVI0E",
+        "title": "What is a resistor?"
+      },
+      {
+        "type": "youtube",
+        "id": "I0imvhcwyHc",
+        "title": "How to use Resistors in Circuits"
+      },
+      {
+        "type": "youtube",
+        "id": "NfcgA1axPLo",
+        "title": "Basic Electricity - Resistance and Ohm's law"
+      },
+      {
+        "type": "youtube",
+        "id": "tyJCwWGNiBE",
+        "title": "How a RESISTOR works ⚡ What is a RESISTOR"
+      },
+      {
+        "type": "youtube",
+        "id": "HJv_damcJ4o",
+        "title": "The History of the RESISTOR"
+      },
+      {
+        "type": "youtube",
+        "id": "dpUAecLQNnw",
+        "title": "How a Transistor Works ⚡ What is a Transistor"
+      },
+      {
+        "type": "youtube",
+        "id": "YtM_MnM0qT4",
+        "title": "What is a Transistor | Working Principles"
+      },
+      {
+        "type": "youtube",
+        "id": "AcxDiesy-nI",
+        "title": "Transistors - NPN & PNP - Basic Introduction"
+      },
+      {
+        "type": "youtube",
+        "id": "J4oO7PT_nzQ",
+        "title": "Transistors Explained - How transistors work"
+      },
+      {
+        "type": "youtube",
+        "id": "U4XknGqr3Bo",
+        "title": "Transistor Full Documentary"
+      },
+      {
+        "type": "youtube",
+        "id": "2ZXxcXXRCvE",
+        "title": "Battery Capacity (mAh) and Usage - Electronics Basics 18"
+      },
+      {
+        "type": "youtube",
+        "id": "cxkVxi9P0EA",
+        "title": "Battery amp-hour, watt-hour and C rating tutorial"
+      },
+      {
+        "type": "youtube",
+        "id": "qMZuHMlRw_0",
+        "title": "Will China's 18650 Battery Beat LG, Samsung, Sony & Panasonic? Let's find out!"
+      },
+      {
+        "type": "youtube",
+        "id": "s5QwHcQfbMs",
+        "title": "Fake Lithium Ion Batteries from eBay"
+      },
+      {
+        "type": "youtube",
+        "id": "V7-ghrTqA44",
+        "title": "Which AA Battery is Best? Can Amazon Basics beat Energizer? Let's find out!"
+      },
+      {
+        "type": "youtube",
+        "id": "CUgbmCSmSNY",
+        "title": "Are Lithium Batteries Dangerous? Is it safe to drive Tesla Car? :)"
+      },
+      {
+        "type": "youtube",
+        "id": "y-a405s1eio",
+        "title": "Smartphone Battery Explosion? We will show you how it's like! Three Brands :)"
+      }
+    ],
+    "previous": {
+      "name": "the-privacy-advocate",
+      "title": "The Privacy Advocate"
+    },
+    "next": {
       "name": "the-engineer",
       "title": "The Engineer"
     }
@@ -14522,8 +14722,8 @@
       }
     ],
     "previous": {
-      "name": "the-privacy-advocate",
-      "title": "The Privacy Advocate"
+      "name": "the-electrical-engineer",
+      "title": "The Electrical Engineer"
     },
     "next": {
       "name": "the-librarian",

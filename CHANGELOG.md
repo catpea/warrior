@@ -2,6 +2,10 @@
 ## CHANGELOG
 
 
+### June 13th 2021, 9:23:46 pm EDT
+Created a new Chapter [The Electrical Engineer](the-electrical-engineer.html).
+
+
 ### June 7th 2021, 12:01:51 am EDT
 Created a new Chapter [The Paddler](the-paddler.html).
 
