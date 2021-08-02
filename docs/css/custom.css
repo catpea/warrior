@@ -12,6 +12,17 @@ a:visited {
   color: #938e66;
 }
 
+
+
+.text-info a {
+  color: darksalmon;
+}
+.text-info a {
+  text-decoration: none;
+}
+
+
+
 .text-muted {
   color: #a0a37e !important;
 }
