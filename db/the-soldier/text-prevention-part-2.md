@@ -1,1 +1,0 @@
-Humanity. Dignity. Knowledge. Wisdom. Foresight. Convergence. Peace.

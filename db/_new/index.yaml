@@ -1,4 +1,0 @@
-# - type: youtube
-#   id: GEPhLqwKo6g
-#   title: Think Different
-# clear; cat ~/Universe/Development/warrior/db/the-archeologist/index.yaml | grep http | sort | uniq  -c

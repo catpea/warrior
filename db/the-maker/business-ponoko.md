@@ -1,3 +1,0 @@
-[Ponoko][1] provides laser cutting & engraving services to turn your designs into custom products. You select from 99+ beautiful materials, download our design template, add your design to it, then upload it to get an instant online quote to make your design real. Pricing starts from $1. You can make 1 or 100,000. And your designs are made & delivered as fast as same day.
-
-[1]: https://www.ponoko.com/

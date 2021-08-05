@@ -1,1 +1,0 @@
-A King may make a Nobleman but he cannot make Gentleman.

@@ -1,1 +1,0 @@
-Reveal the brightest parts (highlights) in Mona Lisa.

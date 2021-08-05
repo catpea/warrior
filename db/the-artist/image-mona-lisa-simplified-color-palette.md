@@ -1,1 +1,0 @@
-Show the color palette.

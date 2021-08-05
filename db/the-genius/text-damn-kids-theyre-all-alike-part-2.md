@@ -1,1 +1,0 @@
-These words are still as mighty as the day I found them.

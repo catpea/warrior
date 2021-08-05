@@ -1,1 +1,0 @@
-Schools aren't built for learning.

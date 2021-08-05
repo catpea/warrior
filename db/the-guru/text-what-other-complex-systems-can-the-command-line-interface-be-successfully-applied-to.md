@@ -1,1 +1,0 @@
-Any complex system can be controlled through a command-line interface.

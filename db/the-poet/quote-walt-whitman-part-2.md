@@ -1,1 +1,0 @@
-I sound my barbaric yawp over the rooftops of the world.

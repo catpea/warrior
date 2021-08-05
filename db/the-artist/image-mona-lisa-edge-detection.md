@@ -1,1 +1,0 @@
-Discover all the hard edges where color changes abruptly.
